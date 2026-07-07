@@ -12,6 +12,7 @@
   gtag('config', 'UA-24502736-2');
 </script>
   <title>GABC Transcription Tool</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <link rel="icon" href="icon/clear-main.png" type="image/png" />
   <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/mkhgaijffgijgkolifpoaijimncdakkd" />
   <link rel="stylesheet" type="text/css" href="css/smoothness/jquery-ui-1.10.3.custom.min.css" />
@@ -103,6 +104,19 @@ textarea{
 #site-title .location{
   font-size:13px;
   color:#555;
+}
+/* On phones, stack the Text / GABC / Tafsiri boxes vertically and let the page scroll. */
+@media (max-width: 700px) {
+  html, body { overflow: auto !important; height: auto !important; }
+  #twoBoxes { position: static !important; }
+  #blankSpace { height: auto !important; }
+  #twoBoxes td { display: block; width: 100% !important; }
+  .dp { padding-right: 0 !important; }
+  #hymntext, #hymngabc, #editor { height: 110px !important; }
+  #translationtext { height: 60px !important; }
+  #chant-parent2, #chant-parent { height: auto !important; min-height: 320px; width: 100% !important; }
+  .nav-pills { font-size: 13px; }
+  .nav-pills > li > a { padding: 6px 9px; }
 }
 </style>
 <div id="site-title">
