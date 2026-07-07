@@ -1,0 +1,117 @@
+1	1	Wimbo ulio bora wa Solomoni.
+1	2	Unibusu kwa busu la kinywa chako, kwa maana upendo wako unafurahisha kuliko divai.
+1	3	Manukato yako yananukia vizuri, jina lako ni kama manukato yaliyomiminwa. Ndiyo sababu wanawali wanakupenda!
+1	4	Nichukue twende nawe, na tufanye haraka! Mfalme na anilete ndani ya vyumba vyake.
+1	5	Mimi ni mweusi, lakini napendeza, enyi binti za Yerusalemu, mweusi kama mahema ya Kedari, kama mapazia ya hema la Solomoni.
+1	6	Usinikazie macho kwa sababu mimi ni mweusi, kwa sababu nimefanywa mweusi na jua. Wana wa mama yangu walinikasirikia na kunifanya niwe mtunza mashamba ya mizabibu. Shamba langu mwenyewe la mizabibu nimeliacha.
+1	7	Niambie, wewe ambaye ninakupenda, unalisha wapi kundi lako la kondoo na ni wapi unapowapumzisha kondoo wako adhuhuri. Kwa nini niwe kama mwanamke aliyefunikwa shela karibu na makundi ya rafiki zako?
+1	8	Kama hujui, ewe mwanamke mzuri kuliko wote, fuata nyayo za kondoo, na kulisha wana-mbuzi wako karibu na hema za wachungaji.
+1	9	Mpenzi wangu, ninakufananisha na farasi jike aliyefungwa katika mojawapo ya magari ya vita ya Farao.
+1	10	Mashavu yako yanapendeza yakiwa na vipuli, shingo yako ikiwa na mikufu ya vito.
+1	11	Tutakufanyia vipuli vya dhahabu, vyenye kupambwa kwa fedha.
+1	12	Wakati mfalme alipokuwa mezani pake, manukato yangu yalisambaza harufu yake nzuri.
+1	13	Mpenzi wangu kwangu mimi ni kifuko cha manemane kati ya matiti yangu.
+1	14	Mpenzi wangu kwangu mimi ni kama kishada cha maua ya mhina kutoka mashamba ya mizabibu ya En-Gedi.
+1	15	Tazama jinsi ulivyo mzuri, mpenzi wangu! Tazama jinsi ulivyo mzuri! Macho yako ni kama ya hua.
+1	16	Tazama jinsi ulivyo mzuri, mpenzi wangu! Ee, tazama jinsi unavyopendeza! Na kitanda chetu ni cha majani mazuri.
+1	17	Nguzo za nyumba yetu ni mierezi, na mapao yetu ni miberoshi.
+2	1	Mimi ni ua la Sharoni, yungiyungi ya bondeni.
+2	2	Kama yungiyungi katikati ya miiba ndivyo alivyo mpenzi wangu katikati ya wanawali.
+2	3	Kama mti wa mtofaa miongoni mwa miti ya msituni ndivyo alivyo mpenzi wangu miongoni mwa wanaume vijana. Ninafurahia kuketi kivulini mwa mwanaume huyu, na tunda lake ni tamu kwangu.
+2	4	Amenichukua mpaka kwenye ukumbi wa karamu, na bendera ya huyu mwanaume juu yangu ni upendo.
+2	5	Nitie nguvu kwa zabibu kavu, niburudishe kwa matofaa, kwa maana ninazimia kwa mapenzi.
+2	6	Mkono wake wa kushoto uko chini ya kichwa changu, na mkono wake wa kuume unanikumbatia.
+2	7	Binti za Yerusalemu, ninawaagiza kwa paa na kwa ayala wa shambani: Msichochee wala kuamsha mapenzi hata yatakapotaka yenyewe.
+2	8	Sikiliza! Mpenzi wangu! Tazama! Huyu hapa anakuja, akirukaruka juu milimani akizunguka juu ya vilima.
+2	9	Mpenzi wangu ni kama paa au ayala kijana. Tazama! Anasimama nyuma ya ukuta wetu, akitazama kupitia madirishani, akichungulia kimiani.
+2	10	Mpenzi wangu alizungumza na kuniambia, “Inuka, mpenzi wangu, mrembo wangu, tufuatane.
+2	11	Tazama! Wakati wa masika umepita, mvua imekwisha na ikapita.
+2	12	Maua yanatokea juu ya nchi; majira ya kuimba yamewadia, sauti za njiwa zinasikika katika nchi yetu.
+2	13	Mtini unatunga matunda yake ya mwanzoni, zabibu zinazochanua zaeneza harufu nzuri. Inuka, njoo mpenzi wangu. Mrembo wangu, tufuatane.”
+2	14	Hua wangu penye nyufa za majabali, mafichoni pembezoni mwa mlima, nionyeshe uso wako, na niisikie sauti yako, kwa maana sauti yako ni tamu, na uso wako unapendeza.
+2	15	Tukamatie mbweha, mbweha wale wadogo wanaoharibu mashamba ya mizabibu, mashamba yetu ya mizabibu yaliyochanua.
+2	16	Mpenzi wangu ni wangu, nami ni wake, yeye hujilisha katikati ya yungiyungi.
+2	17	Mpaka jua linapochomoza, na vivuli vikimbie, rudi, mpenzi wangu, na uwe kama paa, au kama ayala kijana juu ya vilima vya Betheri.
+3	1	Usiku kucha kwenye kitanda changu nilimtafuta yule moyo wangu umpendaye; nilimtafuta, lakini sikumpata.
+3	2	Sasa nitaondoka na kuzunguka mjini, katika barabara zake na viwanja; nitamtafuta yule moyo wangu umpendaye. Kwa hiyo nilimtafuta lakini sikumpata.
+3	3	Walinzi walinikuta walipokuwa wakizunguka mji. Nikawauliza, “Je, mmemwona yule moyo wangu umpendaye?”
+3	4	Kitambo kidogo tu baada ya kuwapita nilimpata yule moyo wangu umpendaye. Nilimshika na sikumwachia aende mpaka nilipomleta katika nyumba ya mama yangu, katika chumba cha yule aliyenichukua mimba.
+3	5	Binti za Yerusalemu, ninawaagiza kwa paa na kwa ayala wa shambani: Msichochee wala kuamsha mapenzi hata yatakapotaka yenyewe.
+3	6	Ni nani huyu anayekuja kutoka jangwani kama nguzo ya moshi, anayenukia manemane na uvumba iliyotengenezwa kwa vikolezo vyote vya mfanyabiashara?
+3	7	Tazama! Ni gari la Solomoni lisindikizwalo na mashujaa sitini, walio wakuu sana wa Israeli,
+3	8	wote wamevaa panga, wote wazoefu katika vita, kila mmoja na upanga wake pajani, wamejiandaa kwa ajili ya hofu za usiku.
+3	9	Mfalme Solomoni alijitengenezea gari; alilitengeneza kwa mbao kutoka Lebanoni.
+3	10	Nguzo zake alizitengeneza kwa fedha, kitako chake kwa dhahabu. Kiti chake kilipambwa kwa zambarau, gari lake likanakshiwa njumu kwa upendo na binti za Yerusalemu.
+3	11	Tokeni nje, ninyi binti za Sayuni, mkamtazame Mfalme Solomoni akiwa amevaa taji, taji ambalo mama yake alimvika siku ya arusi yake, siku ambayo moyo wake ulishangilia.
+4	1	Tazama jinsi ulivyo mzuri, mpenzi wangu! Ee, jinsi ulivyo mzuri! Macho yako nyuma ya shela yako ni kama ya hua. Nywele zako ni kama kundi la mbuzi zikishuka kutoka Mlima Gileadi.
+4	2	Meno yako ni kama kundi la kondoo waliokatwa manyoya sasa hivi, watokao kuogeshwa. Kila mmoja ana pacha lake, hakuna hata mmoja aliye peke yake.
+4	3	Midomo yako ni kama uzi mwekundu, kinywa chako kinapendeza. Mashavu yako nyuma ya shela yako ni kama vipande viwili vya komamanga.
+4	4	Shingo yako ni kama mnara wa Daudi, uliojengwa kwa madaha, juu yake zimetundikwa ngao elfu, zote ni ngao za mashujaa.
+4	5	Matiti yako mawili ni kama wana-paa wawili, kama wana-paa mapacha wajilishao katikati ya yungiyungi.
+4	6	Hata kupambazuke na vivuli vikimbie, nitakwenda kwenye mlima wa manemane na kwenye kilima cha uvumba.
+4	7	Wewe ni mzuri kote, mpenzi wangu, hakuna hitilafu ndani yako.
+4	8	Enda nami kutoka Lebanoni, bibi arusi wangu, enda nami kutoka Lebanoni. Shuka kutoka ncha ya Amana, kutoka juu ya Seniri, kilele cha Hermoni, kutoka mapango ya simba na kutoka mlima wapendapo kukaa chui.
+4	9	Umeiba moyo wangu, dada yangu, bibi arusi wangu; umeiba moyo wangu kwa mtazamo mmoja wa macho yako, kwa kito kimoja cha mkufu wako.
+4	10	Tazama jinsi pendo lako linavyofurahisha, dada yangu, bibi arusi wangu! Pendo lako linafurahisha aje zaidi ya divai, na harufu ya manukato yako zaidi ya kikolezo chochote!
+4	11	Midomo yako inadondosha utamu kama sega la asali, bibi arusi wangu; maziwa na asali viko chini ya ulimi wako. Harufu nzuri ya mavazi yako ni kama ile ya Lebanoni.
+4	12	Wewe ni bustani iliyofungwa, dada yangu, bibi arusi wangu; wewe ni chanzo cha maji kilichozungushiwa kabisa, chemchemi yangu peke yangu.
+4	13	Mimea yako ni bustani ya mikomamanga yenye matunda mazuri sana, yenye hina na nardo,
+4	14	nardo na zafarani, mchai na mdalasini, pamoja na kila aina ya mti wa uvumba, manemane na udi, na aina zote za vikolezo bora kuliko vyote.
+4	15	Wewe ni chemchemi ya bustani, kisima cha maji yatiririkayo, yakitiririka kutoka Lebanoni.
+4	16	Amka, upepo wa kaskazini, na uje, upepo wa kusini! Vuma juu ya bustani yangu, ili harufu yake nzuri iweze kuenea mpaka ngʼambo. Mpendwa wangu na aje bustanini mwake na kuonja matunda mazuri sana.
+5	1	Nimekuja kwenye bustani yangu, dada yangu, bibi arusi wangu; nimekusanya manemane yangu pamoja na kikolezo changu. Nimekula sega langu la asali na asali yangu; nimekunywa divai yangu na maziwa yangu.
+5	2	Nililala lakini moyo wangu ulikuwa macho. Sikiliza! Mpenzi wangu anabisha: “Nifungulie, dada yangu, mpenzi wangu, hua wangu, asiye na hitilafu. Kichwa changu kimeloa umande, na nywele zangu manyunyu ya usiku.”
+5	3	Nimevua joho langu: je, ni lazima nivae tena? Nimenawa miguu yangu: je, ni lazima niichafue tena?
+5	4	Mpenzi wangu aliweka mkono wake kwenye tundu la komeo; moyo wangu ulianza kugonga kwa ajili yake.
+5	5	Niliinuka kumfungulia mpenzi wangu, mikono yangu ikidondosha manemane, vidole vyangu vikitiririka manemane, penye vipini vya komeo.
+5	6	Nilimfungulia mpenzi wangu, lakini mpenzi wangu alishaondoka; alikuwa amekwenda zake. Moyo wangu ulishuka kwa kuondoka kwake. Nilimtafuta lakini sikumpata. Nilimwita lakini hakunijibu.
+5	7	Walinzi walinikuta walipokuwa wakifanya zamu za ulinzi mjini. Walinipiga, wakanijeruhi, wakaninyangʼanya joho langu, hao walinzi wa kuta!
+5	8	Enyi binti za Yerusalemu, ninawaagiza: kama mkimpata mpenzi wangu, mtamwambia nini? Mwambieni ninazimia kwa mapenzi.
+5	9	Je, mpendwa wako ni bora kuliko wengine namna gani, wewe uliye mzuri kupita wanawake wote? Je, mpendwa wako ni mzuri kuliko wengine, namna gani, hata unatuagiza hivyo?
+5	10	Mpenzi wangu anangʼaa, tena ni mwekundu, wa kuvutia miongoni mwa wanaume kumi elfu.
+5	11	Kichwa chake ni dhahabu safi kuliko zote, nywele zake ni za mawimbi na ni nyeusi kama kunguru.
+5	12	Macho yake ni kama ya hua kandokando ya vijito vya maji, aliyeogeshwa kwenye maziwa, yaliyopangwa kama vito vya thamani.
+5	13	Mashavu yake ni kama matuta ya vikolezo yakitoa manukato. Midomo yake ni kama yungiyungi inayodondosha manemane.
+5	14	Mikono yake ni fimbo za dhahabu iliyopambwa kwa krisolitho. Mwili wake ni kama pembe ya ndovu iliyongʼarishwa iliyopambwa na yakuti samawi.
+5	15	Miguu yake ni nguzo za marmar zilizosimikwa katika vitako vya dhahabu safi. Sura yake ni kama Lebanoni, bora kama miti yake ya mierezi.
+5	16	Kinywa chake chenyewe ni utamu, kwa ujumla yeye ni wa kupendeza. Huyu ndiye mpenzi wangu, huyu ndiye rafiki yangu, ee binti za Yerusalemu.
+6	1	Mpenzi wako amekwenda wapi, ewe mzuri kupita wanawake wote? Mpenzi wako amegeukia njia ipi, tupate kumtafuta pamoja nawe?
+6	2	Mpenzi wangu amekwenda bustanini mwake, kwenye vitalu vya vikolezo, kujilisha bustanini na kukusanya yungiyungi.
+6	3	Mimi ni wake mpenzi wangu, na mpenzi wangu ni wangu; yeye hujilisha katikati ya yungiyungi.
+6	4	Wewe ni mzuri, mpenzi wangu, kama Tirsa, upendezaye kama Yerusalemu, umetukuka kama jeshi lenye bendera.
+6	5	Uyageuze macho yako mbali nami, yananigharikisha. Nywele zako ni kama kundi la mbuzi wanaoteremka kutoka Gileadi.
+6	6	Meno yako ni kama kundi la kondoo watokao kuogeshwa. Kila mmoja ana pacha lake, hakuna hata mmoja aliye peke yake.
+6	7	Mashavu yako nyuma ya shela yako ni kama vipande viwili vya komamanga.
+6	8	Panaweza kuwepo malkia sitini, masuria themanini na mabikira wasiohesabika;
+6	9	lakini hua wangu, mkamilifu wangu, ni wa namna ya pekee, binti pekee kwa mama yake, kipenzi cha yeye aliyemzaa. Wanawali walimwona na kumwita aliyebarikiwa; malkia na masuria walimsifu.
+6	10	Ni nani huyu atokeaye kama mapambazuko, mzuri kama mwezi, mwangavu kama jua, ametukuka kama nyota zifuatanazo?
+6	11	Niliteremka kwenye bustani ya miti ya milozi ili kutazama machipuko ya bondeni, kuona kama mizabibu imechipua au kama mikomamanga imechanua maua.
+6	12	Kabla sijangʼamua, shauku yangu iliniweka katikati ya magari ya kifalme ya kukokotwa na farasi ya watu wangu.
+6	13	Rudi, rudi, ee Mshulami; rudi, rudi ili tupate kukutazama!
+7	1	Ee binti wa mwana wa mfalme, tazama jinsi inavyopendeza miguu yako katika viatu! Miguu yako yenye madaha ni kama vito vya thamani, kazi ya mikono ya fundi stadi.
+7	2	Kitovu chako ni kama bilauri ya mviringo ambayo kamwe haikosi divai iliyochanganywa. Kiuno chako ni kichuguu cha ngano kilichozungukwa kwa yungiyungi.
+7	3	Matiti yako ni kama wana-paa wawili, mapacha wa paa.
+7	4	Shingo yako ni kama mnara wa pembe ya ndovu. Macho yako ni vidimbwi vya Heshboni karibu na lango la Beth-Rabi. Pua lako ni kama mnara wa Lebanoni ukitazama kuelekea Dameski.
+7	5	Kichwa chako kinakuvika taji kama mlima Karmeli. Nywele zako ni kama zulia la urujuani; mfalme ametekwa na mashungi yake.
+7	6	Tazama jinsi ulivyo mzuri na unavyopendeza, ee pendo, kwa uzuri wako!
+7	7	Umbo lako ni kama la mtende, nayo matiti yako kama vishada vya matunda.
+7	8	Nilisema, “Nitakwea mtende, nami nitayashika matunda yake.” Matiti yako na yawe kama vishada vya mzabibu, harufu nzuri ya pumzi yako kama matofaa,
+7	9	na kinywa chako kama divai bora kuliko zote.
+7	10	Mimi ni mali ya mpenzi wangu, nayo shauku yake ni juu yangu.
+7	11	Njoo, mpenzi wangu, twende mashambani, twende tukalale huko vijijini.
+7	12	Hebu na twende mapema katika mashamba ya mizabibu tuone kama mizabibu imechipua, kama maua yake yamefunguka, na kama mikomamanga imetoa maua: huko nitakupa penzi langu.
+7	13	Mitunguja hutoa harufu zake nzuri, kwenye milango yetu kuna matunda mazuri, mapya na ya zamani, ambayo nimekuhifadhia wewe, mpenzi wangu.
+8	1	Laiti ungelikuwa kwangu kama ndugu wa kiume, ambaye aliyanyonya matiti ya mama yangu! Kisha, kama ningekukuta huko nje, ningelikubusu, wala hakuna mtu yeyote angelinidharau.
+8	2	Ningelikuongoza na kukuleta katika nyumba ya mama yangu, yeye ambaye amenifundisha. Ningelikupa divai iliyokolezwa unywe, asali ya maua ya mikomamanga yangu.
+8	3	Mkono wake wa kushoto uko chini ya kichwa changu, na mkono wake wa kuume unanikumbatia.
+8	4	Binti za Yerusalemu, ninawaagiza: msichochee wala kuamsha mapenzi hata yatakapotaka yenyewe.
+8	5	Ni nani huyu anayekuja kutoka nyikani akimwegemea mpenzi wake?
+8	6	Nitie kama muhuri moyoni mwako, kama muhuri kwenye mkono wako; kwa maana upendo una nguvu kama mauti, wivu wake ni mkatili kama kuzimu. Unachoma kama mwali wa moto, kama mwali mkubwa wa moto wa Bwana hasa.
+8	7	Maji mengi hayawezi kuuzimisha upendo, mito haiwezi kuugharikisha. Kama mtu angelitoa mali yote ya nyumbani mwake kwa ajili ya upendo, angelidharauliwa kabisa.
+8	8	Tunaye dada mdogo, matiti yake hayajakua bado. Tutafanya nini kwa ajili ya dada yetu wakati atakapokuja kuposwa?
+8	9	Kama yeye ni ukuta, tutajenga minara ya fedha juu yake. Na kama yeye ni mlango, tutamzungushia mbao za mierezi.
+8	10	Mimi ni ukuta, nayo matiti yangu ni kama minara. Ndivyo ambavyo nimekuwa machoni pake kama yule anayeleta utoshelevu.
+8	11	Solomoni alikuwa na shamba la mizabibu huko Baal-Hamoni; alikodisha shamba lake la mizabibu kwa wapangaji. Kila mmoja angeleta kwa ajili ya matunda yake shekeli 1,000 za fedha.
+8	12	Lakini shamba langu la mizabibu ambalo ni langu mwenyewe ni langu kutoa; hizo shekeli 1,000 ni kwa ajili yako, ee Solomoni, na shekeli mia mbili ni kwa ajili ya wale wanaotunza matunda yake.
+8	13	Wewe ukaaye bustanini pamoja na marafiki mliohudhuria, hebu nisikie sauti yako!
+8	14	Njoo, mpenzi wangu, uwe kama swala au kama ayala kijana juu ya milima iliyojaa vikolezo.

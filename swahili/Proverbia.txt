@@ -1,0 +1,915 @@
+1	1	Mithali za Solomoni mwana wa Daudi, mfalme wa Israeli:
+1	2	Kwa kupata hekima na nidhamu; kwa kufahamu maneno ya busara;
+1	3	kwa kujipatia nidhamu na busara, kufanya lililo sawa, haki na bila kupendelea;
+1	4	huwapa busara wajinga, maarifa na akili kwa vijana;
+1	5	wenye hekima na wasikilize nao waongeze elimu yao, wenye kupambanua na wapate mwongozo;
+1	6	kwa kufahamu mithali na mifano, misemo na vitendawili vya wenye hekima.
+1	7	Kumcha Bwana ndicho chanzo cha maarifa, lakini wapumbavu hudharau hekima na adabu.
+1	8	Mwanangu, sikiliza mwongozo wa baba yako, wala usiyaache mafundisho ya mama yako.
+1	9	Hayo yatakuwa taji la maua la neema kichwani pako, na mkufu wa kuipamba shingo yako.
+1	10	Mwanangu, kama wenye dhambi wakikushawishi, usikubaliane nao.
+1	11	Kama wakisema, “Twende tufuatane; tukamvizie mtu na kumwaga damu, njoo tukavizie nafsi isiyo na hatia;
+1	12	tuwameze wakiwa hai kama kaburi, wakiwa wazima kama wale wanaotumbukia shimoni.
+1	13	Tutapata aina zote za vitu vya thamani na kujaza nyumba zetu kwa nyara.
+1	14	Njoo ushirikiane nasi, vitu vyote tutakavyopata tutagawana.”
+1	15	Mwanangu, usiandamane nao. Usiweke mguu wako katika njia zao,
+1	16	kwa kuwa miguu yao hukimbilia kwenye dhambi, ni wepesi kumwaga damu.
+1	17	Tazama ni jinsi gani ilivyo kazi bure kutandaza wavu wakati ndege wote wanakuona!
+1	18	Watu hawa huvizia kumwaga damu yao wenyewe; hujivizia tu wenyewe!
+1	19	Huu ndio mwisho wa wote ambao wanajipatia mali kwa hila; huuondoa uhai wa wale wenye mali.
+1	20	Hekima huita kwa sauti kuu barabarani, hupaza sauti yake kwenye viwanja vikubwa;
+1	21	kwenye makutano ya barabara za mji zenye makelele mengi hupaza sauti, kwenye malango ya mji hutoa hotuba yake:
+1	22	“Enyi wajinga, mtangʼangʼania ujinga wenu hadi lini? Mpaka lini wenye mizaha watafurahia mizaha, na wapumbavu kuchukia maarifa?
+1	23	Kama mngekuwa mmeitikia karipio langu, ningekuwa nimemimina roho yangu kwenu na kuwafahamisha maneno yangu.
+1	24	Lakini kwa kuwa mlinikataa nilipowaita na hakuna yeyote aliyekubali niliponyoosha mkono wangu,
+1	25	kwa kuwa mliyapuuza mashauri yangu yote na hamkukubali karipio langu,
+1	26	mimi nami nitawacheka katika maafa yenu, nitawadhihaki wakati janga litawapata:
+1	27	wakati janga litawapata kama tufani, wakati maafa yatawazoa kama upepo wa kisulisuli, wakati dhiki na taabu zitawalemea.
+1	28	“Ndipo watakaponiita lakini sitawajibu; watanitafuta lakini hawatanipata.
+1	29	Kwa kuwa walichukia maarifa, wala hawakuchagua kumcha Bwana,
+1	30	kwa kuwa hawakukubali mashauri yangu, na kukataa maonyo yangu,
+1	31	watakula matunda ya njia zao, na watashibishwa matunda ya hila zao.
+1	32	Kwa kuwa ukaidi wa wajinga utawaua, nako kuridhika kwa wajinga kutawaangamiza.
+1	33	Lakini yeyote anisikilizaye ataishi kwa usalama, atatulia, bila kuwa na hofu ya madhara.”
+2	1	Mwanangu, kama utayakubali maneno yangu na kuyaweka akiba maagizo yangu ndani mwako,
+2	2	kutega sikio lako kwenye hekima na kuweka moyo wako katika ufahamu,
+2	3	na kama ukiita busara na kuita kwa sauti ufahamu,
+2	4	na kama utaitafuta kama fedha na kuitafuta sana kama hazina iliyofichwa,
+2	5	ndipo utakapoelewa kumcha Bwana na kupata maarifa ya Mungu.
+2	6	Kwa maana Bwana hutoa hekima, na kinywani mwake hutoka maarifa na ufahamu.
+2	7	Anahifadhi ushindi kwa ajili ya mwadilifu, yeye ni ngao kwa wale wasio na lawama,
+2	8	kwa kuwa hulinda mwenendo wa mwenye haki na kuhifadhi njia ya waaminifu wake.
+2	9	Ndipo utafahamu lipi lililo kweli na haki na sawa: yaani kila njia nzuri.
+2	10	Kwa maana hekima itaingia moyoni mwako, nayo maarifa yataifurahisha nafsi yako.
+2	11	Busara itakuhifadhi na ufahamu utakulinda.
+2	12	Hekima itakuokoa kutoka njia za waovu, kutoka kwa watu ambao maneno yao yamepotoka,
+2	13	wale waachao mapito yaliyonyooka wakatembea katika njia za giza,
+2	14	wale wapendao kutenda mabaya na kufurahia upotovu wa ubaya,
+2	15	ambao mapito yao yamepotoka na ambao ni wapotovu katika njia zao.
+2	16	Itakuokoa pia kutokana na mwanamke kahaba, kutokana na mke aliyepotoka mwenye maneno ya kushawishi kutenda ubaya,
+2	17	aliyemwacha mwenzi wa ujana wake na kupuuza agano alilofanya mbele ya Mungu.
+2	18	Kwa maana nyumba yake huelekea kwenye kifo na mapito yake kwenye roho za waliokufa.
+2	19	Hakuna yeyote aendaye kwake akarudi, au kufikia mapito ya uzima.
+2	20	Hivyo utatembea katika njia za watu wema na kushikamana na mapito ya wenye haki.
+2	21	Kwa maana wanyofu wataishi katika nchi, nao wasio na lawama watabakia ndani yake.
+2	22	Bali waovu watakatiliwa mbali kutoka nchi, nao wasio waaminifu watangʼolewa kutoka humo.
+3	1	Mwanangu, usisahau mafundisho yangu, bali zitunze amri zangu moyoni mwako,
+3	2	kwa kuwa zitakuongezea miaka mingi ya maisha yako na kukuletea mafanikio.
+3	3	Usiache kamwe upendo na uaminifu vitengane nawe; vifunge shingoni mwako, viandike katika ubao wa moyo wako.
+3	4	Ndipo utapata kibali na jina zuri mbele za Mungu na mwanadamu.
+3	5	Mtumaini Bwana kwa moyo wako wote wala usizitegemee akili zako mwenyewe;
+3	6	katika njia zako zote mkiri yeye, naye atayanyoosha mapito yako.
+3	7	Usiwe mwenye hekima machoni pako mwenyewe; mche Bwana ukajiepushe na uovu.
+3	8	Hii itakuletea afya mwilini mwako, na mafuta kwenye mifupa yako.
+3	9	Mheshimu Bwana kwa mali zako na kwa malimbuko ya mazao yako yote;
+3	10	ndipo ghala zako zitakapojaa hadi kufurika, viriba vyako vitafurika kwa mvinyo mpya.
+3	11	Mwanangu, usiidharau adhabu ya Bwana na usichukie kukaripiwa naye,
+3	12	kwa sababu Bwana huwaadibisha wale awapendao, kama vile baba afanyavyo kwa mwana apendezwaye naye.
+3	13	Heri mtu yule aonaye hekima, mtu yule apataye ufahamu,
+3	14	kwa maana hekima ana faida kuliko fedha na mapato yake ni bora kuliko ya dhahabu safi.
+3	15	Hekima ana thamani kuliko marijani; hakuna chochote unachokitamani kinachoweza kulinganishwa naye.
+3	16	Maisha marefu yako katika mkono wake wa kuume; katika mkono wake wa kushoto kuna utajiri na heshima.
+3	17	Njia zake zinapendeza, mapito yake yote ni amani.
+3	18	Yeye ni mti wa uzima kwa wale wanaomkumbatia; wale wamshikao watabarikiwa.
+3	19	Kwa hekima Bwana aliiweka misingi ya dunia, kwa ufahamu aliziweka mbingu mahali pake;
+3	20	kwa maarifa yake vilindi viligawanywa, nayo mawingu yanadondosha umande.
+3	21	Mwanangu, hifadhi maamuzi mema na busara, usiache vitoke machoni pako;
+3	22	ndipo vitakapokuwa uzima nafsini mwako na pambo la neema shingoni mwako.
+3	23	Kisha utaenda katika njia yako salama, wala mguu wako hautajikwaa;
+3	24	ulalapo, hautaogopa; ulalapo usingizi wako utakuwa mtamu.
+3	25	Usiogope maafa ya ghafula au maangamizi yanayowapata waovu,
+3	26	kwa kuwa Bwana atakuwa tumaini lako na kuepusha mguu wako kunaswa katika mtego.
+3	27	Usizuie wema kwa wale wanaostahili ikiwa katika uwezo wako kutenda.
+3	28	Usimwambie jirani yako, “Njoo baadaye, nitakupa kesho”: wakati wewe unacho kitu kile karibu nawe.
+3	29	Usifanye hila ya kumdhuru jirani yako, ambaye anaishi karibu na wewe akikuamini.
+3	30	Usimshtaki mtu bila sababu, wakati hajakutenda dhara lolote.
+3	31	Usimwonee wivu mtu mwenye jeuri wala kuchagua njia yake iwayo yote,
+3	32	kwa kuwa Bwana humchukia mtu mpotovu, lakini siri yake iko kwa mwenye haki.
+3	33	Laana ya Bwana i juu ya nyumba ya mwovu, lakini yeye huibariki nyumba ya mwenye haki.
+3	34	Huwadhihaki wale wanaodhihaki, lakini huwapa neema wale wanyenyekevu.
+3	35	Wenye hekima hurithi heshima, bali huwaaibisha wapumbavu.
+4	1	Sikilizeni wanangu, mafundisho ya baba yenu; sikilizeni kwa makini na mpate ufahamu.
+4	2	Ninawapa mafundisho ya maana, kwa hiyo msiyaache mafundisho yangu.
+4	3	Nilipokuwa mvulana mdogo katika nyumba ya baba yangu, ningali mchanga na mtoto pekee kwa mama yangu,
+4	4	baba alinifundisha akisema, “Yashike maneno yangu yote kwa moyo wako wote; yashike maagizo yangu na wewe utaishi.
+4	5	Pata hekima, pata ufahamu; usiyasahau maneno yangu wala usiyaache.
+4	6	Usimwache hekima naye atakuweka salama; mpende, naye atakulinda.
+4	7	Hekima ni bora kuliko vitu vyote; kwa hiyo jipe hekima. Hata ikikugharimu vyote ulivyo navyo, pata ufahamu.
+4	8	Mstahi, naye atakukweza; mkumbatie, naye atakuheshimu.
+4	9	Atakuvika shada la neema kichwani mwako na kukupa taji ya utukufu.”
+4	10	Sikiliza mwanangu, kubali ninachokuambia, nayo miaka ya maisha yako itakuwa mingi.
+4	11	Ninakuongoza katika njia ya hekima na kukuongoza katika mapito yaliyonyooka.
+4	12	Utembeapo, hatua zako hazitazuiliwa; ukimbiapo, hutajikwaa.
+4	13	Mkamate sana elimu, usimwache aende zake; mshike, maana yeye ni uzima wako.
+4	14	Usiuweke mguu wako katika njia ya waovu wala usitembee katika njia ya watu wabaya.
+4	15	Epukana nayo, usisafiri katika njia hiyo; achana nayo, na uelekee njia yako.
+4	16	Kwa kuwa hawawezi kulala mpaka watende uovu; wanashindwa hata kusinzia mpaka wamwangushe mtu.
+4	17	Wanakula mkate wa uovu, na kunywa mvinyo wa jeuri.
+4	18	Njia ya wenye haki ni kama nuru ya kwanza ya mapambazuko, ambayo hungʼaa zaidi na zaidi mpaka mchana mkamilifu.
+4	19	Lakini njia ya waovu ni kama giza nene; hawajui kinachowafanya wajikwae.
+4	20	Mwanangu, yasikilize kwa makini yale ninayokuambia; sikiliza kwa makini maneno yangu.
+4	21	Usiruhusu yaondoke machoni pako, yahifadhi ndani ya moyo wako;
+4	22	kwa sababu ni uzima kwa wale wanaoyapata na afya kwa mwili wote wa mwanadamu.
+4	23	Zaidi ya yote, linda moyo wako, kuliko yote uyalindayo, maana ndiko zitokako chemchemi za uzima.
+4	24	Epusha kinywa chako na ukaidi; weka mazungumzo machafu mbali na midomo yako.
+4	25	Macho yako na yatazame mbele, kaza macho yako moja kwa moja mbele yako.
+4	26	Sawazisha mapito ya miguu yako na njia zako zote ziwe zimethibitika.
+4	27	Usigeuke kulia wala kushoto; epusha mguu wako na ubaya.
+5	1	Mwanangu, sikiliza kwa makini hekima yangu, sikiliza vizuri maneno yangu ya busara,
+5	2	ili uweze kutunza busara na midomo yako ihifadhi maarifa.
+5	3	Kwa maana midomo ya mwanamke kahaba hudondoza asali, na maneno ya kinywa chake ni laini kuliko mafuta;
+5	4	lakini mwisho wake ni mchungu kama nyongo, mkali kama upanga ukatao kuwili.
+5	5	Miguu yake hushuka kuelekea kwenye kifo; hatua zake huelekea moja kwa moja kaburini.
+5	6	Yeye hafikiri juu ya njia ya uzima; njia zake zimepotoka, lakini yeye hajui.
+5	7	Sasa basi wanangu, nisikilizeni; msiache ninalowaambia.
+5	8	Njia zenu ziwe mbali naye, msiende karibu na mlango wa nyumba yake,
+5	9	usije ukatoa nguvu zako nzuri kwa wengine na miaka yako kwa aliye mkatili,
+5	10	wageni wasije wakasherehekea utajiri wako na jitihada yako ikatajirisha nyumba ya mwanaume mwingine.
+5	11	Mwishoni mwa maisha yako utalia kwa uchungu, wakati nyama na mwili wako vimechakaa.
+5	12	Utasema, “Tazama jinsi gani nilivyochukia adhabu! Tazama jinsi moyo wangu ulivyodharau maonyo!
+5	13	Sikuwatii walimu wangu wala kuwasikiliza wakufunzi wangu.
+5	14	Nimefika ukingoni mwa maangamizi kabisa katikati ya kusanyiko lote.”
+5	15	Kunywa maji kutoka kwenye kisima chako mwenyewe, maji yanayotiririka kutoka kwenye kisima chako mwenyewe.
+5	16	Je, chemchemi zako zifurike katika barabara za mji na vijito vyako vya maji viwanjani?
+5	17	Na viwe vyako mwenyewe, kamwe visishirikishwe wageni.
+5	18	Chemchemi yako na ibarikiwe na umfurahie mke wa ujana wako.
+5	19	Kulungu jike apendaye, kulungu mzuri: matiti yake na yakutosheleze siku zote, nawe utekwe daima na upendo wake.
+5	20	Kwa nini mwanangu, utekwe na mwanamke kahaba? Kwa nini ukumbatie kifua cha mke wa mwanaume mwingine?
+5	21	Kwa maana njia za mtu ni wazi kabisa mbele za Bwana, naye huyapima mapito yake yote.
+5	22	Matendo mabaya ya mtu mwovu humnasa yeye mwenyewe; kamba za dhambi yake humkamata kwa nguvu.
+5	23	Atakufa kwa kukosa nidhamu, akipotoshwa kwa upumbavu wake mwenyewe.
+6	1	Mwanangu, kama umekuwa mdhamini wa jirani yako, ikiwa umeshika mikono kwa kuweka ahadi kwa ajili ya mwingine,
+6	2	kama umetegwa na ulichosema, umenaswa kwa maneno ya kinywa chako,
+6	3	basi fanya hivi mwanangu, ili ujiweke huru, kwa kuwa umeanguka mikononi mwa jirani yako: Nenda ukajinyenyekeshe kwake; msihi jirani yako!
+6	4	Usiruhusu usingizi machoni pako, usiruhusu kope zako zisinzie.
+6	5	Jiweke huru, kama swala mkononi mwa mwindaji, kama ndege kutoka kwenye mtego wa mwindaji.
+6	6	Ewe mvivu, mwendee mchwa; zitafakari njia zake ukapate hekima!
+6	7	Kwa maana yeye hana msimamizi, wala mwangalizi, au mtawala,
+6	8	lakini hujiwekea akiba wakati wa kiangazi na hukusanya chakula chake wakati wa mavuno.
+6	9	Ewe mvivu, utalala hata lini? Utaamka lini kutoka usingizi wako?
+6	10	Bado kulala kidogo, kusinzia kidogo, bado kukunja mikono kidogo upate kupumzika:
+6	11	hivyo umaskini utakuja juu yako kama mnyangʼanyi, na kupungukiwa kutakujia kama mtu mwenye silaha.
+6	12	Mtu mbaya sana na mlaghai, ambaye huzungukazunguka na maneno ya upotovu,
+6	13	ambaye anakonyeza kwa jicho lake, anayetoa ishara kwa miguu yake na kuashiria kwa vidole vyake,
+6	14	ambaye hupanga ubaya kwa udanganyifu moyoni mwake: daima huchochea fitina.
+6	15	Kwa hiyo maafa yatamkumba ghafula; ataangamizwa mara, pasipo msaada.
+6	16	Kuna vitu sita anavyovichukia Bwana, naam, viko saba vilivyo chukizo kwake:
+6	17	macho ya kiburi, ulimi udanganyao, mikono imwagayo damu isiyo na hatia,
+6	18	moyo uwazao mipango miovu, miguu iliyo myepesi kukimbilia uovu,
+6	19	shahidi wa uongo ambaye humwaga uongo, na mtu ambaye huchochea fitina kati ya ndugu.
+6	20	Mwanangu, zishike amri za baba yako, wala usiyaache mafundisho ya mama yako.
+6	21	Yafunge katika moyo wako daima, yakaze kuizunguka shingo yako.
+6	22	Wakati utembeapo, yatakuongoza; wakati ulalapo, yatakulinda; wakati uamkapo, yatazungumza nawe.
+6	23	Kwa maana amri hizi ni taa, mafundisho haya ni mwanga na maonyo ya maadili ni njia ya uzima,
+6	24	yakikulinda na mwanamke aliyepotoka, kutokana na maneno laini ya mwanamke aliyepotoka.
+6	25	Moyo wako usitamani uzuri wake wala macho yake yasikuteke,
+6	26	kwa maana kahaba atakufanya uwe maskini, hata ukose kipande cha mkate, naye mwanamke mzinzi huwinda maisha yako hasa.
+6	27	Je, mtu aweza kuchotea moto kwenye paja lake bila nguo zake kuungua?
+6	28	Je, mtu aweza kutembea juu ya makaa ya moto yanayowaka bila miguu yake kuungua?
+6	29	Ndivyo alivyo mtu alalaye na mke wa mwanaume mwingine; hakuna yeyote amgusaye huyo mwanamke ambaye hataadhibiwa.
+6	30	Watu hawamdharau mwizi kama akiiba kukidhi njaa yake wakati ana njaa.
+6	31	Pamoja na hayo, kama akikamatwa, lazima alipe mara saba, ingawa inamgharimu utajiri wote wa nyumba yake.
+6	32	Lakini mwanaume aziniye na mwanamke hana akili kabisa; yeyote afanyaye hivyo hujiangamiza mwenyewe.
+6	33	Mapigo na aibu ni fungu lake na aibu yake haitafutika kamwe;
+6	34	kwa maana wivu huamsha ghadhabu ya mume, naye hataonyesha huruma alipizapo kisasi.
+6	35	Hatakubali fidia yoyote; atakataa malipo, hata yakiwa makubwa kiasi gani.
+7	1	Mwanangu, shika maneno yangu na kuzihifadhi amri zangu ndani yako.
+7	2	Shika amri zangu nawe utaishi; linda mafundisho yangu kama mboni ya jicho lako.
+7	3	Yafunge katika vidole vyako; yaandike katika kibao cha moyo wako.
+7	4	Mwambie hekima, “Wewe ni dada yangu,” uite ufahamu jamaa yako;
+7	5	watakuepusha na mwanamke mzinzi, kutokana na mwanamke mpotovu na maneno yake ya kubembeleza.
+7	6	Kwenye dirisha la nyumba yangu nilitazama nje kupitia upenyo kwenye mwimo wa dirisha.
+7	7	Niliona miongoni mwa wajinga, nikagundua miongoni mwa wanaume vijana, kijana asiye na akili.
+7	8	Alikuwa akishuka njiani karibu na pembe ya kwake, akielekea kwenye nyumba ya huyo mwanamke
+7	9	wakati wa machweo, jua likipungua nuru yake, giza la usiku lilipokuwa likiingia.
+7	10	Ndipo huyo mwanamke akatoka kumlaki, hali amevaa kama kahaba akiwa na nia ya udanganyifu.
+7	11	(Ni mwanamke mwenye makelele na mkaidi, miguu yake haitulii nyumbani;
+7	12	mara kwenye barabara za mji, mara kwenye viwanja vikubwa, kwenye kila pembe huvizia.)
+7	13	Huyo mwanamke alimkumbatia kijana na kumbusu, na kwa uso usio na haya akamwambia:
+7	14	“Nina sadaka za amani nyumbani; leo nimetimiza nadhiri zangu.
+7	15	Kwa hiyo nimetoka nje kukulaki; nimekutafuta na nimekupata!
+7	16	Nimetandika kitanda changu kwa kitani za rangi kutoka Misri.
+7	17	Nimetia manukato kitanda changu kwa manemane, udi na mdalasini.
+7	18	Njoo, tuzame katika mapenzi mpaka asubuhi; tujifurahishe wenyewe kwa mapenzi!
+7	19	Mume wangu hayupo nyumbani; amekwenda safari ya mbali.
+7	20	Amechukua mkoba uliojazwa fedha na hatakuwepo nyumbani karibuni.”
+7	21	Kwa maneno laini yule mwanamke akampotosha; alimshawishi kwa maneno yake laini.
+7	22	Mara huyo kijana alimfuata yule mwanamke kama fahali aendaye machinjoni, kama kulungu aingiaye kwenye kitanzi,
+7	23	mpaka mshale umchome ini lake, kama ndege anayenaswa kwenye mtego, bila kujua itamgharimu maisha yake.
+7	24	Sasa basi wanangu, nisikilizeni; sikilizeni kwa makini nisemalo.
+7	25	Usiruhusu moyo wako ugeukie njia za huyo mwanamke, wala usitangetange katika mapito yake.
+7	26	Aliowaangusha ni wengi; aliowachinja ni kundi kubwa.
+7	27	Nyumba yake ni njia kuu iendayo kaburini, ielekeayo chini kwenye vyumba vya mauti.
+8	1	Je, hekima haitani? Je, ufahamu hapazi sauti?
+8	2	Juu ya miinuko karibu na njia, penye njia panda, ndipo asimamapo;
+8	3	kando ya malango yaelekeayo mjini, kwenye maingilio, hulia kwa sauti kubwa, akisema:
+8	4	“Ni ninyi wanaume, ninaowaita; ninapaza sauti yangu kwa wanadamu wote.
+8	5	Ninyi ambao ni wajinga, pateni akili; ninyi mlio wapumbavu, pateni ufahamu.
+8	6	Sikilizeni, kwa maana nina mambo muhimu ya kusema; ninafungua midomo yangu kusema lililo sawa.
+8	7	Kinywa changu husema lililo kweli, kwa maana midomo yangu huchukia uovu.
+8	8	Maneno yote ya kinywa changu ni haki; hakuna mojawapo lililopotoka wala ukaidi.
+8	9	Kwa wenye kupambanua yote ni sahihi; hayana kasoro kwa wale wenye maarifa.
+8	10	Chagua mafundisho yangu badala ya fedha, maarifa badala ya dhahabu safi,
+8	11	kwa maana hekima ina thamani kuliko marijani na hakuna chochote unachohitaji kinacholingana naye.
+8	12	“Mimi hekima, nakaa pamoja na busara; ninamiliki maarifa na busara.
+8	13	Kumcha Bwana ni kuchukia uovu; ninachukia kiburi na majivuno, tabia mbaya na mazungumzo potovu.
+8	14	Ushauri na hukumu sahihi ni vyangu; nina ufahamu na nina nguvu.
+8	15	Kwa msaada wangu wafalme hutawala na watawala hutunga sheria zilizo za haki,
+8	16	kwa msaada wangu wakuu hutawala, na wenye vyeo wote watawalao dunia.
+8	17	Nawapenda wale wanipendao, na wale wanitafutao kwa bidii wataniona.
+8	18	Utajiri na heshima viko kwangu, utajiri udumuo na mafanikio.
+8	19	Tunda langu ni bora kuliko dhahabu safi; kile nitoacho hupita fedha iliyo bora.
+8	20	Natembea katika njia ya unyofu katika mapito ya haki,
+8	21	nawapa utajiri wale wanipendao na kuzijaza hazina zao.
+8	22	“Bwana aliniumba mwanzoni mwa kazi yake, kabla ya matendo yake ya zamani;
+8	23	niliteuliwa tangu milele, tangu mwanzoni, kabla ya dunia kuumbwa.
+8	24	Wakati hazijakuwepo bahari, nilikwishazaliwa, wakati hazijakuwepo chemchemi zilizojaa maji;
+8	25	kabla milima haijawekwa mahali pake, kabla vilima havijakuwepo, nilikwishazaliwa,
+8	26	kabla hajaumba dunia wala mashamba yake au vumbi lolote la dunia.
+8	27	Nilikuwepo alipoziweka mbingu mahali pake, wakati alichora mstari wa upeo wa macho juu ya uso wa kilindi,
+8	28	wakati aliweka mawingu juu na kuziweka imara chemchemi za bahari,
+8	29	wakati aliiwekea bahari mpaka wake ili maji yasivunje agizo lake, na wakati aliweka misingi ya dunia.
+8	30	Wakati huo nilikuwa fundi stadi kando yake. Nilijazwa na furaha siku baada ya siku, nikifurahi daima mbele zake,
+8	31	nikifurahi katika dunia yake yote nami nikiwafurahia wanadamu.
+8	32	“Basi sasa wanangu, nisikilizeni; heri wale wanaozishika njia zangu.
+8	33	Sikilizeni mafundisho yangu mwe na hekima; msiyapuuze.
+8	34	Heri mtu yule anisikilizaye mimi, akisubiri siku zote malangoni mwangu, akingoja kwenye vizingiti vya mlango wangu.
+8	35	Kwa maana yeyote anipataye mimi amepata uzima na kujipatia kibali kutoka kwa Bwana.
+8	36	Lakini yeyote ashindwaye kunipata hujiumiza mwenyewe; na wote wanichukiao mimi hupenda mauti.”
+9	1	Hekima amejenga nyumba yake; amechonga nguzo zake saba.
+9	2	Ameandaa nyama na kuchanganya divai yake; pia ameandaa meza yake.
+9	3	Amewatuma watumishi wake wa kike, naye huita kutoka mahali pa juu sana pa mji.
+9	4	Anawaambia wale wasio na akili, “Wote ambao ni wajinga na waje hapa!
+9	5	Njooni, mle chakula changu na mnywe divai niliyoichanganya.
+9	6	Acheni njia zenu za ujinga nanyi mtaishi; tembeeni katika njia ya ufahamu.
+9	7	“Yeyote anayemkosoa mwenye mzaha hukaribisha matukano; yeyote anayekemea mtu mwovu hupatwa na matusi.
+9	8	Usimkemee mwenye mzaha la sivyo atakuchukia; mkemee mwenye hekima naye atakupenda.
+9	9	Mfundishe mtu mwenye hekima naye atakuwa na hekima zaidi; mfundishe mtu mwadilifu naye atazidi kufundishika.
+9	10	“Kumcha Bwana ndicho chanzo cha hekima, na kumjua Aliye Mtakatifu ni ufahamu.
+9	11	Kwa maana kwa msaada wangu siku zako zitakuwa nyingi, na miaka itaongezwa katika maisha yako.
+9	12	Kama wewe una hekima, hekima yako itakupa tuzo; kama wewe ni mtu wa mzaha, wewe mwenyewe ndiwe utateseka.”
+9	13	Mwanamke aitwaye Mpumbavu ana kelele; hana adabu na hana maarifa.
+9	14	Huketi kwenye mlango wa nyumba yake, juu ya kiti katika mahali pa juu sana pa mji,
+9	15	akiita wale wapitao karibu, waendao moja kwa moja kwenye njia yao.
+9	16	Anawaambia wale wasio na akili, “Wote ambao ni wajinga na waje hapa ndani!”
+9	17	“Maji yaliyoibiwa ni matamu; chakula kinacholiwa sirini ni kitamu!”
+9	18	Lakini hawajui hata kidogo kuwa wafu wako humo, kwamba wageni wake huyo mwanamke wako katika vilindi vya kuzimu.
+10	1	Mithali za Solomoni: Mwana mwenye hekima huleta furaha kwa baba yake, lakini mwana mpumbavu huleta huzuni kwa mama yake.
+10	2	Hazina zilizopatikana kwa njia mbaya hazifai, lakini uadilifu huokoa kutoka mautini.
+10	3	Bwana hawaachi waadilifu kukaa njaa, lakini hupinga tamaa ya mtu mwovu.
+10	4	Mikono mivivu hufanya mtu kuwa maskini lakini mikono yenye bidii huleta utajiri.
+10	5	Yeye akusanyaye mazao wakati wa kiangazi ni mwana mwenye hekima, lakini yeye alalaye wakati wa mavuno ni mwana mwenye kuaibisha.
+10	6	Baraka huwa taji kichwani mwa mwenye haki, lakini jeuri hufunika kinywa cha mwovu.
+10	7	Kumbukumbu ya mwenye haki itakuwa baraka, lakini jina la mwovu litaoza.
+10	8	Mwenye hekima moyoni hupokea maagizo, lakini mpumbavu apayukaye huangamia.
+10	9	Mtu mwadilifu hutembea salama, lakini mtu aendaye katika njia zilizopotoka atagunduliwa.
+10	10	Yeye akonyezaye kwa nia mbaya husababisha huzuni, naye mpumbavu apayukaye huangamia.
+10	11	Kinywa cha mwenye haki ni chemchemi ya uzima, lakini jeuri hufunika kinywa cha mwovu.
+10	12	Chuki huchochea faraka, lakini upendo husitiri mabaya yote.
+10	13	Hekima hupatikana katika midomo ya wenye kupambanua, lakini fimbo ni kwa ajili ya mgongo wake asiye na ufahamu.
+10	14	Wenye hekima huhifadhi maarifa, bali kinywa cha mpumbavu hualika maangamizi.
+10	15	Mali ya tajiri ni mji wake wenye ngome, bali ufukara ni maangamizi ya maskini.
+10	16	Ujira wa wenye haki huwaletea uzima, lakini mapato ya waovu huwaletea adhabu.
+10	17	Anayekubali kuadibishwa yuko katika njia ya uzima, lakini yeyote anayepuuza maonyo hupotosha wengine.
+10	18	Yeye afichaye chuki yake ana midomo ya uongo, na yeyote anayeeneza uchonganishi ni mpumbavu.
+10	19	Wakati maneno ni mengi, dhambi haikosekani, lakini yeye ambaye huzuia ulimi wake ni mwenye busara.
+10	20	Ulimi wa mwenye haki ni fedha iliyo bora, bali moyo wa mwovu una thamani ndogo.
+10	21	Midomo ya mwenye haki hulisha wengi, lakini wapumbavu hufa kwa kukosa ufahamu.
+10	22	Baraka ya Bwana hutajirisha, wala haichanganyi huzuni.
+10	23	Mpumbavu hufurahia tabia mbaya, lakini mtu mwenye ufahamu hupendezwa na hekima.
+10	24	Kile anachoogopa mwovu ndicho kitakachompata; kile anachoonea shauku mwenye haki atapewa.
+10	25	Tufani inapopita, waovu hutoweka, lakini wenye haki husimama imara milele.
+10	26	Kama siki ilivyo kwa meno na moshi kwa macho, ndivyo alivyo mvivu kwa wale waliomtuma.
+10	27	Kumcha Bwana huongeza urefu wa maisha, lakini miaka ya mwovu inafupishwa.
+10	28	Tarajio la mwenye haki ni furaha, bali matumaini ya mwovu huwa si kitu.
+10	29	Njia ya Bwana ni kimbilio kwa wenye haki, lakini ni maangamizi ya wale watendao mabaya.
+10	30	Kamwe wenye haki hawataondolewa, bali waovu hawatasalia katika nchi.
+10	31	Kinywa cha mwenye haki hutoa hekima, bali ulimi wa upotovu utakatwa.
+10	32	Midomo ya wenye haki inajua kile kinachofaa, bali kinywa cha mwovu hujua kile kilichopotoka tu.
+11	1	Bwana huchukia sana mizani za udanganyifu, bali vipimo sahihi ni furaha yake.
+11	2	Kiburi kinapokuja, ndipo huja aibu, bali unyenyekevu huja na hekima.
+11	3	Uadilifu wa wenye haki huwaongoza, bali wasio waaminifu huharibiwa na hila yao.
+11	4	Utajiri haufaidi kitu katika siku ya ghadhabu, bali haki huokoa kutoka mautini.
+11	5	Haki ya wasio na lawama, huwatengenezea njia iliyonyooka, bali waovu huangushwa kwa uovu wao wenyewe.
+11	6	Haki ya wanyofu huwaokoa, bali wasio waaminifu hunaswa na tamaa mbaya.
+11	7	Wakati mtu mwovu anapokufa, matumaini yake hutoweka; yote aliyoyatazamia kutokana na nguvu zake huwa si kitu.
+11	8	Mtu mwenye haki huokolewa kutoka taabu, naye mtu mwovu huingia humo badala yake.
+11	9	Kwa kinywa chake mtu asiyemwamini Mungu humwangamiza jirani yake, bali kwa maarifa mwenye haki huokolewa.
+11	10	Wakati mwenye haki anapofanikiwa, mji hufurahi; mwovu atowekapo, kuna kelele za furaha.
+11	11	Kutokana na baraka ya mtu mnyofu mji hukwezwa, bali kwa kinywa cha mwovu mji huharibiwa.
+11	12	Mtu asiye na akili humdharau jirani yake, bali mtu mwenye ufahamu huuzuia ulimi wake.
+11	13	Masengenyo husaliti tumaini, bali mtu mwaminifu hutunza siri.
+11	14	Pasipo ushauri wa hekima taifa huanguka, bali washauri wengi hufanya ushindi uwe wa hakika.
+11	15	Yeye amdhaminiye mgeni hakika atateseka, bali yeyote akataaye kuunga mkono dhamana ni salama.
+11	16	Mwanamke mwenye moyo wa huruma hupata heshima, bali wanaume wakorofi hupata mali tu.
+11	17	Mwenye huruma hujinufaisha mwenyewe, bali mkatili hujiletea taabu mwenyewe.
+11	18	Mtu mwovu hupata ujira wa udanganyifu, bali yeye apandaye haki huvuna tuzo ya uhakika.
+11	19	Mtu mwenye haki kweli kweli hupata uzima, bali yeye afuatiliaye ubaya huendea kifo chake.
+11	20	Bwana huwachukia sana watu wenye moyo wa upotovu, bali hupendezwa na wale ambao njia zao hazina lawama.
+11	21	Uwe na hakika na hili: Waovu hawataepuka kuadhibiwa, bali wenye haki watakuwa huru.
+11	22	Kama pete ya dhahabu katika pua ya nguruwe ndivyo alivyo mwanamke mzuri ambaye hana busara.
+11	23	Shauku ya mwenye haki huishia tu kwenye mema, bali tumaini la mwovu huishia tu kwenye ghadhabu.
+11	24	Kuna mtu atoaye kwa ukarimu, hata hivyo hupata zaidi, mwingine huzuia, lakini huwa maskini.
+11	25	Mtu mkarimu atastawi; yeye awaburudishaye wengine ataburudishwa mwenyewe.
+11	26	Watu humlaani mtu awanyimae watu nafaka, bali baraka itamkalia kichwani kama taji yeye aliye radhi kuiuza.
+11	27	Yeye atafutaye mema hupata ukarimu, bali ubaya huja kwake yeye autafutaye.
+11	28	Yeyote ategemeaye utajiri wake ataanguka, bali mwenye haki atastawi kama jani bichi.
+11	29	Yeye aletaye taabu kwa jamaa yake atarithi tu upepo, naye mpumbavu atakuwa mtumishi wa wenye hekima.
+11	30	Tunda la mwenye haki ni mti wa uzima, naye mwenye hekima huvuta roho za watu.
+11	31	Kama wenye haki watapokea ujira wao duniani, si zaidi sana yule asiyemcha Mungu na mwenye dhambi?
+12	1	Yeyote apendaye kuadibishwa hupenda maarifa, bali yeye achukiaye kuonywa ni mpumbavu.
+12	2	Mtu mwema hupata kibali kutoka kwa Bwana, bali Bwana humhukumu mwenye hila.
+12	3	Mtu hathibitiki kutokana na uovu, bali mwenye haki hataondolewa.
+12	4	Mke mwenye tabia nzuri ni taji ya mumewe, bali aaibishaye ni kama uozo katika mifupa ya mumewe.
+12	5	Mipango ya mtu mwadilifu ni ya haki, bali ushauri wa mwovu ni udanganyifu.
+12	6	Maneno ya waovu huotea kumwaga damu, bali maneno ya waadilifu huwaokoa.
+12	7	Watu waovu huondolewa na kutoweka, bali nyumba ya mwenye haki husimama imara.
+12	8	Mtu husifiwa kulingana na hekima yake, bali watu wenye akili zilizopotoka hudharauliwa.
+12	9	Heri mtu wa hali ya chini mwenye mtumishi, kuliko kujifanya mtu wa hali ya juu nawe huna chakula.
+12	10	Mtu mwenye haki hujali mahitaji ya mnyama wake, bali matendo ya huruma ya mwovu ni ukatili.
+12	11	Yeye alimaye shamba lake atakuwa na chakula tele, bali yeye afuataye mambo ya upuzi hana akili.
+12	12	Waovu hutamani mateka ya watu wabaya, bali shina la mwenye haki hustawi.
+12	13	Mtu mwovu hunaswa kwa mazungumzo yake ya dhambi, bali mwenye haki huepuka taabu.
+12	14	Kutokana na tunda la midomo yake mtu hujazwa na mambo mema, hakika kama ilivyo kazi ya mikono yake humtunza.
+12	15	Njia ya mpumbavu huonekana sawa machoni pake mwenyewe, bali mtu mwenye hekima husikiliza ushauri.
+12	16	Mpumbavu huonyesha kuudhika kwake mara moja, bali mtu wa busara hupuuza matukano.
+12	17	Shahidi wa kweli hutoa ushuhuda wa kuaminika, bali shahidi wa uongo husema uongo.
+12	18	Maneno ya kipumbavu huchoma kama upanga, bali ulimi wa mwenye hekima huleta uponyaji.
+12	19	Midomo isemayo kweli hudumu milele, bali ulimi wa uongo hudumu kwa muda mfupi tu.
+12	20	Upo udanganyifu katika mioyo ya wale ambao hupanga mabaya, bali kuna furaha kwa wale wanaoleta amani.
+12	21	Hakuna dhara linalompata mwenye haki, bali waovu wana taabu nyingi.
+12	22	Bwana anachukia sana midomo idanganyayo, bali hufurahia watu ambao ni wa kweli.
+12	23	Mtu mwenye busara hujihifadhia maarifa yeye mwenyewe, bali moyo wa wapumbavu hububujika upumbavu.
+12	24	Mikono yenye bidii itatawala, bali uvivu huishia katika kazi za utumwa.
+12	25	Moyo wa wasiwasi humlemea mtu, bali neno la huruma humfurahisha.
+12	26	Mtu mwenye haki ni mwangalifu katika urafiki, bali njia ya waovu huwapotosha.
+12	27	Mtu mvivu haoki mawindo yake, bali mtu mwenye bidii ana mali za thamani.
+12	28	Katika njia ya haki kuna uzima; katika mapito hayo kuna maisha ya milele.
+13	1	Mwana mwenye hekima husikia mafundisho ya babaye, bali mwenye dharau hasikilizi maonyo.
+13	2	Kutoka tunda la midomo yake mtu hufurahia mambo mema, bali wasio waaminifu wanatamani sana jeuri.
+13	3	Yeye alindaye midomo yake hulinda nafsi yake, bali yeye asemaye kwa haraka ataangamia.
+13	4	Mvivu hutamani sana na hapati kitu, bali nafsi ya mwenye bidii hutoshelezwa kikamilifu.
+13	5	Mwenye haki huchukia uongo, bali waovu huleta aibu na fedheha.
+13	6	Haki humlinda mtu mwadilifu, bali uovu humwangusha mwenye dhambi.
+13	7	Mtu mmoja hujifanya tajiri, kumbe hana chochote; mwingine hujifanya maskini, kumbe ana utajiri mwingi.
+13	8	Utajiri wa mtu waweza kukomboa maisha yake, bali mtu maskini hasikii kitisho.
+13	9	Nuru ya mwenye haki hungʼaa sana, bali taa ya mwovu itazimwa.
+13	10	Kiburi huzalisha magomvi tu, bali hekima hupatikana kwa wale wanaozingatia ushauri.
+13	11	Fedha isiyo ya halali hupungua, bali yeye akusanyaye fedha kidogo kidogo huongezeka.
+13	12	Kilichotarajiwa kikikawia kuja moyo huugua, bali tumaini lililotimizwa ni mti wa uzima.
+13	13	Yeye anayedharau mafundisho anajiletea maangamizi, bali yeye anayeheshimu agizo hupewa tuzo.
+13	14	Mafundisho ya mwenye busara ni chemchemi ya uzima, ili kumwepusha mtu na mitego ya mauti.
+13	15	Ufahamu mzuri hupata upendeleo, bali njia ya asiye mwaminifu ni ngumu.
+13	16	Kila mwenye busara hutenda kwa maarifa, bali mpumbavu hudhihirisha upumbavu wake.
+13	17	Mjumbe mwovu huanguka kwenye taabu, bali mjumbe mwaminifu huleta uponyaji.
+13	18	Yeye anayedharau maonyo hupata umaskini na aibu, bali yeye anayekubali maonyo huheshimiwa.
+13	19	Tarajio lililotimizwa ni tamu kwa nafsi, bali wapumbavu huchukia sana kuacha ubaya.
+13	20	Yeye atembeaye na mwenye hekima atapata hekima, bali rafiki wa mpumbavu hupata madhara.
+13	21	Balaa humwandama mtenda dhambi, bali mafanikio ni thawabu kwa mwenye haki.
+13	22	Mtu mwema huwaachia wana wa wanawe urithi, bali mali ya wenye dhambi imehifadhiwa kwa ajili ya wenye haki.
+13	23	Shamba la mtu maskini laweza kuzalisha chakula kingi, bali dhuluma hukifutilia mbali.
+13	24	Yeye aizuiaye fimbo yake hampendi mwanawe, bali yeye ampendaye huwa mwangalifu kumwadibisha.
+13	25	Mwenye haki hula mpaka akaridhisha moyo wake, bali tumbo la mwovu hutaabika kwa njaa.
+14	1	Mwanamke mwenye hekima huijenga nyumba yake, bali mpumbavu huibomoa nyumba yake kwa mikono yake mwenyewe.
+14	2	Yeye ambaye njia zake ni nyofu humcha Bwana, bali yeye ambaye njia zake zimepotoka humdharau Mungu.
+14	3	Mazungumzo ya mpumbavu huleta fimbo mgongoni mwake, bali mwenye hekima hulindwa na maneno ya midomo yake.
+14	4	Pale ambapo hakuna mafahali, hori ni tupu, bali kutokana na nguvu za fahali huja mavuno mengi.
+14	5	Shahidi mwaminifu hadanganyi, bali shahidi wa uongo humimina uongo.
+14	6	Mwenye mzaha huitafuta hekima na haipati, bali maarifa huja kwa urahisi kwa anayepambanua.
+14	7	Kaa mbali na mtu mpumbavu, kwa maana hutapata maarifa katika midomo yake.
+14	8	Hekima ya mwenye busara ni kufikiria njia zake, bali upumbavu wa wapumbavu ni udanganyifu.
+14	9	Wapumbavu hudhihaki kujirekebisha kutoka dhambi, bali wema hupatikana miongoni mwa wanyofu.
+14	10	Kila moyo hujua uchungu wake wenyewe, wala hakuna yeyote awezaye kushiriki furaha yake.
+14	11	Nyumba ya mwovu itaangamizwa, bali hema la mnyofu litastawi.
+14	12	Iko njia ionekanayo kuwa sawa kwa mtu, bali mwisho wake huelekeza mautini.
+14	13	Hata katika kicheko moyo waweza kuuma, nayo furaha yaweza kuishia katika majonzi.
+14	14	Wasio na imani watapatilizwa kikamilifu kwa ajili ya njia zao, naye mtu mwema atapewa thawabu kwa ajili ya njia yake.
+14	15	Mtu mjinga huamini kila kitu, bali mwenye busara hufikiria hatua zake.
+14	16	Mtu mwenye hekima humcha Bwana na kuepuka mabaya, bali mpumbavu hukasirika kwa hamaki na uzembe.
+14	17	Mtu anayekasirika kwa haraka hufanya mambo ya upumbavu, naye mtu wa hila huchukiwa.
+14	18	Mjinga hurithi upumbavu, bali wenye busara huvikwa maarifa kichwani kama taji.
+14	19	Watu wabaya watasujudu mbele ya watu wema, nao waovu kwenye malango ya wenye haki.
+14	20	Maskini huepukwa hata na majirani zao, bali matajiri wana marafiki wengi.
+14	21	Yeye anayemdharau jirani yake hutenda dhambi, bali amebarikiwa yeye aliye na huruma kwa mhitaji.
+14	22	Je, wale wanaopanga ubaya hawapotoki? Bali wale wanaopanga kilicho chema hupata upendo na uaminifu.
+14	23	Kazi zote zinazofanywa kwa bidii huleta faida, bali mazungumzo matupu huelekea umaskini tu.
+14	24	Utajiri wa wenye hekima ni taji yao, bali upumbavu wa wapumbavu huzaa upumbavu.
+14	25	Shahidi wa kweli huokoa maisha, bali shahidi wa uongo ni mdanganyifu.
+14	26	Yeye amchaye Bwana ana ngome salama, na kwa watoto wake itakuwa kimbilio.
+14	27	Kumcha Bwana ni chemchemi ya uzima, ili kumwepusha mtu na mitego ya mauti.
+14	28	Wingi wa watu ni utukufu wa mfalme, bali pasipo watu mkuu huangamia.
+14	29	Mtu mwenye subira ana ufahamu mwingi, bali anayekasirika haraka huonyesha upumbavu.
+14	30	Moyo wenye amani huupa mwili uzima, bali wivu huozesha mifupa.
+14	31	Yeye amwoneaye maskini huonyesha dharau kwa Muumba wao, bali yeyote anayemhurumia mhitaji humheshimu Mungu.
+14	32	Waovu huangamizwa kwa matendo yao maovu, bali hata katika kifo wenye haki hupata kimbilio.
+14	33	Hekima hukaa katika moyo wa mwenye ufahamu bali haijulikani miongoni mwa wapumbavu.
+14	34	Haki huinua taifa, bali dhambi ni aibu kwa watu wote.
+14	35	Mfalme hupendezwa na mtumishi mwenye hekima, bali ghadhabu yake humwangukia mtumishi mwenye kuaibisha.
+15	1	Jawabu la upole hugeuza ghadhabu, bali neno liumizalo huchochea hasira.
+15	2	Ulimi wa mwenye hekima husifu maarifa, bali kinywa cha mpumbavu hufoka upumbavu.
+15	3	Macho ya Bwana yako kila mahali, yakiwaangalia waovu na wema.
+15	4	Ulimi uletao uponyaji ni mti wa uzima, bali ulimi udanganyao huponda roho.
+15	5	Mpumbavu hubeza maonyo ya baba yake, bali yeyote akubaliye maonyo huonyesha busara.
+15	6	Nyumba ya mwenye haki ina hazina kubwa, bali mapato ya waovu huwaletea taabu.
+15	7	Midomo ya mwenye hekima hueneza maarifa, bali sivyo ilivyo mioyo ya wapumbavu.
+15	8	Bwana huchukia sana dhabihu za waovu, bali maombi ya wanyofu humfurahisha Mungu.
+15	9	Bwana huchukia sana njia ya waovu, bali huwapenda wale wafuatao haki.
+15	10	Adhabu kali humngoja yeye aachaye njia; yeye achukiaye maonyo atakufa.
+15	11	Mauti na Uharibifu viko wazi mbele za Bwana: je, si zaidi sana mioyo ya wanadamu!
+15	12	Mwenye mzaha huchukia maonyo; hatataka shauri kwa mwenye hekima.
+15	13	Moyo wenye furaha hufanya uso uchangamke, bali maumivu ya moyoni huponda roho.
+15	14	Moyo wa mwenye ufahamu hutafuta maarifa, bali kinywa cha mpumbavu hujilisha upumbavu.
+15	15	Siku zote za wanaoonewa ni za taabu, bali moyo mchangamfu una karamu ya kudumu.
+15	16	Afadhali kuwa na kidogo pamoja na kumcha Bwana, kuliko mali nyingi pamoja na ghasia.
+15	17	Afadhali chakula cha mboga mahali palipo na upendo kuliko nyama ya ndama iliyonona pamoja na chuki.
+15	18	Mtu mwepesi wa hasira huchochea ugomvi, bali mtu mvumilivu hutuliza ugomvi.
+15	19	Njia ya mvivu imezibwa na miiba, bali njia ya mwenye haki ni barabara kuu.
+15	20	Mwana mwenye hekima huleta furaha kwa baba yake, bali mtu mpumbavu humdharau mama yake.
+15	21	Upumbavu humfurahisha mtu ambaye hana akili, bali mtu mwenye ufahamu hushika njia iliyonyooka.
+15	22	Mipango hushindwa kufanikiwa kwa ajili ya kukosa ushauri, bali kukiwa na washauri wengi hufanikiwa.
+15	23	Mtu hupata furaha katika kutoa jibu linalofaa: je, ni zuri namna gani neno lililotoka kwa wakati wake!
+15	24	Mapito ya uzima huelekea juu kwa ajili ya wenye hekima kumwepusha asiende chini kaburini.
+15	25	Bwana hubomoa nyumba ya mtu mwenye kiburi, bali huilinda mipaka ya mjane isiguswe.
+15	26	Bwana huchukia sana mawazo ya mwovu, bali mawazo ya wale walio safi humfurahisha yeye.
+15	27	Mtu mwenye tamaa huletea jamaa yake taabu, bali yeye achukiaye rushwa ataishi.
+15	28	Moyo wa mwenye haki hupima majibu yake, bali kinywa cha mwovu hufoka ubaya.
+15	29	Bwana yuko mbali na waovu, bali husikia maombi ya wenye haki.
+15	30	Mtazamo wa tabasamu huleta furaha moyoni, nazo habari njema huipa mifupa afya.
+15	31	Yeye asikilizaye maonyo yatoayo uzima atakuwa miongoni mwa wenye hekima.
+15	32	Yeye anayedharau maonyo hujidharau mwenyewe, bali yeyote anayekubali maonyo hupata ufahamu.
+15	33	Kumcha Bwana humfundisha mtu hekima, nao unyenyekevu huja kabla ya heshima.
+16	1	Mipango ya moyoni ni ya mwanadamu, bali jibu la ulimi hutoka kwa Bwana.
+16	2	Njia zote za mtu huonekana safi machoni pake mwenyewe, bali makusudi hupimwa na Bwana.
+16	3	Mkabidhi Bwana lolote ufanyalo, nayo mipango yako itafanikiwa.
+16	4	Bwana hufanya kila kitu kwa kusudi lake mwenyewe; hata waovu kwa siku ya maangamizi.
+16	5	Bwana huwachukia sana wote wenye kiburi cha moyo. Uwe na hakika kwa hili: Hawataepuka kuadhibiwa.
+16	6	Kwa upendo na uaminifu uovu huondolewa; kwa kumcha Bwana mtu hujiepusha na ubaya.
+16	7	Njia za mtu zinapompendeza Bwana, huwafanya hata adui zake waishi naye kwa amani.
+16	8	Afadhali kitu kidogo pamoja na haki kuliko mapato mengi pamoja na udhalimu.
+16	9	Moyo wa mtu huifikiri njia yake, bali Bwana huelekeza hatua zake.
+16	10	Midomo ya mfalme huzungumza kwa hekima ya kiungu, wala kinywa chake hakipotoshi haki.
+16	11	Vipimo na mizani za halali hutoka kwa Bwana; mawe yote ya kupimia yaliyo katika mfuko ameyafanya yeye.
+16	12	Wafalme huchukia sana kutenda maovu, kwa maana kiti cha ufalme hufanywa imara kwa njia ya haki.
+16	13	Wafalme hufurahia midomo ya uaminifu; humthamini mtu asemaye kweli.
+16	14	Ghadhabu ya mfalme ni mjumbe wa mauti, bali mtu mwenye hekima ataituliza.
+16	15	Uso wa mfalme ungʼaapo, inamaanisha uhai; upendeleo wake ni kama wingu la mvua wakati wa vuli.
+16	16	Ni bora kiasi gani kupata hekima kuliko dhahabu, kuchagua ufahamu kuliko fedha!
+16	17	Njia kuu ya wanyofu huepuka ubaya; yeye aichungaye njia yake, huchunga maisha yake.
+16	18	Kiburi hutangulia maangamizi, roho ya majivuno hutangulia maanguko.
+16	19	Ni afadhali kuwa mnyenyekevu katika roho miongoni mwa walioonewa kuliko kugawana nyara pamoja na wenye kiburi.
+16	20	Yeyote anayekubali mafundisho hustawi, tena amebarikiwa yeye anayemtumaini Bwana.
+16	21	Wenye hekima moyoni huitwa wenye ufahamu, na maneno ya kupendeza huchochea mafundisho.
+16	22	Ufahamu ni chemchemi ya uzima kwa wale walio nao, bali upumbavu huleta adhabu kwa wapumbavu.
+16	23	Moyo wa mtu mwenye hekima huongoza kinywa chake, na midomo yake huchochea mafundisho.
+16	24	Maneno ya kupendeza ni kama sega la asali, ni matamu kwa nafsi na uponyaji kwenye mifupa.
+16	25	Iko njia ionekanayo kuwa sawa kwa mtu, bali mwisho wake huelekeza mautini.
+16	26	Shauku ya mfanyakazi humhimiza kufanya kazi; njaa yake humsukuma aendelee.
+16	27	Mtu mbaya kabisa hupanga mabaya, maneno yake ni kama moto uunguzao.
+16	28	Mtu mpotovu huchochea ugomvi, nayo maongezi ya upuzi hutenganisha marafiki wa karibu.
+16	29	Mtu mkali humvuta jirani yake na kumwongoza katika mapito yale mabaya.
+16	30	Yeye akonyezaye kwa jicho lake anapanga upotovu; naye akazaye midomo yake amenuia mabaya.
+16	31	Mvi ni taji ya utukufu; hupatikana kwa maisha ya uadilifu.
+16	32	Ni afadhali mtu mstahimilivu kuliko shujaa, mtu anayeitawala hasira yake kuliko yule autekaye mji.
+16	33	Kura hupigwa kwa siri, lakini kila uamuzi wake hutoka kwa Bwana.
+17	1	Afadhali kula ukoko mkavu ukiwa na amani na utulivu kuliko kukaa kwenye nyumba ya karamu kukiwa na magomvi.
+17	2	Mtumishi mwenye hekima atatawala juu ya mwana aaibishaye, naye atashirikiana katika urithi kama mmoja wa hao ndugu.
+17	3	Kalibu ni kwa ajili ya fedha na tanuru ni kwa ajili ya dhahabu, bali Bwana huujaribu moyo.
+17	4	Mtu mwovu husikiliza midomo mibaya; mwongo husikiliza kwa makini ulimi wa madhara.
+17	5	Yeye anaye mdhihaki maskini huonyesha dharau kwa Muumba wake; yeyote afurahiaye maafa hataepuka kuadhibiwa.
+17	6	Wana wa wana ni taji la wazee, nao wazazi ni fahari ya watoto wao.
+17	7	Midomo yenye uwezo wa ushawishi haimfai mpumbavu: je, ni mibaya kiasi gani zaidi midomo ya uongo kwa mtawala!
+17	8	Kipawa ni kama kito cha thamani machoni pake yeye aliye nacho; kokote kigeukiapo, hufanikiwa.
+17	9	Yeye anayesamehe kosa hudumisha upendo, bali yeyote arudiaye jambo hutenganisha marafiki wa karibu.
+17	10	Karipio humwingia sana mtu mwenye kutambua kuliko mapigo mia kwa mpumbavu.
+17	11	Mtu mbaya hupenda kuasi tu; mjumbe asiye na huruma atatumwa dhidi yake.
+17	12	Ni afadhali ukutane na dubu aliyenyangʼanywa watoto wake, kuliko mpumbavu katika upumbavu wake.
+17	13	Ikiwa mtu atalipa baya kwa jema, kamwe ubaya hautaondoka katika nyumba yake.
+17	14	Kuanzisha ugomvi ni kama kutoboa bwawa la maji; kwa hiyo acha jambo hilo kabla mabishano hayajaanza.
+17	15	Yeye asemaye kuwa asiye na haki ana haki, naye asemaye kuwa mwenye haki hana haki: Bwana huwachukia sana wote wawili.
+17	16	Fedha ina faida gani mikononi mwa mpumbavu, wakati yeye hana haja ya kupata hekima?
+17	17	Rafiki hupenda wakati wote naye ndugu amezaliwa kwa ajili ya wakati wa shida.
+17	18	Mtu mjinga hupana mkono ili kuweka rehani, naye huweka dhamana kwa jirani yake.
+17	19	Yeye apendaye ugomvi apenda dhambi; naye ainuaye sana lango lake hutafuta uharibifu.
+17	20	Mtu mwenye moyo mpotovu hawezi kufanikiwa; naye ambaye ulimi wake ni mdanganyifu huanguka kwenye taabu.
+17	21	Kuwa na mwana mpumbavu huleta huzuni; hakuna furaha kwa baba wa mpumbavu.
+17	22	Moyo wenye furaha ni dawa nzuri, bali roho iliyopondeka hukausha mifupa.
+17	23	Mtu mwovu hukubali rushwa kwa siri ili kupotosha njia ya haki.
+17	24	Mtu wa ufahamu huitazama hekima, lakini macho ya mpumbavu huhangaika hadi kwenye miisho ya dunia.
+17	25	Mwana mpumbavu huleta huzuni kwa baba yake na uchungu kwa yeye aliyemzaa.
+17	26	Si vizuri kumwadhibu mtu asiye na hatia, au kuwapiga sana maafisa kwa ajili ya uadilifu wao.
+17	27	Mtu mwenye maarifa hutumia maneno kwa kujizuia, naye mtu mwenye ufahamu ana moyo wa utulivu.
+17	28	Hata mtu mpumbavu hudhaniwa kuwa na hekima kama akinyamaza, na mwenye ufahamu kama akiuzuia ulimi wake.
+18	1	Mtu ajitengaye na wengine hufuata matakwa yake mwenyewe; hupiga vita kila shauri jema.
+18	2	Mpumbavu hafurahii ufahamu, bali hufurahia kutangaza maoni yake mwenyewe.
+18	3	Wakati uovu unapokuja, dharau huja pia, pamoja na aibu huja lawama.
+18	4	Maneno ya kinywa cha mwanadamu ni kina cha maji, bali chemchemi ya hekima ni kijito kinachobubujika.
+18	5	Sio vizuri kumpendelea mtu mwovu, au kumnyima haki asiye na hatia.
+18	6	Midomo ya mpumbavu humletea ugomvi na kinywa chake hualika kipigo.
+18	7	Kinywa cha mpumbavu ni uharibifu wake na midomo yake ni mtego kwa nafsi yake.
+18	8	Maneno ya mchongezi ni kama chakula kitamu; huingia sehemu za ndani sana za mtu.
+18	9	Mtu aliye mlegevu katika kazi yake ni ndugu na yule anayeharibu.
+18	10	Jina la Bwana ni ngome imara, wenye haki huikimbilia na kuwa salama.
+18	11	Mali ya tajiri ni mji wake wenye ngome, wanaudhania kuwa ukuta usioweza kurukwa.
+18	12	Kabla ya anguko moyo wa mtu hujaa kiburi, bali unyenyekevu hutangulia heshima.
+18	13	Yeye ajibuye kabla ya kusikiliza, huo ni upumbavu wake na aibu yake.
+18	14	Roho ya mtu itastahimili katika ugonjwa bali roho iliyovunjika ni nani awezaye kuistahimili?
+18	15	Moyo wa mwenye ufahamu hujipatia maarifa, masikio ya mwenye hekima huyatafuta maarifa.
+18	16	Zawadi humfungulia njia mtoaji, nayo humleta mbele ya wakuu.
+18	17	Yeye aliye wa kwanza kuleta mashtaka huonekana sahihi, hadi mwingine ajitokezapo na kumuuliza maswali.
+18	18	Kupiga kura hukomesha mashindano na kutenganisha wapinzani wakuu wanaopingana.
+18	19	Ndugu aliyechukizwa ni mgumu kuridhika kuliko mji uliozungushiwa ngome, nayo mabishano ni kama malango ya ngome yenye makomeo.
+18	20	Tumbo la mtu litajaa kutokana na tunda la kinywa chake, atashibishwa mavuno yanayotokana na midomo yake.
+18	21	Mauti na uzima viko katika uwezo wa ulimi, nao waupendao watakula matunda yake.
+18	22	Apataye mke apata kitu chema naye ajipatia kibali kwa Bwana.
+18	23	Mtu maskini huomba kuhurumiwa bali tajiri hujibu kwa ukali.
+18	24	Mtu mwenye marafiki wengi wanaweza kumharibu, bali yuko rafiki aambatanaye na mtu kwa karibu kuliko ndugu.
+19	1	Afadhali mtu maskini ambaye mwenendo wake hauna lawama, kuliko mpumbavu ambaye midomo yake imepotoka.
+19	2	Sio vizuri kuwa na juhudi bila maarifa, wala kufanya haraka na kuikosa njia.
+19	3	Upumbavu wa mtu mwenyewe huharibu maisha yake hata hivyo moyo wake humkasirikia Bwana.
+19	4	Mali huleta marafiki wengi, bali rafiki wa mtu maskini humwacha.
+19	5	Shahidi wa uongo hataacha kuadhibiwa, naye amwagaye uongo hataachwa huru.
+19	6	Wengi hujipendekeza kwa mtawala na kila mmoja ni rafiki wa mtu atoaye zawadi.
+19	7	Mtu maskini huepukwa na ndugu zake wote: Je, marafiki zake watamkwepa kiasi gani! Ingawa huwafuata kwa kuwasihi, hawapatikani popote.
+19	8	Yeye apataye hekima huipenda nafsi yake mwenyewe, yeye ahifadhiye ufahamu hustawi.
+19	9	Shahidi wa uongo hataacha kuadhibiwa, naye amwagaye uongo ataangamia.
+19	10	Haistahili mpumbavu kuishi katika anasa, itakuwa vibaya kiasi gani kwa mtumwa kuwatawala wakuu.
+19	11	Hekima ya mtu humpa uvumilivu, ni kwa utukufu wake kusamehe makosa.
+19	12	Ghadhabu ya mfalme ni kama mngurumo wa simba, bali wema wake ni kama umande juu ya nyasi.
+19	13	Mwana mpumbavu ni maangamizi ya babaye, naye mke mgomvi ni kama kutonatona kusikoisha.
+19	14	Nyumba na mali hurithiwa kutoka kwa wazazi, bali mke mwenye busara hutoka kwa Bwana.
+19	15	Uvivu huleta usingizi mzito, naye mtu mzembe huona njaa.
+19	16	Yeye ambaye hutii mafundisho huulinda uhai wake, bali yeye anayezidharau njia zake atakufa.
+19	17	Yeye amhurumiaye maskini humkopesha Bwana, naye atamtuza kwa aliyotenda.
+19	18	Mrudi mwanao, kwa maana katika hiyo kuna tumaini, usiwe mshirika katika mauti yake.
+19	19	Mtu mwenye kukasirika haraka ni lazima atapata adhabu yake, kama utamwokoa, itakubidi kufanya hivyo tena.
+19	20	Sikiliza mashauri na ukubali mafundisho, nawe mwishoni utakuwa na hekima.
+19	21	Kuna mipango mingi ndani ya moyo wa mtu, lakini kusudi la Bwana ndilo litakalosimama.
+19	22	Lile mtu alionealo shauku ni upendo usio na mwisho, afadhali kuwa maskini kuliko kuwa mwongo.
+19	23	Kumcha Bwana huongoza kwenye uzima, kisha mtu hupumzika akiwa ameridhika, bila kuguswa na shida.
+19	24	Mtu mvivu hutumbukiza mkono wake kwenye sahani, lakini hawezi hata kuupeleka kwenye kinywa chake!
+19	25	Mpige mwenye mzaha, naye mjinga atajifunza busara, mkemee mwenye ufahamu naye atapata maarifa.
+19	26	Yeye amwibiaye baba yake na kumfukuza mama yake ni mwana aletaye aibu na fedheha.
+19	27	Mwanangu, ukiacha kusikiliza mafundisho, utatangatanga mbali na maneno ya maarifa.
+19	28	Shahidi mla rushwa hudhihaki hukumu na kinywa cha mtu mwovu humeza ubaya kwa upesi.
+19	29	Adhabu zimeandaliwa kwa ajili ya wenye dhihaka na mapigo kwa ajili ya migongo ya wapumbavu.
+20	1	Mvinyo ni mdhihaki na kileo ni mgomvi; yeyote apotoshwaye navyo hana hekima.
+20	2	Ghadhabu ya mfalme ni kama ngurumo ya simba; yeye amkasirishaye hupoteza uhai wake.
+20	3	Ni kwa heshima ya mtu kujitenga ugomvi, bali kila mpumbavu ni mwepesi kugombana.
+20	4	Mvivu halimi kwa majira; kwa hiyo wakati wa mavuno hutazama lakini hapati chochote.
+20	5	Makusudi ya moyo wa mwanadamu ni maji yenye kina, lakini mtu mwenye ufahamu huyachota.
+20	6	Watu wengi hujidai kuwa na upendo usiokoma, bali mtu mwaminifu ni nani awezaye kumpata?
+20	7	Mtu mwenye haki huishi maisha yasiyo na lawama, wamebarikiwa watoto wake baada yake.
+20	8	Wakati mfalme aketipo katika kiti chake cha enzi kuhukumu, hupepeta ubaya wote kwa macho yake.
+20	9	Ni nani awezaye kusema, “Nimeuweka moyo wangu safi; mimi ni safi na sina dhambi?”
+20	10	Mawe ya kupimia yaliyo tofauti na vipimo tofauti, Bwana huchukia vyote viwili.
+20	11	Hata mtoto hujulikana kwa matendo yake, kama tabia yake ni safi na adili.
+20	12	Masikio yasikiayo na macho yaonayo, Bwana ndiye alivifanya vyote viwili.
+20	13	Usiupende usingizi la sivyo utakuwa maskini, uwe macho nawe utakuwa na chakula cha akiba.
+20	14	“Haifai, haifai!” asema mnunuzi, kisha huondoka akijisifia ununuzi wake.
+20	15	Dhahabu kunayo, na marijani kwa wingi, lakini midomo inenayo maarifa ni kito cha thamani kilicho adimu.
+20	16	Chukua vazi la yule awekaye dhamana kwa ajili ya mgeni; lishikilie iwe dhamana kama anafanya hivyo kwa ajili ya mwanamke mpotovu.
+20	17	Chakula kilichopatikana kwa hila ni kitamu kwa mwanadamu, bali huishia na kinywa kilichojaa changarawe.
+20	18	Fanya mipango kwa kutafuta mashauri, ukipigana vita, tafuta maelekezo.
+20	19	Maneno ya kusengenya husababisha kutokuaminika, kwa hiyo mwepuke mtu anayezungumza kupita kiasi.
+20	20	Ikiwa mtu atamlaani baba yake au mama yake, taa yake itazimwa katika giza nene.
+20	21	Urithi upatikanao haraka mwanzoni, hautabarikiwa mwishoni.
+20	22	Usiseme, “Nitakulipiza kwa ajili ya kosa hili!” Mngojee Bwana, naye atakuokoa.
+20	23	Bwana anachukia sana mawe ya kupimia ya udanganyifu, nazo mizani zisizo halali hazimpendezi.
+20	24	Hatua za mtu huongozwa na Bwana. Anawezaje basi mtu yeyote kuelewa njia yake mwenyewe?
+20	25	Ni mtego kwa mtu kuweka wakfu kitu kwa haraka na baada ya kitambo kidogo kufikiria tena nadhiri zake.
+20	26	Mfalme mwenye hekima hupepeta waovu, hulipitisha gurudumu la kupuria juu yao.
+20	27	Taa ya Bwana huchunguza roho ya mwanadamu, huchunguza utu wake wa ndani.
+20	28	Upendo na uaminifu humweka mfalme salama, kwa njia ya upendo, kiti chake cha enzi huwa salama.
+20	29	Utukufu wa vijana ni nguvu zao, mvi ni fahari ya uzee.
+20	30	Mapigo na majeraha huusafisha ubaya, nayo michapo hutakasa utu wa ndani.
+21	1	Moyo wa mfalme uko katika mkono wa Bwana; huuongoza kama mkondo wa maji, popote apendapo.
+21	2	Njia zote za mwanadamu huonekana sawa kwake, bali Bwana huupima moyo.
+21	3	Kufanya yaliyo sawa na haki inakubalika zaidi kwa Bwana kuliko dhabihu.
+21	4	Macho ya kudharau na moyo wa kiburi, ambavyo ni taa ya waovu, vyote ni dhambi!
+21	5	Mipango ya mwenye bidii huelekeza kwenye faida, kama vile kwa hakika pupa huelekeza kwenye umaskini.
+21	6	Mali iliyopatikana kwa ulimi wa uongo ni mvuke upitao upesi na mtego wa kufisha.
+21	7	Jeuri ya waovu itawaburuta mbali, kwa kuwa wanakataa kufanya yaliyo sawa.
+21	8	Njia ya mwenye hatia ni ya upotovu, bali tabia ya mtu asiye na hatia ni nyofu.
+21	9	Ni afadhali kuishi pembeni mwa paa la nyumba, kuliko kuishi nyumba moja na mke mgomvi.
+21	10	Mtu mwovu hutamani sana ubaya, jirani yake hapati huruma kutoka kwake.
+21	11	Wakati mwenye mzaha ameadhibiwa, mjinga hupata hekima; wakati mtu mwenye hekima afundishwapo, hupata maarifa.
+21	12	Mwenye Haki huyajua yanayotendeka katika nyumba za waovu, naye atawaangamiza waovu.
+21	13	Mtu akiziba masikio asisikie kilio cha maskini, yeye pia atalia, wala hatajibiwa.
+21	14	Zawadi itolewayo kwa siri hutuliza hasira na rushwa iliyofichwa kwenye nguo hutuliza ghadhabu kali.
+21	15	Wakati haki imetendeka, huleta furaha kwa wenye haki, bali kitisho kwa watenda mabaya.
+21	16	Mtu anayepotea kutoka mapito ya ufahamu, hupumzika katika kundi la waliokufa.
+21	17	Mtu apendaye anasa atakuwa maskini, yeyote apendaye mvinyo na mafuta kamwe hatakuwa tajiri.
+21	18	Waovu huwa fidia kwa ajili ya wenye haki, nao wasio waaminifu kwa ajili ya wanyofu.
+21	19	Ni afadhali kuishi jangwani kuliko kuishi na mke mgomvi na mkorofi.
+21	20	Katika nyumba ya mwenye hekima kuna akiba ya vyakula vizuri na mafuta, lakini mtu mpumbavu hutafuna vyote alivyo navyo.
+21	21	Yeye afuatiaye haki na upendo hupata uzima, mafanikio na heshima.
+21	22	Mtu mwenye hekima huushambulia mji wa wenye nguvu, na kuangusha ngome wanazozitegemea.
+21	23	Yeye alindaye kinywa chake na ulimi wake hujilinda na maafa.
+21	24	Mtu mwenye kiburi na majivuno, “Mdhihaki” ndilo jina lake; hutenda mambo kwa kiburi kilichozidi.
+21	25	Kutamani sana kwa mvivu kutakuwa kifo chake, kwa sababu mikono yake haitaki kufanya kazi.
+21	26	Mchana kutwa hutamani zaidi, lakini mnyofu hutoa pasipo kuzuia.
+21	27	Dhabihu ya mtu mwovu ni chukizo, si zaidi sana itolewapo kwa nia mbaya!
+21	28	Shahidi wa uongo ataangamia, bali maneno ya mwenye kusikia yatadumu.
+21	29	Mtu mwovu ana uso wa ushupavu, bali mtu mnyofu huzifikiria njia zake.
+21	30	Hakuna hekima, wala akili, wala mpango unaoweza kufaulu dhidi ya Bwana.
+21	31	Farasi huandaliwa kwa ajili ya siku ya vita, bali ushindi huwa kwa Bwana.
+22	1	Heri kuchagua jina jema kuliko utajiri mwingi, kuheshimiwa ni bora kuliko fedha au dhahabu.
+22	2	Tajiri na maskini wanafanana kwa hili: Bwana ni Muumba wao wote.
+22	3	Mtu mwenye busara huona hatari na kujificha, bali mjinga huendelea mbele kama kipofu nayo ikamtesa.
+22	4	Unyenyekevu na kumcha Bwana huleta utajiri, heshima na uzima.
+22	5	Katika mapito ya waovu kuna miiba na mitego, bali yeye ailindaye nafsi yake hukaa mbali nayo.
+22	6	Mfundishe mtoto njia impasayo kuiendea, naye hataiacha hata akiwa mzee.
+22	7	Matajiri huwatawala maskini naye akopaye ni mtumwa wa akopeshaye.
+22	8	Yeye aupandaye uovu huvuna taabu, nayo fimbo ya ghadhabu yake itaangamizwa.
+22	9	Mtu mkarimu yeye mwenyewe atabarikiwa kwa kuwa hushiriki chakula chake na maskini.
+22	10	Mfukuze mwenye dhihaka, na mvutano utatoweka; ugomvi na matukano vitakoma.
+22	11	Yeye apendaye moyo safi na yeye ambaye maneno yake ni ya neema, mfalme atakuwa rafiki yake.
+22	12	Macho ya Bwana hulinda maarifa, bali huyapinga maneno ya asiye mwaminifu.
+22	13	Mvivu husema, “Yuko simba nje!” au, “Nitauawa katika mitaa!”
+22	14	Kinywa cha mwanamke kahaba ni shimo refu; yeye aliye chini ya ghadhabu ya Bwana atatumbukia ndani yake.
+22	15	Upumbavu umefungwa ndani ya moyo wa mtoto, bali fimbo ya adhabu itaufukuzia mbali naye.
+22	16	Yeye amwoneaye maskini ili kujiongezea mali, naye ampaye tajiri zawadi, wote huwa maskini.
+22	17	Tega sikio na usikie misemo ya wenye hekima, elekeza moyo wako kwenye yale nifundishayo,
+22	18	kwa maana inapendeza unapoyahifadhi moyoni mwako na kuwa nayo yote tayari midomoni mwako.
+22	19	Ili tumaini lako liwe katika Bwana, hata wewe, ninakufundisha leo.
+22	20	Je, sijakuandikia misemo thelathini, misemo ya mashauri na maarifa,
+22	21	kukufundisha maneno ya kweli na ya kuaminika, ili uweze kutoa majibu sahihi kwake yeye aliyekutuma?
+22	22	Usiwadhulumu maskini kwa sababu ni maskini, wala kumdhulumu mhitaji mahakamani,
+22	23	kwa sababu Bwana atalichukua shauri lao naye atawateka wao waliowateka.
+22	24	Usifanye urafiki na mtu mwenye hasira ya haraka, usishirikiane na yule aliye mwepesi kukasirika,
+22	25	la sivyo utajifunza njia zake na kujiingiza mwenyewe kwenye mtego.
+22	26	Usiwe mwenye kupana mikono katika rehani, au kuweka dhamana kwa ajili ya madeni.
+22	27	Kama ukikosa njia ya kulipa, kitanda chako kitachukuliwa ukiwa umekilalia.
+22	28	Usisogeze jiwe la mpaka wa zamani lililowekwa na baba zako.
+22	29	Je, unamwona mtu stadi katika kazi yake? Atahudumu mbele ya wafalme; hatahudumu mbele ya watu duni.
+23	1	Uketipo kula chakula na mtawala, angalia vyema kile kilicho mbele yako,
+23	2	na utie kisu kooni mwako kama ukiwa mlafi.
+23	3	Usitamani vyakula vyake vitamu kwa kuwa chakula hicho ni cha hila.
+23	4	Usijitaabishe ili kuupata utajiri, uwe na hekima kuonyesha kujizuia.
+23	5	Kufumba na kufumbua utajiri hutoweka, huwa kama umepata mabawa ghafula, ukaruka na kutoweka angani kama tai.
+23	6	Usile chakula cha mtu mchoyo, usitamani vyakula vyake vitamu,
+23	7	kwa maana yeye ni aina ya mtu ambaye kila mara anafikiri juu ya gharama. Anakuambia, “Kula na kunywa,” lakini moyo wake hauko pamoja nawe.
+23	8	Utatapika kile kidogo ulichokula, nawe utakuwa umepoteza bure maneno yako ya kumsifu.
+23	9	Usizungumze na mpumbavu, kwa maana atadhihaki hekima ya maneno yako.
+23	10	Usisogeze jiwe la mpaka wa zamani wala kunyemelea kwenye mashamba ya yatima,
+23	11	kwa kuwa Mtetezi wao ni mwenye nguvu, atalichukua shauri lao dhidi yako.
+23	12	Elekeza moyo wako kwenye mafundisho na masikio yako kwenye maneno ya maarifa.
+23	13	Usimnyime mtoto adhabu, ukimwadhibu kwa fimbo, hatakufa.
+23	14	Mwadhibu kwa fimbo na kuiokoa nafsi yake kutoka mautini.
+23	15	Mwanangu, kama moyo wako una hekima, basi moyo wangu utafurahi,
+23	16	utu wangu wa ndani utafurahi, wakati midomo yako itakapozungumza lililo sawa.
+23	17	Usiuruhusu moyo wako kuwaonea wivu wenye dhambi, bali kila mara uwe na bidii katika kumcha Bwana.
+23	18	Hakika kuna tumaini la baadaye kwa ajili yako, nalo tarajio lako halitakatiliwa mbali.
+23	19	Sikiliza, mwanangu na uwe na hekima, weka moyo wako kwenye njia iliyo sawa.
+23	20	Usiwe miongoni mwa wanywao mvinyo, au wale walao nyama kwa pupa,
+23	21	kwa maana walevi na walafi huwa maskini, nako kusinzia huwavika matambara.
+23	22	Msikilize baba yako, aliyekuzaa, wala usimdharau mama yako atakapokuwa mzee.
+23	23	Nunua kweli wala usiiuze, pata hekima, adabu na ufahamu.
+23	24	Baba wa mwenye haki ana furaha kubwa, naye aliye na mwana mwenye hekima humfurahia.
+23	25	Baba yako na mama yako na wafurahi, mama aliyekuzaa na ashangilie!
+23	26	Mwanangu, nipe moyo wako, macho yako na yafuate njia zangu,
+23	27	kwa maana kahaba ni shimo refu na mwanamke mpotovu ni kisima chembamba.
+23	28	Kama mnyangʼanyi, hungojea akivizia, naye huzidisha wasio waaminifu miongoni mwa wanaume.
+23	29	Ni nani mwenye ole? Ni nani mwenye huzuni? Ni nani mwenye ugomvi? Ni nani mwenye malalamiko? Ni nani aliye na majeraha yasiyo na sababu? Ni nani mwenye macho mekundu?
+23	30	Ni hao wakaao sana kwenye mvinyo, hao waendao kuonja mabakuli ya mvinyo uliochanganywa.
+23	31	Usiukodolee macho mvinyo wakati ukiwa mwekundu, wakati unapometameta kwenye bilauri, wakati ushukapo taratibu!
+23	32	Mwishowe huuma kama nyoka na kutia sumu yake kama nyoka mwenye sumu.
+23	33	Macho yako yataona mambo mageni na moyo wako kuwazia mambo yaliyopotoka.
+23	34	Utakuwa kama alalaye katikati ya bahari, alalaye juu ya kamba ya merikebu.
+23	35	Utasema, “Wamenipiga lakini sikuumia! Wamenichapa, lakini sisikii! Nitaamka lini ili nikanywe tena?”
+24	1	Usiwaonee wivu watu waovu, usitamani ushirika nao;
+24	2	kwa maana mioyo yao hupanga mambo ya jeuri, nayo midomo yao husema juu ya kuleta madhara.
+24	3	Kwa hekima nyumba hujengwa, nayo kwa njia ya ufahamu huimarishwa
+24	4	kwa njia ya maarifa vyumba vyake hujazwa vitu vya thamani na vya kupendeza.
+24	5	Mtu mwenye hekima ana uwezo mkubwa, naye mtu mwenye maarifa huongeza nguvu,
+24	6	kwa kufanya vita unahitaji uongozi na kwa ushindi washauri wengi.
+24	7	Hekima i juu mno kwa mpumbavu, katika kusanyiko langoni hana lolote la kusema.
+24	8	Yeye apangaye mabaya atajulikana kama mtu wa hila.
+24	9	Mipango ya upumbavu ni dhambi, watu huchukizwa na mwenye dhihaka.
+24	10	Ukikata tamaa wakati wa taabu, jinsi gani nguvu zako ni kidogo!
+24	11	Okoa wale wanaoongozwa kwenye kifo; wazuie wote wanaojikokota kuelekea machinjoni.
+24	12	Kama mkisema, “Lakini hatukujua lolote kuhusu hili,” je, yule apimaye mioyo halitambui hili? Je, yule awalindaye maisha yenu halijui hili? Je, hatamlipa kila mtu kulingana na aliyotenda?
+24	13	Ule asali mwanangu, kwa kuwa ni nzuri; asali kutoka kwenye sega ni tamu kwa kuonja.
+24	14	Ujue pia kwamba hekima ni tamu kwa nafsi yako, kama ukiipata, kuna matumaini kwako ya siku zijazo, nalo tumaini lako halitakatiliwa mbali.
+24	15	Usivizie kama haramia afanyavyo ili kuyashambulia makao ya mwenye haki, wala usiyavamie makazi yake,
+24	16	Kwa maana ingawa mtu mwenye haki huanguka mara saba, huinuka tena, lakini waovu huangushwa chini na maafa.
+24	17	Usitazame kwa kufurahia adui yako aangukapo; wakati ajikwaapo, usiruhusu moyo wako ushangilie.
+24	18	Bwana asije akaona na kuchukia akaiondoa ghadhabu yake mbali naye.
+24	19	Usikasirike kwa sababu ya watu wabaya wala usiwaonee wivu waovu,
+24	20	kwa maana mtu mbaya hana tumaini la siku zijazo, nayo taa ya waovu itazimwa.
+24	21	Mwanangu, mche Bwana na mfalme, wala usijiunge na waasi,
+24	22	kwa maana hao wawili watatuma maangamizi ya ghafula juu yao, naye ni nani ajuaye maafa wawezayo kuleta?
+24	23	Hii pia ni misemo ya wenye hekima: Kuonyesha upendeleo katika hukumu si vyema:
+24	24	Yeyote amwambiaye mwenye hatia, “Wewe huna hatia,” Kabila zitamlaani na mataifa yatamkana.
+24	25	Bali itakuwa vyema kwa wale watakaowatia hatiani wenye hatia, nazo baraka tele zitawajilia juu yao.
+24	26	Jawabu la uaminifu ni kama busu la midomoni.
+24	27	Maliza kazi zako za nje, nawe uweke mashamba yako tayari, baada ya hayo, jenga nyumba yako.
+24	28	Usishuhudie dhidi ya jirani yako bila sababu, au kutumia midomo yako kudanganya.
+24	29	Usiseme, “Nitamtenda kama alivyonitenda mimi; nitamlipiza mtu yule kwa kile alichonitendea.”
+24	30	Nilipita karibu na shamba la mvivu, karibu na shamba la mizabibu la mtu asiye na akili,
+24	31	miiba ilikuwa imeota kila mahali, ardhi ilikuwa imefunikwa na magugu, na ukuta wa mawe ulikuwa umebomoka.
+24	32	Nikatafakari moyoni mwangu lile nililoliona, nami nikajifunza somo kutokana na niliyoyaona:
+24	33	Bado kulala kidogo, kusinzia kidogo, bado kukunja mikono kidogo upate kupumzika:
+24	34	hivyo umaskini utakuja juu yako kama mnyangʼanyi, na kupungukiwa kutakujia kama mtu mwenye silaha.
+25	1	Hizi ni mithali zaidi za Solomoni, zilizonakiliwa na watu wa Hezekia mfalme wa Yuda:
+25	2	Ni Utukufu wa Mungu kuficha jambo, bali ni utukufu wa wafalme kuchunguza jambo.
+25	3	Kama mbingu zilivyo juu na nchi ilivyo chini, ndivyo ambavyo mioyo ya wafalme haichunguziki.
+25	4	Ondoa takataka kwenye madini ya fedha, nako ndani yake kutatokea chombo cha mfua fedha.
+25	5	Ondoa waovu mbele ya mfalme, nacho kiti chake cha enzi kitaimarishwa kwa njia ya haki.
+25	6	Usijikweze mwenyewe mbele ya mfalme, wala usidai nafasi miongoni mwa watu wakuu;
+25	7	ni afadhali yeye akuambie, “Njoo huku juu,” kuliko yeye kukuaibisha mbele ya mkuu. Kile ulichokiona kwa macho yako
+25	8	usiharakishe kukipeleka mahakamani, maana utafanya nini mwishoni kama jirani yako atakuaibisha?
+25	9	Kama ukifanya shauri na jirani yako, usisaliti siri ya mtu mwingine,
+25	10	ama yeye aisikiaye aweza kukuaibisha na kamwe sifa yako mbaya haitaondoka.
+25	11	Neno lisemwalo kwa wakati ufaao ni kama matunda ya mtofaa ya dhahabu yaliyowekwa kwenye vijalizo vya fedha.
+25	12	Kama vile kipuli cha dhahabu au pambo la dhahabu safi, ndivyo lilivyo karipio la mtu mwenye hekima kwa sikio lisikilizalo.
+25	13	Kama vile ubaridi wa theluji wakati wa mavuno ndivyo alivyo mjumbe mwaminifu kwa wale wamtumao, huburudisha roho za bwana zake.
+25	14	Kama vile mawingu na upepo pasipo mvua ndivyo alivyo mtu ajisifuye kwa zawadi ambazo hatoi.
+25	15	Kwa njia ya uvumilivu mtawala aweza kushawishiwa, nao ulimi laini waweza kuvunja mfupa.
+25	16	Ukipata asali, kula kiasi tu cha kukutosha, ukila zaidi, utatapika.
+25	17	Ingiza mguu wako nyumbani kwa jirani yako mara chache, ukizidisha, atakukinai na atakuchukia.
+25	18	Kama vile rungu au upanga au mshale mkali ndivyo alivyo mtu atoaye ushuhuda wa uongo dhidi ya jirani yake.
+25	19	Kama vile jino bovu au mguu uliolemaa, ndivyo ilivyo kumtegemea mtu asiye mwaminifu wakati wa shida.
+25	20	Kama vile avuaye mavazi siku ya baridi, au kama siki iliyomwagwa juu ya magadi, ndivyo alivyo yeye amuimbiaye nyimbo mtu mwenye moyo mzito.
+25	21	Kama adui yako ana njaa, mpe chakula ale; kama ana kiu, mpe maji anywe.
+25	22	Kwa kufanya hivyo, unaweka makaa ya moto yanayowaka kichwani pake, naye Bwana atakupa thawabu.
+25	23	Kama vile upepo wa kaskazini uletavyo mvua, ndivyo ulimi usingiziao uletavyo uso wa hasira.
+25	24	Ni afadhali kuishi pembeni mwa paa la nyumba, kuliko kuishi nyumba moja na mke mgomvi.
+25	25	Kama vile maji baridi kwa nafsi iliyochoka ndivyo zilivyo habari njema kutoka nchi ya mbali.
+25	26	Kama vile chemchemi iliyotibuliwa matope au kisima kilichotiwa taka ndivyo alivyo mtu mwenye haki akishiriki na waovu.
+25	27	Si vyema kula asali nyingi sana, wala si heshima kujitafutia heshima yako mwenyewe.
+25	28	Kama vile mji ambao kuta zake zimebomoka ndivyo alivyo mtu ambaye hawezi kujitawala mwenyewe.
+26	1	Kama theluji wakati wa kiangazi au mvua wakati wa mavuno, ndivyo asivyostahili heshima mpumbavu.
+26	2	Kama shomoro apigapigavyo mabawa yake au mbayuwayu katika kuruka kwake kasi, ndivyo ilivyo laana isiyo na sababu haimpati mtu.
+26	3	Mjeledi kwa farasi, lijamu kwa punda, nayo fimbo kwa migongo ya wapumbavu!
+26	4	Usimjibu mpumbavu sawasawa na upumbavu wake, ama wewe mwenyewe utakuwa kama yeye.
+26	5	Mjibu mpumbavu sawasawa na upumbavu wake, ama atakuwa mwenye hekima machoni pake mwenyewe.
+26	6	Kama vile ilivyo kujikata miguu au kunywa hasara, ndivyo ilivyo kutuma ujumbe kwa mkono wa mpumbavu.
+26	7	Kama miguu ya kiwete inavyoningʼinia ndivyo ilivyo mithali katika kinywa cha mpumbavu.
+26	8	Kama kufunga jiwe kwenye kombeo, ndivyo ilivyo kumpa mpumbavu heshima.
+26	9	Kama mwiba kwenye mkono wa mlevi ndivyo ilivyo mithali kinywani mwa mpumbavu.
+26	10	Kama mpiga upinde ambaye hujeruhi ovyo, ndivyo alivyo yeye aajiriye mpumbavu au yeyote apitaye njiani.
+26	11	Kama mbwa ayarudiavyo matapiko yake, ndivyo mpumbavu arudiavyo upumbavu wake.
+26	12	Je, unamwona mtu ajionaye mwenye hekima machoni pake mwenyewe? Liko tumaini zaidi kwa mpumbavu kuliko kwake.
+26	13	Mvivu husema, “Yuko simba barabarani, simba mkali anazunguka mitaa!”
+26	14	Kama vile mlango ugeukavyo kwenye bawaba zake, ndivyo mvivu ajigeuzavyo kitandani mwake.
+26	15	Mtu mvivu hutumbukiza mkono wake kwenye sahani, naye huchoka kuupeleka kwenye kinywa chake.
+26	16	Mtu mvivu ni mwenye hekima machoni pake mwenyewe, kuliko watu saba wawezao kujibu kwa busara.
+26	17	Kama yeye amkamataye mbwa kwa masikio, ndivyo alivyo mtu apitaye njiani na kujiingiza kwenye ugomvi usiomhusu.
+26	18	Kama mtu mwendawazimu atupaye vijinga vya moto au mishale ya kufisha,
+26	19	ndivyo alivyo mtu amdanganyaye jirani yake na kusema, “Nilikuwa nikifanya mzaha tu!”
+26	20	Bila kuni moto huzimika; pasipo uchongezi ugomvi humalizika.
+26	21	Kama makaa juu ya makaa yanayowaka, na kama kuni kwenye moto, ndivyo alivyo mtu mgomvi kwa kuchochea ugomvi.
+26	22	Maneno ya mchongezi ni kama chakula kitamu; huingia sehemu za ndani sana za mtu.
+26	23	Kama rangi ingʼaayo iliyopakwa kwenye vyombo vya udongo ndivyo ilivyo midomo laini pamoja na moyo mbaya.
+26	24	Mtu mwenye nia ya kudhuru wengine hujificha kwa maneno ya midomo yake, lakini moyoni mwake huficha udanganyifu.
+26	25	Ingawa maneno yake huvutia, usimwamini, kwa maana machukizo saba hujaza moyo wake.
+26	26	Nia yake ya kudhuru wengine inaweza kufichwa na udanganyifu, lakini uovu wake utafichuliwa kwenye kusanyiko.
+26	27	Kama mtu akichimba shimo, atatumbukia ndani yake, kama mtu akivingirisha jiwe, litamrudia.
+26	28	Ulimi wa uongo, huwachukia wale unaowaumiza, nacho kinywa cha kujipendekeza hutenda uharibifu.
+27	1	Usijisifu kwa ajili ya kesho, kwa kuwa hujui ni nini kitakachozaliwa kwa siku moja.
+27	2	Mwache mwingine akusifu, wala si kinywa chako mwenyewe; mtu mwingine afanye hivyo na si midomo yako mwenyewe.
+27	3	Jiwe ni zito na mchanga ni mzigo, lakini kukasirishwa na mpumbavu ni kuzito kuliko vyote viwili.
+27	4	Hasira ni ukatili na ghadhabu kali ni gharika, lakini ni nani awezaye kusimama mbele ya wivu?
+27	5	Afadhali karipio la wazi kuliko upendo uliofichika.
+27	6	Majeraha kutoka kwa rafiki yaonyesha uaminifu, bali kubusu kwa adui ni kwingi sana.
+27	7	Yeye aliyeshiba huchukia kabisa asali, bali kwa mwenye njaa hata kile kilicho kichungu kwake ni kitamu.
+27	8	Kama ndege atangatangavyo mbali na kiota chake, ndivyo alivyo mtu atangatangaye mbali na nyumbani mwake.
+27	9	Manukato na uvumba huleta furaha moyoni, nao uzuri wa rafiki huchipuka kutoka kwenye ushauri wake wa uaminifu.
+27	10	Usimwache rafiki yako wala rafiki wa baba yako, tena usiende nyumbani mwa ndugu yako wakati umepatwa na maafa. Bora jirani wa karibu kuliko ndugu aliye mbali.
+27	11	Mwanangu, uwe na hekima, nawe ulete furaha moyoni mwangu, ndipo nitakapoweza kumjibu yeyote anitendaye kwa dharau.
+27	12	Mtu mwenye busara huona hatari na kujificha, bali mjinga huendelea mbele nayo ikamtesa.
+27	13	Chukua vazi la yule awekaye dhamana kwa ajili ya mgeni; lishikilie iwe dhamana kama anafanya hivyo kwa ajili ya mwanamke mpotovu.
+27	14	Kama mtu akimbariki jirani yake kwa sauti kuu asubuhi na mapema, itahesabiwa kama ni laana.
+27	15	Mke mgomvi ni kama matone yasiyokoma ya siku ya mvua.
+27	16	Kumzuia yeye ni kama kuuzuia upepo au kukamata mafuta kwa kiganja cha mkono.
+27	17	Kama vile chuma kinoavyo chuma, ndivyo mtu amnoavyo mwenzake.
+27	18	Yeye autunzaye mtini atakula tunda lake, naye amtunzaye bwana wake ataheshimiwa.
+27	19	Kama uso uonekanavyo kwenye maji, ndivyo hivyo moyo wa mtu humwonyesha alivyo.
+27	20	Kuzimu na Uharibifu havishibi kadhalika macho ya mwanadamu.
+27	21	Kalibu ni kwa ajili ya fedha na tanuru kwa ajili ya dhahabu, bali mtu hupimwa kwa sifa azipokeazo.
+27	22	Hata ukimtwanga mpumbavu kwenye kinu, ukimtwanga kama nafaka kwa mchi, hutauondoa upumbavu wake.
+27	23	Hakikisha kuwa unajua hali ya makundi yako ya kondoo na mbuzi, angalia kwa bidii ngʼombe zako.
+27	24	Kwa kuwa utajiri haudumu milele, nayo taji haidumu vizazi vyote.
+27	25	Wakati majani makavu yameondolewa na mapya yamechipua, nayo majani toka milimani yamekusanywa,
+27	26	wana-kondoo watakupatia mavazi na mbuzi thamani ya shamba.
+27	27	Utakuwa na maziwa mengi ya mbuzi kukulisha wewe na jamaa yako, na kuwalisha watumishi wako wa kike.
+28	1	Mtu mwovu hukimbia ingawa hakuna yeyote anayemfukuza, bali wenye haki ni wajasiri kama simba.
+28	2	Wakati nchi inapokuwa na uasi, inakuwa na viongozi wengi, bali mwenye ufahamu na maarifa hudumisha utaratibu.
+28	3	Mtu maskini amwoneaye yeye aliye maskini zaidi ni kama mvua ya dhoruba isiyosaza mazao.
+28	4	Wale waiachao sheria huwasifu waovu, bali wale waishikao sheria huwapinga.
+28	5	Watu wabaya hawaelewi haki, bali wale wamtafutao Bwana wanaielewa kikamilifu.
+28	6	Afadhali maskini ambaye mwenendo wake hauna lawama kuliko tajiri ambaye njia zake ni potovu.
+28	7	Yeye ashikaye sheria ni mwana mwenye ufahamu, bali rafiki wa walafi humwaibisha baba yake.
+28	8	Yeye aongezaye utajiri wake kwa riba kubwa mno hukusanya kwa ajili ya mwingine, ambaye atawahurumia maskini.
+28	9	Kama mtu yeyote akikataa kusikia sheria, hata maombi yake ni chukizo.
+28	10	Yeye ambaye humwongoza mwenye haki kwenye mapito mabaya, ataanguka kwenye mtego wake mwenyewe, bali wasio na lawama watapokea urithi mwema.
+28	11	Mtu tajiri anaweza kuwa na hekima machoni pake mwenyewe, bali mtu maskini mwenye ufahamu atamfichua.
+28	12	Mwenye haki ashindapo, kuna furaha kubwa, bali waovu watawalapo, watu hujificha.
+28	13	Yeye afichaye dhambi zake hatafanikiwa, bali yeyote aziungamaye na kuziacha hupata rehema.
+28	14	Amebarikiwa mtu ambaye siku zote humcha Bwana, bali yeye afanyaye moyo wake kuwa mgumu huangukia kwenye taabu.
+28	15	Kama simba angurumaye au dubu ashambuliaye, ndivyo alivyo mtu mwovu atawalaye wanyonge.
+28	16	Mtawala dhalimu hana akili, bali yeye achukiaye mapato ya udhalimu atafurahia maisha marefu.
+28	17	Mtu mwenye kusumbuliwa na hatia ya kuua atakuwa mtoro mpaka kufa; mtu yeyote na asimsaidie.
+28	18	Yeye ambaye mwenendo wake hauna lawama hulindwa salama, bali yeye ambaye njia zake ni potovu ataanguka ghafula.
+28	19	Yeye alimaye shamba lake atakuwa na chakula tele, bali yule afuataye mambo ya upuzi atakuwa na umaskini wa kumtosha.
+28	20	Mtu mwaminifu atabarikiwa sana, bali yeye atamaniye kupata utajiri kwa haraka hataacha kuadhibiwa.
+28	21	Kuonyesha upendeleo si vizuri, hata hivyo mtu atafanya kosa kwa kipande cha mkate.
+28	22	Mtu mchoyo ana tamaa ya kupata utajiri, naye hana habari kuwa umaskini unamngojea.
+28	23	Yeye amkemeaye mtu mwishoni hupata kibali zaidi, kuliko mwenye maneno ya kusifu isivyostahili.
+28	24	Yeye amwibiaye babaye au mamaye na kusema, “Si kosa,” yeye ni mwenzi wa yule aharibuye.
+28	25	Mtu mwenye tamaa huchochea fitina, bali yule amtegemeaye Bwana atafanikiwa.
+28	26	Yeye ajitumainiaye mwenyewe ni mpumbavu, bali yeye atembeaye katika hekima hulindwa salama.
+28	27	Yeye ampaye maskini hatapungukiwa na kitu chochote, bali yeye awafumbiaye maskini macho hupata laana nyingi.
+28	28	Wakati waovu watawalapo, watu huenda mafichoni, bali waovu wanapoangamia, wenye haki hufanikiwa.
+29	1	Mtu anayeendelea kuwa na shingo ngumu baada ya maonyo mengi, ataangamia ghafula, wala hapati dawa.
+29	2	Wenye haki wanapostawi, watu hufurahi; waovu watawalapo, watu hulia kwa huzuni.
+29	3	Mtu apendaye hekima huleta furaha kwa baba yake, bali aambatanaye na makahaba hutapanya mali yake.
+29	4	Kwa haki mfalme huipa nchi uthabiti, bali mfalme aliye na tamaa ya rushwa huiangamiza.
+29	5	Yeyote amsifuye jirani yake isivyostahili, anautandaza wavu kuitega miguu yake.
+29	6	Mtu mbaya hutegwa na dhambi yake mwenyewe bali mwenye haki huweza kuimba na kufurahi.
+29	7	Mwenye haki hujali haki kwa ajili ya maskini, bali mwovu hajishughulishi na hilo.
+29	8	Wenye mzaha huuchochea mji, bali watu wenye hekima hugeuzia mbali hasira.
+29	9	Kama mwenye hekima akienda mahakamani na mpumbavu, mpumbavu hukasirika na kudhihaki, wala hakuna amani.
+29	10	Watu wamwagao damu humchukia mtu mwadilifu na hutafuta kumuua mtu mnyofu.
+29	11	Mpumbavu huonyesha hasira yake yote, bali mwenye hekima hujizuia.
+29	12	Kama mtawala akisikiliza uongo, maafisa wake wote huwa waovu.
+29	13	Mtu maskini na mtu anayeonea wanafanana kwa jambo hili: Bwana hutia nuru macho yao wote wawili.
+29	14	Kama mfalme akiwaamua maskini kwa haki, kiti chake cha enzi kitakuwa thabiti siku zote.
+29	15	Fimbo ya maonyo hutia hekima, bali mtoto aliyeachiwa bila maonyo humwaibisha mama yake.
+29	16	Wakati waovu wanapostawi, pia dhambi vivyo hivyo, lakini wenye haki wataliona anguko lao.
+29	17	Mrudi mwanao, naye atakupa amani, atakufurahisha nafsi yako.
+29	18	Mahali pasipo na ufunuo, watu kujizuia, bali ana heri mtu yule aishikaye sheria.
+29	19	Mtumishi hawezi kuonywa kwa maneno matupu, ajapoelewa, hataitikia.
+29	20	Je, unamwona mtu azungumzaye kwa haraka? Kuna matumaini zaidi kwa mpumbavu kuliko yeye.
+29	21	Kama mtu akimdekeza mtumishi wake tangu ujanani, atamletea sikitiko mwishoni.
+29	22	Mtu mwenye hasira huchochea ugomvi, naye mtu mwenye hasira ya haraka hutenda dhambi nyingi.
+29	23	Kiburi cha mtu humshusha, bali mtu mwenye roho ya unyenyekevu hupata heshima.
+29	24	Anayekubaliana na mwizi ni adui wa nafsi yake mwenyewe; huapishwa lakini hathubutu kushuhudia.
+29	25	Kuwaogopa watu huwa ni mtego, bali yeyote amtumainiaye Bwana atakuwa salama.
+29	26	Wengi hutafuta kusikilizwa na mtawala, bali mtu hupata haki kutoka kwa Bwana.
+29	27	Mwenye haki huwachukia sana wasio waaminifu; waovu huwachukia sana wenye haki.
+30	1	Misemo ya Aguri mwana wa Yake, usia: Huyu mtu alimwambia Ithieli, naam, kwa Ithieli na kwa Ukali:
+30	2	“Mimi ni mjinga kuliko wanadamu wote; sina ufahamu wa kibinadamu.
+30	3	Sijajifunza hekima, wala sina maarifa ya kumjua yeye Aliye Mtakatifu.
+30	4	Ni nani ameshapanda mbinguni na kushuka? Ni nani ameshakusanya upepo kwenye vitanga vya mikono yake? Ni nani ameshafungia maji kwenye nguo yake? Ni nani ameimarisha miisho yote ya dunia? Jina lake ni nani, na mwanawe anaitwa nani? Niambie kama unajua!
+30	5	“Kila neno la Mungu ni kamilifu; yeye ni ngao kwa wale wanaomkimbilia.
+30	6	Usiongeze kwenye maneno yake, ama atakukemea na kukuthibitisha kuwa mwongo.
+30	7	“Ninakuomba vitu viwili, Ee Bwana; usininyime kabla sijafa:
+30	8	Uutenge mbali nami udanganyifu na uongo; usinipe umaskini wala utajiri, bali unipe chakula cha kunitosha kila siku.
+30	9	Nisije nikawa na vingi vya kuzidi nikakukana na kusema, ‘Bwana ni nani?’ Au nisije nikawa maskini nikaiba, nami nikaliaibisha jina la Mungu wangu.
+30	10	“Usimchongee mtumishi kwa bwana wake, asije akakulaani, ukapatilizwa kwalo.
+30	11	“Wako watu wale ambao huwalaani baba zao na wala hawawabariki mama zao;
+30	12	wale ambao ni safi machoni pao wenyewe kumbe hawakuoshwa uchafu wao;
+30	13	wale ambao daima macho yao ni ya kiburi, ambao kutazama kwao ni kwa dharau;
+30	14	wale ambao meno yao ni panga na ambao mataya yao yamewekwa visu kuwaangamiza maskini katika nchi, na wahitaji kutoka miongoni mwa wanadamu.
+30	15	“Mruba anao binti wawili waliao, ‘Nipe! Nipe!’ “Kuna vitu vitatu visivyotosheka kamwe, naam, viko vinne visivyosema, ‘Yatosha!’:
+30	16	Ni kaburi, tumbo lisilozaa, nchi isiyoshiba maji kamwe, na moto, usiosema kamwe, ‘Yatosha!’
+30	17	“Jicho lile limdhihakilo baba, lile linalodharau kumtii mama, litangʼolewa na kunguru wa bondeni, litaliwa na tai.
+30	18	“Kuna vitu vitatu vinavyonishangaza sana, naam, vinne nisivyovielewa:
+30	19	Ni mwendo wa tai katika anga, mwendo wa nyoka juu ya mwamba, mwendo wa meli katika maji makuu ya bahari, nao mwendo wa mtu pamoja na msichana.
+30	20	“Huu ndio mwendo wa mwanamke mzinzi, hula akapangusa kinywa chake na kusema, ‘Sikufanya chochote kibaya.’
+30	21	“Kwa mambo matatu nchi hutetemeka, naam, kwa mambo manne haiwezi kuvumilia:
+30	22	Mtumwa awapo mfalme, mpumbavu ashibapo chakula,
+30	23	mwanamke asiyependwa aolewapo, naye mtumishi wa kike achukuapo nafasi ya bibi yake.
+30	24	“Vitu vinne duniani vilivyo vidogo, lakini vina akili nyingi sana:
+30	25	Mchwa ni viumbe wenye nguvu ndogo, hata hivyo hujiwekea akiba ya chakula chao wakati wa kiangazi.
+30	26	Pelele ni viumbe vyenye uwezo mdogo hata hivyo hujitengenezea nyumba zao kwenye miamba.
+30	27	Nzige hawana mfalme, hata hivyo huenda pamoja vikosi vikosi.
+30	28	Mjusi anaweza kushikwa kwa mkono, hata hivyo huonekana katika majumba ya kifalme.
+30	29	“Viko vitu vitatu ambavyo vinapendeza katika mwendo wao, naam, vinne ambavyo hutembea kwa mwendo wa madaha:
+30	30	simba, mwenye nguvu miongoni mwa wanyama, asiyerudi nyuma kwa chochote;
+30	31	jogoo atembeaye kwa maringo, pia beberu, naye mfalme pamoja na jeshi lake lililomzunguka.
+30	32	“Ikiwa umefanya upumbavu na ukajitukuza mwenyewe, au kama umepanga mabaya, basi funika mdomo wako na mkono wako.
+30	33	Kwa maana kama vile kusukasuka maziwa hutoa siagi, na pia kule kufinya pua hutoa damu, kadhalika kuchochea hasira hutokeza ugomvi.”
+31	1	Misemo ya Mfalme Lemueli, usia wa mama yake aliyomfundisha:
+31	2	“Ee mwanangu, ee mwana wa tumbo langu, ee mwana wa nadhiri zangu,
+31	3	Usitumie nguvu zako kwa wanawake, uhodari wako kwa wale wanaowaharibu wafalme.
+31	4	“Ee Lemueli, haifai wafalme, haifai wafalme kunywa mvinyo, haifai watawala kutamani sana kileo,
+31	5	wasije wakanywa na kusahau vile sheria inavyoamuru na kuwanyima haki zao wote walioonewa.
+31	6	Wape kileo wale wanaoangamia, mvinyo wale walio na uchungu,
+31	7	Wanywe na kusahau umaskini wao na wasikumbuke taabu yao tena.
+31	8	“Sema kwa ajili ya wale wasioweza kujisemea, kwa ajili ya haki za wote walioachwa ukiwa.
+31	9	Sema na uamue kwa haki, tetea haki za maskini na wahitaji.”
+31	10	Mke mwenye sifa nzuri, ni nani awezaye kumpata? Yeye ni wa thamani sana kuliko marijani.
+31	11	Mume wake anamwamini kikamilifu wala hakosi kitu chochote cha thamani.
+31	12	Humtendea mumewe mema, wala si mabaya, siku zote za maisha yake.
+31	13	Huchagua sufu na kitani naye hufanya kazi kwa mikono yenye bidii.
+31	14	Yeye ni kama meli za biashara akileta chakula chake kutoka mbali.
+31	15	Yeye huamka kungali bado giza huwapa jamaa yake chakula na mafungu kwa watumishi wake wa kike.
+31	16	Huangalia shamba na kulinunua, kutokana na mapato yake hupanda shamba la mizabibu.
+31	17	Hufanya kazi zake kwa nguvu, mikono yake ina nguvu kwa ajili ya kazi zake.
+31	18	Huona kwamba biashara yake ina faida, wala taa yake haizimiki usiku.
+31	19	Huweka mikono yake kwenye pia, navyo vidole vyake hushikilia kijiti chenye uzi.
+31	20	Huwanyooshea maskini mikono yake na kuwakunjulia wahitaji vitanga vyake.
+31	21	Theluji ishukapo, hana hofu kwa ajili ya watu wa nyumbani mwake, kwa maana wote wamevikwa nguo za kutia joto.
+31	22	Hutengeneza mazulia ya urembo ya kufunika kitanda chake, yeye huvaa kitani safi na urujuani.
+31	23	Mume wake anaheshimiwa kwenye lango la mji, aketipo miongoni mwa wazee wa nchi.
+31	24	Hutengeneza mavazi ya kitani na kuyauza, naye huwauzia wafanyabiashara mishipi.
+31	25	Amevikwa nguvu na heshima, anaweza kucheka bila kuwa na hofu kwa siku zijazo.
+31	26	Huzungumza kwa hekima na mafundisho ya kuaminika yapo ulimini mwake.
+31	27	Huangalia mambo ya nyumbani mwake wala hali chakula cha uvivu.
+31	28	Watoto wake huamka na kumwita aliyebarikiwa, mumewe pia humsifu, akisema:
+31	29	“Wanawake wengi hufanya vitu vyenye sifa nzuri, lakini wewe umewapita wote.”
+31	30	Kujipamba ili kuvutia ni udanganyifu na uzuri unapita upesi, bali mwanamke anayemcha Bwana atasifiwa.
+31	31	Mpe thawabu anayostahili, nazo kazi zake na zimletee sifa kwenye lango la mji.

@@ -86,7 +86,30 @@ textarea{
       overflow-y: visible;
   }
 }
+#site-title{
+  text-align:center;
+  margin-bottom:8px;
+}
+#site-title h1{
+  font-size:20px;
+  font-weight:bold;
+  margin:0;
+}
+#site-title h2{
+  font-size:16px;
+  font-weight:normal;
+  margin:0;
+}
+#site-title .location{
+  font-size:13px;
+  color:#555;
+}
 </style>
+<div id="site-title">
+  <h1>Marian Faith Healing Center</h1>
+  <h2>Kwaya ya Mtakatifu Cecilia</h2>
+  <div class="location">Riverside Tanzania</div>
+</div>
 <form id="pdfForm" target="_blank" method="get" action="https://www.sourceandsummit.com/editor/legacy/">
   <!--<input type='hidden' name='pdf' value='1'/>-->
   <input type='hidden' name='crop' value='0'/>
@@ -108,6 +131,7 @@ textarea{
     <li role="presentation"><a href="psalmtone.html">Psalm Tone Tool</a></li>
     <li role="presentation"><a href="readings.html">Readings Tool</a></li>
     <li role="presentation"><a href="propers.html">Propers Tool</a></li>
+    <li role="presentation"><a href="search.html">Search</a></li>
     <li role="presentation"><a href="faq.html">(About)</a></li>
   </ul>
   <div style="float:right;margin-left:8px" class="btn-group hide-cordova" role="group">
@@ -137,6 +161,11 @@ textarea{
 <br><div class="tap"><textarea id="hymntext" lang="la" style="height: 130pt; width: 100%;">Adoro t(e) devote, latens Deitas,&#10;Quæ sub his figuris vere latitas;&#10;Tibi se cor meum totum subjicit,&#10;Quia te contemplans totum deficit.&#10;2. Visus, tactus, gustus in te fallitur,&#10;Sed auditu solo tuto creditur.&#10;Credo quidquid dixit Dei Filius;&#10;Nil hoc verbo veritátis verius.&#10;--&#10;Amen.</textarea></div>
 </td><td width="50%">
   <label for="hymngabc" title="This text box is for the GABC notation that would normally be in parentheses, as well as the GABC header.">GABC</label><span style="float: right;"><label><input type='checkbox' id='cbMultipleVerses'> All verses to one line of chant</label></span><br><div class="tap"><textarea id="hymngabc" spellcheck="false" style="height: 130pt; width: 100%;">c4 c e g g gh g. , f e d c c. ;&#10;c e g g gh g. , f e d c c. :&#10;g g hi j ji g. , h g f e d. ;&#10;e g f e dc d. , e c d c c. ::&#10;--&#10;cdc bc.. ::</textarea></div>
+</td>
+</tr>
+<tr><td colspan="2">
+  <label for="translationtext" title="Optional translation shown in small italics under the sung text.  Type one line here for each line in the Text box; leave a line blank to skip that line.  You can also place a translation under any particular word by typing it in [square brackets] right after that word in the Text box.">Tafsiri / Translation</label>
+  <br><div class="tap"><textarea id="translationtext" lang="sw" spellcheck="false" style="height: 40pt; width: 100%;" placeholder="Tafsiri ya Kiswahili — mstari mmoja kwa kila mstari wa maneno hapo juu"></textarea></div>
 </td>
 </tr>
 </table>

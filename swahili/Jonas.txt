@@ -1,0 +1,48 @@
+1	1	Neno la Bwana lilimjia Yona mwana wa Amitai:
+1	2	“Nenda katika mji mkubwa wa Ninawi ukahubiri juu yake, kwa sababu uovu wake umekuja juu mbele zangu.”
+1	3	Lakini Yona alimkimbia Bwana na kuelekea Tarshishi. Alishuka mpaka Yafa, ambapo alikuta meli iliyokuwa imepangwa kuelekea bandari ile. Baada ya kulipa nauli, akapanda melini na kuelekea Tarshishi ili kumkimbia Bwana.
+1	4	Ndipo Bwana akatuma upepo mkali baharini, nayo dhoruba kali sana ikavuma hata meli ikawa hatarini kuvunjika.
+1	5	Mabaharia wote waliogopa na kila mmoja akamlilia mungu wake mwenyewe. Nao wakatupa mizigo baharini ili meli ipungue uzito. Lakini Yona alikuwa ameteremkia chumba cha ndani ya meli, mahali ambapo alilala na kupatwa na usingizi mzito.
+1	6	Nahodha akamwendea na kusema, “Wewe unawezaje kulala? Amka ukamwite mungu wako! Huenda akatuangalia, tusiangamie.”
+1	7	Kisha mabaharia wakasemezana wao kwa wao, “Njooni, tupige kura tumtafute anayehusika na maafa haya.” Wakapiga kura, kura ikamwangukia Yona.
+1	8	Kwa hiyo walimuuliza, “Tuambie, ni nani anayehusika kwa kutuletea tatizo hili lote? Unafanya kazi gani? Umetoka wapi? Nchi yako ni ipi? Wewe ni kutoka taifa lipi?”
+1	9	Akajibu, “Mimi ni Mwebrania, nami namwabudu Bwana, Mungu wa Mbinguni, aliyeumba bahari na nchi kavu.”
+1	10	Hili liliwaogopesha nao wakamuuliza, “Umefanya nini?” (Walijua alikuwa anamkimbia Bwana, kwa sababu alishawaambia hivyo.)
+1	11	Bahari ilikuwa inazidi kuchafuka. Kwa hiyo walimuuliza, “Tukutendee nini ili kufanya bahari itulie kwa ajili yetu?”
+1	12	Akawajibu, “Niinueni mnitupe baharini, nayo itakuwa shwari. Ninajua mawimbi haya makubwa yamewatokea kwa ajili ya kosa langu.”
+1	13	Badala yake, wale watu walijitahidi kupiga makasia wawezavyo ili wapate kurudi pwani. Lakini hawakuweza, kwa kuwa bahari ilizidi kuchafuka kuliko mwanzo.
+1	14	Ndipo wakamlilia Bwana, “Ee Bwana, tafadhali usituue kwa kuondoa uhai wa mtu huyu. Usituhesabie hatia kwa kuutoa uhai wa mtu asiyekuwa na hatia, kwa kuwa wewe, Ee Bwana, umefanya kama ilivyokupendeza.”
+1	15	Kisha walimchukua Yona, wakamtupa baharini nayo bahari iliyokuwa imechafuka ikatulia.
+1	16	Katika jambo hili watu wakamwogopa Bwana sana, wakamtolea Bwana dhabihu na kumwekea nadhiri.
+1	17	Lakini Bwana akamwandaa nyangumi kummeza Yona, naye Yona alikuwa ndani ya tumbo la nyangumi kwa siku tatu, usiku na mchana.
+2	1	Akiwa ndani ya tumbo la nyangumi, Yona alimwomba Bwana Mungu wake.
+2	2	Akasema: “Katika shida yangu nalimwita Bwana, naye akanijibu. Kutoka kina cha kaburi niliomba msaada, nawe ukasikiliza kilio changu.
+2	3	Ulinitupa kwenye kilindi, ndani kabisa ya moyo wa bahari, mikondo ya maji ilinizunguka, mawimbi yako yote na viwimbi vilipita juu yangu.
+2	4	Nikasema, ‘Nimefukuziwa mbali na uso wako, hata hivyo nitatazama tena kuelekea Hekalu lako takatifu.’
+2	5	Maji yaliyonimeza yalinitisha, kilindi kilinizunguka; mwani ulijisokota kichwani pangu.
+2	6	Nilizama chini sana mpaka pande za mwisho za milima, makomeo ya hiyo nchi yalinifungia hata milele. Lakini uliuleta uhai wangu kutoka shimoni, Ee Bwana Mungu wangu.
+2	7	“Wakati uhai wangu ulipokuwa unatoka, nilikukumbuka wewe, Bwana, nayo maombi yangu yalikufikia wewe, katika Hekalu lako takatifu.
+2	8	“Wale watu wanaongʼangʼana na sanamu zisizofaa hupoteza neema ile ambayo ingekuwa yao.
+2	9	Lakini mimi, kwa wimbo wa shukrani, nitakutolea dhabihu. Lile nililowekea nadhiri nitalitimiza. Wokovu watoka kwa Bwana.”
+2	10	Basi Bwana akamwamuru yule nyangumi, naye akamtapika Yona katika nchi kavu.
+3	1	Ndipo neno la Bwana likamjia Yona mara ya pili:
+3	2	“Ondoka uende katika mji mkubwa wa Ninawi, ukautangazie ujumbe ninaokupa.”
+3	3	Yona akalitii neno la Bwana naye akaenda Ninawi. Basi Ninawi ulikuwa mji maarufu sana, ilichukua siku tatu kuuzunguka.
+3	4	Siku ya kwanza, Yona aliingia mjini. Akatangaza: “Baada ya siku arobaini Ninawi utaangamizwa.”
+3	5	Watu wa Ninawi wakamwamini Mungu, wakatangaza kufunga, watu wote kuanzia mkubwa sana hadi yule mdogo kabisa, wakavaa nguo za gunia.
+3	6	Habari zilipomfikia mfalme wa Ninawi, aliondoka kwenye kiti chake cha enzi, akavua majoho yake ya kifalme, akajifunika nguo ya gunia kisha akaketi chini mavumbini.
+3	7	Ndipo akatoa tangazo katika Ninawi yote: “Kwa amri ya mfalme na wakuu wake: “Msiruhusu mtu yeyote au mnyama, makundi ya ngʼombe au wanyama wengine wafugwao, kuonja kitu chochote, msiwaruhusu kula wala kunywa.
+3	8	Bali wanadamu na wanyama wafunikwe kwa nguo za gunia. Kila mmoja afanye hima kumwomba Mungu. Waziache njia zao mbaya na udhalimu ulio mikononi mwao.
+3	9	Ni nani ajuaye? Huenda Mungu akaghairi kwa huruma yake akaacha hasira yake kali ili tusiangamie.”
+3	10	Mungu alipoona walivyofanya na jinsi walivyogeuka kutoka njia zao mbaya, akawa na huruma wala hakuleta maangamizi juu yao kama alivyokuwa ameonya.
+4	1	Lakini Yona alichukizwa sana akakasirika.
+4	2	Akamwomba Bwana, “Ee Bwana, hili si lile nililolisema nilipokuwa ningali nyumbani? Hii ndiyo sababu niliharikisha kukimbilia Tarshishi. Nikifahamu kuwa wewe ni Mungu mwenye neema na huruma, si mwepesi wa hasira na umejaa upendo, ni Mungu ambaye hughairi katika kupeleka maafa.
+4	3	Sasa, Ee Bwana, niondolee uhai wangu, kwa kuwa ni afadhali mimi nife kuliko kuishi.”
+4	4	Lakini Bwana akamjibu, “Je unayo haki yoyote kukasirika?”
+4	5	Yona akatoka nje akaketi mahali upande wa mashariki wa mji. Hapo akajitengenezea kibanda, akaketi kwenye kivuli chake na kungojea ni nini kitakachotokea katika mji.
+4	6	Ndipo Bwana, Mungu akaweka tayari mzabibu na kuufanya uote, kumpa Yona kivuli kilichomfunika kichwa ili kuondoa taabu yake, naye Yona akafurahi sana kwa ajili ya ule mzabibu.
+4	7	Lakini kesho yake asubuhi na mapema Mungu akaamuru buu, autafune mzabibu huo nao ukanyauka.
+4	8	Wakati jua lilipochomoza, Mungu akautuma upepo wa hari wa mashariki, nalo jua likawaka juu ya kichwa cha Yona mpaka akazimia. Akatamani kufa, naye akasema, “Ni afadhali mimi nife kuliko kuishi.”
+4	9	Lakini Mungu alimwambia Yona, “Je, unayo haki kukasirika kuhusu mzabibu huo?” Akasema, “Ndiyo, ninayo haki. Nimekasirika kiasi cha kufa.”
+4	10	Lakini Bwana akamwambia, “Wewe unakasirika kwa ajili ya mzabibu huu, nawe hukuusababisha kuota wala kuutunza. Uliota usiku mmoja, nao ukafa usiku mmoja.
+4	11	Lakini Ninawi ina zaidi ya watu 120,000 ambao hawawezi kupambanua kulia au kushoto, pamoja na ngʼombe wengi. Je, hainipasi kufikiri juu ya mji ule mkubwa?”

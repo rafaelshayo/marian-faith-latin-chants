@@ -1,0 +1,658 @@
+1	1	Baada ya kifo cha Mose mtumishi wa Bwana, Bwana akamwambia Yoshua mwana wa Nuni, msaidizi wa Mose:
+1	2	“Mtumishi wangu Mose amekufa. Sasa basi, wewe pamoja na watu wote hawa, jiandaeni kuvuka huu Mto Yordani kuingia nchi ambayo karibu nitawapa wana wa Israeli.
+1	3	Kila mahali nyayo za miguu yenu zitakapokanyaga nimewapa, kama vile nilivyomwahidi Mose.
+1	4	Nchi yenu itaenea kuanzia jangwa hili hadi Lebanoni, tena kuanzia mto mkubwa wa Frati, yaani nchi yote ya Wahiti, hadi Bahari ile Kubwa iliyoko upande wa magharibi.
+1	5	Hakuna mtu yeyote atakayeweza kushindana na wewe siku zote za maisha yako. Kama vile nilivyokuwa pamoja na Mose, ndivyo nitakavyokuwa pamoja na wewe, sitakuacha wala sitakupungukia.
+1	6	“Uwe hodari na shujaa, kwa sababu wewe ndiwe utakayewaongoza watu hawa kuirithi nchi niliyowaapia baba zao kuwapa.
+1	7	Uwe hodari na uwe na ushujaa mwingi. Uwe na bidii kutii sheria yote aliyokupa Mose mtumishi wangu, usiiache kwa kugeuka kuelekea kuume au kushoto, ili upate kufanikiwa popote uendako.
+1	8	Usiache Kitabu hiki cha Sheria kiondoke kinywani mwako; yatafakari maneno yake usiku na mchana, ili upate kuwa mwangalifu kufanya kila kitu sawasawa na yote yaliyoandikwa ndani yake. Ndipo utakapofanikiwa na kisha utastawi.
+1	9	Je, si mimi niliyekuamuru? Uwe hodari na shujaa. Usihofu wala usivunjike moyo, kwa kuwa Bwana Mungu wako atakuwa pamoja nawe kokote uendako.”
+1	10	Ndipo Yoshua akawaagiza maafisa wa watu akisema,
+1	11	“Pitieni katika kambi yote mkawaambie watu, ‘Wekeni tayari mahitaji yenu. Siku tatu kuanzia sasa mtavuka hii Yordani ili kuingia na kuimiliki nchi ambayo Bwana Mungu wenu anawapa iwe yenu wenyewe.’ ”
+1	12	Lakini kwa Wareubeni, Wagadi na nusu ya kabila la Manase, Yoshua akasema,
+1	13	“Kumbukeni agizo lile Mose mtumishi wa Bwana alilowapa: ‘Bwana Mungu wenu anawapa ninyi raha, naye amewapa nchi hii.’
+1	14	Wake zenu, watoto wenu na mifugo yenu watakaa katika nchi ile Mose aliyowapa mashariki ya Yordani, lakini mashujaa wenu wote, wakiwa wamevikwa silaha kikamilifu lazima wavuke mbele ya ndugu zenu. Imewapasa kuwasaidia ndugu zenu hadi
+1	15	Bwana awape nao raha, kama alivyokwisha kufanya kwa ajili yenu hadi wao pia watakapokuwa wamemiliki nchi ile Bwana Mungu wenu anayowapa. Baada ya hilo, mwaweza kurudi na kukalia nchi yenu wenyewe, ambayo Mose mtumishi wa Bwana aliwapa mashariki mwa Yordani kuelekea linakochomoza jua.”
+1	16	Ndipo wakamjibu Yoshua, “Chochote ambacho umetuagiza tutafanya na popote utakapotutuma tutakwenda.
+1	17	Kama vile tulivyomtii Mose kikamilifu, ndivyo tutakavyokutii wewe. Bwana Mungu wako na awe pamoja nawe tu kama vile alivyokuwa pamoja na Mose.
+1	18	Yeyote atakayeasi neno lako na kuacha kuyatii maneno yako, au chochote utakachowaamuru, atauawa. Uwe imara na hodari tu!”
+2	1	Kisha Yoshua mwana wa Nuni kwa siri akawatuma wapelelezi wawili kutoka Shitimu, akawaambia, “Nendeni mkaikague hiyo nchi, hasa Yeriko.” Kwa hiyo wakaenda na kuingia kwenye nyumba ya kahaba mmoja jina lake Rahabu na kukaa humo.
+2	2	Mfalme wa Yeriko akaambiwa, “Tazama! Baadhi ya Waisraeli wamekuja huku usiku huu kuipeleleza nchi.”
+2	3	Hivyo mfalme wa Yeriko akatuma huu ujumbe kwa Rahabu: “Watoe wale watu waliokujia na kuingia nyumbani mwako, kwa sababu wamekuja kuipeleleza nchi yote.”
+2	4	Lakini huyo mwanamke alikuwa amewachukua hao watu wawili na kuwaficha. Akasema, “Naam, watu hao walikuja kwangu, lakini sikujua walikotoka.
+2	5	Kulipoingia giza, wakati wa kufunga lango la mji, watu hao waliondoka. Sijui njia waliyoiendea. Wafuatilieni haraka. Huenda mkawapata.”
+2	6	(Lakini alikuwa amewapandisha darini akawafunika kwa mabua ya kitani aliyokuwa ameyatandika darini.)
+2	7	Basi hao watu wakaondoka kuwafuatilia hao wapelelezi katika njia ile inayoelekea vivuko vya Yordani, mara tu wafuatiliaji walipotoka nje, lango likafungwa.
+2	8	Kabla wale wapelelezi hawajalala, Rahabu akawaendea huko juu darini,
+2	9	akawaambia, “Ninajua kuwa Bwana amewapa nchi hii na hofu kuu imetuangukia kwa sababu yenu, kiasi kwamba wote waishio katika nchi hii wanayeyuka kwa hofu kwa sababu yenu.
+2	10	Tumesikia jinsi Bwana alivyokausha maji ya Bahari ya Shamu kwa ajili yenu mlipotoka Misri, pia lile mlilowatendea Sihoni na Ogu, wafalme wawili wa Waamori mashariki mwa Yordani, ambao mliwaangamiza kabisa.
+2	11	Tuliposikia juu ya hili, mioyo yetu iliyeyuka na kila mmoja alikosa ujasiri kwa sababu yenu, kwa maana Bwana Mungu wenu ni Mungu juu mbinguni na duniani chini.
+2	12	Sasa basi, tafadhali niapieni kwa Bwana, kwamba mtaitendea hisani jamaa ya baba yangu, kwa kuwa mimi nimewatendea hisani. Nipeni ishara ya uaminifu
+2	13	kwamba mtayahifadhi maisha ya baba yangu na mama yangu, ndugu zangu wa kiume na wa kike, pamoja na wale wote walio wa kwao na kwamba mtatuokoa na kifo.”
+2	14	Wale watu wakamhakikishia Rahabu, “Uhai wetu kwa uhai wenu! Ikiwa hutatoa habari ya nini tunachofanya, wakati Bwana atakapotupa nchi hii, tutawatendea kwa hisani na kwa uaminifu.”
+2	15	Kisha akawateremsha dirishani kwa kamba, kwa kuwa nyumba yake aliyokuwa anaishi ilikuwa sehemu ya ukuta wa mji.
+2	16	Alikuwa amewaambia, “Nendeni vilimani ili wale wafuatiliaji wasiwapate. Jificheni huko kwa siku tatu mpaka watakaporudi, hatimaye mwende zenu.”
+2	17	Wale watu wakamwambia, “Hiki kiapo ulichotuapisha hakitatufunga,
+2	18	isipokuwa, hapo tutakapoingia katika nchi hii, utakuwa umefunga hii kamba nyekundu dirishani pale ulipotuteremshia na kama utakuwa umewaleta baba yako na mama yako, ndugu zako na jamaa yako yote ndani ya nyumba yako.
+2	19	Ikiwa mtu yeyote atatoka nje ya nyumba yako akaenda mtaani, damu yake itakuwa juu ya kichwa chake mwenyewe, hatutawajibika. Lakini yule ambaye atakuwa ndani pamoja nawe, kama mkono wa mtu yeyote ukiwa juu yake damu yake itakuwa juu ya vichwa vyetu.
+2	20	Lakini ikiwa utatoa habari ya shughuli yetu tunayofanya, tutakuwa tumefunguliwa kutoka kwenye kiapo hiki ulichotufanya tuape.”
+2	21	Naye akajibu, “Nimekubali. Na iwe kama mnavyosema.” Kwa hiyo akaagana nao, nao wakaondoka. Yeye akaifunga ile kamba nyekundu dirishani.
+2	22	Walipoondoka, wakaelekea vilimani na kukaa huko siku tatu, hadi wale waliokuwa wakiwafuatilia wakawa wamewatafuta njia nzima na kurudi pasipo kuwapata.
+2	23	Ndipo wale watu wawili wakaanza kurudi. Wakashuka kutoka kule vilimani, wakavuka mto na kuja kwa Yoshua mwana wa Nuni, na kumweleza kila kitu kilichowapata.
+2	24	Wakamwambia Yoshua, “Hakika Bwana ametupa nchi yote mikononi mwetu; watu wote wanayeyuka kwa hofu kwa sababu yetu.”
+3	1	Yoshua na Waisraeli wote wakaondoka asubuhi na mapema kutoka Shitimu, wakaenda mpaka Mto Yordani, ambako walipiga kambi kabla ya kuvuka.
+3	2	Baada ya siku tatu maafisa wakapita katika kambi yote,
+3	3	wakitoa maagizo kwa watu, wakiwaambia: “Mtakapoona Sanduku la Agano la Bwana Mungu wenu, likichukuliwa na Walawi ambao ndio makuhani, mtaondoka hapo mlipo na kulifuata.
+3	4	Ndipo mtakapotambua njia mtakayoiendea, kwa kuwa hamjawahi kuipita kabla. Lakini msisogee karibu, bali kuwe na umbali wa dhiraa 2,000 kati yenu na Sanduku.”
+3	5	Ndipo Yoshua akawaambia hao watu, “Jitakaseni, kwa kuwa kesho Bwana atatenda mambo ya kushangaza katikati yenu.”
+3	6	Yoshua akawaambia makuhani, “Liinueni Sanduku la Agano mkatangulie mbele ya watu.” Hivyo wakaliinua na kutangulia mbele yao.
+3	7	Ndipo Bwana akamwambia Yoshua, “Leo nitaanza kukutukuza machoni pa Israeli yote, ili wapate kujua kuwa niko pamoja nawe kama nilivyokuwa pamoja na Mose.
+3	8	Uwaambie makuhani wanaochukua Sanduku la Agano, ‘Mnapofika kwenye ukingo wa maji ya Yordani, nendeni mkasimame ndani ya mto.’ ”
+3	9	Yoshua akawaambia Waisraeli, “Njooni hapa msikilize maneno ya Bwana Mungu wenu.
+3	10	Hivi ndivyo mtakavyojua ya kuwa Mungu aliye hai yupo katikati yenu, na kwamba kwa hakika atawafukuza mbele yenu hao Wakanaani, Wahiti, Wahivi, Waperizi, Wagirgashi, Waamori na Wayebusi.
+3	11	Tazameni, Sanduku la Agano la Bwana wa dunia yote litaingia ndani ya Mto Yordani likiwa limewatangulia.
+3	12	Sasa basi, chagueni watu kumi na wawili kutoka makabila ya Israeli, mtu mmoja kutoka kila kabila.
+3	13	Mara tu nyayo za makuhani walichukualo Sanduku la Bwana, Bwana wa dunia yote, zitakapokanyaga ndani ya Mto Yordani, maji hayo yatiririkayo kutoka juu yatatindika na kusimama kama chuguu.”
+3	14	Basi, watu walipovunja kambi ili kuvuka Yordani, makuhani wakiwa wamebeba Sanduku la Agano waliwatangulia.
+3	15	Wakati huu ulikuwa wakati wa mavuno, nao Mto Yordani ulikuwa umefurika hadi kwenye kingo zake. Ilikuwa kawaida ya Yordani kufurika nyakati zote za mavuno. Mara tu makuhani wale waliokuwa wamebeba Sanduku la Agano walipofika mtoni na nyayo zao kuzama ndani ya yale maji,
+3	16	maji hayo yaliyotiririka kutoka upande wa juu yaliacha kutiririka yakasimama kama chuguu mbali kabisa nao, kwenye mji ulioitwa Adamu kwenye eneo la Sarethani, wakati yale maji yaliyokuwa yanatiririka kuingia kwenye Bahari ya Araba (yaani Bahari ya Chumvi), yalitindika kabisa. Hivyo watu wakavuka kukabili Yeriko.
+3	17	Wale makuhani waliobeba Sanduku la Agano la Bwana, wakasimama imara mahali pakavu katikati ya Mto Yordani, wakati Waisraeli wote wakiwa wanapita hadi taifa lote likaisha kuvuka mahali pakavu.
+4	1	Wakati taifa lote lilipokwisha kuvuka Mto Yordani, Bwana akamwambia Yoshua,
+4	2	“Chagua watu kumi na wawili miongoni mwa watu, kila kabila mtu mmoja,
+4	3	nawe uwaambie wachukue mawe kumi na mawili katikati ya Mto Yordani, palepale makuhani waliposimama, wayachukue na kuyaweka mahali mtakapokaa usiku huu wa leo.”
+4	4	Basi Yoshua akawaita watu kumi na wawili ambao alikuwa amewachagua kutoka miongoni mwa Waisraeli, mtu mmoja kutoka kila kabila,
+4	5	naye akawaambia, “Mtangulie mbele ya Sanduku la Bwana Mungu wenu, mwende katikati ya Mto Yordani. Kila mmoja wenu atainua jiwe begani mwake, kufuatana na hesabu ya makabila ya Waisraeli,
+4	6	kuwa kama ishara katikati yenu. Siku zijazo, wakati watoto wenu watakapowauliza, ‘Ni nini maana ya mawe haya?’
+4	7	waambieni kwamba maji ya Mto Yordani yaliyokuwa yakitiririka yalitindika mbele ya Sanduku la Agano la Bwana. Wakati lilipovuka Yordani, maji ya Yordani yalitindika. Mawe haya yatakuwa kumbukumbu kwa watu wa Israeli milele.”
+4	8	Hivyo Waisraeli wakafanya kama Yoshua alivyowaagiza. Wakachukua mawe kumi na mawili kutoka katikati ya Mto Yordani, kulingana na hesabu ya kabila za Waisraeli kama Bwana alivyomwambia Yoshua, nao wakayabeba hadi kambini mwao, mahali walipoyatua chini.
+4	9	Yoshua akayasimamisha yale mawe kumi na mawili ambayo yalikuwa katikati ya Mto Yordani, mahali pale ambapo miguu ya makuhani waliobeba Sanduku la Agano iliposimama. Nayo yako huko mpaka leo.
+4	10	Makuhani waliobeba lile Sanduku walibakia wakiwa wamesimama katikati ya Mto Yordani mpaka kila kitu Bwana alichomwamuru Yoshua kilipokuwa kimefanywa na watu, sawasawa na vile Mose alivyokuwa amemwamuru Yoshua. Watu wakafanya haraka kuvuka,
+4	11	na mara tu watu wote walipokwisha kuvuka, Sanduku la Bwana na makuhani wakavuka watu wakiwa wanatazama.
+4	12	Wareubeni, Wagadi na nusu ya kabila la Manase wakavuka mbele ya Waisraeli, wakiwa wamevaa silaha, kama Mose alivyowaamuru.
+4	13	Kiasi cha watu 40,000 waliojiandaa kwa vita walivuka mbele za Bwana hadi nchi tambarare za Yeriko kwa ajili ya vita.
+4	14	Siku ile Bwana akamtukuza Yoshua mbele ya Israeli yote, nao wakamheshimu siku zote za maisha yake, kama vile walivyomheshimu Mose.
+4	15	Basi Bwana akamwambia Yoshua,
+4	16	“Waamuru hao makuhani wanaolibeba Sanduku la Ushuhuda, wapande kutoka ndani ya Mto Yordani.”
+4	17	Kwa hiyo Yoshua akawaamuru hao makuhani akisema, “Pandeni kutoka ndani ya Mto Yordani.”
+4	18	Nao makuhani wakapanda kutoka ndani ya Mto Yordani wakilibeba hilo Sanduku la Agano la Bwana. Mara tu walipoiweka miguu yao penye kingo, nje ya mto, maji ya Yordani yakarudi kufurika kama ilivyokuwa kabla.
+4	19	Siku ya kumi ya mwezi wa kwanza watu walipanda kutoka Yordani na kupiga kambi huko Gilgali, kwenye mpaka wa mashariki ya Yeriko.
+4	20	Naye Yoshua akayasimamisha huko Gilgali yale mawe kumi na mawili ambayo walikuwa wameyachukua katikati ya Mto Yordani.
+4	21	Akawaambia Waisraeli, “Wazao wenu watakapowauliza baba zao siku zijazo wakisema, ‘Mawe haya maana yake ni nini?’
+4	22	Basi waambieni, ‘Israeli ilivukia mahali pakavu katika Mto Yordani.’
+4	23	Kwa maana Bwana Mungu wenu alikausha maji ya Yordani mbele yenu, hadi mlipomaliza kuvuka. Bwana Mungu wenu alifanya haya kwa Mto Yordani sawasawa na kile alichoifanyia Bahari ya Shamu wakati alipoikausha mbele yetu hadi tulipomaliza kuvuka.
+4	24	Alifanya hivi ili kwamba mataifa yote ya dunia yapate kujua kuwa mkono wa Bwana ni wenye nguvu, na ili kwamba kila wakati mpate kumcha Bwana Mungu wenu.”
+5	1	Basi wafalme wote wa Waamori magharibi ya Yordani na wafalme wote wa Kanaani waliokuwa kwenye pwani waliposikia jinsi Bwana alivyoukausha Mto Yordani mbele ya Waisraeli hata tulipokwisha kuvuka, mioyo yao ikayeyuka kwa hofu, wala hawakuwa na ujasiri kuwakabili Waisraeli.
+5	2	Wakati huo Bwana akamwambia Yoshua, “Tengeneza visu vya mawe magumu sana na uwatahiri Waisraeli tena.”
+5	3	Kwa hiyo Yoshua akatengeneza visu vya mawe magumu sana na kutahiri Waisraeli huko Gibeath-Haaralothi.
+5	4	Hii ndiyo sababu ya Yoshua kufanya hivyo: Wanaume wote waliotoka Misri, wote wenye umri wa kwenda vitani, walikufa jangwani wakiwa njiani baada ya kuondoka Misri.
+5	5	Watu wote waliotoka Misri walikuwa wametahiriwa, lakini watu wote waliozaliwa jangwani wakiwa safarini toka Misri walikuwa hawajatahiriwa.
+5	6	Waisraeli walitembea jangwani miaka arobaini mpaka wanaume wote wale waliokuwa na umri wa kwenda vitani wakati waliondoka Misri walipokwisha kufa, kwa kuwa hawakumtii Bwana. Kwa maana Bwana alikuwa amewaapia kuwa wasingeweza kuona nchi ambayo alikuwa amewaahidi baba zao katika kuapa kutupatia, nchi inayotiririka maziwa na asali.
+5	7	Kwa hiyo akawainua wana wao baada yao na hawa ndio hao ambao Yoshua aliwatahiri. Walikuwa hawajatahiriwa bado kwa sababu walikuwa safarini.
+5	8	Baada ya taifa lote kutahiriwa, waliendelea kukaa kambini mpaka walipokuwa wamepona.
+5	9	Bwana akamwambia Yoshua, “Leo nimeiondoa aibu ya Wamisri kutoka kwenu.” Basi mahali pale pakaitwa Gilgali hadi leo.
+5	10	Jioni ya siku ya kumi na nne ya mwezi, wakiwa kambini huko Gilgali katika tambarare za Yeriko, Waisraeli wakaadhimisha Pasaka.
+5	11	Siku iliyofuata Pasaka, katika siku ile ile, wakala mazao ya nchi, mikate isiyotiwa chachu na nafaka za kukaanga.
+5	12	Mana ilikoma siku iliyofuata baada ya Waisraeli kula chakula kilichotoka katika nchi; hapakuwa na mana tena kwa ajili ya Waisraeli, ila mwaka huo walikula mazao ya nchi ya Kanaani.
+5	13	Basi wakati Yoshua alipokuwa karibu na Yeriko, akainua macho, akaona mtu aliyesimama mbele yake, akiwa na upanga mkononi uliofutwa kwenye ala. Yoshua akamwendea na kumuuliza, “Je, wewe uko upande wetu au upande wa adui zetu?”
+5	14	Akajibu, “La, siko upande wowote, lakini mimi nimekuja nikiwa jemadari wa jeshi la Bwana.” Yoshua akaanguka kifudifudi hadi chini, akasujudu, akamuuliza, “Je, Bwana, una ujumbe gani kwa mtumishi wako?”
+5	15	Jemadari wa jeshi la Bwana akajibu, “Vua viatu vyako, kwa maana mahali hapa unaposimama ni patakatifu.” Naye Yoshua akafanya hivyo.
+6	1	Basi malango ya Yeriko yalifungwa kwa uthabiti kwa ajili ya Waisraeli. Hakuna mtu yeyote aliyetoka au kuingia.
+6	2	Kisha Bwana akamwambia Yoshua, “Tazama, nimeitia Yeriko mikononi mwako, pamoja na mfalme wake na watu wake wa vita.
+6	3	Zunguka mji mara moja pamoja na watu wote wenye silaha. Fanya hivi kwa siku sita.
+6	4	Uwe na makuhani saba wakibeba mabaragumu ya pembe za kondoo dume mbele ya Sanduku. Siku ya saba, mzunguke mji mara saba, nao makuhani wakipiga baragumu hizo.
+6	5	Utakapowasikia wamepaliza sauti kubwa ya baragumu, watu wote wapige kelele kwa sauti kuu, kisha ukuta wa mji utaanguka na watu watapanda, kila mtu akiendelea mbele.”
+6	6	Ndipo Yoshua mwana wa Nuni akaita makuhani na kuwaambia, “Chukueni Sanduku la Agano la Bwana na makuhani saba wachukue baragumu za pembe za kondoo dume mbele yake.”
+6	7	Naye akawaagiza watu, “Songeni mbele! Mkauzunguke mji, na walinzi wenye silaha watangulie mbele ya Sanduku la Bwana.”
+6	8	Baada ya Yoshua kuzungumza na watu, wale makuhani saba wenye kuzibeba zile baragumu saba mbele za Bwana, wakatangulia mbele, wakipiga baragumu zao na Sanduku la Agano la Bwana likawafuata.
+6	9	Walinzi waliokuwa na silaha wakaenda mbele ya hao makuhani waliopiga hizo baragumu na hao walinzi wa nyuma wakafuata Sanduku. Wakati wote huu baragumu zilikuwa zikipigwa.
+6	10	Bali Yoshua alikuwa amewaagiza watu, “Msipige kelele ya vita, msipaze sauti zenu, wala kusema neno lolote mpaka siku ile nitakayowaambia mpige kelele. Ndipo mtapiga kelele!”
+6	11	Basi akalipeleka Sanduku la Bwana kuzungushwa huo mji, likizungushwa mara moja. Kisha watu wakarudi kambini kulala.
+6	12	Yoshua akaamka mapema asubuhi iliyofuata nao makuhani wakalichukua Sanduku la Bwana.
+6	13	Wale Makuhani saba wakizibeba zile baragumu saba wakatangulia mbele ya Sanduku la Bwana wakizipiga. Watu wenye silaha wakatangulia mbele yao na walinzi wa nyuma wakalifuata Sanduku la Bwana, huku baragumu hizo zikiendelea kulia.
+6	14	Siku ya pili wakauzunguka mji mara moja na kurudi kambini. Wakafanya hivi kwa siku sita.
+6	15	Siku ya saba, wakaamka asubuhi na mapema wakauzunguka mji kama walivyokuwa wakifanya, isipokuwa siku ile waliuzunguka mji mara saba.
+6	16	Walipouzunguka mara ya saba, makuhani walipopiga baragumu kwa sauti kubwa, Yoshua akawaamuru watu akisema, “Pigeni kelele! Kwa maana Bwana amewapa mji huu!
+6	17	Mji huu pamoja na vyote vilivyomo ndani yake utawekwa wakfu kwa Bwana. Ila Rahabu tu, yule kahaba na wote ambao wako pamoja naye nyumbani mwake ndio watakaosalimishwa, kwa sababu aliwaficha wale wapelelezi tuliowatuma.
+6	18	Lakini mjiepushe na vitu vilivyowekwa wakfu, msije mkachukua chochote katika hivyo, msije mkajiletea maangamizi katika maskani ya Israeli na kuiletea taabu.
+6	19	Fedha yote na dhahabu, vyombo vya shaba na chuma ni vitakatifu kwa Bwana, lazima viletwe katika hazina yake.”
+6	20	Wakati baragumu zilipopigwa, watu walipiga kelele, na katika sauti ya baragumu, na watu kupaza sauti, ukuta ukaanguka; hivyo kila mtu akapanda akiendelea mbele na kuuteka mji.
+6	21	Wakauweka mji wakfu kwa Bwana, na kila chenye uhai ndani yake walikiangamiza kwa upanga, wanaume kwa wanawake, vijana kwa wazee, ngʼombe, kondoo na punda.
+6	22	Yoshua akawaambia wale watu wawili waliokuwa wameipeleleza nchi, “Nendeni nyumbani kwa yule kahaba, mleteni pamoja na wote waliomo nyumbani mwake, kulingana na kiapo chenu kwake.”
+6	23	Basi wale vijana waliofanya upelelezi wakaenda kumleta Rahabu, baba yake na mama yake, na ndugu zake na watu wote waliokuwa pamoja naye. Wakaleta jamaa yake yote na kuwaweka mahali nje ya kambi ya Israeli.
+6	24	Kisha wakauchoma mji wote na kila kitu kilichokuwamo ndani yake. Lakini fedha, dhahabu, vyombo vya shaba na vya chuma wakaviweka katika hazina ya nyumba ya Bwana.
+6	25	Lakini Yoshua akamhifadhi Rahabu yule kahaba, jamaa yake yote na wote waliokuwa wa kwake, kwa sababu aliwaficha watu waliotumwa na Yoshua kuipeleleza Yeriko, naye anaishi miongoni mwa Waisraeli hata leo.
+6	26	Wakati ule Yoshua akatamka kiapo hiki akasema, “Aliyelaaniwa mbele za Bwana ni mtu atakayeinuka kuujenga tena mji huu wa Yeriko: “Kwa gharama ya mzaliwa wake wa kwanza wa kiume ataiweka misingi yake; kwa gharama ya mtoto wake wa mwisho atayaweka malango yake.”
+6	27	Hivyo Bwana alikuwa pamoja na Yoshua, na sifa zake zikaenea katika nchi yote.
+7	1	Lakini Waisraeli hawakuwa waaminifu kuhusu vile vitu vilivyowekwa wakfu; Akani mwana wa Karmi, mwana wa Zabdi, mwana wa Zera, wa kabila la Yuda, alivichukua baadhi ya hivyo vitu. Hasira ya Bwana ikawaka dhidi ya Israeli.
+7	2	Basi Yoshua akatuma watu kutoka Yeriko waende Ai, karibu na Beth-Aveni mashariki ya Betheli, akawaambia, “Pandeni mkaipeleleze nchi.” Basi wale watu wakapanda wakaipeleleza Ai.
+7	3	Waliporudi kwa Yoshua, wakasema, “Si lazima watu wote waende kupigana na Ai. Watume watu elfu mbili au tatu wakauteke huo mji. Usiwachoshe watu wote, kwa sababu huko kuna watu wachache tu.”
+7	4	Basi wakapanda kama watu elfu tatu tu, lakini wakashambuliwa na watu wa Ai,
+7	5	ambao waliwaua watu kama thelathini na sita miongoni mwao. Wakawafukuza Waisraeli kutoka lango la mji hadi Shebarimu, nao wakawauwa huko kwenye materemko. Kutokana na hili mioyo ya watu ikayeyuka ikawa kama maji.
+7	6	Ndipo Yoshua akayararua mavazi yake, akaanguka kifudifudi mbele ya Sanduku la Bwana, na akabakia hapo mpaka jioni. Wazee wa Israeli nao wakafanya vivyo hivyo wakatia mavumbi vichwani mwao.
+7	7	Yoshua akasema, “Ee Bwana Mwenyezi, kwa nini umewavusha watu hawa ngʼambo ya Yordani ili kututia mikononi mwa Waamori watuangamize? Laiti tungeliridhika kukaa ngʼambo ile nyingine ya Yordani!
+7	8	Ee Bwana, niseme nini sasa, ikiwa sasa Israeli ameshafukuzwa na adui zake?
+7	9	Wakanaani na watu wengine wa nchi watasikia habari hii, nao watatuzunguka na kutufutilia jina letu duniani. Utafanya nini basi kwa ajili ya jina lako mwenyewe lililo kuu?”
+7	10	Bwana akamwambia Yoshua, “Simama! Unafanya nini hapo chini kifudifudi?
+7	11	Israeli ametenda dhambi. Wamekiuka agano langu nililowaamuru kulishika. Wamechukua baadhi ya vitu vilivyowekwa wakfu, wameiba, wamesema uongo, wameviweka pamoja na mali zao.
+7	12	Ndiyo sababu Waisraeli hawawezi kusimama dhidi ya adui zao. Wanawapa visogo na kukimbia kwa kuwa wanastahili maangamizi. Sitakuwa pamoja nanyi tena mpaka mwangamize kila kitu miongoni mwenu kilichotengwa kwa maangamizi.
+7	13	“Nenda, ukawatakase watu. Waambie, ‘Jitakaseni mjiandae kwa kesho; kwa sababu hili ndilo asemalo Bwana, Mungu wa Israeli: Kitu kilichowekwa wakfu kipo katikati yenu, ee Israeli. Hamwezi kusimama dhidi ya adui zenu mpaka mtakapokiondoa.
+7	14	“ ‘Asubuhi, mjihudhurishe kabila kwa kabila. Itakuwa kabila lile atakalolitwaa Bwana litakuja mbele ukoo kwa ukoo, ukoo ule atakaoutwaa Bwana utakuja mbele jamaa kwa jamaa, nayo jamaa ile atakayoitwaa Bwana itakuja mbele mtu kwa mtu.
+7	15	Yule atakayekutwa na vitu vilivyowekwa wakfu, atateketezwa kwa moto, pamoja na vitu vyote alivyo navyo. Kwa kuwa amelivunja agano la Bwana na kufanya kitu cha aibu katika Israeli!’ ”
+7	16	Kesho yake asubuhi na mapema Yoshua akawaamuru Israeli kuja mbele kabila kwa kabila; na Yuda akatwaliwa.
+7	17	Koo za Yuda zikaja mbele, naye akawatwaa Wazera. Akaamuru ukoo wa Wazera kuja mbele jamaa kwa jamaa, nayo jamaa ya Zabdi ikatwaliwa.
+7	18	Yoshua akaamuru watu wa jamaa ya Zabdi kuja mbele mtu kwa mtu, naye Akani mwana wa Karmi, mwana wa Zabdi, mwana wa Zera, wa kabila la Yuda, akatwaliwa.
+7	19	Ndipo Yoshua akamwambia Akani, “Mwanangu, mtukuze Bwana, Mungu wa Israeli, nawe ukiri kwake. Niambie ni nini ulichotenda; usinifiche.”
+7	20	Akani akamjibu Yoshua, “Ni kweli! Nimetenda dhambi dhidi ya Bwana, Mungu wa Israeli. Hili ndilo nililofanya:
+7	21	Nilipoona katika nyara joho zuri la kutoka Babeli, shekeli mia mbili za fedha, na kabari ya dhahabu ya uzito wa shekeli hamsini, nikavitamani na nikavichukua. Tazama, vimefichwa ardhini ndani ya hema langu, pamoja na hiyo fedha chini yake.”
+7	22	Kwa hiyo Yoshua akatuma wajumbe, nao wakapiga mbio mpaka hemani, tazama, vile vitu vilikuwa vimefichwa hemani mwake, pamoja na ile fedha chini yake.
+7	23	Wakavichukua vile vitu toka mle hemani, wakamletea Yoshua pamoja na Waisraeli wote, na wakavitandaza mbele za Bwana.
+7	24	Basi Yoshua, pamoja na Israeli yote, wakamchukua Akani mwana wa Zera, pamoja na ile fedha, lile joho, ile kabari ya dhahabu, wanawe na binti zake, ngʼombe, punda na kondoo wake, hema yake pamoja na vitu vyote alivyokuwa navyo, wakavileta katika Bonde la Akori.
+7	25	Yoshua akasema, “Kwa nini umeleta taabu hii juu yetu? Bwana ataleta taabu juu yako leo hii.” Ndipo Israeli yote ikampiga Akani kwa mawe, na baada ya kuwapiga jamaa yake yote kwa mawe, wakawateketeza kwa moto.
+7	26	Wakakusanya lundo la mawe juu ya Akani, ambalo lipo mpaka leo. Naye Bwana akageuka kutoka hasira yake kali. Kwa hiyo mahali pale pakaitwa Bonde la Akori tangu siku hiyo.
+8	1	Ndipo Bwana akamwambia Yoshua, “Usiogope, wala usivunjike moyo. Chukua jeshi lote la vita uende pamoja nalo kuishambulia Ai. Kwa kuwa nimeshamweka mikononi mwako mfalme wa Ai, pamoja na watu wake, mji wake na nchi yake.
+8	2	Utafanya Ai na mfalme wake kama ulivyofanya kwa mji wa Yeriko na mfalme wake, isipokuwa mnaweza kuchukua mateka wake na mifugo wake, kwa ajili yenu. Weka waviziaji upande wa nyuma ya mji.”
+8	3	Basi Yoshua na jeshi lote wakainuka kushambulia Ai. Akachagua watu mashujaa elfu thelathini walio bora miongoni mwa wapiganaji wake, akawapeleka wakati wa usiku
+8	4	akiwaagiza: “Sikilizeni kwa makini. Mtavizia nyuma ya mji. Msiende mbali sana na mji. Wote kuweni macho.
+8	5	Mimi na watu walio pamoja nami, tutaukabili mji, kisha itakuwa hapo watu watakapotoka nje kupigana nasi, kama walivyofanya hapo kwanza, sisi tutawakimbia.
+8	6	Watatufuatilia mpaka tutakapokuwa tumewavuta mbali na mji kwa kuwa watasema, ‘Wanatukimbia, kama walivyofanya hapo awali.’ Hivyo tutakapowakimbia,
+8	7	ninyi inawapasa mwinuke mtoke huko mafichoni na kuuteka mji. Bwana Mungu wenu atautia mkononi mwenu.
+8	8	Mtakapokuwa mmeuteka mji, uteketezeni kwa moto. Fanyeni kama vile Bwana alivyoamuru. Angalieni, nimewaagiza.”
+8	9	Ndipo Yoshua akawatuma watu, nao wakaenda mahali pa kujificha, wakawa wanavizia kati ya Betheli na Ai, kuelekea upande wa magharibi wa Ai, lakini Yoshua akalala miongoni mwa watu usiku huo.
+8	10	Asubuhi na mapema siku iliyofuatia, Yoshua akawakutanisha watu wake, na yeye na viongozi wa Israeli wakawa mbele ya watu kwenda Ai.
+8	11	Watu wote wa vita waliokuwa pamoja naye walipanda, wakakaribia na kufika mbele ya mji. Wakapiga kambi kaskazini mwa Ai, pakiwa na bonde kati yao na huo mji.
+8	12	Yoshua alikuwa amewachukua watu wapatao elfu tano, akawaweka katika uavizi kati ya Betheli na Ai, upande wa magharibi wa mji.
+8	13	Wakawaweka askari katika maeneo yao: wale wote waliokuwa kambini wakawa kaskazini ya mji na wale waliokuwa wakivizia wakawa upande wa magharibi. Usiku huo Yoshua akaenda katika lile bonde.
+8	14	Mfalme wa Ai alipoona jambo hili, yeye pamoja na watu wote wa mji wakatoka kwa haraka asubuhi na mapema, ili kukutana na Israeli katika vita mahali fulani panapotazamana na Araba. Lakini hakujua kwamba kulikuwa kumewekwa waviziaji dhidi yake nyuma ya mji.
+8	15	Yoshua na Israeli wote wakaruhusu kurudishwa nyuma mbele yao, na kuelekea jangwani.
+8	16	Watu wote wa Ai wakaitwa ili kuwafuatia, nao wakavutwa kumfuatia Yoshua mbali na mji.
+8	17	Hakuna hata mwanaume mmoja aliyebakia Ai wala Betheli ambaye hakufuatia Israeli. Wakauacha mji wazi na kuwafuatia Israeli.
+8	18	Ndipo Bwana akamwambia Yoshua, “Inua huo mkuki ulio mkononi mwako kuuelekeza Ai, kwa kuwa nitautia huo mji mkononi mwako.” Hivyo Yoshua akauelekeza mkuki wake Ai.
+8	19	Mara tu alipofanya hivi, wale watu waliokuwa mavizioni wakaondoka upesi kutoka mahali pao na kukimbilia mbele. Wakaingia ndani ya mji, wakauteka na kuutia moto kwa haraka.
+8	20	Watu wa Ai wakaangalia nyuma, wakauona moshi wa huo mji ukielekea angani lakini hawakuwa na nafasi ya kutoroka kwa upande wowote, kwa kuwa wale Waisraeli waliokuwa wanawakimbia kuelekea jangwani walikuwa wamegeuka nyuma kuwakabili wakimbizaji wao.
+8	21	Basi Yoshua na Israeli wote walipoona kwamba waviziaji wameshauteka mji na moshi ulikuwa unapaa juu kutoka kwenye mji, wakawageukia watu wa Ai na kuwashambulia.
+8	22	Wale waviziaji nao pia wakatoka nje ya mji dhidi yao, hivi kwamba wakashikiwa katikati, Waisraeli wakiwa pande zote mbili. Israeli wakawaua, bila kuwaachia yeyote aliyenusurika wala aliyetoroka.
+8	23	Lakini wakamchukua mfalme wa Ai akiwa hai na kumleta kwa Yoshua.
+8	24	Israeli ilipomaliza kuwaua wanaume wote wa Ai katika mashamba na jangwani walipokuwa wamewafukuzia, na baada ya kila mmoja wao kuuawa kwa upanga, Waisraeli wote wakarudi Ai na kuwaua wale waliokuwa wamebakia mjini.
+8	25	Watu kumi na mbili elfu, waume kwa wake, waliangamia siku ile, yaani watu wote wa Ai.
+8	26	Kwa maana Yoshua hakuurudisha ule mkono wake uliokuwa umeuinua mkuki hadi alipomaliza kuwaangamiza wote walioishi Ai.
+8	27	Lakini Israeli wakajichukulia mifugo na nyara za mji huu, kama vile Bwana alivyokuwa amemwagiza Yoshua.
+8	28	Kwa hiyo Yoshua akauchoma moto mji wa Ai na kuufanya kuwa lundo la magofu la kudumu, mahali pa ukiwa hadi leo.
+8	29	Akamwangika mfalme wa Ai kwenye mti na kumwacha hapo mpaka jioni. Wakati wa jua kutua, Yoshua akawaamuru wautoe mwili wake kwenye mti na kuutupa kwenye ingilio la lango la mji. Kisha wakalundika mawe makubwa mengi juu yake, ambayo yamesalia mpaka leo.
+8	30	Kisha Yoshua akajenga madhabahu ya Bwana, Mungu wa Israeli, katika Mlima wa Ebali,
+8	31	kama Mose mtumishi wa Bwana alivyokuwa amewaamuru Waisraeli. Akaijenga sawasawa na ilivyoandikwa katika Kitabu cha Sheria ya Mose: madhabahu ya mawe yasiyochongwa, ambayo juu yake hakuna chombo cha chuma kilichotumika. Hapo juu yake wakamtolea Bwana sadaka za kuteketezwa na kutoa sadaka za amani.
+8	32	Pale, mbele ya Waisraeli Yoshua akanakili juu ya hayo mawe sheria ya Mose, aliyokuwa ameiandika.
+8	33	Israeli yote, wageni na wazawa sawasawa, wakiwa na wazee wao, maafisa na waamuzi, walikuwa wamesimama pande zote mbili za Sanduku la Agano la Bwana, wakiwaelekea wale waliokuwa wamelichukua, yaani makuhani, ambao ni Walawi. Nusu ya watu ilisimama mbele ya Mlima Gerizimu na nusu hiyo ingine ikasimama mbele ya Mlima Ebali, kama vile Mose mtumishi wa Bwana alivyokuwa ameamuru hapo mwanzo alipotoa maagizo ya kuwabariki watu wa Israeli.
+8	34	Hatimaye, Yoshua akasoma maneno yote ya sheria, yaani baraka na laana, kama vile ilivyoandikwa katika Kitabu cha Sheria.
+8	35	Hakuna neno lolote katika yale yote ambayo Mose alikuwa ameamuru ambalo Yoshua hakulisomea kusanyiko lote la Israeli, ikiwa ni pamoja na wanawake na watoto, na wageni walioishi miongoni mwao.
+9	1	Basi ikawa wafalme wote waliokuwa magharibi mwa Yordani waliposikia juu ya haya yote, wale waliokuwa katika nchi ya vilima, upande wa magharibi mwa vilima na katika pwani yote ya hiyo Bahari Kuu, hadi kufikia Lebanoni (wafalme wa Wahiti, Waamori, Wakanaani, Waperizi, Wahivi na Wayebusi),
+9	2	wakajiunga pamoja ili kupigana vita dhidi ya Yoshua na Israeli.
+9	3	Hata hivyo, watu wa Gibeoni waliposikia juu ya hayo yote Yoshua aliyowatendea watu wa Yeriko na Ai,
+9	4	nao wakaamua kufanya hila: Wakajifanya kama wajumbe wakiwa na punda waliobebeshwa mizigo wakiwa na magunia yaliyochakaa na viriba vya mvinyo vikuukuu vyenye nyufa zilizozibwa.
+9	5	Walivaa miguuni mwao viatu vilivyoraruka na kushonwa kisha wakavaa nguo kuukuu. Chakula chao kilikuwa mkate uliokauka na kuingia koga.
+9	6	Ndipo wakamwendea Yoshua kambini huko Gilgali wakamwambia yeye pamoja na watu wa Israeli, “Tumetoka katika nchi ya mbali, fanyeni mkataba nasi.”
+9	7	Basi watu wa Israeli wakawaambia hao Wahivi, “Lakini huenda mnakaa karibu nasi, twawezaje basi kufanya mapatano nanyi?”
+9	8	Wakamwambia Yoshua, “Sisi ni watumishi wako.” Yoshua akawauliza, “Ninyi ni nani, nanyi mnatoka wapi?”
+9	9	Nao wakamjibu: “Watumishi wako wametoka nchi ya mbali sana kwa ajili ya umaarufu wa Bwana Mungu wenu. Kwa kuwa tumesikia taarifa zake: hayo yote aliyofanya huko Misri,
+9	10	pia yale yote aliyowatendea wafalme wawili wa Waamori mashariki ya Yordani; huyo Sihoni mfalme wa Heshboni na Ogu mfalme wa Bashani, aliyetawala huko Ashtarothi.
+9	11	Basi wazee wetu na wale wote wanaoishi katika nchi yetu walituambia, ‘Chukueni chakula cha safari; nendeni mkakutane na watu hao na kuwaambia, “Sisi tu watumishi wenu, fanyeni mapatano nasi.” ’
+9	12	Mkate huu wetu ulikuwa wa moto tulipoufunga siku tulipoanza safari kuja kwenu, lakini sasa angalia jinsi ulivyokauka na kuota ukungu.
+9	13	Viriba hivi vya mvinyo vilikuwa vipya tulipovijaza, lakini ona jinsi vilivyo na nyufa. Nguo zetu na viatu vimechakaa kwa ajili ya safari ndefu.”
+9	14	Basi watu wa Israeli wakavikagua vyakula vyao bila kupata shauri kutoka kwa Bwana.
+9	15	Ndipo Yoshua akafanya mapatano ya amani pamoja nao kuwaacha waishi, nao viongozi wa kusanyiko wakathibitisha kwa kiapo.
+9	16	Siku ya tatu baada ya hao kufanya mapatano na Wagibeoni, Waisraeli wakapata habari kuwa hao watu ni jirani zao waliokuwa wanaishi karibu nao.
+9	17	Ndipo wana wa Israeli wakasafiri na siku ya tatu wakafika kwenye miji yao ya Gibeoni, Kefira, Beerothi na Kiriath-Yearimu.
+9	18	Lakini Waisraeli hawakuwashambulia kwa kuwa viongozi wa kusanyiko walikuwa wamewaapia kwa Bwana, Mungu wa Israeli. Kusanyiko lote likanungʼunika dhidi ya hao viongozi,
+9	19	lakini viongozi wote wakawajibu, “Tumeshawaapia kwa Bwana, Mungu wa Israeli, kwa hiyo hatuwezi kuwagusa sasa.
+9	20	Hivi ndivyo tutakavyowafanyia: Tutawaacha waishi, ili ghadhabu isije juu yetu kwa kuvunja kiapo tulichowaapia.”
+9	21	Wakaendelea kusema, “Waacheni waishi, lakini wawe wapasua kuni na wachota maji kwa ajili ya jamii yote.” Hivyo ahadi waliyoweka viongozi kwao ikawa hivyo.
+9	22	Kisha Yoshua akawaita Wagibeoni na kuwaambia, “Kwa nini mmetudanganya kwa kutuambia, ‘Tunaishi mbali nanyi,’ wakati ambapo ninyi mnaishi karibu nasi?
+9	23	Sasa mko chini ya laana: Daima mtakuwa wapasua kuni na wachota maji kwa ajili ya nyumba ya Mungu wangu.”
+9	24	Wakamjibu Yoshua, “Watumwa wako waliambiwa waziwazi jinsi Bwana Mungu wenu alivyomwamuru mtumishi wake Mose kuwapa ninyi nchi hii yote na kuwaangamiza wakazi wake wote toka mbele zenu. Kwa hiyo tuliogopa mno kwa ajili ya uhai wetu kwa sababu yenu, ndiyo maana tukafanya neno hili.
+9	25	Sasa tupo mikononi mwako. Tufanyieni lolote mnaloona kuwa jema na haki kwako.”
+9	26	Kwa hiyo Yoshua akawaokoa mikononi mwa Waisraeli, nao hawakuuawa.
+9	27	Siku hiyo Yoshua akawafanya Wagibeoni wapasua kuni na wachota maji kwa ajili ya jamii na kwa ajili ya madhabahu ya Bwana mahali pale ambapo Bwana angepachagua. Hivyo ndivyo walivyo hadi hivi leo.
+10	1	Baada ya haya Adoni-Sedeki mfalme wa Yerusalemu alisikia kuwa Yoshua alikuwa ameteka mji wa Ai na kuuangamiza kabisa, tena alikuwa ameua mfalme wake, kama alivyofanya huko Yeriko na mfalme wake, tena ya kuwa watu wa Gibeoni walikuwa wamefanya mapatano ya amani na Waisraeli, na walikuwa wakiishi karibu yao.
+10	2	Yeye na watu wake wakataharuki mno kwa kuwa Gibeoni ulikuwa mji mkubwa kama mmojawapo ya miji ya kifalme; ulikuwa mkubwa kuliko Ai, nao watu wake wote walikuwa mashujaa wa vita.
+10	3	Hivyo Adoni-Sedeki mfalme wa Yerusalemu akaomba msaada kwa Hohamu mfalme wa Hebroni, Piramu mfalme wa Yarmuthi, Yafia mfalme wa Lakishi, na Debiri mfalme wa Egloni.
+10	4	Akawaambia, “Njooni mnisaidie kuipiga Gibeoni, kwa sababu imefanya mapatano ya amani na Yoshua na Waisraeli.”
+10	5	Ndipo hao wafalme watano wa Waamori, ambao ni wafalme wa Yerusalemu, Hebroni, Yarmuthi, Lakishi na Egloni, wakaunganisha majeshi yao. Wakapanda na vikosi vyao vyote, nao wakajipanga dhidi ya Gibeoni na kuishambulia.
+10	6	Nao Wagibeoni wakatuma ujumbe kwa Yoshua kwenye kambi ya Gilgali na kumwambia, “Usiwatelekeze watumishi wako. Panda haraka uje kwetu kutuokoa! Tusaidie, kwa sababu wafalme wote wa Waamori wakaao kwenye nchi ya vilima wameunganisha majeshi yao pamoja dhidi yetu.”
+10	7	Basi Yoshua akaondoka Gilgali pamoja na jeshi lake lote, wakiwepo watu wote mashujaa wa vita.
+10	8	Bwana akamwambia Yoshua, “Usiwaogope watu hao, nimewatia mkononi mwako. Hakuna yeyote atakayeweza kushindana nawe.”
+10	9	Baada ya Yoshua kutembea usiku kucha kutoka Gilgali, akawashambulia ghafula.
+10	10	Bwana akawafadhaisha mbele ya Waisraeli, nao wakawashinda kwa ushindi mkuu huko Gibeoni. Israeli wakawafukuza kuelekea njia iendayo Beth-Horoni wakiwaua mpaka kufikia njia iendayo Azeka na Makeda.
+10	11	Walipokuwa wakikimbia mbele ya Israeli kwenye barabara iteremkayo kutoka Beth-Horoni hadi Azeka, Bwana akawavumishia mawe makubwa ya mvua kutoka mbinguni, na wengi wao wakauawa na hayo mawe kuliko wale waliouawa kwa upanga wa Waisraeli.
+10	12	Katika siku ile ambayo Bwana aliwapeana Waamori kwa Israeli, Yoshua akanena na Bwana akiwa mbele ya Waisraeli akasema: “Wewe jua, simama juu ya Gibeoni, wewe mwezi, tulia juu ya Bonde la Aiyaloni.”
+10	13	Hivyo jua likasimama, nao mwezi ukatulia, hadi taifa hilo lilipokwisha kujilipizia kisasi kwa adui wake, kama ilivyoandikwa katika Kitabu cha Yashari. Jua likasimama kimya katikati ya mbingu, likachelewa kuzama muda wa siku moja nzima.
+10	14	Haijakuwepo siku nyingine kama hiyo kabla au baada, siku ambayo Bwana alimsikiliza mwanadamu. Hakika Bwana alikuwa akiwapigania Israeli.
+10	15	Ndipo Yoshua akarudi kambini huko Gilgali pamoja na Israeli yote.
+10	16	Basi wale wafalme watano wakawa wamekimbia kujificha kwenye pango huko Makeda.
+10	17	Yoshua alipoambiwa kuwa wafalme hao watano wamekutwa wakiwa wamejificha ndani ya pango huko Makeda,
+10	18	akasema, “Vingirisheni mawe makubwa kwenye mdomo wa hilo pango, tena wekeni walinzi wa kulilinda.
+10	19	Lakini msiwaache! Wafuatieni adui zenu, washambulieni kutoka nyuma, wala msiwaache wafike kwenye miji yao, kwa kuwa Bwana Mungu wenu amewatia mkononi mwenu.”
+10	20	Hivyo Yoshua pamoja na Waisraeli wakawaangamiza kabisa karibu wote, lakini wachache waliosalia walifika kwenye miji yao yenye maboma.
+10	21	Basi jeshi lote likarudi salama kwa Yoshua huko kambini Makeda, na hakuna yeyote aliyetoa neno kinyume cha Waisraeli.
+10	22	Ndipo Yoshua akasema, “Haya fungueni mdomo wa pango, mniletee hao wafalme watano.”
+10	23	Kwa hiyo wakawatoa hao wafalme watano nje ya pango: wafalme wa Yerusalemu, Hebroni, Yarmuthi, Lakishi na Egloni.
+10	24	Walipokuwa wamewaleta hawa wafalme kwa Yoshua, akawaita watu wote wa Israeli, na kuwaambia majemadari wa vita waliokwenda pamoja naye, “Njooni hapa mweke nyayo zenu juu ya shingo za hawa wafalme.” Basi wakaja wakaweka nyayo zao shingoni.
+10	25	Yoshua akawaambia, “Msiogope, wala msivunjike moyo. Kuweni hodari na wenye ushujaa. Hili ndilo Bwana atakalowatendea adui zenu wote mnaokwenda kupigana nao.”
+10	26	Ndipo Yoshua akawapiga na kuwaua wale wafalme na kuwatundika juu ya miti mitano, nao wakaachwa wakiningʼinia juu ya ile miti hadi jioni.
+10	27	Wakati wa kuzama jua Yoshua akaamuru, nao wakawashusha kutoka kwenye ile miti na kuwatupa kwenye lile pango ambalo walikuwa wamejificha. Kwenye mdomo wa lile pango wakaweka mawe makubwa, ambayo yapo hadi leo.
+10	28	Siku ile Yoshua akateka Makeda. Akamuua kila mmoja katika ule mji, pamoja na mfalme wake kwa upanga. Hakubakiza mtu yeyote. Akamfanyia mfalme wa Makeda kama vile alivyokuwa amemfanyia mfalme wa Yeriko.
+10	29	Ndipo Yoshua akaondoka Makeda akiwa pamoja na Israeli yote mpaka mji wa Libna na kuushambulia.
+10	30	Bwana pia akautia huo mji wa Libna pamoja na mfalme wake mikononi mwa Israeli. Yoshua akaangamiza ule mji na kila mtu aliyekuwa ndani yake kwa upanga. Hakubakiza huko mtu yeyote. Akamfanyia mfalme wa Libna kama alivyokuwa amemfanyia mfalme wa Yeriko.
+10	31	Kisha Yoshua akaondoka Libna kwenda Lakishi akiwa pamoja na Israeli yote; wakajipanga dhidi yake na kuushambulia.
+10	32	Bwana akautia Lakishi mikononi mwa Israeli, Yoshua akauteka siku ya pili. Yoshua akauangamiza mji na kila kilichokuwa ndani yake kwa upanga, kama tu vile alivyokuwa ameufanyia mji wa Libna.
+10	33	Wakati huo huo, Horamu mfalme wa Gezeri alikuwa amepanda ili kusaidia Lakishi, lakini Yoshua akamshinda pamoja na jeshi lake, hadi hapakubakia mtu yeyote.
+10	34	Ndipo Yoshua akaondoka Lakishi kwenda Egloni akiwa pamoja na Israeli yote; wakajipanga dhidi yake na kuushambulia.
+10	35	Wakauteka mji huo siku ile ile, wakaupiga kwa upanga na kumwangamiza kila mmoja aliyekuwa ndani yake, kama vile walivyokuwa wameufanyia Lakishi.
+10	36	Kisha Yoshua akapanda kutoka Egloni kwenda Hebroni akiwa pamoja na Israeli yote na kuushambulia.
+10	37	Wakauteka mji na kuupiga kwa upanga, pamoja na mfalme wake, vijiji vyake na kila mmoja aliyekuwa ndani yake. Hawakubakiza mtu yeyote. Kama vile huko Egloni, waliuangamiza kabisa pamoja na kila mmoja aliyekuwa ndani yake.
+10	38	Ndipo Yoshua na Israeli wote wakageuka na kuushambulia Debiri.
+10	39	Wakauteka mji, mfalme wake na vijiji vyake, na kuupiga kwa upanga. Kila mmoja aliyekuwa ndani yake wakamwangamiza kabisa. Hawakubakiza mtu yeyote. Wakaufanyia Debiri na mfalme wake kama vile walivyokuwa wameifanyia miji ya Libna na Hebroni na wafalme wao.
+10	40	Hivyo Yoshua akalishinda eneo hilo lote, ikiwa ni pamoja na nchi ya vilima, na Negebu, na sehemu ya magharibi chini ya vilima, materemko ya milima, pamoja na wafalme wake wote. Hakubakiza mtu yeyote. Akaangamiza kabisa kila kitu chenye pumzi, kama vile Bwana, Mungu wa Israeli, alivyokuwa ameamuru.
+10	41	Yoshua akawashinda kuanzia Kadesh-Barnea hadi Gaza na kutoka eneo lote la Gosheni hadi Gibeoni.
+10	42	Wafalme hawa wote pamoja na nchi zao Yoshua aliwashinda kwa wakati mmoja, kwa sababu Bwana, Mungu wa Israeli, aliwapigania Israeli.
+10	43	Ndipo Yoshua akarudi pamoja na Israeli yote kwenye kambi huko Gilgali.
+11	1	Ikawa Yabini mfalme wa Hazori aliposikia habari za mambo haya, akatuma ujumbe kwa Yobabu mfalme wa Madoni, na kwa mfalme wa Shimroni, na kwa mfalme wa Akishafu,
+11	2	na pia kwa wafalme wa upande wa kaskazini wale waliokuwa milimani, katika Araba upande wa kusini mwa Kinerethi, kwenye shefela, upande wa magharibi na katika miinuko ya Nafoth-Dori upande wa magharibi;
+11	3	kwa Wakanaani upande wa mashariki na magharibi; kwa Waamori, Wahiti, Waperizi na Wayebusi katika nchi ya vilima; na kwa Wahivi chini ya Hermoni katika eneo ya Mispa.
+11	4	Wakaja na vikosi vyao vyote na hesabu kubwa ya farasi na magari ya kuvutwa na farasi, jeshi kubwa, kama wingi wa mchanga ulio pwani ya bahari.
+11	5	Wafalme hawa wote wakaunganisha majeshi yao na kupiga kambi pamoja kwenye Maji ya Meromu, ili kupigana dhidi ya Israeli.
+11	6	Bwana akamwambia Yoshua, “Usiwaogope, kwa sababu kesho saa kama hii nitawatia wote mikononi mwa Israeli, wakiwa wameuawa. Utakata mishipa ya nyuma ya miguu ya farasi wao na kuyachoma moto magari yao ya vita.”
+11	7	Hivyo Yoshua pamoja na jeshi lake lote wakaja dhidi yao ghafula kwenye Maji ya Meromu kuwashambulia,
+11	8	naye Bwana akawatia mikononi mwa Israeli. Wakawashinda na kuwafukuza hadi Sidoni Kuu na kuwafikisha Misrefoth-Maimu, hadi Bonde la Mispa upande wa mashariki, hadi pakawa hakuna yeyote aliyebaki.
+11	9	Yoshua akawatendea kama Bwana alivyoamuru. Akakata mishipa ya nyuma ya miguu ya farasi wao na kuchoma moto magari yao ya vita.
+11	10	Wakati huo Yoshua akarudi na kuuteka mji wa Hazori na kumuua mfalme wake kwa upanga. (Hazori ulikuwa mji mkuu wa falme hizo zote.)
+11	11	Kila aliyekuwa ndani yake wakamuua kwa upanga. Wakawaangamiza kabisa, wala hawakusaza chochote chenye pumzi na akauchoma Hazori kwenyewe kwa moto.
+11	12	Yoshua akaiteka hii miji yote ya kifalme pamoja na wafalme wake na kuwapiga kwa upanga. Akawaangamiza kabisa wote, jinsi Mose mtumishi wa Bwana alivyowaagiza.
+11	13	Lakini Israeli hawakuichoma moto hata mojawapo ya miji iliyojengwa katika vilima vyao vidogo isipokuwa mji wa Hazori ambao Yoshua aliuchoma moto.
+11	14	Waisraeli wakajichukulia nyara zote na mifugo yote ya miji hii, bali waliwaua watu wote kwa upanga hadi walipowaangamiza kabisa, pasipo kumbakiza yeyote mwenye pumzi.
+11	15	Kama vile Bwana alivyomwagiza Mose mtumishi wake, vivyo hivyo Mose alimwagiza Yoshua, naye Yoshua akafanya kama vivyo, hakukosa kufanya lolote katika yale yote Bwana aliyomwagiza Mose.
+11	16	Yoshua akaiteka nchi hii yote: nchi ya vilima, Negebu yote, eneo yote ya Gosheni, shefela ya upande wa magharibi, Araba na milima ya Israeli pamoja na shefela zao,
+11	17	kuanzia Mlima Halaki ambao umeinuka kuelekea Seiri hadi Baal-Gadi katika Bonde la Lebanoni chini ya Mlima Hermoni. Akawateka wafalme wake wote, akawapiga na kuwaua.
+11	18	Yoshua akapigana vita dhidi ya wafalme hawa wote kwa muda mrefu.
+11	19	Hakuna mji wowote katika eneo hili uliofanya mkataba wa amani na Israeli, isipokuwa hao Wahivi wa Gibeoni. Wengine wote walishindwa katika vita.
+11	20	Kwa maana Bwana mwenyewe ndiye aliifanya mioyo yao iwe migumu, ili kupigana vita dhidi ya Israeli ili apate kuwafutilia mbali pasipo huruma, kama Bwana alivyomwagiza Mose.
+11	21	Wakati huo Yoshua akaenda kuwaangamiza Waanaki kutoka nchi ya vilima: kuanzia Hebroni, Debiri na Anabu, na kutoka nchi yote ya vilima ya Yuda na kutoka nchi yote ya vilima ya Israeli. Yoshua akawaangamiza kabisa pamoja na miji yao.
+11	22	Hawakubaki Waanaki wowote katika nchi ya Israeli, ila tu katika nchi ya Gaza, Gathi na Ashdodi.
+11	23	Hivyo Yoshua akaiteka nchi hiyo yote kama vile Bwana alivyokuwa amemwagiza Mose, naye Yoshua akawapa Israeli kuwa urithi wao, kulingana na walivyogawanyika katika kabila zao. Ndipo nchi ikawa na amani bila vita.
+12	1	Hawa ndio wafalme wa nchi ambao Waisraeli waliwashinda na kuitwaa nchi yao upande wa mashariki mwa Yordani, kuanzia Bonde la Arnoni mpaka Mlima Hermoni, pamoja na eneo lote la upande wa mashariki ya Araba:
+12	2	Sihoni mfalme wa Waamori, ambaye alitawala huko Heshboni. Alitawala kuanzia Aroeri kwenye ukingo wa Bonde la Arnoni, kuanzia katikati ya bonde, hadi kwenye Mto Yaboki, ambao ni mpaka wa Waamoni. Hii ilijumlisha nusu ya Gileadi.
+12	3	Pia alitawala Araba ya mashariki kuanzia Bahari ya Kinerethi hadi Bahari ya Araba (yaani Bahari ya Chumvi), hadi Beth-Yeshimothi, kisha kuelekea kusini chini ya materemko ya Pisga.
+12	4	Nayo nchi ya Ogu mfalme wa Bashani, aliyekuwa mmoja wa mabaki ya Warefai, aliyetawala Ashtarothi na Edrei.
+12	5	Naye alitawala katika Mlima Hermoni, Saleka, Bashani yote hadi mpaka wa watu wa Geshuri, na watu wa Maaka na nusu ya Gileadi, hadi kwenye mpaka wa Sihoni mfalme wa Heshboni.
+12	6	Mose, mtumishi wa Bwana, na Waisraeli wakawashinda. Naye Mose mtumishi wa Bwana akawapa Wareubeni, Wagadi na nusu ya kabila la Manase nchi ya hao wafalme ili iwe milki yao.
+12	7	Hawa ndio wafalme wa nchi ambao Yoshua na Waisraeli waliwashinda upande wa magharibi mwa Yordani, kuanzia Baal-Gadi katika Bonde la Lebanoni hadi kufikia Mlima Halaki, unaoinuka ukielekea Seiri. (Yoshua alitoa nchi zao kwa makabila ya Israeli iwe urithi wao sawasawa na mgawanyiko wa makabila yao:
+12	8	nchi ya vilima, shefela, upande wa magharibi, Araba, materemko ya milima, jangwa, na Negebu; nchi za Wahiti, Waamori, Wakanaani, Waperizi, Wahivi na Wayebusi):
+12	9	mfalme wa Yeriko mmoja mfalme wa Ai (karibu na Betheli) mmoja
+12	10	mfalme wa Yerusalemu mmoja mfalme wa Hebroni mmoja
+12	11	mfalme wa Yarmuthi mmoja mfalme wa Lakishi mmoja
+12	12	mfalme wa Egloni mmoja mfalme wa Gezeri mmoja
+12	13	mfalme wa Debiri mmoja mfalme wa Gederi mmoja
+12	14	mfalme wa Horma mmoja mfalme wa Aradi mmoja
+12	15	mfalme wa Libna mmoja mfalme wa Adulamu mmoja
+12	16	mfalme wa Makeda mmoja mfalme wa Betheli mmoja
+12	17	mfalme wa Tapua mmoja mfalme wa Heferi mmoja
+12	18	mfalme wa Afeki mmoja mfalme wa Lasharoni mmoja
+12	19	mfalme wa Madoni mmoja mfalme wa Hazori mmoja
+12	20	mfalme wa Shimron-Meroni mmoja mfalme wa Akishafu mmoja
+12	21	mfalme wa Taanaki mmoja mfalme wa Megido mmoja
+12	22	mfalme wa Kedeshi mmoja mfalme wa Yokneamu katika Karmeli mmoja
+12	23	mfalme wa Dori (katika Nafoth-Dori) mmoja mfalme wa Goimu katika Gilgali mmoja
+12	24	mfalme wa Tirsa mmoja wafalme jumla yao ilikuwa thelathini na mmoja.
+13	1	Yoshua alipokuwa mzee na umri wake ukiwa umesogea sana, Bwana akamwambia, “Wewe ni mzee sana, na bado kumesalia sehemu kubwa sana za nchi ambazo ni za kutwaliwa.
+13	2	“Nchi iliyosalia ni hii: maeneo yote ya Wafilisti na Wageshuri:
+13	3	kutoka Mto Shihori ulioko mashariki mwa Misri, kuelekea kaskazini kwenye eneo la Ekroni, ambayo yote ilihesabika kama ya Wakanaani (maeneo yale matano ya watawala wa Kifilisti, ambayo ni Gaza, Ashdodi, Ashkeloni, Gathi na Ekroni: ndiyo nchi ya Waavi);
+13	4	kuanzia kusini, nchi yote ya Wakanaani, kuanzia Ara ambayo ni ya Wasidoni, ikienea hadi Afeki, na eneo la Waamori,
+13	5	eneo la Wagebali; Lebanoni yote kuelekea mashariki, kuanzia Baal-Gadi chini ya Mlima Hermoni hadi Lebo-Hamathi.
+13	6	“Na kuhusu wakaaji wote katika maeneo ya milima, kuanzia Lebanoni hadi Misrefoth-Maimu, pamoja na eneo lote la Wasidoni, mimi mwenyewe nitawafukuza watoke mbele ya Waisraeli. Hakikisha umegawa nchi hii kwa Israeli kuwa urithi, kama nilivyokuagiza,
+13	7	sasa basi, ligawanye eneo hili kwa yale makabila tisa na ile nusu ya kabila la Manase kuwa urithi.”
+13	8	Ile nusu nyingine ya Manase, Wareubeni na Wagadi, walishapokea urithi Mose aliokuwa amewapa mashariki mwa Yordani, sawasawa na mtumishi wa Bwana alivyowagawia.
+13	9	Eneo lao lilienea toka Aroeri, iliyoko ukingoni mwa Bonde la Arnoni kuanzia mji ulio katikati ya bonde, likijumlisha nchi ya uwanda wa juu wote wa Medeba mpaka Diboni,
+13	10	nayo miji yote ya Sihoni mfalme wa Waamori, aliyetawala Heshboni, hadi mpakani mwa Waamoni.
+13	11	Vilevile ilijumlisha Gileadi, eneo la Wageshuri na Wamaaka, mlima wote wa Hermoni na Bashani yote ikienea hadi Saleka:
+13	12	yaani ufalme wote wa Ogu katika Bashani, aliyekuwa ametawala katika Ashtarothi na Edrei, na ndiye pekee alisalia kwa Warefai. Mose alikuwa amewashinda na kuteka nchi yao.
+13	13	Lakini Waisraeli hawakuwafukuza watu wa Geshuri na wa Maaka, kwa hiyo wanaendelea kuishi miongoni mwa Waisraeli mpaka leo hii.
+13	14	Lakini kwa kabila la Lawi, Mose hakupeana urithi, kwa kuwa sadaka za kuteketezwa kwa moto zilizotolewa kwa Bwana, Mungu wa Israeli, ndizo zilizokuwa urithi wao, kama alivyowaahidi.
+13	15	Haya ndiyo maeneo ambayo Mose alikuwa amewapa kabila la Reubeni ukoo kwa ukoo:
+13	16	Eneo la Aroeri lililo ukingoni mwa Bonde la Arnoni, na kuanzia mji ulio katikati ya bonde, pia uwanda wote wa juu kupita Medeba
+13	17	hadi Heshboni na miji yake yote kwenye uwanda wa juu, ikijumlishwa miji ya Diboni, Bamoth-Baali, Beth-Baal-Meoni,
+13	18	Yahasa, Kedemothi, Mefaathi,
+13	19	Kiriathaimu, Sibma, Sereth-Shahari juu ya kilima kilicho katika bonde,
+13	20	Beth-Peori, materemko ya Pisga na Beth-Yeshimothi:
+13	21	miji yote ya uwanda wa juu na eneo lote la utawala wa Sihoni mfalme wa Waamori, aliyetawala katika Heshboni. Mose alikuwa amemshinda Sihoni, pia watawala wakuu wa Wamidiani, ambao ni Evi, Rekemu, Suri, Huri na Reba, waliokuwa wameungana na Sihoni, ambao waliishi katika nchi ile.
+13	22	Pamoja na wale waliouawa katika vita, Waisraeli walikuwa wamemuua kwa upanga Balaamu mwana wa Beori aliyekuwa mchawi.
+13	23	Mpaka wa Wareubeni ulikuwa ni ukingo wa Mto Yordani. Miji hii na vijiji vyake ndiyo iliyokuwa urithi wa Wareubeni ukoo kwa ukoo.
+13	24	Haya ndiyo maeneo ambayo Mose alikuwa amewapa kabila la Gadi, ukoo kwa ukoo:
+13	25	Nchi ya Yazeri, miji yote ya Gileadi na nusu ya nchi ya Amoni iliyoenea hadi Aroeri, karibu na Raba;
+13	26	na kuanzia Heshboni mpaka Ramath-Mispa na Betonimu, na kutoka Mahanaimu hadi eneo la Debiri;
+13	27	na katika bonde, Beth-Haramu, Beth-Nimra, Sukothi na Safoni na sehemu iliyobaki ya eneo la utawala wa Sihoni mfalme wa Heshboni (upande wa mashariki mwa Mto Yordani, eneo inayoishia kwenye Bahari ya Kinerethi).
+13	28	Miji hii na vijiji vyake ilikuwa urithi wa kabila la Gadi ukoo kwa ukoo.
+13	29	Haya ndiyo maeneo ambayo Mose alikuwa amewapa hiyo nusu ya kabila la Manase, yaani kwa nusu ya jamaa ya uzao wa Manase, ukoo kwa ukoo:
+13	30	Eneo lililoenea kuanzia Mahanaimu, na kujumlisha Bashani yote, ufalme wote wa Ogu mfalme wa Bashani, makazi yote ya Yairi huko Bashani, miji sitini,
+13	31	nusu ya Gileadi, na Ashtarothi na Edrei (miji ya kifalme ya Ogu katika Bashani). Hii ilikuwa kwa ajili ya wazao wa Makiri mwana wa Manase, kwa ajili ya nusu ya wana wa Makiri, ukoo kwa ukoo.
+13	32	Huu ndio urithi alioupeana Mose wakati alipokuwa katika tambarare za Moabu, ngʼambo ya Yordani mashariki mwa Yeriko.
+13	33	Lakini kwa kabila la Walawi, Mose hakuwapa urithi; Bwana Mungu, Mungu wa Israeli ndiye urithi wao, kama alivyowaahidi.
+14	1	Basi haya ndiyo maeneo Waisraeli waliyopokea kama urithi katika nchi ya Kanaani, ambayo kuhani Eleazari, Yoshua mwana wa Nuni na viongozi wa koo za kabila za Israeli waliwagawia.
+14	2	Urithi wao uligawanywa kwa kura kwa yale makabila tisa na nusu, kama Bwana alivyoamuru Mose.
+14	3	Mose alikuwa amewapa yale makabila mawili na nusu urithi wao upande wa mashariki mwa Yordani, lakini Walawi hawakupewa urithi miongoni mwa hao wengine,
+14	4	kwa kuwa wana wa Yosefu walikuwa makabila mawili; Manase na Efraimu. Walawi hawakupata mgawo wa ardhi, bali walipewa miji tu kwa ajili ya kuishi, pamoja na maeneo ya malisho kwa ajili ya makundi yao ya kondoo, mbuzi na ngʼombe wao.
+14	5	Kwa hiyo Waisraeli wakagawana ile nchi, kama vile Bwana alivyomwagiza Mose.
+14	6	Kisha watu wa Yuda wakamwendea Yoshua huko Gilgali, naye Kalebu mwana wa Yefune yule Mkenizi, akamwambia, “Unajua jambo ambalo Bwana alimwambia Mose mtu wa Mungu huko Kadesh-Barnea kukuhusu wewe na mimi.
+14	7	Nilikuwa na umri wa miaka arobaini, wakati Mose mtumishi wa Bwana, aliponituma kutoka Kadesh-Barnea kuipeleleza hiyo nchi. Nami nikamletea taarifa kama kulingana na nilivyosadiki moyoni.
+14	8	Lakini ndugu zangu tuliopanda nao waliifanya mioyo ya watu iyeyuke kwa hofu. Bali mimi, nilimfuata Bwana Mungu wangu kwa moyo wote.
+14	9	Hivyo katika siku ile, Mose akaniapia, ‘Nchi ambayo umeikanyaga kwa miguu yako itakuwa urithi wako na wa watoto wako milele, kwa sababu umemfuata Bwana Mungu wangu kwa moyo wote.’
+14	10	“Sasa basi, kama vile Bwana alivyoahidi, ameniweka hai kwa miaka arobaini na mitano tangu wakati alipomwambia Mose jambo hili, wakati Waisraeli wakiwa wanazunguka jangwani. Hivyo mimi hapa leo, nina umri wa miaka themanini na mitano!
+14	11	Bado ninazo nguvu kama siku ile Mose aliponituma. Bado ninazo nguvu za kwenda vitani sasa kama vile nilivyokuwa wakati ule.
+14	12	Basi nipe nchi hii ya vilima, ambayo Bwana aliniahidi siku ile. Wewe mwenyewe ulisikia wakati ule kwamba Waanaki walikuwako huko na miji yao ilikuwa mikubwa na yenye maboma, lakini, kwa msaada wa Bwana, nitawafukuza watoke huko kama vile alivyonena.”
+14	13	Ndipo Yoshua akambariki Kalebu mwana wa Yefune, na akampa Hebroni kama urithi wake.
+14	14	Hivyo Hebroni imekuwa mali ya Kalebu mwana wa Yefune Mkenizi tangu wakati ule, kwa sababu alimwandama Bwana, Mungu wa Israeli, kwa moyo wote.
+14	15	(Hebroni uliitwa Kiriath-Arba hapo mwanzo, kutokana na huyo Arba ambaye alikuwa mtu mkuu kupita wote miongoni mwa Waanaki.) Kisha nchi ikawa na amani bila vita.
+15	1	Mgawo kwa kabila la Yuda, ulienea ukoo kwa ukoo, ukishuka kufikia eneo la Edomu, hadi Jangwa la Sini mwisho kabisa upande wa kusini.
+15	2	Mpaka wao wa kusini ulianzia kwenye ghuba iliyoko kwenye ncha ya kusini mwa Bahari ya Chumvi,
+15	3	ukakatiza kusini mwa Akrabimu, ukaendelea hadi Sini ukaenda hadi kusini mwa Kadesh-Barnea. Tena ukapitia Hesroni ukapanda hadi Adari na ukapinda hadi Karka.
+15	4	Kisha ukaendelea mpaka Azmoni na kuunganika na Kijito cha Misri, na kuishia baharini. Huu ndio mpaka wao wa upande wa kusini.
+15	5	Mpaka wa upande wa mashariki ni Bahari ya Chumvi ukienea mahali Mto Yordani unapoingilia. Mpaka wa upande wa kaskazini ulianzia penye ghuba ya bahari mahali Mto Yordani unapoingilia,
+15	6	ukapanda hadi Beth-Hogla, na kuendelea kaskazini mwa Beth-Araba hadi kwenye Jiwe la Bohani mwana wa Reubeni.
+15	7	Kisha mpaka ulipanda hadi Debiri kutoka Bonde la Akori na kugeuka kaskazini hadi Gilgali inayotazamana na materemko ya Adumimu, kusini mwa bonde. Ukaendelea sambamba hadi maji ya En-Shemeshi na kutokeza huko En-Rogeli.
+15	8	Kisha ukapanda kwa kufuata Bonde la Ben-Hinomu sambamba na mteremko wa kusini wa mji mkubwa wa Wayebusi (yaani Yerusalemu). Kutoka hapo ukapanda juu ya kilima magharibi ya Bonde la Hinomu mwisho wa ncha ya kaskazini mwa Bonde la Warefai.
+15	9	Kutoka juu ya kilima mpaka ule ukaendelea hadi kwenye chemchemi ya maji ya Neftoa, ukatokea kwenye miji ya Mlima Efroni na kuteremka kuelekea Baala (yaani Kiriath-Yearimu).
+15	10	Kisha ukapinda upande wa magharibi kutoka Baala hadi Mlima Seiri, ukafuatia sambamba mteremko wa kaskazini mwa Mlima Yearimu (yaani Kesaloni), ukaendelea chini hadi Beth-Shemeshi na kukatiza hadi Timna.
+15	11	Ukaelekea hadi kwenye mteremko wa kaskazini mwa Ekroni, ukageuka kuelekea Shikeroni, ukapita hadi Mlima Baala na kufika Yabineeli. Mpaka ule ukaishia baharini.
+15	12	Mpaka wa magharibi ni pwani ya Bahari Kuu. Hii ndiyo mipaka ya watu wa Yuda kwa koo zao.
+15	13	Kwa kufuata maagizo ya Bwana kwake, Yoshua alimpa Kalebu mwana wa Yefune sehemu katika Yuda: Kiriath-Arba, yaani Hebroni (Arba alikuwa baba wa zamani wa Anaki).
+15	14	Kutoka Hebroni Kalebu alifukuza hao wana watatu wa Anaki, nao ni Sheshai, Ahimani na Talmai, wazao wa Anaki.
+15	15	Kutoka hapo akaondoka kupigana dhidi ya watu walioishi Debiri (jina la Debiri hapo kwanza uliitwa Kiriath-Seferi).
+15	16	Kalebu akasema, “Nitamwoza binti yangu Aksa kwa mtu atakayeweza kupigana na kuteka Kiriath-Seferi.”
+15	17	Basi Othnieli mwana wa Kenazi, ndugu yake Kalebu, akauteka; hivyo Kalebu akamtoa Aksa binti yake aolewe naye.
+15	18	Siku moja Aksa alipokuja kwa Othnieli, alimsihi Othnieli amwombe baba yake, Kalebu, shamba. Aksa aliposhuka kutoka juu ya punda wake, Kalebu akamuuliza, “Je, wataka nikufanyie nini?”
+15	19	Akamjibu, “Naomba unifanyie jambo moja la hisani. Kwa kuwa umenipa ardhi huko Negebu, nipe pia chemchemi za maji.” Basi Kalebu akampa chemchemi za juu na za chini.
+15	20	Huu ndio urithi wa kabila la Yuda, ukoo kwa ukoo:
+15	21	Miji ya kusini kabisa ya kabila la Yuda katika Negebu kuelekea mpaka wa Edomu ilikuwa: Kabseeli, Ederi, Yaguri,
+15	22	Kina, Dimona, Adada,
+15	23	Kedeshi, Hazori, Ithnani,
+15	24	Zifu, Telemu, Bealothi,
+15	25	Hazor-Hadata, Kerioth-Hezroni (yaani Hazori),
+15	26	Amamu, Shema, Molada,
+15	27	Hasar-Gada, Heshmoni, Beth-Peleti,
+15	28	Hasar-Shuali, Beer-Sheba, Biziothia,
+15	29	Baala, Iyimu, Esemu,
+15	30	Eltoladi, Kesili, Horma,
+15	31	Siklagi, Madmana, Sansana,
+15	32	Lebaothi, Shilhimu, Aini na Rimoni; hiyo yote ni miji ishirini na tisa, pamoja na vijiji vyake.
+15	33	Kwenye shefela ya magharibi: Eshtaoli, Sora, Ashna,
+15	34	Zanoa, En-Ganimu, Tapua, Enamu,
+15	35	Yarmuthi, Adulamu, Soko, Azeka,
+15	36	Shaaraimu, Adithaimu na Gedera (au Gederothaimu); yote ni miji kumi na minne, pamoja na vijiji vyake.
+15	37	Senani, Hadasha, Migdal-Gadi,
+15	38	Dileani, Mispa, Yoktheeli,
+15	39	Lakishi, Boskathi, Egloni,
+15	40	Kaboni, Lamasi, Kitlishi,
+15	41	Gederothi, Beth-Dagoni, Naama na Makeda; yote ni miji kumi na sita pamoja na vijiji vyake.
+15	42	Libna, Etheri, Ashani,
+15	43	Yifta, Ashna, Nesibu,
+15	44	Keila, Akzibu na Maresha; yote ni miji tisa pamoja na vijiji vyake.
+15	45	Ekroni, pamoja na viunga vyake na vijiji vyake;
+15	46	magharibi ya Ekroni, maeneo yote yaliyokuwa karibu na Ashdodi, pamoja na vijiji vyake;
+15	47	Ashdodi, miji yake na vijiji vyake na Gaza viunga vyake na vijiji vyake, hadi kufikia Kijito cha Misri na Pwani ya Bahari Kuu.
+15	48	Katika nchi ya vilima: Shamiri, Yatiri, Soko,
+15	49	Dana, Kiriath-Sana (yaani Debiri),
+15	50	Anabu, Eshtemoa, Animu,
+15	51	Gosheni, Holoni na Gilo; miji kumi na mmoja pamoja na vijiji vyake.
+15	52	Arabu, Duma, Ashani,
+15	53	Yanimu, Beth-Tapua, Afeka,
+15	54	Humta, Kiriath-Arba (yaani Hebroni), na Siori; miji tisa pamoja na vijiji vyake.
+15	55	Maoni, Karmeli, Zifu, Yuta,
+15	56	Yezreeli, Yokdeamu, Zanoa,
+15	57	Kaini, Gibea na Timna; miji kumi pamoja na vijiji vyake.
+15	58	Halhuli, Beth-Suri, Gedori,
+15	59	Maarathi, Beth-Anothi na Eltekoni; miji sita pamoja na vijiji vyake.
+15	60	Kiriath-Baali (yaani Kiriath-Yearimu) na Raba; miji miwili pamoja na vijiji vyake.
+15	61	Huko jangwani: Beth-Araba, Midini, Sekaka,
+15	62	Nibshani, Mji wa Chumvi, na En-Gedi; miji sita pamoja na vijiji vyake.
+15	63	Yuda hakuweza kuwafukuza Wayebusi, waliokuwa wakiishi Yerusalemu; hadi leo Wayebusi huishi huko pamoja na watu wa Yuda.
+16	1	Mgawanyo wa Yosefu ulianzia Yordani ya Yeriko, mashariki mwa miji ya Yeriko na kutoka hapo ulipanda kupitia jangwani na kuingia katika nchi ya vilima ya Betheli.
+16	2	Ukaendelea kutoka Betheli (ndiyo Luzu), ukavuka kuingia eneo la Waariki huko Atarothi,
+16	3	ukateremkia kuelekea magharibi hadi eneo la Wayafleti ukienea hadi eneo la Beth-Horoni ya Chini hadi Gezeri, ukiishia baharini.
+16	4	Kwa hiyo Manase na Efraimu, wazao wa Yosefu, walipokea urithi wao.
+16	5	Hili ndilo lilikuwa eneo la Efraimu, ukoo kwa ukoo: Mpaka wa urithi wao ulianzia Ataroth-Adari upande wa mashariki hadi Beth-Horoni ya Juu,
+16	6	na kuendelea mpaka baharini. Kutoka Mikmeta upande wa kaskazini ulipinda kuelekea mashariki hadi Taanath-Shilo, ukiupita hadi Yanoa upande wa mashariki.
+16	7	Kisha uliteremka kutoka Yanoa hadi Atarothi na Naara, ukagusa Yeriko na kutokea katika Mto Yordani.
+16	8	Kutoka Tapua mpaka ulikwenda magharibi hadi Bonde la Kana na kuishia baharini. Huu ulikuwa ndio urithi wa kabila la Waefraimu, ukoo kwa ukoo.
+16	9	Pia ulijumuisha miji yote na vijiji vyake ambavyo vilitengwa kwa ajili ya Waefraimu ndani ya urithi wa kabila la Manase.
+16	10	Hawakuwatoa Wakanaani waishio Gezeri; mpaka leo Wakanaani wanaishi miongoni mwa watu wa Efraimu lakini wanatakiwa kufanya kazi ngumu za kulazimishwa.
+17	1	Huu ndio mgawo wa kabila la Manase kama mzaliwa wa kwanza wa Yosefu, yaani kwa ajili ya Makiri, mzaliwa wa kwanza wa Manase. Makiri alikuwa baba wa Wagileadi, ambao walipokea Gileadi na Bashani kwa sababu Wamakiri walikuwa askari wakuu.
+17	2	Kwa hiyo mgawo huu ulikuwa kwa ajili ya watu wa Manase waliokuwa wamebaki, ambao ni koo za Abiezeri, Heleki, Asirieli, Shekemu, Heferi na Shemida. Hawa ndio wanaume wale wengine wa uzao wa Manase mwana wa Yosefu kwa koo zao.
+17	3	Basi Selofehadi mwana wa Heferi, mwana wa Gileadi, mwana wa Makiri, mwana wa Manase hakuwa na wana waume ila mabinti tu, ambao majina yao yalikuwa Mahla, Noa, Hogla, Milka na Tirsa.
+17	4	Wakamwendea kuhani Eleazari, Yoshua mwana wa Nuni, na viongozi, wakasema: “Bwana alimwagiza Mose atupatie urithi miongoni mwa ndugu zetu.” Kwa hiyo Yoshua akawapa urithi pamoja na ndugu wa baba yao, kufuatana na agizo la Bwana.
+17	5	Fungu la Manase lilikuwa na sehemu kumi za nchi, licha ya Gileadi na Bashani mashariki mwa Yordani,
+17	6	kwa sababu wale binti za kabila la Manase walipokea urithi miongoni mwa wana wa kiume. Nchi ya Gileadi ilikuwa mali ya wazao wa Manase waliobaki.
+17	7	Eneo la Manase lilienea kuanzia Asheri hadi Mikmeta mashariki mwa Shekemu. Mpaka ule ulielekea upande wa kusini kutoka pale kujumuisha watu walioishi En-Tapua.
+17	8	(Nchi ya Tapua ilikuwa mali ya Manase, lakini Tapua yenyewe iliyo mpakani mwa nchi ya Manase ilikuwa ya Waefraimu.)
+17	9	Kisha mpaka ule uliendelea kuelekea kusini hadi Bonde la Kana. Kulikuwepo miji ya Efraimu iliyokuwa miongoni mwa miji ya Manase, lakini mpaka wa Manase ulikuwa upande wa kaskazini wa lile bonde na kuishia kwenye bahari.
+17	10	Nchi ya kusini ilikuwa ya Efraimu, na ile iliyokuwa upande wa kaskazini ilikuwa ya Manase. Eneo la Manase lilifika bahari na ikapakana na Asheri upande wa kaskazini, na Isakari upande wa mashariki.
+17	11	Katika Isakari na Asheri Manase alikuwa na miji pia: Beth-Shani, Ibleamu na watu wa Dori, Endori, Taanaki na Megido, pamoja na vijiji vyote vinavyohusika na miji hiyo (ya tatu katika orodha ni Nafothi).
+17	12	Lakini Wamanase hawakuweza kuimiliki miji hii, kwa kuwa Wakanaani walikazana kuishi katika maeneo hayo.
+17	13	Hata hivyo, Waisraeli walivyoendelea kupata nguvu waliwatumikisha Wakanaani na kuwatia katika kazi za kulazimishwa, lakini hawakuwafukuza kabisa.
+17	14	Watu wa Yosefu wakamwambia Yoshua, “Kwa nini umetupa sisi mgawo mmoja tu na sehemu moja tu kuwa urithi? Sisi tu watu wengi sana, na Bwana ametubariki kwa wingi.”
+17	15	Yoshua akajibu, “Kama ninyi ni wengi sana, na kama nchi ya vilima ya Efraimu ni ndogo sana kwenu, pandeni msituni mkafyeke eneo kwa ajili yenu wenyewe huko kwenye nchi ya Waperizi na Warefai.”
+17	16	Watu wa Yosefu wakajibu, “Hiyo nchi ya vilima haitutoshi, nao Wakanaani wote wanaoishi katika tambarare wanayo magari ya vita ya chuma, wote wa Beth-Shani na miji yake, na wale walio katika Bonde la Yezreeli.”
+17	17	Lakini Yoshua akanena na nyumba ya Yosefu, yaani Efraimu na Manase: “Ninyi ni wengi sana na wenye nguvu sana. Hamtakuwa na mgawo mmoja tu,
+17	18	bali pia nchi hii ya kilima yenye msitu. Ifyekeni, nayo mipaka yake itakuwa yenu umbali mtakaoweza kufika. Ingawa Wakanaani wana magari ya chuma, nao wana nguvu, mwaweza kuwafukuza humo.”
+18	1	Kusanyiko lote la Waisraeli likakusanyika huko Shilo na kusimamisha Hema la Kukutania. Nchi ikawa chini ya utawala wao,
+18	2	lakini palikuwa bado makabila saba ya Israeli ambayo yalikuwa hayajapokea urithi wao.
+18	3	Hivyo Yoshua akawaambia Waisraeli, “Je, mtasubiri hata lini ili kuingia kumiliki nchi ambayo Bwana, Mungu wa baba zenu, amewapa?
+18	4	Chagueni watu watatu kutoka kwenye kila kabila. Nitawatuma hao watu kukagua hiyo nchi na kuniandikia mapendekezo ya mgawanyo wa urithi wa kila kabila. Nao watanirudia.
+18	5	Mtaigawanya hiyo nchi katika sehemu saba. Yuda atabaki katika eneo lake upande wa kusini na nyumba ya Yosefu katika nchi yake upande wa kaskazini.
+18	6	Baada ya kuandika maelezo ya hizo sehemu saba za nchi, yaleteni kwangu, nami nitawapigia kura kwa kura mbele za Bwana Mungu wetu.
+18	7	Hata hivyo, Walawi hawatakuwa na sehemu miongoni mwenu, kwa maana huduma ya ukuhani kwa Bwana ndio urithi wao. Nao Gadi, Reubeni na nusu ya kabila la Manase wameshapata urithi wao upande wa mashariki mwa Yordani, ambako Mose mtumishi wa Bwana aliwapa.”
+18	8	Watu hao walipokuwa wanaondoka kwenda kuandika vizuri kuhusu hiyo nchi, Yoshua akawaagiza, “Nendeni mkakague hiyo nchi na mwandike maelezo kuihusu. Kisha mrudi kwangu, nami nitawapigia kura hapa Shilo mbele za Bwana.”
+18	9	Ndipo hao watu walipoondoka na kupita katika ile nchi. Wakaandika maelezo yake kwenye kitabu, mji kwa mji, katika sehemu saba na kurudisha taarifa kwa Yoshua huko kambini Shilo.
+18	10	Basi Yoshua akawapigia kura huko Shilo mbele za Bwana, na hapo akagawanya ile nchi kwa Waisraeli kufuatana na mgawanyo wa kabila zao.
+18	11	Kura iliangukia kabila la Benyamini, ukoo kwa ukoo. Eneo lao walilogawiwa lilikuwa kati ya kabila la Yuda na la Yosefu.
+18	12	Upande wa kaskazini mpaka wao ulianzia pale Yordani, kupitia kaskazini ya mteremko wa Yeriko na kuendelea magharibi kuingia katika nchi ya vilima, ukitokea kwenye jangwa la Beth-Aveni.
+18	13	Kutoka hapo ulikatiza kwenye mteremko wa kusini mwa Luzu (yaani Betheli) na kushuka hadi Ataroth-Adari katika kilima kusini mwa Beth-Horoni ya Chini.
+18	14	Kutoka kilima kinachotazamana na Beth-Horoni upande wa kusini mpaka ule ukazunguka kusini kufuatia upande wa magharibi, na ukatokezea Kiriath-Baali (yaani Kiriath-Yearimu), mji wa watu wa Yuda. Huu ndio uliokuwa upande wa magharibi.
+18	15	Upande wa kusini mpaka ulianzia kwenye viunga vya Kiriath-Yearimu kwa upande wa magharibi, nao ukatokeza kwenye chemchemi ya maji ya Neftoa.
+18	16	Mpaka ukateremka hadi shefela inayotazamana na Bonde la Ben-Hinomu, kaskazini mwa Bonde la Refaimu. Ukaendelea chini kwenye Bonde la Hinomu sambamba na mteremko wa kusini mwa mji mkubwa wa Wayebusi na kisha hadi En-Rogeli.
+18	17	Kisha ukapinda kuelekea kaskazini, ukaenda hadi En-Shemeshi na kuendelea mpaka Gelilothi, inayotazamana na Njia ya Adumimu, ukateremka hadi kwenye Jiwe la Bohani mwana wa Reubeni.
+18	18	Ukaendelea upande wa mteremko wa kaskazini wa Beth-Araba ukateremka hadi Araba.
+18	19	Kisha ukaenda mpaka kwenye mteremko wa kaskazini wa Beth-Hogla na kujitokeza kwenye ghuba ya kaskazini ya Bahari ya Chumvi, kwenye maingilio ya Yordani upande wa kusini. Huo ulikuwa mpaka wa kusini.
+18	20	Nayo Yordani ikawa ndio mpaka wa upande wa mashariki. Hii ilikuwa ndiyo mipaka iliyoonyesha urithi wa koo za Benyamini pande zote.
+18	21	Kabila ya Benyamini, ukoo kwa ukoo, ilikuwa na miji mikubwa ifuatayo: Yeriko, Beth-Hogla, Emeki-Kesisi,
+18	22	Beth-Araba, Semaraimu, Betheli,
+18	23	Avimu, Para na Ofra,
+18	24	Kefar-Amoni, Ofni, na Geba; miji kumi na miwili pamoja na vijiji vyake.
+18	25	Gibeoni, Rama na Beerothi,
+18	26	Mispa, Kefira, Moza,
+18	27	Rekemu, Irpeeli, Tarala,
+18	28	Zela, Elefu, mji wa Wayebusi (yaani Yerusalemu), Gibea na Kiriathi; miji kumi na minne pamoja na vijiji vyake. Huu ndio uliokuwa urithi wa Benyamini kwa ajili ya koo zake.
+19	1	Kura ya pili ikaangukia kabila la Simeoni, ukoo kwa ukoo. Urithi wao ulikuwa ndani ya eneo la Yuda.
+19	2	Ulijumuisha: Beer-Sheba (au Sheba), Molada,
+19	3	Hasar-Shuali, Bala, Esemu,
+19	4	Eltoladi, Bethuli, Horma,
+19	5	Siklagi, Beth-Markabothi, Hasar-Susa,
+19	6	Beth-Lebaothi na Sharuheni; hii ilikuwa miji kumi na mitatu pamoja na vijiji vyake.
+19	7	Pia Aini, Rimoni, Etheri, na Ashani; hii ilikuwa miji minne na vijiji vyake,
+19	8	pamoja na vijiji vyote vinavyoizunguka miji hii mpaka Baalath-Beeri (ambayo ndiyo Rama iliyo katika Negebu). Huu ulikuwa ni urithi wa kabila la Simeoni ukoo kwa ukoo.
+19	9	Urithi wa Wasimeoni ulitolewa kutoka fungu la Yuda, kwa kuwa fungu la Yuda lilikuwa kubwa kuliko walivyohitaji. Hivyo kabila la Simeoni lilipewa urithi wao ndani ya eneo la Yuda.
+19	10	Kura ya tatu ikaangukia kabila la Zabuloni, ukoo kwa ukoo: Mpaka wa urithi wao uliendelea hadi Saridi.
+19	11	Kuelekea upande wa magharibi ukafika Marala, ukagusa Dabeshethi, na kuendelea mpaka kwenye bonde karibu na Yokneamu.
+19	12	Ukageuka mashariki, kuanzia Saridi kuelekea mawio ya jua hadi kwenye nchi ya Kisiloth-Tabori, na kwenda hadi Daberathi, kupanda Yafia.
+19	13	Kisha ukaendelea mashariki hadi Gath-Heferi na kufika Eth-Kasini, ukatokea Rimoni na kugeuka kuelekea Nea.
+19	14	Huko mpaka ukazungukia upande wa kaskazini hadi Hanathoni na kuishia katika Bonde la Ifta-Eli.
+19	15	Miji mingine iliyojumuishwa ni Katathi, Nahalali, Shimroni, Idala na Bethlehemu. Kulikuwa na miji kumi na miwili pamoja na vijiji vyake.
+19	16	Miji hii na vijiji vyake ilikuwa ndio urithi wa Zabuloni, ukoo kwa ukoo.
+19	17	Kura ya nne ikamwangukia Isakari, ukoo kwa ukoo.
+19	18	Eneo lao lilijumuisha: Yezreeli, Kesulothi, Shunemu,
+19	19	Hafaraimu, Shioni, Anaharathi,
+19	20	Rabithi, Kishioni, Ebesi,
+19	21	Remethi, En-Ganimu, En-Hada na Beth-Pasesi.
+19	22	Mpaka ule ukagusa Tabori, Shahasuma na Beth-Shemeshi, na ukaishia kwenye Yordani. Ilikuwa miji kumi na sita, pamoja na vijiji vyake.
+19	23	Miji hii pamoja na vijiji vyake ilikuwa urithi wa kabila la Isakari, ukoo kwa ukoo.
+19	24	Kura ya tano ikaangukia kabila la Asheri, ukoo kwa ukoo.
+19	25	Eneo lao lilijumuisha: Helkathi, Hali, Beteni, Akishafu,
+19	26	Alameleki, Amadi na Mishali. Upande wa magharibi mpaka uligusa Karmeli na Shihor-Libnathi.
+19	27	Tena ukageuka mashariki kuelekea Beth-Dagoni, ukagusa Zabuloni na Bonde la Ifta-Eli, ukaenda upande wa kaskazini hadi Beth-Emeki na Neyeli, ukipitia Kabul upande wa kushoto.
+19	28	Ukaendelea hadi Abdoni, Rehobu, Hamoni na Kana, na kufika Sidoni Kuu.
+19	29	Mpaka huo ukageukia nyuma kuelekea Rama na kwenda hadi kwenye mji wenye ngome wa Tiro, ukageuka kuelekea Hosa na kutokeza baharini katika eneo la Akzibu,
+19	30	Uma, Afeki na Rehobu. Ilikuwepo miji ishirini na miwili, pamoja na vijiji vyake.
+19	31	Miji hii pamoja na vijiji vyake ilikuwa ndio urithi wa kabila la Asheri, ukoo kwa ukoo.
+19	32	Kura ya sita ikaangukia kabila la Naftali, ukoo kwa ukoo:
+19	33	Mpaka wao uliendelea kutoka Helefi na kwenye mti mkubwa ulio katika Saananimu, ukipitia Adami-Nekebu na Yabineeli hadi Lakumu, na kuishia katika Mto Yordani.
+19	34	Mpaka ukaendelea magharibi kupitia Aznoth-Tabori na kutokea Hukoki. Ukagusa Zabuloni upande wa kusini, Asheri upande wa magharibi, na Yordani upande wa mashariki.
+19	35	Miji yenye ngome ilikuwa Sidimu, Seri, Hamathi, Rakathi, Kinerethi,
+19	36	Adama, Rama, Hazori,
+19	37	Kedeshi, Edrei, na En-Hasori,
+19	38	Ironi, Migdal-Eli, Horemu, Beth-Anathi na Beth-Shemeshi. Kulikuwa na miji kumi na tisa na vijiji vyake.
+19	39	Miji hiyo pamoja na vijiji vyake ndio iliyokuwa urithi wa kabila la Naftali, ukoo kwa ukoo.
+19	40	Kura ya saba ikaangukia kabila la Dani, ukoo kwa ukoo.
+19	41	Eneo la urithi wao lilijumuisha: Sora, Eshtaoli, Iri-Shemeshi,
+19	42	Shaalabini, Aiyaloni, Ithla,
+19	43	Eloni, Timna, Ekroni,
+19	44	Elteke, Gibethoni, Baalathi,
+19	45	Yehudi, Bene-Beraki, Gath-Rimoni,
+19	46	Me-Yarkoni na Rakoni, pamoja na eneo linalotazamana na Yafa.
+19	47	(Lakini Wadani walipata shida kulimiliki eneo lao; kwa hiyo walipanda kuishambulia Leshemu, wakaitwaa, wakawaua watu wake kwa upanga na kuukalia. Walikaa Leshemu na kuuita Dani kufuatana na jina la baba yao.)
+19	48	Miji hii na vijiji vyake ndio iliyokuwa urithi wa kabila la Dani, ukoo kwa ukoo.
+19	49	Walipomaliza kugawanya nchi katika migawo kulingana na sehemu zao zilizowaangukia, Waisraeli wakampa Yoshua mwana wa Nuni urithi katikati yao,
+19	50	kama vile Bwana alivyokuwa ameamuru. Walimpa mji alioutaka, ambao ni Timnath-Sera ulio katika nchi ya vilima ya Efraimu. Naye akajenga mji, akakaa huko.
+19	51	Haya ndiyo maeneo ambayo kuhani Eleazari, Yoshua mwana wa Nuni, na viongozi wa koo za kabila za Israeli waliyoyagawanya kwa kura huko Shilo mbele za Bwana penye ingilio la Hema la Kukutania. Hivyo wakamaliza kuigawanya nchi.
+20	1	Ndipo Bwana akamwambia Yoshua,
+20	2	“Waambie Waisraeli, watenge miji mikubwa ya kukimbilia, kama nilivyokuagiza kupitia Mose,
+20	3	ili mtu yeyote atakayemuua mtu kwa bahati mbaya na pasipo kukusudia aweze kukimbilia huko na kujiepusha na mlipiza kisasi wa damu.
+20	4	“Anapokimbilia mojawapo ya hii miji mikubwa atasimama kwenye maingilio ya lango la mji mkuu na kueleza wazee wa mji kuhusu shauri lake. Kisha watampokea katika mji wao na kumpa mahali pa kuishi nao.
+20	5	Kama mlipiza kisasi wa damu akimfuatilia, wasimkabidhi yule mshtakiwa, kwa sababu alimuua jirani yake bila kukusudia, na bila kuwa na nia ya kudhuru.
+20	6	Huyu aliyeua atakaa kwenye mji mkubwa huo mpaka awe amesimama kukabili mashtaka yake mbele ya kusanyiko na mpaka kuhani mkuu anayehudumu kwa wakati huo atakapokufa. Ndipo atakapoweza kurudi nyumbani kwake katika mji ambao aliukimbia.”
+20	7	Basi wakatenga Kedeshi katika Galilaya kwenye nchi ya vilima ya Naftali, Shekemu katika nchi ya vilima ya Efraimu, na Kiriath-Arba (yaani Hebroni) kwenye nchi ya vilima ya Yuda.
+20	8	Katika upande wa mashariki mwa Yordani ya Yeriko wakatenga Bezeri katika jangwa katika uwanda wa juu katika kabila la Reubeni, Ramothi katika Gileadi katika kabila la Gadi, na Golani huko Bashani katika kabila la Manase.
+20	9	Mwisraeli yeyote au mgeni yeyote aishiye miongoni mwao aliyemuua mtu kwa bahati mbaya, angeweza kukimbilia katika miji mikubwa hiyo iliyotengwa na asiuawe na mlipiza kisasi wa damu kabla hajasimama kukabili mashtaka mbele ya kusanyiko.
+21	1	Basi viongozi wa jamaa ya Walawi, wakamwendea kuhani Eleazari, Yoshua mwana wa Nuni, na viongozi wa jamaa nyingine za makabila ya Israeli
+21	2	huko Shilo katika Kanaani na kuwaambia, “Bwana aliamuru kupitia Mose kuwa mtupe miji ya kuishi yenye sehemu za malisho kwa mifugo yetu.”
+21	3	Hivyo kama vile Bwana alivyoamuru, Waisraeli wakawapa Walawi miji ifuatayo pamoja na sehemu zake za malisho kutoka urithi wao wenyewe.
+21	4	Kura ya kwanza ikaangukia Wakohathi, ukoo kwa ukoo. Walawi waliokuwa wazao wa kuhani Aroni walipewa miji kumi na mitatu kutoka makabila ya Yuda, Simeoni na Benyamini.
+21	5	Wazao wengine waliobaki wa Wakohathi walipewa miji kumi kutoka koo za makabila ya Efraimu, Dani na nusu ya Manase.
+21	6	Wazao wa Gershoni walipewa miji kumi na mitatu kutoka koo za makabila ya Isakari, Asheri, Naftali na nusu ya Manase huko Bashani.
+21	7	Wazao wa Merari, ukoo kwa ukoo, walipewa miji kumi na miwili kutoka makabila ya Reubeni, Gadi na Zabuloni.
+21	8	Kwa hiyo Waisraeli wakawapa Walawi miji hii pamoja na sehemu zake za malisho, kama vile Bwana alivyokuwa ameamuru kupitia kwa Mose.
+21	9	Kutoka makabila ya Yuda na Simeoni waligawa miji ifuatayo kwa majina
+21	10	(miji hii walipewa wazao wa Aroni ambao walitokana na koo za Wakohathi wa Walawi, kwa sababu kura ya kwanza iliwaangukia):
+21	11	Waliwapa Kiriath-Arba (yaani Hebroni), pamoja na sehemu zake za malisho zilizoizunguka, katika nchi ya vilima ya Yuda. (Arba alikuwa baba wa Anaki.)
+21	12	Lakini mashamba na vijiji vilivyozunguka mji mkubwa walikuwa wamempa Kalebu mwana wa Yefune kuwa milki yake.
+21	13	Kwa hiyo wazao wa kuhani Aroni wakapewa Hebroni (mji mkuu wa makimbilio kwa ajili ya yeyote aliyeshtakiwa kwa mauaji), Libna,
+21	14	Yatiri, Eshtemoa,
+21	15	Holoni, Debiri,
+21	16	Aini, Yuta na Beth-Shemeshi, pamoja na sehemu zake za malisho, ilikuwa miji tisa kutoka kwa makabila haya mawili.
+21	17	Kutoka kabila la Benyamini wakawapa Gibeoni, Geba,
+21	18	Anathothi na Almoni, pamoja na sehemu zake za malisho, ilikuwa miji minne.
+21	19	Miji yote waliyopewa makuhani, wazao wa Aroni, ilikuwa kumi na mitatu, pamoja na sehemu zake za malisho.
+21	20	Koo nyingine za Wakohathi, ambao pia ni Walawi, walipewa miji kutoka kabila la Efraimu:
+21	21	Katika nchi ya vilima ya Efraimu walipewa Shekemu (mji mkubwa wa makimbilio kwa yeyote anayeshtakiwa kwa mauaji) na Gezeri,
+21	22	Kibsaimu na Beth-Horoni, pamoja na sehemu zake za malisho, ilikuwa miji minne.
+21	23	Pia kutoka kabila la Dani wakapokea Elteke, Gibethoni,
+21	24	Aiyaloni na Gath-Rimoni pamoja na sehemu zake za malisho, ilikuwa miji minne
+21	25	Kutoka nusu ya kabila la Manase, wakapokea Taanaki na Gath-Rimoni pamoja na sehemu zake za malisho, ilikuwa miji miwili.
+21	26	Miji yote hii kumi pamoja na sehemu zake za malisho ilipewa koo za Wakohathi zilizobaki.
+21	27	Koo za Walawi za Wagershoni walipewa: kutoka nusu ya kabila la Manase, Golani katika Bashani (mji mkuu wa makimbilio kwa yeyote aliyeshtakiwa kwa mauaji) na Beeshtera, pamoja na sehemu zake za malisho, ilikuwa miji miwili;
+21	28	kutoka kabila la Isakari walipewa, Kishioni, Daberathi,
+21	29	Yarmuthi na En-Ganimu, pamoja na sehemu zake za malisho, ilikuwa miji minne
+21	30	kutoka kabila la Asheri walipewa, Mishali, Abdoni,
+21	31	Helkathi na Rehobu, pamoja na sehemu zake za malisho, ilikuwa miji minne.
+21	32	Kutoka kabila la Naftali walipewa, Kedeshi katika Galilaya (mji wa makimbilio kwa ajili ya yeyote anayeshtakiwa kwa mauaji), Hamoth-Dori na Kartani, pamoja na sehemu zake za malisho, ilikuwa miji mitano.
+21	33	Miji yote ya koo za Wagershoni ilikuwa kumi na mitatu, pamoja na sehemu zake za malisho.
+21	34	Koo za Wamerari (Walawi waliobaki) walipewa: kutoka kabila la Zabuloni, Yokneamu, Karta,
+21	35	Dimna na Nahalali, pamoja na sehemu zake za malisho, ilikuwa miji minne;
+21	36	kutoka kabila la Reubeni walipewa Bezeri, Yahasa,
+21	37	Kedemothi na Mefaathi, pamoja na sehemu zake za malisho, ilikuwa miji minne;
+21	38	kutoka kabila la Gadi walipewa, Ramothi katika Gileadi (mji wa makimbilio kwa ajili ya yeyote anayeshtakiwa kwa ajili ya mauaji), Mahanaimu,
+21	39	Heshboni na Yazeri, pamoja na sehemu zake za malisho, ilikuwa miji minne.
+21	40	Miji yote waliyopewa koo za Wamerari, waliokuwa mabaki ya Walawi, ilikuwa ni kumi na miwili.
+21	41	Miji yote ya Walawi katika eneo lililoshikwa na Waisraeli lilikuwa arobaini na minane, pamoja na sehemu zake za malisho.
+21	42	Kila mmoja wa miji hii ulikuwa na sehemu ya malisho kuuzunguka; ndivyo ilivyokuwa kwa miji hii yote.
+21	43	Kwa hiyo Bwana akawapa Israeli nchi yote aliyokuwa ameapa kuwapa baba zao, nao wakaimiliki na kukaa humo.
+21	44	Bwana akawapa pumziko kila upande, kama vile alivyokuwa amewaapia baba zao, hakuna hata mmoja wa adui zao aliyeweza kusimama mbele yao, Bwana akawatia adui zao wote mikononi mwao.
+21	45	Hakuna hata mojawapo ya ahadi nzuri ya Bwana kwa nyumba ya Israeli ambayo haikutimia; kila moja ilitimia.
+22	1	Ndipo Yoshua akawaita Wareubeni, Wagadi na nusu ya kabila la Manase,
+22	2	naye akawaambia, “Mmeshafanya yale yote Mose mtumishi wa Bwana aliyowaamuru, nanyi mmenitii kwa kila jambo nililowaamuru.
+22	3	Kwa muda mrefu sasa, hadi siku hii ya leo, hamkuwaacha ndugu zenu, bali ninyi mmetimiza ile kazi Bwana Mungu wenu aliyowapa.
+22	4	Sasa kwa kuwa Bwana Mungu wenu amewapa ndugu zenu pumziko kama alivyoahidi, rudini nyumbani mwenu katika nchi ile ambayo Mose mtumishi wa Bwana aliwapa ngʼambo ya Yordani.
+22	5	Lakini mwe waangalifu sana kushika amri na sheria zile Mose mtumishi wa Bwana alizowapa: yaani kumpenda Bwana Mungu wenu na kuenenda katika njia zake zote, kutii amri zake, kushikamana naye kwa uthabiti na kumtumikia kwa moyo wenu wote na roho yenu yote.”
+22	6	Ndipo Yoshua akawabariki na kuwaaga waende zao, nao wakaenda nyumbani mwao.
+22	7	(Kwa nusu ya kabila la Manase Mose alikuwa amewapa eneo katika Bashani na ile nusu nyingine ya hilo kabila Yoshua aliwapa eneo upande wa magharibi ya Yordani pamoja na ndugu zao). Yoshua alipowaaga waende zao nyumbani, aliwabariki,
+22	8	akisema, “Rudini nyumbani mwenu na utajiri wenu mwingi, yaani makundi makubwa ya mifugo, mkiwa na fedha, dhahabu, shaba na chuma, pia wingi wa nguo, nanyi mkagawane na ndugu zenu hizo nyara zilizotoka kwa adui zenu.”
+22	9	Kwa hiyo Wareubeni, Wagadi na hiyo nusu ya kabila la Manase wakawaacha Waisraeli huko Shilo katika nchi ya Kanaani ili kurudi Gileadi, nchi yao wenyewe waliyoipata sawasawa na agizo la Bwana kupitia Mose.
+22	10	Walipofika Gelilothi karibu na Yordani, katika nchi ya Kanaani, Wareubeni, Wagadi na nusu ya kabila la Manase wakajenga madhabahu ya fahari kubwa huko kando ya Yordani.
+22	11	Waisraeli wengine waliposikia kwamba Wareubeni, Wagadi na ile nusu ya kabila la Manase walikuwa wamejenga madhabahu kwenye mpaka wa Kanaani huko Gelilothi karibu na Yordani kwenye upande wa Israeli,
+22	12	kusanyiko lote la Israeli wakakusanyika huko Shilo ili wakapigane vita dhidi yao.
+22	13	Kwa hiyo Waisraeli wengine wakamtuma Finehasi mwana wa kuhani Eleazari katika nchi ya Gileadi, kwa Wareubeni, Wagadi na hiyo nusu ya kabila la Manase.
+22	14	Wakatuma pamoja naye watu kumi ambao ni viongozi, mmoja kwa kila kabila la Israeli, kila mmoja aliyekuwa kiongozi katika mgawanyiko wa jamaa miongoni mwa koo za Israeli.
+22	15	Walipofika Gileadi, kwa Wareubeni, Wagadi na nusu ya kabila la Manase, wakawaambia:
+22	16	“Kusanyiko lote la Bwana lasema: ‘Je, mmewezaje kuacha kumwamini Mungu wa Israeli jinsi hii? Mmewezaje kumwacha Bwana na kujijengea madhabahu dhidi yake na kumwasi?
+22	17	Je, dhambi ya Peori haikutosha? Hata ingawa kulikuja tauni juu ya kusanyiko la Bwana, mpaka leo hii hatujatakasika kutokana na dhambi hiyo!
+22	18	Je, sasa ndiyo mnamwacha Bwana? “ ‘Kama mkimwasi Bwana leo, kesho atalikasirikia kusanyiko lote la Israeli.
+22	19	Kama nchi mnayomiliki imenajisika, vukeni mje katika nchi ya Bwana, mahali Maskani ya Bwana ilipo, nanyi mkajitwalie sehemu miongoni mwetu, lakini msije mkaasi dhidi ya Bwana wala dhidi yetu sisi kwa kujijengea madhabahu, zaidi ya madhabahu ya Bwana Mungu wetu.
+22	20	Wakati Akani mwana wa Zera alipokosa uaminifu kwa vitu vilivyowekwa wakfu, je, ghadhabu haikulipata kusanyiko lote la Israeli? Hakuwa yeye peke yake aliyekufa kwa ajili ya dhambi yake.’ ”
+22	21	Ndipo Wareubeni, Wagadi na nusu ya kabila la Manase walipowajibu viongozi wa koo za Israeli, wakisema:
+22	22	“Yeye Mwenye Nguvu, Mungu, Bwana! Yeye Mwenye Nguvu, Mungu, Bwana! Yeye anajua! Israeli na wajue! Kama huu umekuwa ni uasi au kukosa utii kwa Bwana, msituache hai siku hii ya leo.
+22	23	Kama tumejijengea madhabahu yetu wenyewe ili kumwacha Bwana na kutoa sadaka za kuteketezwa na sadaka za nafaka, au kutoa sadaka za amani juu yake, Bwana mwenyewe na atupatilize leo.
+22	24	“Sivyo! Tulifanya hivyo kwa hofu kwamba siku zijazo wazao wenu wanaweza wakawaambia wazao wetu, ‘Mna uhusiano gani na Bwana, Mungu wa Israeli?
+22	25	Bwana ameifanya Yordani kuwa mpaka kati yetu na ninyi, ninyi Wareubeni na Wagadi! Hamna fungu kwa Bwana.’ Kwa hiyo wazao wenu wanaweza wakawasababisha wazao wetu wakaacha kumcha Bwana.
+22	26	“Hii ndiyo sababu tulisema, ‘Tujiweke tayari na tujenge madhabahu, lakini si kwa ajili ya sadaka za kuteketezwa au dhabihu.’
+22	27	Badala yake, itakuwa ni ushahidi kati yetu na ninyi na vizazi vijavyo, kwamba tutamwabudu Bwana katika mahali patakatifu pake pamoja na sadaka zetu za kuteketezwa, dhabihu na sadaka za amani. Ndipo katika siku zijazo, wazao wenu hawataweza kuwaambia wazao wetu, ‘Ninyi hamna fungu katika Bwana.’
+22	28	“Nasi tulisema, ‘Ikiwa wakati wowote watatuambia hilo, au kuwaambia uzao wetu, tutawajibu hivi: Angalieni nakala hii ya madhabahu ya Bwana, ambayo baba zetu waliijenga, si kwa ajili ya sadaka za kuteketezwa na dhabihu, bali kama ushahidi kati yetu na ninyi.’
+22	29	“Hili jambo la kumwasi Bwana na kumwacha siku hii ya leo kwa kujenga madhabahu kwa ajili ya sadaka za kuteketezwa, sadaka za nafaka na dhabihu, zaidi ya madhabahu ya Bwana Mungu wetu iliyo mbele ya maskani yake na liwe mbali nasi.”
+22	30	Wakati kuhani Finehasi na viongozi wa kusanyiko na wakuu wa koo za Israeli, waliposikia hayo waliyosema Wareubeni, Wagadi na Manase, wakaridhika.
+22	31	Naye Finehasi mwana wa kuhani Eleazari, akawaambia Wareubeni, Wagadi na Manase, “Leo tunajua kwamba Bwana yuko pamoja nasi, kwa sababu hamkukosa uaminifu kwa Bwana katika jambo hili. Sasa mmewaokoa Waisraeli na mkono wa Bwana.”
+22	32	Ndipo Finehasi, mwana wa kuhani Eleazari na viongozi wakarudi Kanaani kutoka kwenye kukutana kwao na Wareubeni na Wagadi huko Gileadi nao wakatoa taarifa kwa Waisraeli.
+22	33	Walifurahi kusikia taarifa hiyo, na wakamhimidi Mungu. Wala hawakuzungumza tena habari za kupigana vita dhidi yao ili kuharibu nchi ambayo Wareubeni na Wagadi waliishi.
+22	34	Nao Wareubeni na Wagadi wakayaita yale madhabahu Edi, yaani Shahidi: kwa kuwa itakuwa shahidi kati yetu na ninyi kwamba Bwana ndiye Mungu.
+23	1	Baada ya muda mrefu kupita, naye Bwana akawa amewapa Israeli pumziko mbele ya adui zao wote waliowazunguka, Yoshua, wakati huo akiwa mzee na umri ukiwa umeendelea sana,
+23	2	akawaita Israeli wote, wazee wao, viongozi, waamuzi na maafisa Yoshua akawaambia: “Mimi ni mzee na umri wangu umeendelea sana.
+23	3	Ninyi wenyewe mmeona kila kitu Bwana Mungu wenu, alichowatendea mataifa haya yote kwa ajili yenu. Ilikuwa ni Bwana Mungu wenu aliyewapigania.
+23	4	Kumbukeni jinsi nilivyowagawia kama urithi kwa makabila yenu yote nchi ya mataifa yaliyobaki, yaani mataifa niliyowashinda, kati ya Mto Yordani na Bahari kuu upande wa magharibi.
+23	5	Bwana Mungu wenu mwenyewe atawaondoa watoke mbele yenu. Atawafukuza mbele yenu, nanyi mtamiliki nchi yao, kama vile Bwana Mungu wenu alivyowaahidi.
+23	6	“Kuweni hodari sana, kuweni waangalifu kutii yote yaliyoandikwa katika kitabu cha Sheria ya Mose, pasipo kugeuka upande wa kuume au kushoto.
+23	7	Msishirikiane na mataifa yaliyobakia katikati yenu, wala msiombe kwa majina ya miungu yao au kuapa kwayo. Msiitumikie wala kuisujudia.
+23	8	Bali mtashikamana kwa uthabiti na Bwana, Mungu wenu, kama vile ambavyo mmefanya mpaka sasa.
+23	9	“Bwana amewafukuza mbele yenu mataifa makubwa na yenye nguvu, mpaka siku ya leo hakuna yeyote aliyeweza kusimama mbele yenu.
+23	10	Mtu mmoja miongoni mwenu anafukuza watu elfu, kwa kuwa Bwana Mungu wenu anawapigania, kama alivyoahidi.
+23	11	Kwa hiyo kuweni waangalifu sana kumpenda Bwana Mungu wenu.
+23	12	“Lakini ikiwa mtageuka na kushikamana na mabaki ya mataifa haya yaliyosalia katikati yenu na kama mtaoana na kushirikiana nao,
+23	13	basi mwe na hakika kuwa Bwana Mungu wenu hatawafukuza tena mataifa hayo mbele yenu. Badala yake, watakuwa tanzi na mitego kwenu, mijeledi migongoni mwenu, na miiba machoni mwenu, mpaka mwangamie kutoka nchi hii nzuri, ambayo Bwana Mungu wenu amewapa.
+23	14	“Sasa mimi ninakaribia kwenda katika njia ya watu wote wa dunia. Mnajua kwa mioyo yenu na roho zenu kwamba hakuna ahadi zozote njema Bwana Mungu wenu alizowaahidia, ambazo hazikutimia. Kila ahadi imetimizwa, hakuna hata moja ambayo haikutimia.
+23	15	Lakini kama vile kila ahadi njema ya Bwana Mungu wenu imekuwa kweli, vivyo hivyo Bwana ataleta maovu yote kama alivyo onya, mpaka awe amewaangamiza kutoka nchi hii nzuri aliyowapa.
+23	16	Kama mkilivunja agano la Bwana Mungu wenu, ambalo aliwaamuru ninyi, mkaenda na kuitumikia miungu mingine na kuisujudia, hasira ya Bwana itawaka dhidi yenu, nanyi mtaangamia kutoka nchi nzuri aliyowapa ninyi.”
+24	1	Ndipo Yoshua akaita pamoja makabila yote ya Israeli huko Shekemu. Akawaita wazee, viongozi, waamuzi na maafisa wa Israeli, nao wakaja mbele za Mungu.
+24	2	Yoshua akawaambia watu wote, “Hili ndilo Bwana, Mungu wa Israeli, asemalo: ‘Hapo zamani baba zenu, pamoja na Tera baba yake Abrahamu na Nahori, waliishi ngʼambo ya Mto nao waliiabudu miungu mingine.
+24	3	Lakini nilimwondoa baba yenu Abrahamu kutoka nchi hiyo ngʼambo ya Mto, nami nikamwongoza katika nchi yote ya Kanaani, nikampa wazao wengi. Nikampa Isaki,
+24	4	naye Isaki nikampa Yakobo na Esau. Esau nikampa nchi ya vilima ya Seiri, lakini Yakobo pamoja na wanawe wakashuka Misri.
+24	5	“ ‘Kisha nikawatuma Mose na Aroni, nami nikawapiga Wamisri kwa kile nilichokitenda huko, tena nikawatoa ninyi huko.
+24	6	Nilipowatoa baba zenu Misri, mlifika kwenye bahari, nao Wamisri wakawafuatia baba zenu kwa magari na wapanda farasi mpaka kwenye Bahari ya Shamu.
+24	7	Lakini wakamlilia Bwana wakitaka msaada, naye akaweka giza kati yenu na Wamisri, akaileta bahari juu yao ikawafunika. Ninyi mliona kwa macho yenu wenyewe kile nilichowatendea Wamisri. Kisha mliishi jangwani kwa muda mrefu.
+24	8	“ ‘Nikawaleta katika nchi ya Waamori ambao waliishi mashariki mwa Yordani. Wakapigana nanyi, lakini nikawatia mikononi mwenu. Nikawaangamiza mbele yenu nanyi mkaimiliki nchi yao.
+24	9	Wakati Balaki mwana wa Sipori, mfalme wa Moabu, alipojiandaa kupigana dhidi ya Israeli, alimwita Balaamu mwana wa Beori apate kuwalaani.
+24	10	Lakini sikumkubali Balaamu, kwa hiyo aliwabariki tena na tena, nami niliwaokoa toka mkononi mwake.
+24	11	“ ‘Ndipo mlipovuka Yordani mkafika Yeriko. Raiya wa Yeriko wakapigana nanyi, kama walivyofanya Waamori, Waperizi, Wakanaani, Wahiti, Wagirgashi, Wahivi na Wayebusi, lakini niliwatia mikononi mwenu.
+24	12	Nikatuma manyigu mbele yenu, ambao pia waliwafukuza mbele yenu, hao wafalme wawili wa Waamori. Siyo upanga au upinde wenu wenyewe vilivyowapatia ushindi.
+24	13	Hivyo nikawapa ninyi nchi ambayo hamkuitaabikia na miji ambayo hamkuijenga na mnaishi ndani yake na kula toka kwa mashamba ya mizabibu na mizeituni msiyoipanda.’
+24	14	“Sasa basi mcheni Bwana na kumtumikia kwa uaminifu wote. Itupeni mbali miungu ambayo baba zenu waliiabudu huko ngʼambo ya Mto Frati na huko Misri, nanyi mtumikieni Bwana.
+24	15	Lakini msipoona vyema kumtumikia Bwana, chagueni hivi leo mtakayemtumikia, kama ni miungu ile ambayo baba zenu waliitumikia ngʼambo Frati, au miungu ya Waamori, ambao mnakaa katika nchi yao. Lakini mimi na nyumba yangu, tutamtumikia Bwana.”
+24	16	Ndipo hao watu wakajibu, “Hili jambo liwe mbali nasi la kumsahau Bwana na kuitumikia miungu mingine!
+24	17	Bwana Mungu wetu mwenyewe ndiye alitutoa sisi na baba zetu akatupandisha kutoka Misri, kutoka nchi ile ya utumwa, na kutenda zile ishara kubwa mbele ya macho yetu. Ndiye aliyetulinda katika safari yetu yote na kutokana na mataifa yote ambayo tulipita katikati yao.
+24	18	Bwana akayafukuza mbele yetu mataifa yote pamoja na Waamori, walioishi katika nchi hii. Hivyo sisi nasi tutamtumikia Bwana kwa kuwa yeye ndiye Mungu wetu.”
+24	19	Yoshua akawaambia watu, “Hamwezi kumtumikia Bwana. Yeye ni Mungu Mtakatifu, ni Mungu mwenye wivu. Hatasamehe uasi wenu na dhambi zenu.
+24	20	Ikiwa mkimwacha Bwana na kuitumikia miungu migeni, atageuka na kuwaleteeni maafa na kuwaangamiza, baada ya kuwa mwema kwenu.”
+24	21	Lakini watu wakamwambia Yoshua, “Sivyo! Sisi tutamtumikia Bwana.”
+24	22	Ndipo Yoshua akawaambia, “Ninyi mmekuwa mashahidi juu yenu wenyewe kuwa mmechagua kumtumikia Bwana.” Nao wakajibu, “Ndiyo, tu mashahidi.”
+24	23	Yoshua akawaambia, “Sasa basi, itupeni mbali hiyo miungu migeni iliyo katikati yenu, nanyi mtoleeni Bwana, Mungu wa Israeli, mioyo yenu.”
+24	24	Nao watu wakamwambia Yoshua, “Tutamtumikia Bwana Mungu wetu na kumtii yeye.”
+24	25	Siku ile Yoshua akafanya agano kwa ajili ya watu na hapo Shekemu ndipo alipowaandikia amri na sheria.
+24	26	Naye Yoshua akayaandika mambo haya katika Kitabu cha Sheria ya Mungu. Ndipo akalitwaa jiwe kubwa, akalisimamisha huko chini ya mwaloni, karibu na mahali patakatifu pa Bwana.
+24	27	Yoshua akawaambia watu wote, “Angalieni! Jiwe hili litakuwa shahidi juu yetu. Limesikia maneno yote Bwana aliyotuambia. Litakuwa shahidi juu yenu kama mtakuwa waongo kwa Mungu wenu.”
+24	28	Basi Yoshua akawatuma watu kila mmoja aende katika urithi wake mwenyewe.
+24	29	Baada ya mambo haya, Yoshua mwana wa Nuni, mtumishi wa Bwana akafa akiwa na umri wa miaka mia moja na kumi.
+24	30	Nao wakamzika katika nchi ya urithi wake, huko Timnath-Sera katika nchi ya vilima ya Efraimu, kaskazini ya Mlima wa Gaashi.
+24	31	Israeli wakamtumikia Bwana siku zote za maisha ya Yoshua, na za hao wazee walioishi baada ya Yoshua kufa, ambao waliona kila kitu Bwana alichowatendea Israeli.
+24	32	Nayo ile mifupa ya Yosefu, ambayo Waisraeli waliipandisha kutoka huko Misri, wakaizika huko Shekemu kwenye eneo, ambalo Yakobo alilinunua kwa wana wa Hamori baba yake Shekemu, kwa vipande mia vya fedha. Eneo hili likawa ni urithi wa uzao wa Yosefu.
+24	33	Naye Eleazari mwana wa Aroni akafariki akazikwa huko Gibea, mlima aliokuwa amepewa mtoto wake Finehasi, kwenye nchi ya vilima ya Efraimu.

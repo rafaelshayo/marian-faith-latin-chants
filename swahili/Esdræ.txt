@@ -1,0 +1,280 @@
+1	1	Katika mwaka wa kwanza wa utawala wa Koreshi mfalme wa Uajemi, ili kulitimiza neno la Bwana lililosemwa na nabii Yeremia, Bwana aliusukuma moyo wa Koreshi mfalme wa Uajemi kutangaza katika himaya yake yote kwa maandishi:
+1	2	“Hili ndilo asemalo Koreshi mfalme wa Uajemi: “ ‘Bwana, Mungu wa mbinguni, amenipa falme zote duniani, na ameniagiza kumjengea Hekalu huko Yerusalemu katika Yuda.
+1	3	Yeyote wa watu wake miongoni mwenu, Mungu wake na awe pamoja naye, wacha apande kwenda Yerusalemu katika Yuda na kujenga Hekalu la Bwana, Mungu wa Israeli, Mungu aliyeko huko Yerusalemu.
+1	4	Nao watu wa mahali popote wale walionusurika wanapoishi sasa, watu hao wampe fedha na dhahabu, pamoja na vifaa na mifugo, mbali na sadaka za hiari kwa ajili ya Hekalu la Mungu huko Yerusalemu.’ ”
+1	5	Kisha viongozi wa jamaa ya Yuda na Benyamini na makuhani na Walawi kila mmoja ambaye moyo wake ulisukumwa na Mungu, akajiandaa kupanda ili kuijenga nyumba ya Bwana huko Yerusalemu.
+1	6	Majirani zao wote wakawasaidia vyombo vya fedha na dhahabu, pamoja na vifaa na mifugo, pia na zawadi za thamani, pamoja na sadaka zote za hiari.
+1	7	Zaidi ya hayo, Mfalme Koreshi akavitoa vyombo vilivyokuwa mali ya Hekalu la Bwana, ambavyo Nebukadneza alikuwa amevichukua kutoka Yerusalemu na kuviweka katika hekalu la mungu wake.
+1	8	Koreshi mfalme wa Uajemi akavitoa kwa mkono wa Mithredathi mtunza hazina, aliyevihesabu mbele ya Sheshbaza mkuu wa Yuda.
+1	9	Hii ilikuwa ndio orodha ya vifaa: masinia ya dhahabu yalikuwa 30 masinia ya fedha yalikuwa 1,000 vyetezo vya fedha vilikuwa 29
+1	10	mabakuli ya dhahabu yalikuwa 30 mabakuli ya fedha yanayofanana yalikuwa 410 vifaa vingine vilikuwa 1,000.
+1	11	Kwa ujumla, kulikuwa na vyombo 5,400 vya dhahabu na vya fedha. Sheshbaza akavileta hivi vyote wakati watu walipotoka uhamishoni Babeli kwenda Yerusalemu.
+2	1	Basi hawa ndio watu wa jimbo waliotoka uhamishoni, ambao Nebukadneza mfalme wa Babeli alikuwa amewachukua mateka hadi Babeli (walirudi Yerusalemu na Yuda, kila mmoja kwenye mji wake,
+2	2	wakiwa wamefuatana na Zerubabeli, Yeshua, Nehemia, Seraya, Reelaya, Mordekai, Bilshani, Mispari, Bigwai, Rehumu na Baana): Orodha ya wanaume kati ya watu wa Israeli ilikuwa:
+2	3	wazao wa Paroshi 2,172
+2	4	wazao wa Shefatia 372
+2	5	wazao wa Ara 775
+2	6	wazao wa Pahath-Moabu (wa jamaa ya Yeshua na Yoabu) 2,812
+2	7	wazao wa Elamu 1,254
+2	8	wazao wa Zatu 945
+2	9	wazao wa Zakai 760
+2	10	wazao wa Bani 642
+2	11	wazao wa Bebai 623
+2	12	wazao wa Azgadi 1,222
+2	13	wazao wa Adonikamu 666
+2	14	wazao wa Bigwai 2,056
+2	15	wazao wa Adini 454
+2	16	wazao wa Ateri (kupitia Hezekia) 98
+2	17	wazao wa Besai 323
+2	18	wazao wa Yora 112
+2	19	wazao wa Hashumu 223
+2	20	wazao wa Gibari 95
+2	21	watu wa Bethlehemu 123
+2	22	watu wa Netofa 56
+2	23	watu wa Anathothi 128
+2	24	watu wa Azmawethi 42
+2	25	wazao wa Kiriath-Yearimu, Kefira na Beerothi 743
+2	26	wazao wa Rama na Geba 621
+2	27	watu wa Mikmashi 122
+2	28	watu wa Betheli na Ai 223
+2	29	wazao wa Nebo 52
+2	30	wazao wa Magbishi 156
+2	31	wazao wa Elamu ile ingine 1,254
+2	32	wazao wa Harimu 320
+2	33	wazao wa Lodi, Hadidi na Ono 725
+2	34	wazao wa Yeriko 345
+2	35	wazao wa Senaa 3,630
+2	36	Makuhani: wazao wa Yedaya (kwa jamaa ya Yeshua) 973
+2	37	wazao wa Imeri 1,052
+2	38	wazao wa Pashuri 1,247
+2	39	wazao wa Harimu 1,017
+2	40	Walawi: wazao wa Yeshua na Kadmieli (kupitia jamaa ya Hodavia) 74
+2	41	Waimbaji: wazao wa Asafu 128
+2	42	Mabawabu wa lango la Hekalu: wazao wa // Shalumu, Ateri, Talmoni, // Akubu, Hatita na Shobai 139
+2	43	Watumishi wa Hekalu: wazao wa Siha, Hasufa, Tabaothi,
+2	44	wazao wa Kerosi, Siaha, Padoni,
+2	45	wazao wa Lebana, Hagaba, Akubu,
+2	46	wazao wa Hagabu, Shalmai, Hanani,
+2	47	wazao wa Gideli, Gahari, Reaya,
+2	48	wazao wa Resini, Nekoda, Gazamu,
+2	49	wazao wa Uza, Pasea, Besai,
+2	50	wazao wa Asna, Meunimu, Nefusimu,
+2	51	wazao wa Bakbuki, Hakufa, Harhuri,
+2	52	wazao wa Basluthi, Mehida, Harsha,
+2	53	wazao wa Barkosi, Sisera, Tema,
+2	54	wazao wa Nesia na Hatifa.
+2	55	Wazao wa watumishi wa Solomoni: wazao wa Sotai, Hasaferethi, Peruda,
+2	56	wazao wa Yaala, Darkoni, Gideli,
+2	57	wazao wa Shefatia, Hatili, Pokereth-Hasebaimu na Ami.
+2	58	Watumishi wa Hekalu wote na // wazao wa watumishi // wa Solomoni 392
+2	59	Wafuatao walikuja kutoka miji ya Tel-Mela, Tel-Harsha, Kerubu, Adoni na Imeri, lakini hawakuweza kuthibitisha kwamba jamaa zao zilikuwa uzao wa Israeli:
+2	60	wazao wa // Delaya, Tobia na Nekoda 652
+2	61	Kutoka miongoni mwa makuhani: Wazao wa Hobaya, Hakosi, Barzilai (mtu aliyekuwa amemwoa binti wa Barzilai, Mgileadi, naye akaitwa kwa jina hilo).
+2	62	Hawa walitafuta orodha za jamaa zao, lakini hawakuonekana humo, kwa hiyo waliondolewa kutoka kundi la makuhani kwa kuwa walihesabiwa kuwa najisi.
+2	63	Mtawala aliagiza kuwa wasile chochote miongoni mwa vyakula vitakatifu hadi kuwe kuhani atakayehudumu kwa Urimu na Thumimu.
+2	64	Jumla ya watu wote waliorudi walikuwa 42,360;
+2	65	tena zaidi ya hao walikuwepo watumishi wa kiume na wa kike 7,337; pia walikuwamo waimbaji wanaume na wanawake 200.
+2	66	Walikuwa na farasi 736, nyumbu 245,
+2	67	ngamia 435 na punda 6,720.
+2	68	Walipofika kwenye nyumba ya Bwana huko Yerusalemu, baadhi ya viongozi wa jamaa walitoa sadaka za hiari kwa ajili ya kujenga upya nyumba ya Mungu katika eneo lake.
+2	69	Wakatoa kwa kadiri ya uwezo wao na kutia katika hazina darkoni 61,000 za dhahabu, mane 5,000 za fedha, na mavazi 100 ya ukuhani kwa ajili ya kazi hiyo.
+2	70	Makuhani, Walawi, waimbaji, mabawabu, na watumishi wa Hekalu waliishi katika miji yao wenyewe, pamoja na baadhi ya watu wengine, nao Waisraeli waliosalia waliishi katika miji yao.
+3	1	Mwezi wa saba ulipowadia baada ya Waisraeli kukaa katika miji yao, watu wote walikusanyika huko Yerusalemu kama mtu mmoja.
+3	2	Yeshua mwana wa Yosadaki na makuhani wenzake, Zerubabeli mwana wa Shealtieli pamoja na wenzake walianza kujenga madhabahu ya Mungu wa Israeli ili kumtolea dhabihu za sadaka za kuteketezwa kwa moto juu yake, kulingana na ilivyoandikwa katika Sheria ya Mose mtu wa Mungu.
+3	3	Ingawa waliwaogopa watu waliowazunguka, walijenga madhabahu juu ya ule msingi wake, wakamtolea Bwana dhabihu za sadaka za kuteketezwa kwa moto juu yake za asubuhi na za jioni.
+3	4	Kisha kulingana na kile kilichoandikwa, wakaiadhimisha Sikukuu ya Vibanda wakitoa idadi ya sadaka za kuteketezwa kama ilivyohitajika kila siku sawasawa na ilivyoagizwa.
+3	5	Baada ya hayo, walitoa sadaka za kuteketezwa za kawaida, sadaka za Mwezi Mwandamo na dhabihu zote za sikukuu takatifu za Bwana zilizoamriwa, pamoja na zile sadaka za hiari zilizotolewa kwa Bwana.
+3	6	Ingawa bado msingi wa Hekalu la Bwana ulikuwa haujawekwa, watu walianza kutoa sadaka za kuteketezwa kwa moto kwa Bwana tangu siku ya kwanza ya mwezi wa saba.
+3	7	Kisha watu wakawapa mafundi wa uashi na useremala fedha, wakawapa watu wa Sidoni na Tiro vyakula, vinywaji na mafuta ili waweze kuleta magogo ya mierezi kwa njia ya bahari kutoka Lebanoni hadi Yafa, kama alivyoagiza Koreshi mfalme wa Uajemi.
+3	8	Katika mwezi wa pili wa mwaka wa pili baada ya Waisraeli kufika kwenye nyumba ya Mungu huko Yerusalemu, Zerubabeli mwana wa Shealtieli, Yeshua mwana wa Yosadaki na ndugu zao wengine (makuhani, Walawi na wote waliorejea Yerusalemu kutoka uhamishoni) walianza kazi, wakiteua Walawi wenye umri kuanzia miaka ishirini au zaidi kusimamia ujenzi wa nyumba ya Bwana.
+3	9	Yeshua na wanawe, pamoja na ndugu zake, Kadmieli na wanawe (wazao wa Hodavia), wana wa Henadadi na wana wao na ndugu zao, Walawi wote walijiunga pamoja kusimamia wale waliofanya kazi katika nyumba ya Mungu.
+3	10	Wajenzi walipoweka msingi wa Hekalu la Bwana, makuhani wakiwa wamevalia mavazi yao wakiwa na tarumbeta na Walawi (wana wa Asafu) wakiwa na matoazi, walishika nafasi zao za kumtukuza Bwana, kama ilivyoagizwa na Daudi mfalme wa Israeli.
+3	11	Waliimba nyimbo za sifa na za shukrani kwa Bwana hivi: “Yeye ni mwema; upendo wake kwa Israeli wadumu milele.” Watu wote wakapaza sauti kubwa za sifa kwa Bwana, kwa sababu msingi wa nyumba ya Bwana ulikuwa umewekwa.
+3	12	Lakini wengi wa makuhani wazee, Walawi na viongozi wa jamaa waliokuwa wameona Hekalu la mwanzoni, walilia kwa sauti walipoona msingi wa Hekalu hili ukiwekwa, huku wengine wengi wakipiga kelele kwa furaha.
+3	13	Hakuna mtu ambaye angeweza kutofautisha sauti hizo za furaha na za kilio, kwa sababu watu walipiga kelele sana. Nayo hiyo sauti ikasikika mbali.
+4	1	Adui za Yuda na Benyamini waliposikia kwamba watu waliorudi kutoka uhamishoni wanajenga Hekalu kwa ajili ya Bwana, Mungu wa Israeli,
+4	2	wakamjia Zerubabeli na viongozi wa jamaa, nao wakasema, “Turuhusuni tuwasaidie kujenga, kwa sababu sisi tunamtafuta Mungu wenu kama ninyi na tumekuwa tukimtolea dhabihu tangu wakati wa Esar-Hadoni mfalme wa Ashuru, aliyetuleta hapa.”
+4	3	Lakini Zerubabeli, Yeshua na viongozi wengine wa jamaa ya Israeli wakawajibu, “Ninyi hamna sehemu nasi katika kujenga Hekalu la Mungu wetu. Sisi peke yetu tutajenga Hekalu kwa ajili ya Bwana, Mungu wa Israeli, kama Mfalme Koreshi, mfalme wa Uajemi alivyotuagiza.”
+4	4	Ndipo watu waliowazunguka wakajipanga kuwakatisha tamaa watu wa Yuda na kuwafanya waogope walipokuwa wakiendelea na ujenzi.
+4	5	Wakaajiri washauri kuwapinga katika kazi yao, nao wakaipinga mipango yao wakati wote wa utawala wa Koreshi mfalme wa Uajemi hadi wakati wa utawala wa Dario mfalme wa Uajemi.
+4	6	Mnamo mwanzo wa utawala wa Ahasuero, hao adui waliandika mashtaka dhidi ya watu wa Yuda na Yerusalemu.
+4	7	Pia katika siku za utawala wa Artashasta mfalme wa Uajemi, Bishlamu, Mithredathi, Tabeeli pamoja na wenzao waliandika barua kwa Artashasta. Barua hiyo iliandikwa kwa mwandiko wa Kiaramu na katika lugha ya Kiaramu.
+4	8	Rehumu afisa msimamizi na mwandishi Shimshai waliandika barua kwa Mfalme Artashasta dhidi ya watu wa Yerusalemu kama ifuatavyo:
+4	9	Rehumu afisa msimamizi na mwandishi Shimshai, pamoja na wenzao, yaani mahakimu na maafisa walio juu ya watu kuanzia Tripoli, Uajemi, Ereki na Babeli, Waelami wa Shushani,
+4	10	na watu wengine ambao mheshimiwa Asur-Banipali aliwahamisha na kuwakalisha katika mji wa Samaria na mahali pengine Ngʼambo ya Mto Frati.
+4	11	(Hii ndiyo nakala ya barua waliyompelekea.) Kwa Mfalme Artashasta, Kutoka kwa watumishi wako, watu wa Ngʼambo ya Mto Frati:
+4	12	Yapasa Mfalme ajue kuwa Wayahudi waliopanda kuja kwetu kutoka kwenu, wamekwenda Yerusalemu nao wanaujenga upya ule mji wa uasi na uovu. Wanajenga kuta upya na kukarabati misingi yake.
+4	13	Zaidi ya hayo, mfalme yampasa ajue kwamba kama mji huu ukijengwa na kuta zake zikafanywa upya, hakutakuwa na ulipaji wa kodi wala ada au ushuru, hivyo hazina za mfalme zitaathirika.
+4	14	Sisi sasa kwa kuwa tunawajibika kwa jumba la kifalme na kwamba siyo sawasawa kwetu kuona mfalme akidharauliwa, basi tunatuma ujumbe huu kumtaarifu mfalme,
+4	15	ili kwamba ufanyike uchunguzi kwenye kumbukumbu ya maandishi ya waliokutangulia. Katika kumbukumbu hizi utagundua kwamba mji huu ni wa maasi, unaowataabisha wafalme na majimbo, ni mahali pa maasi tangu zamani. Ndiyo maana mji huu uliharibiwa.
+4	16	Tunamjulisha mfalme kwamba kama mji huu ukijengwa na kuta zake zikifanywa upya, hutabakiwa na chochote Ngʼambo ya Mto Frati.
+4	17	Mfalme alirudisha jibu hili: Kwa Rehumu, afisa msimamizi, mwandishi Shimshai na wenzenu wote wanaoishi katika Samaria na penginepo Ngʼambo ya Mto Frati: Salamu.
+4	18	Barua mliyotutumia imesomwa na kutafsiriwa mbele yangu.
+4	19	Nilitoa amri na uchunguzi ukafanyika na imegundulika kwamba mji huu una historia ndefu ya maasi dhidi ya wafalme na pamekuwa mahali pa maasi na uchochezi.
+4	20	Yerusalemu umepata kuwa na wafalme wenye nguvu wakitawala nchi yote iliyo Ngʼambo ya Mto Frati, wakitoza kodi, ada na ushuru huko.
+4	21	Kwa hiyo toeni amri kwa watu hawa wasimamishe ujenzi, ili kwamba mji huu usiendelee kujengwa hadi nitakapoagiza.
+4	22	Mwe waangalifu msipuuze jambo hili. Kwa nini kuruhusu tishio hili kuendelea na kusababisha hasara kwa ufalme?
+4	23	Mara waliposomewa nakala ya barua ya Mfalme Artashasta, Rehumu na Shimshai aliyekuwa mwandishi na wenzao, walikwenda mara moja kwa Wayahudi huko Yerusalemu na kuwalazimisha kwa nguvu kusimamisha ujenzi.
+4	24	Hivyo kazi ya ujenzi wa nyumba ya Mungu huko Yerusalemu ikasimamishwa kabisa hadi mwaka wa pili wa utawala wa Dario mfalme wa Uajemi.
+5	1	Ndipo nabii Hagai na nabii Zekaria mzao wa Ido, wakawatolea unabii Wayahudi waliokuwa Yuda na Yerusalemu kwa jina la Mungu wa Israeli, aliyekuwa pamoja nao.
+5	2	Ndipo Zerubabeli mwana wa Shealtieli na Yeshua mwana wa Yosadaki wakaanza kujenga tena nyumba ya Mungu huko Yerusalemu. Nao manabii wa Mungu walikuwa pamoja nao, wakiwasaidia.
+5	3	Wakati ule Tatenai mtawala wa ngʼambo ya mto Frati na Shethar-Bozenai na wenzao waliwaendea, wakawauliza, “Ni nani aliyewapa ruhusa ya kujenga tena Hekalu hili na kurudishia upya kama lilivyokuwa?”
+5	4	Pia waliwauliza, “Je, majina ya watu wanaofanya ujenzi huu ni nani?”
+5	5	Lakini jicho la Mungu wao lilikuwa likiwaangalia wazee wa Wayahudi, nao hawakuzuiliwa kujenga mpaka taarifa ikaandikwa kwa Dario na majibu yake kupokelewa.
+5	6	Hii ni nakala ya barua ile Tatenai, mtawala wa ngʼambo ya mto Frati na Shethar-Bozenai na wenzao maafisa wa ngʼambo ya mto Frati waliyompelekea Mfalme Dario.
+5	7	Taarifa waliyompelekea ilisomeka kama ifuatavyo: Kwa Mfalme Dario: Salamu kwa moyo mkunjufu.
+5	8	Inampasa Mfalme ajue kwamba tulikwenda katika eneo la Yuda, kwenye Hekalu la Mungu mkuu. Watu wanalijenga kwa mawe makubwa na kuweka mbao kwenye kuta. Kazi inafanyika kwa bidii na inaendelea kwa haraka chini ya uongozi wao.
+5	9	Tuliwauliza viongozi, “Ni nani aliyewapa ruhusa kujenga upya Hekalu hili na kurejeza hali ya jengo kama lilivyokuwa?”
+5	10	Pia tuliwauliza majina yao, ili tukuandikie kukujulisha majina ya viongozi wao.
+5	11	Hili ndilo jibu walilotupa: “Sisi ni watumishi wa Mungu wa mbingu na nchi, nasi tunalijenga upya Hekalu ambalo lilijengwa miaka mingi iliyopita, lile ambalo mfalme mkuu wa Israeli alilijenga na kulikamilisha.
+5	12	Lakini kwa sababu baba zetu walimkasirisha Mungu wa mbinguni, basi aliwatia mkononi mwa Nebukadneza, Mkaldayo, mfalme wa Babeli, ambaye aliliharibu Hekalu hili na kuwaondoa watu na kuwapeleka uhamishoni huko Babeli.
+5	13	“Pamoja na hayo, katika mwaka wa kwanza wa kutawala Koreshi mfalme wa Babeli, Mfalme Koreshi alitoa amri ya kujengwa upya nyumba hii ya Mungu.
+5	14	Yeye hata aliviondoa vyombo vya dhahabu na fedha vya nyumba ya Mungu, kutoka Hekalu la Babeli ambavyo Nebukadneza alikuwa amevichukua kutoka ndani ya Hekalu huko Yerusalemu na kuvileta katika Hekalu la Babeli. “Vyombo hivyo Mfalme Koreshi alimkabidhi mtu aliyeitwa Sheshbaza, ambaye Koreshi alikuwa amemteua awe mtawala,
+5	15	naye akamwambia, ‘Chukua vyombo hivi uende ukaviweke ndani ya Hekalu huko Yerusalemu. Nawe uijenge upya nyumba ya Mungu mahali pake.’
+5	16	Hivyo huyu Sheshbaza alikuja na kuweka misingi ya nyumba ya Mungu iliyoko Yerusalemu. Tangu siku hiyo hadi sasa imekuwa ikiendelea kujengwa lakini bado haijamalizika.”
+5	17	Sasa kama ikimpendeza mfalme, uchunguzi na ufanyike katika kumbukumbu za maandishi ya ufalme mjini Babeli, kuona kama kweli Mfalme Koreshi alitoa amri ya kujenga upya nyumba ya Mungu katika Yerusalemu. Kisha tunaomba mfalme na atutumie uamuzi wake kuhusu jambo hili.
+6	1	Kisha Mfalme Dario alitoa amri, nao wakafanya uchunguzi katika kumbukumbu zilizohifadhiwa katika hazina huko Babeli.
+6	2	Karatasi moja ndefu ya maandishi ilipatikana huko Ekbatana katika jimbo la Umedi. Haya ndiyo yaliyokuwa yameandikwa humo: Kumbukumbu:
+6	3	Katika mwaka wa kwanza wa kutawala Mfalme Koreshi, mfalme alitoa amri kuhusu Hekalu la Mungu katika Yerusalemu: Hekalu na lijengwe tena mahali palepale Wayahudi walipokuwa wakitoa dhabihu, kwenye msingi ule ule. Iwe na kimo cha mikono sitini, upana wa mikono sitini,
+6	4	kuta zijengwe kwa safu tatu za mawe makubwa kisha ifuate safu moja ya mbao. Gharama zitalipwa kutoka hazina ya mfalme.
+6	5	Pia, vyombo vya dhahabu na vya fedha vya nyumba ya Mungu, ambavyo Nebukadneza alivichukua kutoka kwenye Hekalu huko Yerusalemu akavileta Babeli, yapasa virudishwe mahali pake ndani ya Hekalu huko Yerusalemu, yapasa viwekwe ndani ya nyumba ya Mungu.
+6	6	Sasa basi, Tatenai, mtawala wa Ngʼambo ya Mto Frati na Shethar-Bozenai pamoja na ninyi, maafisa wenzao wa jimbo hilo kaeni mbali na mahali hapo.
+6	7	Msiingilie kazi ya Hekalu hili la Mungu. Mwacheni mtawala wa Wayahudi na viongozi Wayahudi wajenge upya nyumba hii ya Mungu mahali pake.
+6	8	Zaidi ya hayo, hapa natoa amri kuhusu mtakalofanya kwa ajili ya wazee wa Wayahudi katika ujenzi wa nyumba hii ya Mungu: Gharama za watu hawa zitalipwa kikamilifu kutoka hazina ya mfalme, kutoka kwenye mapato ya Ngʼambo ya Mto Frati, ili ujenzi usisimame.
+6	9	Chochote kinachohitajika kama mafahali wachanga, kondoo dume, wana-kondoo kwa ajili ya sadaka za kuteketezwa kwa Mungu wa mbinguni, ngano, chumvi, divai na mafuta kama vitakavyohitajika na makuhani huko Yerusalemu, lazima wapewe kila siku pasipo kukosa,
+6	10	ili waweze kutoa dhabihu inayompendeza Mungu wa mbinguni na kumwombea mfalme na wanawe hali njema.
+6	11	Zaidi ya hayo, ninaamuru kwamba mtu yeyote atakayebadilisha amri hii, boriti itangʼolewa kutoka nyumba yake, ichongwe upande mmoja na atumbuliwe nayo. Kwa ajili ya kosa hili nyumba yake ifanywe lundo la taka.
+6	12	Naye Mungu, aliyeliweka Jina lake huko, amwangushe mfalme yeyote au watu watakaoinua mikono kubadili amri hii au kuharibu Hekalu hili lililoko Yerusalemu. Mimi Dario nimetoa amri hii. Nayo itekelezwe kwa bidii na kwa makini.
+6	13	Kwa sababu ya amri aliyotoa Mfalme Dario, Tatenai mtawala wa Ngʼambo ya Mto Frati na Shethar-Bozenai na wenzao wakaitekeleza kwa bidii na kwa makini.
+6	14	Hivyo wazee wa Wayahudi waliendelea kujenga na kustawi kutokana na mahubiri ya manabii Hagai na Zekaria, mwana wa Ido. Wakakamilisha ujenzi wa Hekalu kulingana na agizo la Mungu wa Israeli na amri ya Koreshi, Dario na Artashasta wafalme wa Uajemi.
+6	15	Hekalu lilikamilika siku ya kumi na mbili ya mwezi wa Adari, ndio mwezi wa tatu, katika mwaka wa sita wa utawala wa Mfalme Dario.
+6	16	Kisha watu wa Israeli: makuhani, Walawi na wengine wote waliohamishwa, wakaadhimisha kule kuwekwa wakfu nyumba ya Mungu kwa shangwe.
+6	17	Kwa ajili ya kuwekwa wakfu nyumba hii ya Mungu walitoa mafahali mia moja, kondoo dume mia mbili, wana-kondoo mia nne, sadaka kwa ajili ya dhambi ya Israeli yote walitoa mbuzi dume kumi na wawili, mmoja kwa ajili ya kila kabila la Israeli.
+6	18	Wakawaweka makuhani katika nafasi zao na Walawi wakawekwa katika makundi yao ya huduma kwa Mungu huko Yerusalemu, kulingana na ilivyoandikwa katika Kitabu cha Mose.
+6	19	Katika siku ya kumi na nne ya mwezi wa kwanza, waliorudi kutoka uhamishoni wakaadhimisha Pasaka.
+6	20	Makuhani na Walawi walikuwa wamekwisha kujitakasa nao wamekuwa safi kwa kufuata kawaida za ibada. Walawi wakachinja kondoo wa Pasaka kwa ajili ya wana wa waliorudi kutoka utumwani uhamishoni, kwa ajili ya ndugu zao makuhani na wao wenyewe.
+6	21	Hivyo Waisraeli waliokuwa wamerudi kutoka utumwani uhamishoni wakaila Pasaka, pamoja na wale waliokuwa wamejitenga na matendo ya unajisi wa Mataifa ya jirani ili kumtafuta Bwana, Mungu wa Israeli.
+6	22	Kwa muda wa siku saba waliiadhimisha Sikukuu ya Mikate Isiyotiwa Chachu kwa furaha, kwa sababu Bwana alikuwa amewajaza furaha kwa kubadilisha nia ya mfalme wa Ashuru kwamba awasaidie ujenzi wa nyumba ya Mungu, Mungu wa Israeli.
+7	1	Baada ya mambo haya, wakati wa utawala wa Artashasta mfalme wa Uajemi, Ezra mwana wa Seraya, mwana wa Azaria, mwana wa Hilkia,
+7	2	mwana wa Shalumu, mwana wa Sadoki, mwana wa Ahitubu,
+7	3	mwana wa Amaria, mwana wa Azaria, mwana wa Merayothi,
+7	4	mwana wa Zerahia, mwana wa Uzi, mwana wa Buki,
+7	5	mwana wa Abishua, mwana wa Finehasi, mwana wa Eleazari, mwana wa kuhani mkuu Aroni.
+7	6	Huyu Ezra alipanda kutoka Babeli. Alikuwa mwalimu mwenye ujuzi mzuri katika sheria ya Mose, ambayo Bwana, Mungu wa Israeli, alikuwa ametoa. Mfalme alikuwa amempa Ezra kila kitu alichoomba, kwa maana Bwana Mungu wake alikuwa pamoja naye.
+7	7	Pia baadhi ya Waisraeli, wakiwemo makuhani, Walawi, waimbaji, mabawabu na watumishi wa Hekalu, nao walikuja Yerusalemu mwaka wa saba wa utawala wa Mfalme Artashasta.
+7	8	Ezra aliwasili Yerusalemu mwezi wa tano wa mwaka wa saba wa utawala wa Mfalme Artashasta.
+7	9	Ezra alianza safari yake kutoka Babeli tangu siku ya kwanza ya mwezi wa kwanza, naye akawasili Yerusalemu siku ya kwanza ya mwezi wa tano, kwa maana mkono wa neema wa Mungu wake ulikuwa juu yake.
+7	10	Kwa maana Ezra alikuwa amejitoa kwa moyo wote kujifunza na kushika sheria ya Bwana na kuwafundisha watu wa Israeli amri na sheria zake.
+7	11	Hii ni nakala ya barua ambayo Mfalme Artashasta alikuwa amempa Ezra aliyekuwa kuhani na mwalimu, mtu aliyeelimika katika mambo yahusuyo maagizo na amri za Bwana kwa Israeli.
+7	12	Artashasta, mfalme wa wafalme, Kwa Ezra kuhani, mwalimu wa Sheria ya Mungu wa mbinguni: Salamu.
+7	13	Sasa naamuru kwamba mtu yeyote Mwisraeli katika ufalme wangu, pamoja na makuhani na Walawi, ambaye anataka kwenda Yerusalemu pamoja nawe aweza kwenda.
+7	14	Unatumwa na mfalme na washauri wake saba kuchunguza kuhusu Yuda na Yerusalemu kulingana na Sheria ya Mungu wako, iliyoko mkononi mwako.
+7	15	Zaidi ya hayo, uchukue pamoja nawe fedha na dhahabu ambazo mfalme na washauri wake wamempa Mungu wa Israeli kwa hiari, Mungu ambaye maskani yake yako Yerusalemu,
+7	16	pia fedha na dhahabu zote unazoweza kupata kutoka jimbo la Babeli, pamoja na sadaka za hiari watakazotoa watu na makuhani kwa ajili ya Hekalu la Mungu wao katika Yerusalemu.
+7	17	Hakikisha kwamba fedha hizi zimetumika kununua mafahali, kondoo dume na wana-kondoo pamoja na sadaka za nafaka na sadaka za vinywaji, uvitoe dhabihu juu ya madhabahu ya Hekalu la Mungu wenu katika Yerusalemu.
+7	18	Kisha wewe na Wayahudi ndugu zako mnaweza kufanya lolote linaloonekana jema sana kwa fedha na dhahabu zilizosalia, kulingana na mapenzi ya Mungu wenu.
+7	19	Uvitoe kwa Mungu wa Yerusalemu vyombo vyote ulivyokabidhiwa kwa ajili ya ibada katika Hekalu la Mungu wako.
+7	20	Kitu kingine chochote kinachohitajika kwa ajili ya Hekalu la Mungu wenu ambacho unatakiwa kukitoa, waweza kukitoa kutoka hazina ya mfalme.
+7	21	Mimi, Mfalme Artashasta, sasa naagiza watunza hazina wote wa Ngʼambo ya Mto Frati kutoa kwa bidii chochote kwa Ezra kuhani na mwalimu wa Sheria ya Mungu wa mbinguni atakachohitaji kwenu,
+7	22	talanta 100 za fedha, ngano kori 100, divai bathi 100, mafuta ya zeituni bathi 100, na chumvi kiasi chochote.
+7	23	Chochote ambacho Mungu wa mbinguni ameagiza, kifanyike kwa ukamilifu kwa ajili ya Hekalu la Mungu wa mbinguni. Kwa nini pawepo ghadhabu dhidi ya utawala wa mfalme na wanawe?
+7	24	Pia ninyi fahamuni kuwa hamna mamlaka ya kuwatoza kodi, ushuru au ada makuhani, Walawi, waimbaji, mabawabu, watumishi wa Hekalu au wafanyakazi wengine kwenye nyumba ya Mungu.
+7	25	Nawe Ezra, kufuatana na hekima ya Mungu wenu uliyo nayo, weka mahakimu na waamuzi wote wanaozifahamu sheria za Mungu wenu ili watoe haki kwa watu wote wa Ngʼambo ya Mto Frati. Nawe inakupasa umfundishe yeyote ambaye hazifahamu.
+7	26	Yeyote ambaye hataitii sheria ya Mungu wenu pia sheria ya mfalme, hakika lazima aadhibiwe kwa kuuawa, kuhamishwa, kunyangʼanywa mali au kufungwa gerezani.
+7	27	Sifa ziwe kwa Bwana, Mungu wa baba zetu, Mungu ambaye kwa njia hii ameweka ndani ya moyo wa mfalme kuipa heshima nyumba ya Bwana iliyoko Yerusalemu, kwa namna hii
+7	28	ambaye ameniongezea kibali chake mbele ya mfalme, washauri wake na maafisa wote wa mfalme wenye uwezo. Kwa kuwa mkono wa Bwana Mungu wangu ulikuwa pamoja nami, nilijipa moyo nikakusanya watu walio viongozi kutoka Israeli wakwee pamoja nami.
+8	1	Hawa ndio viongozi wa jamaa pamoja na wale walioandikwa ambao walikuja pamoja nami kutoka Babeli wakati wa utawala wa Mfalme Artashasta:
+8	2	wa wazao wa Finehasi, alikuwa Gershoni; wa wazao wa Ithamari, alikuwa Danieli; wa wazao wa Daudi, alikuwa Hatushi
+8	3	wa wazao wa Shekania; wa wazao wa Paroshi, alikuwa Zekaria, na watu 150 walioandikishwa pamoja naye;
+8	4	wa wazao wa Pahath-Moabu, alikuwa Eliehoenai mwana wa Zerahia na wanaume 200 pamoja naye;
+8	5	wa wazao wa Zatu, alikuwa Shekania mwana wa Yahazieli na wanaume 300 pamoja naye;
+8	6	wa wazao wa Adini, alikuwa Ebedi mwana wa Yonathani na wanaume 50 pamoja naye;
+8	7	wa wazao wa Elamu, alikuwa Yeshaya mwana wa Athalia, na wanaume 70 pamoja naye;
+8	8	wa wazao wa Shefatia, alikuwa Zebadia mwana wa Mikaeli na wanaume 80 pamoja naye;
+8	9	wa wazao wa Yoabu, alikuwa Obadia mwana wa Yehieli na wanaume 218 pamoja naye;
+8	10	wa wazao wa Bani, alikuwa Shelomithi mwana wa Yosifia na wanaume 160 pamoja naye;
+8	11	wa wazao wa Bebai, alikuwa Zekaria mwana wa Bebai na wanaume 28 pamoja naye;
+8	12	wa wazao wa Azgadi, alikuwa Yohanani mwana wa Hakatani na wanaume 110 pamoja naye;
+8	13	wa wazao wa Adonikamu, hawa walikuwa wa mwisho ambao majina yao ni Elifeleti, Yeueli, Shemaya na wanaume 60 pamoja nao;
+8	14	wa wazao wa Bigwai, walikuwa Uthai na Zakuri na wanaume 70 pamoja nao.
+8	15	Niliwakusanya kwenye mto utiririkao kuelekea Ahava, nasi tukapiga kambi pale siku tatu. Wakati nilipokagua kati ya watu na makuhani, sikuwapata Walawi.
+8	16	Basi niliwaita Eliezeri, Arieli, Shemaya, Elnathani, Yaribu, Elnathani, Nathani, Zekaria na Meshulamu waliokuwa viongozi na Yoyaribu na Elnathani waliokuwa wasomi,
+8	17	nikawatuma kwa Ido kiongozi huko Kasifia. Niliwaambia watakayomwambia Ido na ndugu zake, watumishi wa Hekalu huko Kasifia, ili waweze kutuletea wahudumu kwa ajili ya nyumba ya Mungu wetu.
+8	18	Kwa sababu mkono wa neema wa Mungu wetu ulikuwa juu yetu, walituletea Sherebia, mtu mwenye uwezo kutoka wazao wa Mahli mwana wa Lawi, mwana wa Israeli, na wana wa Sherebia pamoja na ndugu zao wanaume kumi na wanane.
+8	19	Naye Hashabia, pamoja na Yeshaya kutoka wazao wa Merari na ndugu zake na wapwa wake wanaume ishirini.
+8	20	Vilevile walileta watumishi wa Hekalu 220, kikundi ambacho Daudi na maafisa walikuwa wamekiweka kusaidia Walawi. Wote walikuwa wameorodheshwa kwa majina.
+8	21	Kando ya Mto Ahava, hapo nilitangaza kufunga, ili tujinyenyekeshe mbele za Mungu wetu na kumwomba kwa ajili ya kutujalia safari ya amani sisi na watoto wetu, pamoja na mali zetu zote.
+8	22	Niliona aibu kumwomba mfalme askari na wapanda farasi wa kutulinda njiani kutokana na adui zetu, kwa sababu tulikwisha kumwambia mfalme, “Mkono wa neema wa Mungu wetu uko juu ya kila mmoja anayemtafuta, lakini hasira yake kubwa ni dhidi ya wote wamwachao.”
+8	23	Kwa hiyo tulifunga na kumwomba Mungu wetu kuhusu jambo hili, naye akajibu maombi yetu.
+8	24	Kisha niliwatenga viongozi wa makuhani kumi na wawili, pamoja na Sherebia, Hashabia na ndugu zao kumi,
+8	25	nami nikawapimia fedha, dhahabu na vifaa ambavyo mfalme, washauri wake, maafisa wake na Israeli wote waliokuwepo walikuwa wamevitoa sadaka kwa ajili ya nyumba ya Mungu wetu.
+8	26	Niliwapimia talanta 650 za fedha, vifaa vingine vya fedha vya uzito wa talanta mia moja, talanta mia moja za dhahabu,
+8	27	mabakuli ishirini ya dhahabu ya thamani ya darkoni elfu moja, na vyombo viwili vya shaba iliyosuguliwa, ya thamani kama dhahabu.
+8	28	Niliwaambia, “Ninyi pamoja na vyombo hivi ni wakfu kwa Bwana. Fedha na dhahabu ni sadaka ya hiari kwa Bwana, Mungu wa baba zenu.
+8	29	Vilindeni kwa uangalifu mpaka mtakapovipima ndani ya vyumba vya nyumba ya Bwana katika Yerusalemu mbele ya makuhani, viongozi na Walawi pamoja na wakuu wa jamaa za Israeli.”
+8	30	Ndipo makuhani na Walawi wakapokea fedha, dhahabu na vyombo vilivyowekwa wakfu ambavyo vilipimwa na kupelekwa katika nyumba ya Mungu wetu mjini Yerusalemu.
+8	31	Tulianza safari kutoka Mto Ahava kwenda Yerusalemu kwenye siku ya kumi na mbili ya mwezi wa kwanza. Mkono wa Mungu wetu ulikuwa juu yetu, naye njiani alitulinda dhidi ya adui na wanyangʼanyi.
+8	32	Kwa hiyo tuliwasili Yerusalemu ambapo tulipumzika kwa siku tatu.
+8	33	Katika siku ya nne, ndani ya nyumba ya Mungu wetu, tulipima fedha, dhahabu na vyombo vilivyowekwa wakfu, tukakabidhi mikononi mwa kuhani Meremothi mwana wa Uria. Eleazari mwana wa Finehasi alikuwa pamoja naye, pia walikuwako Walawi wawili, Yozabadi mwana wa Yeshua na Noadia mwana wa Binui.
+8	34	Kila kitu kilihesabiwa kwa idadi na kupimwa kwa uzito, nao uzito wote uliandikwa wakati ule.
+8	35	Kisha mateka waliokuwa wamerudi kutoka utumwani wakatoa sadaka za kuteketezwa kwa moto kwa Mungu wa Israeli: mafahali kumi na wawili kwa ajili ya Israeli wote, kondoo dume tisini na sita, wana-kondoo sabini na saba na mbuzi dume kumi na wawili kuwa sadaka ya dhambi. Hii yote ilikuwa sadaka ya kuteketezwa kwa moto kwa Bwana.
+8	36	Pia walikabidhi manaibu wa mfalme na watawala wa Ngʼambo ya Mto Frati maagizo ya mfalme, ambao baadaye walitoa msaada kwa watu na kwa nyumba ya Mungu.
+9	1	Baada ya mambo haya kutendeka, viongozi walinijia na kusema, “Watu wa Israeli, wakiwemo makuhani na Walawi, hawakujitenga na majirani zao katika kufanya machukizo, kama yale ya Wakanaani, Wahiti, Waperizi, Wayebusi, Waamoni, Wamoabu, Wamisri na Waamori.
+9	2	Wamewaoa baadhi ya binti zao kuwa wake zao na wake za wana wao, nao wamechanganya taifa takatifu na watu waliowazunguka. Nao viongozi na maafisa wamekuwa mstari wa mbele katika njia hii potovu.”
+9	3	Niliposikia jambo hili nilirarua koti langu na joho langu, nikazingʼoa nywele za kichwa changu na ndevu zangu na kuketi nikishangaa.
+9	4	Kisha kila mmoja aliyetetemeshwa na maneno ya Mungu wa Israeli alikusanyika kunizunguka kwa sababu ya upotovu huu wa hao watu waliorudi kutoka utumwani. Nami niliketi pale nikishangaa mpaka wakati wa dhabihu ya jioni.
+9	5	Ndipo wakati wa kutoa dhabihu ya jioni nikainuka kutoka kujidhili kwangu nikiwa na koti na joho langu lililoraruka, nikapiga magoti mikono yangu ikiwa imeinuliwa kwa Bwana Mungu wangu.
+9	6	Nami nikaomba: “Ee Mungu wangu, natahayari na kuona aibu kukuinulia uso wangu Mungu wangu, kwa sababu dhambi zetu zimejikusanya hata kupita juu ya vichwa vyetu na hatia yetu imefika mbinguni.
+9	7	Tokea siku za babu zetu mpaka sasa, hatia yetu imekuwa kubwa. Kwa sababu ya dhambi zetu, sisi na wafalme wetu na makuhani wetu tumekabiliwa na vita, utumwa, kutekwa na kudhiliwa katika mikono ya wafalme wa kigeni, kama ilivyo leo.
+9	8	“Lakini sasa, kwa muda mfupi, Bwana Mungu wetu amekuwa na neema kwa kutuachia mabaki na kutupa mahali imara katika mahali pake patakatifu, hivyo Mungu wetu atupa mwanga machoni petu na unafuu katika utumwa wetu.
+9	9	Ingawa tu watumwa, Mungu wetu hajatuacha katika kufungwa kwetu. Ametuonyesha huruma mbele ya wafalme wa Uajemi: Ametujalia maisha mapya kwa kujenga upya nyumba ya Mungu wetu na kukarabati magofu yake, naye ametupa ukuta wa ulinzi katika Yuda na Yerusalemu.
+9	10	“Lakini sasa, Ee Mungu wetu, tunaweza kusema nini baada ya hili? Kwa maana tumedharau maagizo
+9	11	uliyoyatoa kupitia watumishi wako manabii uliposema: ‘Nchi mnayoiingia kuimiliki ni nchi iliyochafuliwa na uovu wa watu wake. Kwa matendo yao ya machukizo wameijaza nchi kwa unajisi wao kutoka mwisho mmoja hadi mwingine.
+9	12	Kwa hiyo, msiwaoze binti zenu kwa wana wao wala binti zao kwa wana wenu. Msitafute mkataba wa urafiki nao kwa wakati wowote. Ndipo mtakapofanikiwa na kula mema ya nchi na kuwaachia watoto wenu nchi hiyo kama urithi wao wa milele.’
+9	13	“Yale yaliyotupata ni matokeo ya matendo yetu mabaya, pia hatia yetu kubwa. Hata hivyo, wewe Mungu wetu, umetuadhibu kidogo kuliko dhambi zetu zilivyostahili na umetupa mabaki kama haya.
+9	14	Je, tutavunja maagizo yako tena na kuoana na watu ambao hufanya mambo ya machukizo? Je, hutakuwa na hasira ya kutosha juu yetu na kutuangamiza, bila kutuachia mabaki wala atakayenusurika?
+9	15	Ee Bwana, Mungu wa Israeli, wewe ni mwenye haki! Leo hii tumeachwa kama mabaki. Tupo hapa mbele zako na hatia yetu, ingawa katika hali hii hakuna hata mmoja wetu anayeweza kusimama mbele zako.”
+10	1	Wakati Ezra alipokuwa anaomba na kuungama, huku akilia na kujitupa chini mbele ya nyumba ya Mungu, umati mkubwa wa Waisraeli, wanaume, wanawake na watoto walikusanyika kumzunguka. Nao pia wakalia sana.
+10	2	Kisha Shekania mwana wa Yehieli, mmoja wa wazao wa Elamu, akamwambia Ezra, “Tumekosa uaminifu kwa Mungu wetu kwa kuoa wanawake wa kigeni kutoka mataifa yanayotuzunguka. Lakini pamoja na hili, bado liko tumaini kwa ajili ya Israeli.
+10	3	Sasa na tufanye agano mbele za Mungu wetu kuwafukuza hawa wanawake wote pamoja na watoto wao, kulingana na maonyo ya bwana wangu pamoja na wale ambao wanaogopa amri za Mungu wetu. Hili na lifanyike sawasawa na hii Sheria.
+10	4	Inuka, suala hili lipo mikononi mwako. Sisi tutaungana nawe, uwe na ujasiri ukatende hili.”
+10	5	Basi Ezra akainuka na kuwaapisha makuhani viongozi, Walawi na Israeli yote kufanya lile lililokuwa limependekezwa. Nao wakaapa.
+10	6	Ndipo Ezra akaondoka hapo mbele ya nyumba ya Mungu akaenda kwenye chumba cha Yehohanani mwana wa Eliashibu. Wakati alipokuwa hapo, hakula chakula wala hakunywa maji, kwa sababu aliendelea kuomboleza kuhusu kukosa uaminifu kwa watu wa uhamishoni.
+10	7	Ndipo lilipotolewa tangazo Yuda yote na Yerusalemu kwa watu wote waliokuwa uhamishoni kukusanyika Yerusalemu.
+10	8	Yeyote ambaye hangejitokeza kwa muda wa siku tatu angepoteza mali yake yote, kulingana na uamuzi wa maafisa na wazee, naye mtu huyo angefukuzwa kutoka kusanyiko la watu waliokuwa uhamishoni.
+10	9	Katika muda wa siku tatu, watu wote wa Yuda na Benyamini wakawa wamekusanyika huko Yerusalemu. Kwenye siku ya ishirini ya mwezi wa tisa, watu wote walikuwa wameketi ndani ya uwanja mbele ya nyumba ya Mungu, wakiwa na majonzi mno kwa tukio hilo na kwa sababu ya mvua kubwa.
+10	10	Ndipo Kuhani Ezra aliposimama akawaambia, “Mmekosa uaminifu, mmeoa wanawake wa kigeni, mkaongezea hatia ya Israeli.
+10	11	Sasa tubuni kwa Bwana, Mungu wa baba zenu mkafanye mapenzi yake. Jitengeni na mataifa wanaowazunguka na wake zenu wa kigeni.”
+10	12	Kusanyiko lote likajibu kwa sauti kubwa: “Uko sawa kabisa! Ni lazima tufanye kama unavyosema.
+10	13	Lakini hapa pana watu wengi na ni wakati wa mvua, hivyo hatuwezi kusimama nje. Hata hivyo, shauri hili haliwezi kumalizika kwa siku moja au mbili, kwa sababu tumefanya dhambi kubwa katika jambo hili.
+10	14	Maafisa wetu na wafanye kwa niaba ya kusanyiko lote. Kisha kila mmoja katika miji yetu ambaye ameoa mwanamke wa kigeni aje kwa wakati uliopangwa, akiwa pamoja na wazee na waamuzi wa kila mji, hadi hasira kali ya Mungu wetu katika shauri hili itakapoondolewa kwetu.”
+10	15	Yonathani mwana wa Asaheli na Yazeya mwana wa Tikwa peke yao, wakiungwa mkono na Meshulamu na Shabethai Mlawi, ndio waliopinga jambo hili.
+10	16	Basi watu wa uhamishoni wakafanya kama ilivyokuwa imependekezwa. Kuhani Ezra akachagua wanaume waliokuwa viongozi wa jamaa, mmoja kutoka kila mgawanyo wa jamaa, nao wote wakachaguliwa kwa majina. Katika siku ya kwanza ya mwezi wa kumi waliketi kuchunguza mashauri hayo.
+10	17	Katika siku ya kwanza ya mwezi wa kwanza wakawa wamemaliza kushughulikia wanaume wote waliokuwa wameoa wanawake wa kigeni.
+10	18	Miongoni mwa wazao wa makuhani, wafuatao walikuwa wameoa wanawake wa kigeni: Kutoka wazao wa Yeshua mwana wa Yosadaki na ndugu zake: Maaseya, Eliezeri, Yaribu na Gedalia.
+10	19	(Wote walitoa nadhiri kwa kuandika kwa mikono yao kuwafukuza wake zao, kwa hatia yao, kila mmoja akatoa kondoo dume kutoka kundini mwake kama sadaka ya hatia.)
+10	20	Kutoka wazao wa Imeri: Hanani na Zebadia.
+10	21	Kutoka wazao wa Harimu: Maaseya, Eliya, Shemaya, Yehieli na Uzia.
+10	22	Kutoka wazao wa Pashuri: Elioenai, Maaseya, Ishmaeli, Nethaneli, Yozabadi na Elasa.
+10	23	Miongoni mwa Walawi: Yozabadi, Shimei, Kelaya (ndiye Kelita), Pethahia, Yuda na Eliezeri.
+10	24	Kutoka waimbaji: Eliashibu. Kutoka mabawabu: Shalumu, Telemu na Uri.
+10	25	Miongoni mwa Waisraeli wengine: Kutoka wazao wa Paroshi: Ramia, Izia, Malkiya, Miyamini, Eleazari, Malkiya na Benaya.
+10	26	Kutoka wazao wa Elamu: Matania, Zekaria, Yehieli, Abdi, Yeremothi na Eliya.
+10	27	Kutoka wazao wa Zatu: Elioenai, Eliashibu, Matania, Yeremothi, Zabadi na Aziza.
+10	28	Kutoka uzao wa Bebai: Yehohanani, Hanania, Zabai na Athlai.
+10	29	Kutoka wazao wa Bani: Meshulamu, Maluki, Adaya, Yashubu, Sheali na Yeremothi.
+10	30	Kutoka wazao wa Pahath-Moabu: Adna, Kelali, Benaya, Maaseya, Matania, Bezaleli, Binui na Manase.
+10	31	Kutoka wazao wa Harimu: Eliezeri, Ishiya, Malkiya, Shemaya, Shimeoni,
+10	32	Benyamini, Maluki, na Shemaria.
+10	33	Kutoka wazao wa Hashumu: Matenai, Matata, Zabadi, Elifeleti, Yeremai, Manase na Shimei.
+10	34	Kutoka wazao wa Bani: Maadai, Amramu, Ueli,
+10	35	Benaya, Bedeya, Keluhi,
+10	36	Vania, Meremothi, Eliashibu,
+10	37	Matania, Matenai na Yaasu.
+10	38	Kutoka wazao wa Binui: Shimei,
+10	39	Shelemia, Nathani, Adaya,
+10	40	Maknadebai, Shashai, Sharai,
+10	41	Azareli, Shelemia, Shemaria,
+10	42	Shalumu, Amaria na Yosefu.
+10	43	Kutoka wazao wa Nebo: Yeieli, Matithia, Zabadi, Zebina, Yadai, Yoeli na Benaya.
+10	44	Hawa wote walikuwa wameoa wanawake wa kigeni, na baadhi yao walikuwa wamezaa nao watoto.

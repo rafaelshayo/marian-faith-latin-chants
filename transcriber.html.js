@@ -93,6 +93,7 @@ function applyGabc(syl,gSyl,repeat,mapOffset,indexOffset) {
       }
       _textGabcMap.push([result.length+mapOffset - 1, curSyl.index - ((curSyl.syl.match(/^\s*/)[0]).length) + (syl.offset || 0)]);
       result+=curSyl.syl;
+      if(curSyl.translation) result+='['+curSyl.translation+']';
       if(curSyl.punctuation.length > 0) {
         if(curSyl.space && curSyl.punctuation.match(/(^|[^\\])\\$/)) {
           //if it ends with exactly one backslash, consider the following space as part of this syllable:
@@ -274,7 +275,75 @@ function splitGabc(gabc,offset) {
 }
 
 var _regexParens=/\(([^\s\)]*[aeiouyáéëíóúý?æœǽœ́][^\s\)]*)\)/;
+var _regexBracket=/\[([^\[\]]*)\]/;
+//characters that would break the GABC syntax are not allowed within a [translation]:
+function sanitizeTranslation(text) {
+  return text.replace(/[\[\]]/g,'')
+    .replace(/\(/g,'（').replace(/\)/g,'）')
+    .replace(/\|/g,'/')
+    .replace(/--/g,'–')
+    .replace(/\s+/g,' ')
+    .trim();
+}
+//removes [bracketed translations] from the text, remembering where they were and whether they
+//came from the Tafsiri box (marked with a leading U+0001 marker) or were typed inline by the user.
+function extractTranslations(text) {
+  var m,brackets=[];
+  while((m=_regexBracket.exec(text))) {
+    var content=m[1],
+        injected=content.charCodeAt(0)==1;
+    if(injected) content=content.slice(1);
+    brackets.push({pos: m.index,
+                   len: m[0].length,
+                   injected: injected,
+                   afterText: m.index>0 && !/\s/.test(text.charAt(m.index-1)),
+                   text: sanitizeTranslation(content)});
+    text=text.slice(0,m.index) + text.slice(m.index+m[0].length);
+  }
+  return {text: text, brackets: brackets};
+}
+function attachTranslations(syl,brackets) {
+  var textStart=function(s){return s.index + (s.all||'').match(/^\s*/)[0].length;};
+  brackets.forEach(function(b) {
+    if(!b.text) return;
+    var target=null,i;
+    if(b.afterText) {
+      for(i=0; i<syl.length; ++i) {
+        if(/\S/.test(syl[i].syl||'') && typeof(syl[i].index)=='number' && textStart(syl[i])<b.pos) target=syl[i];
+      }
+    }
+    if(!target) {
+      for(i=0; i<syl.length; ++i) {
+        if(/\S/.test(syl[i].syl||'') && typeof(syl[i].index)=='number' && textStart(syl[i])>=b.pos) { target=syl[i]; break; }
+      }
+    }
+    if(!target) {
+      for(i=syl.length-1; i>=0; --i) {
+        if(/\S/.test(syl[i].syl||'')) { target=syl[i]; break; }
+      }
+    }
+    if(target) target.translation = target.translation? target.translation+' '+b.text : b.text;
+  });
+  //restore syllable indices to refer to the text as typed (brackets from the Tafsiri box do not
+  //exist in the text box, so they contribute nothing):
+  var addback=0,bi=0;
+  for(var i=0; i<syl.length; ++i) {
+    if(typeof(syl[i].index)!='number') continue;
+    while(bi<brackets.length && brackets[bi].pos<=syl[i].index) {
+      if(!brackets[bi].injected) addback+=brackets[bi].len;
+      ++bi;
+    }
+    syl[i].index+=addback;
+  }
+}
 function splitText(text) {
+  var extracted=extractTranslations(text);
+  var brackets=extracted.brackets;
+  var syl=splitTextSyllables(extracted.text);
+  if(brackets.length) attachTranslations(syl,brackets);
+  return syl;
+}
+function splitTextSyllables(text) {
   switch($("#selLanguage").val()) {
     case 'en':
       return Syl.syllabify(text,'en');
@@ -400,8 +469,24 @@ function shiftGabc(e) {
   }
 }
 
+var _regexInjectedBracket=new RegExp('\\['+String.fromCharCode(1)+'[^\\[\\]]*\\]','g');
 function updateSyl(txt) {
-  var tmp=(txt||$("#hymntext").val()).split(regexDashedLine);
+  var text = txt||$("#hymntext").val();
+  //in two-box mode, inject each line of the Tafsiri box as a [translation] at the start of the
+  //corresponding line of the Text box (marked with U+0001 so it can be told apart from
+  //translations typed inline):
+  var translations = txt? '' : ($("#translationtext").val()||'');
+  if(/\S/.test(translations)) {
+    var tlines = translations.split(/\r?\n/);
+    var ti = 0;
+    text = text.split(/\r?\n/).map(function(line){
+      if(!/\S/.test(line) || /^\s*--\s*$/.test(line)) return line;
+      var t = tlines[ti++];
+      if(t && /\S/.test(t)) return '['+String.fromCharCode(1)+sanitizeTranslation(t)+']'+line;
+      return line;
+    }).join('\n');
+  }
+  var tmp=text.split(regexDashedLine);
   syl=[];
   var offset = 0;
   tmp.forEach(
@@ -409,7 +494,11 @@ function updateSyl(txt) {
       var o = splitText(a);
       o.offset = offset;
       syl.push(o);
-      offset += a.length + 4;
+      //offsets refer to positions in the Text box, which does not contain the injected brackets:
+      var injectedLen = 0, im;
+      _regexInjectedBracket.lastIndex = 0;
+      while((im=_regexInjectedBracket.exec(a))) injectedLen += im[0].length;
+      offset += a.length - injectedLen + 4;
     });
 }
 
@@ -521,9 +610,25 @@ function decompile(mixed) {
 
   //gSyl = splitGabc(gs);
   var s = text.join('');
-  updateSyl(s);
+  //move [translations] on the first word of each line into the Tafsiri box; translations on
+  //later words stay inline in the text:
+  var tlines=[], anyTranslations=false;
+  var sLines = s.split('\n').map(function(line){
+    if(!/\S/.test(line) || /^\s*--\s*$/.test(line)) return line;
+    var m=/^(\s*[^\s\[]*)\[([^\[\]]*)\]/.exec(line);
+    if(m) {
+      tlines.push(m[2]);
+      anyTranslations=true;
+      return m[1]+line.slice(m[0].length);
+    }
+    tlines.push('');
+    return line;
+  });
+  s = sLines.join('\n');
   $("#hymngabc").val(gs);
   $("#hymntext").val(s);
+  if($("#translationtext").length) $("#translationtext").val(anyTranslations? tlines.join('\n').replace(/\n+$/,'') : '');
+  updateSyl();
 }
 
 function updateBoth() {
@@ -609,6 +714,7 @@ $(function() {
   $(window).resize(windowResized);
   $("#hymngabc").keyup(updateGabcSide).keydown(shiftGabc);
   $("#hymntext").keyup(updateText).keydown(internationalTextBoxKeyDown);
+  $("#translationtext").keyup(updateText);
   $("#editor").keyup(updateBoth).keydown(gabcEditorKeyDown).keydown(internationalTextBoxKeyDown);
   $("#cbElisionHasNote").click(updateEditor)[0].checked=localStorage.elisionHasNote!="false";
   $("#cbMultipleVerses").click(updateText);

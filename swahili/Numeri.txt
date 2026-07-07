@@ -1,0 +1,1288 @@
+1	1	Bwana alisema na Mose katika Jangwa la Sinai, katika Hema la Kukutania, siku ya kwanza ya mwezi wa pili, katika mwaka wa pili baada ya Waisraeli kutoka nchi ya Misri. Akamwambia,
+1	2	“Hesabu watu wa jumuiya yote ya Waisraeli kwa kufuata koo zao na jamaa zao, ukiorodhesha kila mwanaume kwa jina lake, mmoja mmoja.
+1	3	Wewe na Aroni mtawahesabu kwa migawanyo yao wanaume wote katika Israeli wenye miaka ishirini na kuendelea ambao wanaweza kutumika katika jeshi.
+1	4	Mwanaume mmoja kutoka kila kabila, kila aliye kiongozi wa jamaa yake, atawasaidia.
+1	5	Haya ndiyo majina ya wanaume watakaowasaidia: “kutoka Reubeni, ni Elisuri mwana wa Shedeuri;
+1	6	kutoka Simeoni, ni Shelumieli mwana wa Surishadai;
+1	7	kutoka Yuda, ni Nashoni mwana wa Aminadabu;
+1	8	kutoka Isakari, ni Nethaneli mwana wa Suari;
+1	9	kutoka Zabuloni, ni Eliabu mwana wa Heloni;
+1	10	kutoka wana wa Yosefu: kutoka Efraimu, ni Elishama mwana wa Amihudi; kutoka Manase, ni Gamalieli mwana wa Pedasuri;
+1	11	kutoka Benyamini, ni Abidani mwana wa Gideoni;
+1	12	kutoka Dani, ni Ahiezeri mwana wa Amishadai;
+1	13	kutoka Asheri, ni Pagieli mwana wa Okrani;
+1	14	kutoka Gadi, ni Eliasafu mwana wa Deueli;
+1	15	kutoka Naftali, ni Ahira mwana wa Enani.”
+1	16	Hawa walikuwa wanaume walioteuliwa kutoka jumuiya, viongozi wa makabila ya baba zao. Walikuwa wakuu wa koo za Israeli.
+1	17	Mose na Aroni wakawachukua wanaume hao waliokuwa wamepewa majina yao,
+1	18	wakaita jumuiya yote pamoja katika siku ya kwanza ya mwezi wa pili. Watu wakaonyesha nasaba zao kwa koo zao na jamaa zao, nao wanaume waliokuwa na miaka ishirini au zaidi waliorodheshwa kwa majina, mmoja mmoja,
+1	19	kama Bwana alivyomwagiza Mose. Hivyo aliwahesabu katika Jangwa la Sinai:
+1	20	Kutoka wazao wa Reubeni, mzaliwa wa kwanza wa kiume wa Israeli: Wanaume wote waliokuwa na miaka ishirini au zaidi ambao waliweza kutumika katika jeshi waliorodheshwa kwa majina, mmoja mmoja, kufuatana na kumbukumbu za koo zao na jamaa zao.
+1	21	Idadi kutoka kabila la Reubeni ilikuwa watu 46,500.
+1	22	Kutoka wazao wa Simeoni: Wanaume wote waliokuwa na miaka ishirini au zaidi ambao waliweza kutumika katika jeshi walihesabiwa na kuorodheshwa kwa majina, mmoja mmoja, kufuatana na kumbukumbu za koo zao na jamaa zao.
+1	23	Idadi kutoka kabila la Simeoni walikuwa watu 59,300.
+1	24	Kutoka wazao wa Gadi: Wanaume wote waliokuwa na miaka ishirini au zaidi ambao waliweza kutumika katika jeshi waliorodheshwa kwa majina, kufuatana na kumbukumbu za koo zao na jamaa zao.
+1	25	Idadi kutoka kabila la Gadi walikuwa watu 45,650.
+1	26	Kutoka wazao wa Yuda: Wanaume wote waliokuwa na miaka ishirini au zaidi ambao waliweza kutumika katika jeshi waliorodheshwa kwa majina, kufuatana na kumbukumbu za koo zao na jamaa zao.
+1	27	Idadi kutoka kabila la Yuda walikuwa watu 74,600.
+1	28	Kutoka wazao wa Isakari: Wanaume wote waliokuwa na miaka ishirini au zaidi ambao waliweza kutumika katika jeshi waliorodheshwa kwa majina, kufuatana na kumbukumbu za koo zao na jamaa zao.
+1	29	Idadi kutoka kabila la Isakari walikuwa watu 54,400.
+1	30	Kutoka wazao wa Zabuloni: Wanaume wote waliokuwa na miaka ishirini au zaidi ambao waliweza kutumika katika jeshi waliorodheshwa kwa majina, kufuatana na kumbukumbu za koo zao na jamaa zao.
+1	31	Idadi kutoka kabila la Zabuloni walikuwa watu 57,400.
+1	32	Kutoka wana wa Yosefu: Kutoka wazao wa Efraimu: Wanaume wote waliokuwa na miaka ishirini au zaidi ambao waliweza kutumika katika jeshi waliorodheshwa kwa majina, kufuatana na kumbukumbu za koo zao na jamaa zao.
+1	33	Idadi kutoka kabila la Efraimu walikuwa watu 40,500.
+1	34	Kutoka wazao wa Manase: Wanaume wote waliokuwa na miaka ishirini au zaidi ambao waliweza kutumika katika jeshi waliorodheshwa kwa majina, kufuatana na kumbukumbu za koo zao na jamaa zao.
+1	35	Idadi kutoka kabila la Manase walikuwa watu 32,200.
+1	36	Kutoka wazao wa Benyamini: Wanaume wote waliokuwa na miaka ishirini au zaidi ambao waliweza kutumika katika jeshi waliorodheshwa kwa majina, kufuatana na kumbukumbu za koo zao na jamaa zao.
+1	37	Idadi kutoka kabila la Benyamini walikuwa watu 35,400.
+1	38	Kutoka wazao wa Dani: Wanaume wote waliokuwa na miaka ishirini au zaidi ambao waliweza kutumika katika jeshi waliorodheshwa kwa majina, kufuatana na kumbukumbu za koo zao na jamaa zao.
+1	39	Idadi kutoka kabila la Dani walikuwa watu 62,700.
+1	40	Kutoka wazao wa Asheri: Wanaume wote waliokuwa na miaka ishirini au zaidi ambao waliweza kutumika katika jeshi waliorodheshwa kwa majina, kufuatana na kumbukumbu za koo zao na jamaa zao.
+1	41	Idadi kutoka kabila la Asheri walikuwa watu 41,500.
+1	42	Kutoka wazao wa Naftali: Wanaume wote waliokuwa na miaka ishirini au zaidi ambao waliweza kutumika katika jeshi waliorodheshwa kwa majina, kufuatana na kumbukumbu za koo zao na jamaa zao.
+1	43	Idadi kutoka kabila la Naftali walikuwa watu 53,400.
+1	44	Hawa walikuwa wanaume waliohesabiwa na Mose, Aroni na viongozi kumi na wawili wa Israeli, kila mmoja akiwakilisha jamaa yake.
+1	45	Wanaume wote Waisraeli waliokuwa na miaka ishirini au zaidi ambao waliweza kutumika katika jeshi la Israeli walihesabiwa kufuatana na jamaa zao.
+1	46	Jumla ya hesabu yao ilikuwa watu 603,550.
+1	47	Hata hivyo, jamaa ya kabila la Lawi hawakuhesabiwa pamoja na wengine.
+1	48	Bwana alikuwa amemwambia Mose:
+1	49	“Kamwe usihesabu kabila la Lawi wala kuwaweka pamoja katika hesabu ya Waisraeli wengine.
+1	50	Badala yake, waweke Walawi kuwa viongozi wa Maskani ya Ushuhuda, juu ya samani zake na kila kitu kilichomo ndani yake. Wao watabeba Maskani na samani zake zote; wataitunza na kupiga kambi kuizunguka.
+1	51	Wakati wowote Maskani inapohamishwa, Walawi wataifungua, na wakati wowote maskani inapotakiwa kusimamishwa, Walawi watafanya kazi hiyo. Mtu yeyote mwingine ambaye atasogea karibu nayo atauawa.
+1	52	Waisraeli watapiga mahema yao kwa makundi makundi, kila mwanaume katika kambi yake mwenyewe chini ya bendera yake.
+1	53	Hata hivyo, Walawi watapiga mahema yao kuzunguka Maskani ya Ushuhuda ili ghadhabu isiipate jumuiya ya Waisraeli. Walawi watawajibika kwa utunzaji wa Maskani ya Ushuhuda.”
+1	54	Waisraeli walifanya yote haya sawasawa kama Bwana alivyomwamuru Mose.
+2	1	Bwana aliwaambia Mose na Aroni:
+2	2	“Waisraeli watapiga kambi zao kuzunguka Hema la Kukutania kwa umbali fulani kutoka kwenye hema, kila mwanaume chini ya alama yake pamoja na bendera ya jamaa yake.”
+2	3	Kwa upande wa mashariki kuelekea mawio ya jua, kambi ya makundi ya Yuda watapiga kambi chini ya alama yao. Kiongozi wa watu wa Yuda ni Nashoni mwana wa Aminadabu.
+2	4	Kundi lake lina watu 74,600.
+2	5	Kabila la Isakari watapiga kambi karibu na Yuda. Kiongozi wa watu wa Isakari ni Nethaneli mwana wa Suari.
+2	6	Kundi lake lina watu 54,400.
+2	7	Kabila la Zabuloni litafuata. Kiongozi wa watu wa Zabuloni ni Eliabu mwana wa Heloni.
+2	8	Kundi lake lina watu 57,400.
+2	9	Wanaume wote walio katika kambi ya Yuda, kufuatana na makundi yao, ni 186,400. Wao watatangulia kuondoka.
+2	10	Kwa upande wa kusini kutakuwa kambi ya makundi ya Reubeni chini ya alama yao. Kiongozi wa watu wa Reubeni ni Elisuri mwana wa Shedeuri.
+2	11	Kundi lake lina watu 46,500.
+2	12	Kabila la Simeoni watapiga kambi karibu na Reubeni. Kiongozi wa watu wa Simeoni ni Shelumieli mwana wa Surishadai.
+2	13	Kundi lake lina watu 59,300.
+2	14	Kabila la Gadi litafuata. Kiongozi wa watu wa Gadi ni Eliasafu mwana wa Deueli.
+2	15	Kundi lake lina watu 45,650.
+2	16	Wanaume wote walio katika kambi ya Reubeni, kufuatana na makundi yao, ni 151,450. Nao watakuwa nafasi ya pili kuondoka.
+2	17	Kisha Hema la Kukutania na kambi ya Walawi vitakuwa katikati ya kambi zote. Wao watasafiri kwa utaratibu ule ule kama walivyopiga kambi, kila mmoja mahali pake mwenyewe chini ya alama yake.
+2	18	Upande wa magharibi kutakuwepo na kambi ya makundi ya Efraimu chini ya alama yao. Kiongozi wa watu wa Efraimu ni Elishama mwana wa Amihudi.
+2	19	Kundi lake lina watu 40,500.
+2	20	Kabila la Manase litafuata baada ya Efraimu. Kiongozi wa watu wa Manase ni Gamalieli mwana wa Pedasuri.
+2	21	Kundi lake lina watu 32,200.
+2	22	Kabila la Benyamini litafuata baada ya Manase. Kiongozi wa watu wa Benyamini ni Abidani mwana wa Gideoni.
+2	23	Kundi lake lina watu 35,400.
+2	24	Wanaume wote walio katika kambi ya Efraimu kufuatana na makundi yao ni 108,100. Nao watakuwa nafasi ya tatu kuondoka.
+2	25	Upande wa kaskazini kutakuwa na makundi ya kambi ya Dani, chini ya alama yao. Kiongozi wa watu wa Dani ni Ahiezeri mwana wa Amishadai.
+2	26	Kundi lake lina watu 62,700.
+2	27	Kabila la Asheri watapiga kambi karibu na Dani. Kiongozi wa watu wa Asheri ni Pagieli mwana wa Okrani.
+2	28	Kundi lake lina watu 41,500.
+2	29	Kabila la Naftali litafuata. Kiongozi wa watu wa Naftali ni Ahira mwana wa Enani.
+2	30	Kundi lake lina watu 53,400.
+2	31	Wanaume wote walio katika kambi ya Dani ni 157,600. Wao watakuwa wa mwisho kuondoka chini ya alama yao.
+2	32	Hawa ndio Waisraeli, wakiwa wamehesabiwa kufuatana na jamaa zao. Wote walio kambini kwa makundi yao ni watu 603,550.
+2	33	Hata hivyo, Walawi hawakuhesabiwa pamoja na Waisraeli wengine, kama Bwana alivyomwagiza Mose.
+2	34	Kwa hiyo Waisraeli wakafanya kila kitu Bwana alichomwamuru Mose. Hivyo ndivyo walivyopiga kambi chini ya alama zao, pia hivyo ndivyo walivyoondoka, kila mmoja akiwa na ukoo wake na jamaa yake.
+3	1	Hii ni hesabu ya jamaa ya Aroni na Mose kwa wakati ambao Bwana alizungumza na Mose katika Mlima Sinai.
+3	2	Majina ya wana wa Aroni yalikuwa: Nadabu mzaliwa wa kwanza na Abihu, Eleazari na Ithamari.
+3	3	Hayo yalikuwa majina ya wana wa Aroni, makuhani wapakwa mafuta, waliokuwa wamesimikwa kuhudumu kama makuhani.
+3	4	Hata hivyo Nadabu na Abihu walikufa mbele za Bwana walipotoa sadaka kwa moto usioruhusiwa mbele zake katika Jangwa la Sinai. Hawakuwa na wana; kwa hiyo Eleazari na Ithamari walihudumu peke yao kama makuhani wakati wote wa maisha ya Aroni baba yao.
+3	5	Bwana akamwambia Mose,
+3	6	“Walete watu wa kabila la Lawi mbele ya Aroni kuhani ili wamsaidie.
+3	7	Watafanya huduma kwa ajili yake na kwa jumuiya yote katika Hema la Kukutania kwa kufanya kazi za Maskani.
+3	8	Watatunza samani zote za Hema la Kukutania, wakitimiza wajibu wa kuhudumia Waisraeli kwa kufanya kazi ya Maskani.
+3	9	Wakabidhi Walawi kwa Aroni na wanawe; hao ndio Waisraeli ambao wanakabidhiwa kwake kabisa.
+3	10	Waweke Aroni na wanawe kuhudumu kama makuhani; mtu mwingine yeyote atakayesogea mahali patakatifu ni lazima auawe.”
+3	11	Bwana akamwambia Mose,
+3	12	“Nimewatwaa Walawi kutoka miongoni mwa Waisraeli badala ya mzaliwa wa kwanza wa kiume wa kila mwanamke wa Mwisraeli. Walawi ni wangu,
+3	13	kwa kuwa wazaliwa wote wa kwanza ni wangu. Nilipowaua wazaliwa wa kwanza huko Misri, nilimtenga kila mzaliwa wa kwanza katika Israeli awe wangu, akiwa mwanadamu au mnyama. Watakuwa wangu. Mimi ndimi Bwana.”
+3	14	Bwana akamwambia Mose katika Jangwa la Sinai,
+3	15	“Wahesabu Walawi kwa jamaa zao na koo zao. Mhesabu kila mwanaume mwenye umri wa mwezi mmoja au zaidi.”
+3	16	Kwa hiyo Mose akawahesabu, kama alivyoamriwa na neno la Bwana.
+3	17	Haya yalikuwa majina ya wana wa Lawi: Gershoni, Kohathi na Merari.
+3	18	Haya ndiyo yaliyokuwa majina ya koo za Wagershoni: Libni na Shimei.
+3	19	Koo za Wakohathi zilikuwa ni: Amramu, Ishari, Hebroni na Uzieli.
+3	20	Koo za Wamerari zilikuwa ni: Mahli na Mushi. Hizi ndizo zilizokuwa koo za Walawi, kufuatana na jamaa zao.
+3	21	Kulikuwa na koo za Walibni na Washimei kwa Gershoni; hizi ndizo zilizokuwa koo za Wagershoni.
+3	22	Idadi ya waume wote waliokuwa na mwezi mmoja au zaidi waliohesabiwa walikuwa 7,500.
+3	23	Ukoo wa Wagershoni walitakiwa kuweka kambi zao upande wa magharibi, nyuma ya Maskani.
+3	24	Kiongozi wa jamaa za Wagershoni alikuwa Eliasafu mwana wa Laeli.
+3	25	Katika Hema la Kukutania, Wagershoni walikuwa na wajibu wa kutunza Maskani na hema, vifuniko vyake, pazia katika mlango wa kuingilia ndani ya Hema la Kukutania,
+3	26	mapazia ya ua, pazia katika ingilio la ua unaozunguka Maskani na madhabahu, pamoja na kamba, na kila kinachohusika kwa matumizi yake.
+3	27	Kwa Kohathi kulikuwepo koo za Waamramu, Waishari, Wahebroni na Wauzieli; hizi ndizo zilizokuwa koo za Wakohathi.
+3	28	Hesabu ya waume wote wenye mwezi mmoja au zaidi ilikuwa watu 8,600. Wakohathi waliwajibika kutunza mahali patakatifu.
+3	29	Koo za Wakohathi zilitakiwa kuweka kambi zao upande wa kusini wa Maskani.
+3	30	Kiongozi wa jamaa za koo za Wakohathi alikuwa Elisafani mwana wa Uzieli.
+3	31	Waliwajibika kutunza Sanduku la Agano, meza, kinara cha taa, madhabahu, na vile vyombo vya mahali patakatifu vinavyotumika kuhudumu, pazia, na kila kitu kinachohusika na matumizi yake.
+3	32	Kiongozi mkuu wa Walawi alikuwa Eleazari mwana wa kuhani, Aroni. Aliwekwa juu ya wale waliowajibika kutunza mahali patakatifu.
+3	33	Kwa Merari kulikuwa na koo za Wamahli na Wamushi; hizi zilikuwa koo za Merari.
+3	34	Hesabu ya waume wote wenye umri wa mwaka mmoja au zaidi waliohesabiwa walikuwa 6,200.
+3	35	Kiongozi wa jamaa za koo za Wamerari alikuwa Surieli mwana wa Abihaili; hawa walitakiwa kuweka kambi zao upande wa kaskazini mwa Maskani.
+3	36	Wamerari waliwekwa kutunza miimo ya Maskani, mataruma yake, nguzo, vitako na vifaa vyake vyote na kila kitu kilichohusika na matumizi yake,
+3	37	na pia nguzo za ua unaozunguka pamoja na vitako vyake, vigingi vya hema na kamba zake.
+3	38	Mose, na Aroni na wanawe walitakiwa kuweka kambi zao mashariki mwa Maskani, kuelekea mawio ya jua, mbele ya Hema la Kukutania. Wao walihusika na utunzaji wa mahali patakatifu kwa niaba ya Waisraeli. Mtu mwingine yeyote aliyepasogelea mahali patakatifu angeuawa.
+3	39	Jumla ya hesabu ya Walawi waliohesabiwa na Mose na Aroni kwa amri ya Bwana, kufuatana na koo, pamoja na kila mume mwenye umri wa mwezi mmoja au zaidi, walikuwa 22,000.
+3	40	Bwana akamwambia Mose, “Wahesabu wazaliwa wa kwanza wa kiume wote wa Waisraeli wenye umri wa mwezi mmoja au zaidi na uorodheshe majina yao.
+3	41	Nitwalie Walawi badala ya wazaliwa wa kwanza wa Waisraeli, nayo mifugo ya Walawi badala ya wazaliwa wa mifugo ya Waisraeli. Mimi ndimi Bwana.”
+3	42	Hivyo Mose akawahesabu wazaliwa wa kwanza wote wa Waisraeli, kama Bwana alivyomwamuru.
+3	43	Jumla ya hesabu ya wazaliwa wa kwanza waume wenye umri wa mwezi mmoja au zaidi, walioorodheshwa kwa majina, walikuwa 22,273.
+3	44	Bwana akamwambia Mose,
+3	45	“Watwae Walawi badala ya wazaliwa wa kwanza wote wa Israeli, nayo mifugo ya Walawi badala ya mifugo yao. Walawi watakuwa wangu. Mimi ndimi Bwana.
+3	46	Ili kukomboa wazao wa kwanza 273 wa Waisraeli ambao wamezidi hesabu ya Walawi,
+3	47	kusanya shekeli tano kwa kila mmoja, kufuatana na shekeli ya mahali patakatifu, ambayo ina uzito wa gera ishirini.
+3	48	Mpe Aroni na wanawe hizo fedha kwa ajili ya ukombozi wa idadi ya Waisraeli waliozidi.”
+3	49	Kwa hiyo Mose akakusanya fedha za ukombozi kutoka kwa wale ambao hesabu yao ilizidi wale waliokombolewa na Walawi.
+3	50	Kutokana na wazaliwa wa kwanza wa Waisraeli alikusanya fedha yenye uzito wa shekeli 1,365 kufuatana na shekeli ya mahali patakatifu.
+3	51	Mose akampa Aroni na wanawe ile fedha ya ukombozi, kama alivyoamriwa na neno la Bwana.
+4	1	Bwana akawaambia Mose na Aroni,
+4	2	“Wahesabu Wakohathi walio sehemu ya Walawi kwa koo zao na jamaa zao.
+4	3	Wahesabu wanaume wote wenye umri wa miaka thelathini hadi hamsini wanaokuja kutumika katika kazi ya Hema la Kukutania.
+4	4	“Hii ndiyo kazi ya Wakohathi katika Hema la Kukutania: Watatunza vitu vilivyo vitakatifu sana.
+4	5	Wakati kambi inapohamishwa, Aroni na wanawe wataingia ndani na kushusha lile pazia la kuzuilia na kufunika nalo Sanduku la Ushuhuda.
+4	6	Kisha watafunika juu yake na ngozi za pomboo, na kutandaza juu yake kitambaa cha rangi ya buluu iliyokolea na kuingiza mipiko mahali pake.
+4	7	“Juu ya meza ya mikate ya Wonyesho watatandaza kitambaa cha buluu na waweke sahani juu yake, masinia, bakuli na magudulia kwa ajili ya sadaka za kinywaji; mkate ule ambao upo hapa daima utabaki juu yake.
+4	8	Juu ya hivyo vitu watatandaza kitambaa chekundu na kufunika kwa ngozi za pomboo na kuweka mipiko yake mahali pake.
+4	9	“Watachukua kitambaa cha buluu na kufunika kinara cha taa kilicho kwa ajili ya nuru, pamoja na taa zake, mikasi yake, sinia zake, magudulia yake yote yaliyotumika kuwekea mafuta.
+4	10	Kisha watakisokotea pamoja na vifaa vyake vyote katika ngozi za pomboo na kukiweka kwenye jukwaa lake.
+4	11	“Juu ya madhabahu ya dhahabu watatandaza kitambaa cha buluu na kukifunika kwa ngozi za pomboo na kuweka mipiko yake mahali pake.
+4	12	“Watavichukua vyombo vyote vinavyotumika kuhudumia mahali patakatifu, watavisokotea kwenye kitambaa cha buluu na kufunika kwa ngozi za pomboo, na kuviweka juu ya miti ya kuchukulia.
+4	13	“Wataondoa majivu kutoka madhabahu ya shaba na kutandaza kitambaa cha zambarau juu yake.
+4	14	Kisha wataweka vyombo vyote juu yake vinavyotumika kwa kuhudumia madhabahuni pamoja na vyombo vya kutolea moto, nyuma, miiko na mabakuli ya kunyunyizia. Juu yake watatandaza ngozi za pomboo ya kufunika, na kuweka mipiko mahali pake.
+4	15	“Baada ya Aroni na wanawe kumaliza kazi ya kufunika samani takatifu na vyombo vyake vyote, watu watakapokuwa tayari kungʼoa kambi, Wakohathi watakuja kufanya kazi ya kubeba. Lakini wasije wakagusa vitu vitakatifu la sivyo watakufa. Wakohathi ndio watakaobeba vile vitu vilivyomo katika Hema la Kukutania.
+4	16	“Eleazari mwana wa Aroni, kuhani, ndiye atakayesimamia mafuta kwa ajili ya taa, uvumba wenye harufu nzuri, sadaka za kila siku za nafaka na mafuta ya upako. Ndiye atakayekuwa msimamizi wa maskani yote ya Bwana na kila kitu kilichomo ndani mwake pamoja na samani takatifu na vyombo vyake.”
+4	17	Bwana akawaambia Mose na Aroni,
+4	18	“Hakikisheni kwamba koo za kabila la Wakohathi hawatengwi kutoka Walawi.
+4	19	Ili wapate kuishi wala wasife wanapokaribia vitu vitakatifu sana, uwafanyie hivi: Aroni na wanawe watakwenda mahali patakatifu na kumgawia kila mtu kazi yake, na kwamba ni nini atakachochukua.
+4	20	Lakini Wakohathi hawaruhusiwi kuingia ndani ili kuangalia vitu vitakatifu, hata kwa kitambo kidogo, la sivyo watakufa.”
+4	21	Bwana akamwambia Mose,
+4	22	“Wahesabu pia Wagershoni kwa jamaa zao na koo zao.
+4	23	Wahesabu wanaume wote wenye umri wa miaka thelathini hadi hamsini ambao huja kutumika katika Hema la Kukutania.
+4	24	“Hii ndiyo huduma ya koo za Wagershoni wakati wanapofanya kazi na kubeba mizigo.
+4	25	Watabeba mapazia ya maskani. Hema la Kukutania, kifuniko chake na kifuniko cha nje cha ngozi za pomboo, mapazia ya maingilio ya Hema la Kukutania,
+4	26	mapazia ya ua unaozunguka Maskani na madhabahu, pazia la maingilio, kamba na vifaa vyote vinavyotumika katika huduma yake. Wagershoni watafanya yote yatakiwayo kufanyika na vitu hivi.
+4	27	Utumishi wao wote ukiwa ni kuchukua au wa kufanya kazi nyingine, utafanyika chini ya maelekezo ya Aroni na wanawe. Mtawapangia kama wajibu wao yote watakayoyafanya.
+4	28	Hii ndiyo huduma ya koo za Wagershoni katika Hema la Kukutania. Wajibu wao utakuwa chini ya maelekezo ya Ithamari mwana wa kuhani Aroni.
+4	29	“Wahesabu Wamerari kwa koo zao na jamaa zao.
+4	30	Wahesabu wanaume wote kuanzia umri wa miaka thelathini hadi hamsini ambao watakuja kutumika katika Hema la Kukutania.
+4	31	Huu ndio wajibu wao wanapofanya huduma katika Hema la Kukutania: kubeba miimo ya Maskani, mataruma yake, nguzo na vitako,
+4	32	nguzo za ua unaozunguka pamoja na vitako vyake, vigingi vya hema, kamba, vifaa vyake vyote na kila kitu kinachohusiana na matumizi yake. Kila mtu mpangie vitu maalum vya kubeba.
+4	33	Huu ndio utumishi wa koo za Merari kama watakavyofanya kazi katika Hema la Kukutania, chini ya maelekezo ya Ithamari mwana wa kuhani, Aroni.”
+4	34	Mose, Aroni na viongozi wa jumuiya wakawahesabu Wakohathi kwa koo zao na jamaa zao.
+4	35	Wanaume wote kuanzia umri wa miaka thelathini hadi hamsini ambao walikuja kutumika katika Hema la Kukutania,
+4	36	waliohesabiwa kwa koo zao, walikuwa 2,750.
+4	37	Hii ilikuwa ndiyo jumla ya wote wale wa koo za Wakohathi ambao walitumika katika Hema la Kukutania. Mose na Aroni waliwahesabu kufuatana na amri ya Bwana kupitia kwa Mose.
+4	38	Wagershoni walihesabiwa kwa koo zao na jamaa zao.
+4	39	Watu wote kuanzia umri wa miaka thelathini hadi hamsini ambao walikuja kutumika katika Hema la Kukutania,
+4	40	waliohesabiwa kwa koo zao na jamaa zao, walikuwa 2,630.
+4	41	Hii ilikuwa ndiyo jumla ya wale wa koo za Gershoni ambao walitumika katika Hema la Kukutania. Mose na Aroni waliwahesabu kufuatana na amri ya Bwana.
+4	42	Wamerari walihesabiwa kwa koo zao na jamaa zao.
+4	43	Wanaume wote kuanzia umri wa miaka thelathini hadi miaka hamsini ambao walikuja kutumika katika Hema la Kukutania,
+4	44	waliohesabiwa kwa koo zao, walikuwa 3,200.
+4	45	Hii ilikuwa ndiyo jumla ya wale wa koo za Wamerari. Mose na Aroni waliwahesabu kufuatia amri ya Bwana kupitia kwa Mose.
+4	46	Hivyo Mose, Aroni na viongozi wa Israeli waliwahesabu Walawi wote kwa koo zao na jamaa zao.
+4	47	Wanaume wote wenye umri kuanzia miaka thelathini hadi hamsini waliokuja kufanya kazi ya kuhudumu na kubeba Hema la Kukutania
+4	48	walikuwa watu 8,580.
+4	49	Kwa amri ya Bwana kupitia Mose, kila mmoja aligawiwa kazi yake na kuambiwa kitu cha kubeba. Hivyo ndivyo walivyohesabiwa kama Bwana alivyomwamuru Mose.
+5	1	Bwana akamwambia Mose,
+5	2	“Waamuru Waisraeli kumtoa nje ya kambi mtu yeyote ambaye ana ugonjwa wa ngozi uambukizao, au anayetokwa na majimaji ya aina yoyote, au ambaye ni najisi kwa utaratibu wa ibada kwa sababu ya maiti.
+5	3	Hii itakuwa ni kwa wote, yaani, wanaume na wanawake; watoeni nje ya kambi ili wasije wakanajisi kambi yao, ambamo ninaishi miongoni mwao.”
+5	4	Waisraeli wakafanya hivyo; wakawatoa nje ya kambi. Wakafanya kama vile Bwana alivyokuwa amemwelekeza Mose.
+5	5	Bwana akamwambia Mose,
+5	6	“Waambie Waisraeli, ‘Wakati mwanaume au mwanamke akimkosea mwenzake kwa njia yoyote, na kwa hivyo akawa si mwaminifu kwa Bwana, mtu huyo ana hatia,
+5	7	na ni lazima atubu dhambi aliyoifanya. Ni lazima atoe malipo kamili kwa ajili ya kosa lake, aongeze sehemu ya tano juu ya malipo hayo na kutoa yote kwa mtu aliyemkosea.
+5	8	Lakini ikiwa mtu huyo hana jamaa ya karibu ambaye malipo yanaweza kufanywa kwa ajili ya kosa, malipo yatakuwa mali ya Bwana, nayo ni lazima apewe kuhani, pamoja na kondoo dume ambaye anatumika kufanyia upatanisho kwa ajili yake.
+5	9	Matoleo yote matakatifu ya Waisraeli wanayoleta kwa kuhani yatakuwa yake.
+5	10	Kila kitu cha mtu kilichowekwa wakfu ni chake mwenyewe, lakini kile atoacho kwa kuhani kitakuwa cha kuhani.’ ”
+5	11	Kisha Bwana akamwambia Mose,
+5	12	“Nena na Waisraeli uwaambie: ‘Ikiwa mke wa mtu amepotoka na si mwaminifu kwa mumewe,
+5	13	kwa kukutana kimwili na mwanaume mwingine, tendo hili likafichika kwa mumewe na unajisi wake usigundulike (kwa kuwa hakuna ushahidi dhidi yake, naye hakukamatwa katika tendo hilo),
+5	14	nazo hisia za wivu zikamjia mumewe na kumshuku mkewe, naye mke yule ni najisi, au mumewe ana wivu na akamshuku ingawa si najisi,
+5	15	basi atampeleka mkewe kwa kuhani. Huyo mume itampasa apeleke pia sadaka ya unga wa shayiri kiasi cha sehemu ya kumi ya efa kwa niaba ya mkewe. Huyo mwanaume kamwe asimimine mafuta juu ya huo unga wala asiweke uvumba juu yake, kwa sababu ni sadaka ya nafaka kwa ajili ya wivu, sadaka ya ukumbusho ili kukumbushia uovu.
+5	16	“ ‘Kuhani atamleta huyo mwanamke na kumsimamisha mbele za Bwana.
+5	17	Kisha kuhani atachukua sehemu ya maji matakatifu ndani ya gudulia la udongo na kuchanganya na baadhi ya vumbi kutoka sakafu ya Maskani.
+5	18	Baada ya kuhani kumsimamisha huyo mwanamke mbele za Bwana, atazifungua nywele za huyo mwanamke na kuweka sadaka ya ukumbusho mikononi mwake, ile sadaka ya nafaka kwa ajili ya wivu, huku kuhani mwenyewe akishikilia yale maji machungu yaletayo laana.
+5	19	Kisha kuhani atamwapiza huyo mwanamke, akimwambia, “Ikiwa hakuna mwanaume mwingine aliyekutana kimwili nawe, wala hujapotoka na kuwa najisi wakati ukiwa umeolewa na mumeo, maji haya machungu yaletayo laana na yasikudhuru.
+5	20	Lakini ikiwa umepotoka wakati ukiwa umeolewa na mume wako na umejinajisi mwenyewe kwa kukutana kimwili na mwanaume mwingine asiyekuwa mumeo”;
+5	21	hapa kuhani atamweka huyo mwanamke chini ya laana ya kiapo akisema: “Bwana na awafanye watu wako wakulaani na kukukataa, wakati Bwana atakapolifanya paja lako kupooza na tumbo lako kuvimba.
+5	22	Maji haya yaletayo laana na yaingie ndani ya mwili wako ili tumbo lako livimbe na paja lako lipooze.” “ ‘Kisha mwanamke atasema, “Amen. Iwe hivyo.”
+5	23	“ ‘Kuhani ataandika laana hizi kwenye kitabu, kisha atazioshea laana hizo kwenye yale maji machungu.
+5	24	Kuhani atamnywesha yule mwanamke yale maji machungu yaletayo laana, nayo maji haya yatamwingia na kumsababishia maumivu makali.
+5	25	Kuhani atachukua sadaka ya nafaka kwa ajili ya wivu kutoka mikononi mwa huyo mwanamke, naye ataipunga mbele za Bwana na kuileta madhabahuni.
+5	26	Kisha kuhani atachota sadaka ya nafaka mkono uliojaa kama sehemu ya kumbukumbu na kuiteketeza juu ya madhabahu, baada ya hayo, atamtaka huyo mwanamke anywe yale maji.
+5	27	Kama amejitia unajisi na kukosa uaminifu kwa mumewe, wakati anapotakiwa anywe maji yale yaletayo laana, yatamwingia na kusababisha maumivu makali; tumbo lake litavimba na paja lake litapooza, naye atakuwa amelaaniwa miongoni mwa watu wake.
+5	28	Hata hivyo, ikiwa huyo mwanamke hakujitia unajisi, naye ni safi, atasafishwa hatia na ataweza kuzaa watoto.
+5	29	“ ‘Basi, hii ndiyo sheria ya wivu mwanamke anapopotoka na kujitia unajisi akiwa ameolewa na mumewe,
+5	30	au hisia za wivu zinapomjia mwanaume kwa sababu ya kumshuku mkewe. Kuhani atamfanya huyo mwanamke kusimama mbele za Bwana na atatumia sheria hii yote kwa huyo mwanamke.
+5	31	Mume atakuwa hana hatia ya kosa lolote, bali mwanamke atayachukua matokeo ya dhambi yake.’ ”
+6	1	Bwana akamwambia Mose,
+6	2	“Sema na Waisraeli na uwaambie: ‘Ikiwa mwanaume au mwanamke anataka kuweka nadhiri maalum, nadhiri ya kutengwa kwa ajili ya Bwana kama Mnadhiri,
+6	3	ni lazima ajitenge na mvinyo na kinywaji kingine chochote chenye chachu, na kamwe asinywe siki itokanayo na mvinyo au itokanayo na kinywaji kingine chenye chachu. Kamwe asinywe maji ya zabibu wala kula zabibu mbichi au kavu.
+6	4	Kwa muda wote atakaokuwa Mnadhiri, kamwe hatakula chochote kitokanacho na mzabibu, sio mbegu wala maganda.
+6	5	“ ‘Kwa muda wote wa nadhiri yake ya kujitenga kwa ajili ya Bwana, wembe hautapita kichwani mwake. Ni lazima awe mtakatifu mpaka kipindi cha kujitenga kwake kwa ajili ya Bwana kiishe; ni lazima aache nywele za kichwa chake zirefuke.
+6	6	Kwa kipindi chochote cha kujitenga kwa ajili ya Bwana hatakaribia maiti.
+6	7	Hata kama baba yake mwenyewe au mama au kaka au dada akifa, hatajinajisi mwenyewe kwa taratibu za ibada kwa ajili yao, kwa sababu ishara ya kujiweka wakfu kwake kwa Mungu ipo katika kichwa chake.
+6	8	Kwa kipindi chote cha kujitenga kwake yeye ni wakfu kwa Bwana.
+6	9	“ ‘Kama mtu yeyote akifa ghafula karibu naye, atakuwa ametiwa unajisi nywele zake alizoziweka wakfu, hivyo ni lazima anyoe nywele zake siku ya utakaso wake, yaani siku ya saba.
+6	10	Kisha siku ya nane ni lazima alete hua wawili au makinda mawili ya njiwa kwa kuhani katika mlango wa Hema la Kukutania.
+6	11	Kuhani atatoa mmoja kama sadaka ya dhambi, na mwingine kama sadaka ya kuteketezwa ili kufanya upatanisho kwa ajili yake kwa sababu ametenda dhambi kwa kuwepo mbele ya maiti. Siku iyo hiyo atakiweka wakfu kichwa chake.
+6	12	Ni lazima ajitoe kabisa kwa Bwana kwa kipindi cha kujitenga kwake, na ni lazima atoe mwana-kondoo wa mwaka mmoja kama sadaka ya hatia. Siku zilizopita hazitahesabiwa kwa sababu alijitia unajisi katika siku zake za kujitenga.
+6	13	“ ‘Basi hii ndiyo sheria kwa ajili ya Mnadhiri baada ya kipindi chake cha kujitenga kupita. Ataletwa kwenye ingilio la Hema la Kukutania.
+6	14	Hapo atatoa sadaka zake kwa Bwana: yaani, mwana-kondoo wa mwaka mmoja asiye na waa kwa ajili ya sadaka ya kuteketezwa, kondoo mke wa mwaka mmoja asiye na waa kwa ajili ya sadaka ya dhambi, kondoo dume asiye na waa kwa ajili ya sadaka ya amani,
+6	15	pamoja na sadaka zake za nafaka na za vinywaji, na kikapu cha mikate isiyotiwa chachu, yaani maandazi yaliyotengenezwa kwa unga laini uliochanganywa na mafuta, na mikate myembamba iliyopakwa mafuta.
+6	16	“ ‘Kuhani atavileta vitu hivyo mbele za Bwana na kufanya sadaka ya dhambi na sadaka ya kuteketezwa.
+6	17	Ataleta pia kikapu cha mikate isiyotiwa chachu, na atatoa dhabihu kondoo dume kama sadaka ya amani kwa Bwana, pamoja na sadaka yake ya nafaka na sadaka ya kinywaji.
+6	18	“ ‘Kisha kwenye ingilio la Hema la Kukutania, Mnadhiri ni lazima anyoe nywele zake ambazo alikuwa ameziweka wakfu. Atazichukua hizo nywele na kuziweka ndani ya moto ulio chini ya dhabihu ya sadaka ya amani.
+6	19	“ ‘Baada ya Mnadhiri kunyoa hizo nywele zake za kujitenga kwake, kuhani atampa mikononi mwake bega la kondoo dume lililochemshwa, na pia andazi na mkate mwembamba kutoka kwenye kikapu, vyote vikiwa vimetengenezwa bila kuwekwa chachu.
+6	20	Kisha kuhani ataviinua mbele za Bwana kama sadaka ya kuinua; ni vitakatifu na ni mali ya kuhani, pamoja na kile kidari kilichoinuliwa na lile paja lililotolewa. Baada ya hayo, Mnadhiri anaweza kunywa divai.
+6	21	“ ‘Hii ndiyo sheria ya Mnadhiri ambaye anaweka nadhiri kwa matoleo yake kwa Bwana kufuatana na kujitenga kwake, zaidi ya chochote kile anachoweza kupata. Ni lazima atimize nadhiri aliyoiweka kufuatana na sheria ya Mnadhiri.’ ”
+6	22	Bwana akamwambia Mose,
+6	23	“Mwambie Aroni na wanawe, ‘Hivi ndivyo mtakavyowabariki Waisraeli. Waambieni:
+6	24	“ ‘ “Bwana akubariki na kukulinda;
+6	25	Bwana akuangazie nuru ya uso wake na kukufadhili;
+6	26	Bwana akugeuzie uso wake na kukupa amani.” ’
+6	27	“Hivyo wataliweka Jina langu juu ya Waisraeli, nami nitawabariki.”
+7	1	Mose alipomaliza kuisimamisha Maskani, aliitia mafuta na kuiweka wakfu pamoja na samani zake zote. Pia alitia madhabahu mafuta na kuiweka wakfu, pamoja na vyombo vyake vyote.
+7	2	Ndipo viongozi wa Israeli, wale wakuu wa jamaa waliokuwa viongozi wa kabila wasimamizi wa wale waliohesabiwa, wakatoa sadaka.
+7	3	Walizileta kama matoleo yao mbele za Bwana: magari sita ya kukokotwa yaliyofunikwa, pamoja na maksai kumi na wawili; yaani maksai mmoja kutoka kwa kila kiongozi, na gari moja la kukokotwa kutoka kwa kila viongozi wawili. Haya waliyaleta mbele ya Maskani.
+7	4	Bwana akamwambia Mose,
+7	5	“Vikubali vitu hivi kutoka kwao, ili viweze kutumika katika kazi kwenye Hema la Kukutania. Wapatie Walawi kama kazi ya kila mtu itakavyohitaji.”
+7	6	Hivyo Mose akachukua yale magari ya kukokotwa pamoja na maksai, na kuwapa Walawi.
+7	7	Aliwapa Wagershoni magari mawili ya kukokotwa na maksai wanne, kama walivyohitaji kwa kazi yao,
+7	8	na pia aliwapa Wamerari magari manne ya kukokotwa na maksai wanane, kama kazi yao ilivyohitaji. Wote walikuwa chini ya maelekezo ya Ithamari mwana wa kuhani, Aroni.
+7	9	Lakini Mose hakuwapa Wakohathi chochote kati ya hivyo, kwa sababu walitakiwa kubeba vitu vitakatifu mabegani mwao, vile walikuwa wanawajibika.
+7	10	Wakati madhabahu yalitiwa mafuta, viongozi walileta sadaka zao kwa ajili ya kule kuwekwa wakfu kwake na kuziweka mbele ya madhabahu.
+7	11	Kwa maana Bwana alikuwa amemwambia Mose, “Kila siku kiongozi mmoja ataleta sadaka yake ili kuwekwa wakfu madhabahu.”
+7	12	Yule ambaye alileta sadaka yake siku ya kwanza alikuwa Nashoni, mwana wa Aminadabu, wa kabila la Yuda.
+7	13	Sadaka yake ilikuwa sahani moja ya fedha yenye uzito wa shekeli 130, na bakuli moja la fedha la kunyunyizia lenye uzito wa shekeli sabini, vyote kulingana na shekeli ya mahali patakatifu, vikiwa vimejazwa unga laini uliochanganywa na mafuta kama sadaka ya nafaka;
+7	14	sinia moja la dhahabu lenye uzito wa shekeli kumi, likiwa limejazwa uvumba;
+7	15	fahali mmoja mchanga, kondoo dume mmoja na mwana-kondoo dume mmoja wa mwaka mmoja, kwa ajili ya sadaka ya kuteketezwa;
+7	16	mbuzi dume mmoja kwa ajili ya sadaka ya dhambi;
+7	17	maksai wawili, kondoo dume watano, mbuzi dume watano na wana-kondoo dume watano wa mwaka mmoja, ili vitolewe dhabihu kama sadaka ya amani. Hii ndiyo ilikuwa sadaka ya Nashoni mwana wa Aminadabu.
+7	18	Siku ya pili yake Nethaneli mwana wa Suari, kiongozi wa kabila la Isakari, alileta sadaka yake.
+7	19	Sadaka aliyoleta ilikuwa sahani moja ya fedha yenye uzito wa shekeli 130, na bakuli moja la fedha la kunyunyizia lenye uzito wa shekeli sabini, vyote kulingana na shekeli ya mahali patakatifu, vikiwa vimejazwa unga laini uliochanganywa na mafuta kama sadaka ya nafaka;
+7	20	sinia moja la dhahabu lenye uzito wa shekeli kumi, likiwa limejazwa uvumba;
+7	21	fahali mmoja mchanga, kondoo dume mmoja na mwana-kondoo dume mmoja wa mwaka mmoja, kwa ajili ya sadaka ya kuteketezwa;
+7	22	mbuzi dume mmoja kwa ajili ya sadaka ya dhambi;
+7	23	maksai wawili, kondoo dume watano, mbuzi dume watano na wana-kondoo dume watano wa mwaka mmoja, ili vitolewe dhabihu kama sadaka ya amani. Hii ndiyo ilikuwa sadaka ya Nethaneli mwana wa Suari.
+7	24	Siku ya tatu Eliabu mwana wa Heloni, kiongozi wa kabila la Zabuloni, alileta sadaka yake.
+7	25	Sadaka aliyoleta ilikuwa sahani moja ya fedha yenye uzito wa shekeli 130, na bakuli moja la fedha la kunyunyizia lenye uzito wa shekeli sabini, vyote kulingana na shekeli ya mahali patakatifu, vikiwa vimejazwa unga laini uliochanganywa na mafuta kama sadaka ya nafaka;
+7	26	sinia moja la dhahabu lenye uzito wa shekeli kumi, likiwa limejazwa uvumba;
+7	27	fahali mmoja mchanga, kondoo dume mmoja na mwana-kondoo dume mmoja wa mwaka mmoja, kwa ajili ya sadaka ya kuteketezwa;
+7	28	mbuzi dume mmoja kwa ajili ya sadaka ya dhambi;
+7	29	maksai wawili, kondoo dume watano, mbuzi dume watano na wana-kondoo dume watano wa mwaka mmoja, ili vitolewe dhabihu kama sadaka ya amani. Hii ndiyo ilikuwa sadaka ya Eliabu mwana wa Heloni.
+7	30	Siku ya nne Elisuri mwana wa Shedeuri, kiongozi wa kabila la Reubeni, alileta sadaka yake.
+7	31	Sadaka aliyoleta ilikuwa sahani moja ya fedha yenye uzito wa shekeli 130, na bakuli moja la fedha la kunyunyizia lenye uzito wa shekeli sabini, vyote kulingana na shekeli ya mahali patakatifu, vikiwa vimejazwa unga laini uliochanganywa na mafuta kama sadaka ya nafaka;
+7	32	sinia moja la dhahabu lenye uzito wa shekeli kumi, likiwa limejazwa uvumba;
+7	33	fahali mmoja mchanga, kondoo dume mmoja na mwana-kondoo dume mmoja wa mwaka mmoja, kwa ajili ya sadaka ya kuteketezwa;
+7	34	mbuzi dume mmoja kwa ajili ya sadaka ya dhambi;
+7	35	maksai wawili, kondoo dume watano, mbuzi dume watano na wana-kondoo dume watano wa mwaka mmoja, ili vitolewe dhabihu kama sadaka ya amani. Hii ndiyo ilikuwa sadaka ya Elisuri mwana wa Shedeuri.
+7	36	Siku ya tano Shelumieli mwana wa Surishadai, kiongozi wa watu wa Simeoni, alileta sadaka yake.
+7	37	Sadaka aliyoleta ilikuwa sahani moja ya fedha yenye uzito wa shekeli 130, na bakuli moja la fedha la kunyunyizia lenye uzito wa shekeli sabini, vyote kulingana na shekeli ya mahali patakatifu, vikiwa vimejazwa unga laini uliochanganywa na mafuta kama sadaka ya nafaka;
+7	38	sinia moja la dhahabu lenye uzito wa shekeli kumi, likiwa limejazwa uvumba;
+7	39	fahali mmoja mchanga, kondoo dume mmoja na mwana-kondoo dume mmoja wa mwaka mmoja, kwa ajili ya sadaka ya kuteketezwa;
+7	40	mbuzi dume mmoja kwa ajili ya sadaka ya dhambi;
+7	41	maksai wawili, kondoo dume watano, mbuzi dume watano na wana-kondoo dume watano wa mwaka mmoja, ili vitolewe dhabihu kama sadaka ya amani. Hii ndiyo ilikuwa sadaka ya Shelumieli mwana wa Surishadai.
+7	42	Siku ya sita Eliasafu mwana wa Deueli, kiongozi wa watu wa Gadi, alileta sadaka yake.
+7	43	Sadaka aliyoleta ilikuwa sahani moja ya fedha yenye uzito wa shekeli 130, na bakuli moja la fedha la kunyunyizia lenye uzito wa shekeli sabini, vyote kulingana na shekeli ya mahali patakatifu, vikiwa vimejazwa unga laini uliochanganywa na mafuta kama sadaka ya nafaka;
+7	44	sinia moja la dhahabu lenye uzito wa shekeli kumi, likiwa limejazwa uvumba;
+7	45	fahali mmoja mchanga, kondoo dume mmoja na mwana-kondoo dume mmoja wa mwaka mmoja, kwa ajili ya sadaka ya kuteketezwa;
+7	46	mbuzi dume mmoja kwa ajili ya sadaka ya dhambi;
+7	47	maksai wawili, kondoo dume watano, mbuzi dume watano na wana-kondoo dume watano wa mwaka mmoja, ili vitolewe dhabihu kama sadaka ya amani. Hii ndiyo ilikuwa sadaka ya Eliasafu mwana wa Deueli.
+7	48	Siku ya saba Elishama mwana wa Amihudi, kiongozi wa watu wa Efraimu, alileta sadaka yake.
+7	49	Sadaka aliyoleta ilikuwa sahani moja ya fedha yenye uzito wa shekeli 130, na bakuli moja la fedha la kunyunyizia lenye uzito wa shekeli sabini, vyote kulingana na shekeli ya mahali patakatifu, vikiwa vimejazwa unga laini uliochanganywa na mafuta kama sadaka ya nafaka;
+7	50	sinia moja la dhahabu lenye uzito wa shekeli kumi, likiwa limejazwa uvumba;
+7	51	fahali mmoja mchanga, kondoo dume mmoja na mwana-kondoo dume mmoja wa mwaka mmoja, kwa ajili ya sadaka ya kuteketezwa;
+7	52	mbuzi dume mmoja kwa ajili ya sadaka ya dhambi;
+7	53	maksai wawili, kondoo dume watano, mbuzi dume watano na wana-kondoo dume watano wa mwaka mmoja, ili vitolewe dhabihu kama sadaka ya amani. Hii ndiyo ilikuwa sadaka ya Elishama mwana wa Amihudi.
+7	54	Siku ya nane Gamalieli mwana wa Pedasuri, kiongozi wa watu wa Manase, alileta sadaka yake.
+7	55	Sadaka aliyoleta ilikuwa sahani moja ya fedha yenye uzito wa shekeli 130, na bakuli moja la fedha la kunyunyizia lenye uzito wa shekeli sabini, vyote kulingana na shekeli ya mahali patakatifu, vikiwa vimejazwa unga laini uliochanganywa na mafuta kama sadaka ya nafaka;
+7	56	sinia moja la dhahabu lenye uzito wa shekeli kumi, likiwa limejazwa uvumba;
+7	57	fahali mmoja mchanga, kondoo dume mmoja na mwana-kondoo dume mmoja wa mwaka mmoja, kwa ajili ya sadaka ya kuteketezwa;
+7	58	mbuzi dume mmoja kwa ajili ya sadaka ya dhambi;
+7	59	maksai wawili, kondoo dume watano, mbuzi dume watano na wana-kondoo dume watano wa mwaka mmoja, ili vitolewe dhabihu kama sadaka ya amani. Hii ndiyo ilikuwa sadaka ya Gamalieli mwana wa Pedasuri.
+7	60	Siku ya tisa Abidani mwana wa Gideoni, kiongozi wa watu wa Benyamini, alileta sadaka yake.
+7	61	Sadaka aliyoleta ilikuwa sahani moja ya fedha yenye uzito wa shekeli 130, na bakuli moja la fedha la kunyunyizia lenye uzito wa shekeli sabini, vyote kulingana na shekeli ya mahali patakatifu, vikiwa vimejazwa unga laini uliochanganywa na mafuta kama sadaka ya nafaka;
+7	62	sinia moja la dhahabu lenye uzito wa shekeli kumi, likiwa limejazwa uvumba;
+7	63	fahali mmoja mchanga, kondoo dume mmoja na mwana-kondoo dume mmoja wa mwaka mmoja, kwa ajili ya sadaka ya kuteketezwa;
+7	64	mbuzi dume mmoja kwa ajili ya sadaka ya dhambi;
+7	65	maksai wawili, kondoo dume watano, mbuzi dume watano na wana-kondoo dume watano wa mwaka mmoja, ili vitolewe dhabihu kama sadaka ya amani. Hii ndiyo ilikuwa sadaka ya Abidani mwana wa Gideoni.
+7	66	Siku ya kumi Ahiezeri mwana wa Amishadai, kiongozi wa watu wa Dani, alileta sadaka yake.
+7	67	Sadaka aliyoleta ilikuwa sahani moja ya fedha yenye uzito wa shekeli 130, na bakuli moja la fedha la kunyunyizia lenye uzito wa shekeli sabini, vyote kulingana na shekeli ya mahali patakatifu, vikiwa vimejazwa unga laini uliochanganywa na mafuta kama sadaka ya nafaka;
+7	68	sinia moja la dhahabu lenye uzito wa shekeli kumi, likiwa limejazwa uvumba;
+7	69	fahali mmoja mchanga, kondoo dume mmoja na mwana-kondoo dume mmoja wa mwaka mmoja, kwa ajili ya sadaka ya kuteketezwa;
+7	70	mbuzi dume mmoja kwa ajili ya sadaka ya dhambi;
+7	71	maksai wawili, kondoo dume watano, mbuzi dume watano na wana-kondoo dume watano wa mwaka mmoja, ili vitolewe dhabihu kama sadaka ya amani. Hii ndiyo ilikuwa sadaka ya Ahiezeri mwana wa Amishadai.
+7	72	Siku ya kumi na moja Pagieli mwana wa Okrani, kiongozi wa watu wa Asheri, alileta sadaka yake.
+7	73	Sadaka aliyoleta ilikuwa sahani moja ya fedha yenye uzito wa shekeli 130, na bakuli moja la fedha la kunyunyizia lenye uzito wa shekeli sabini, vyote kulingana na shekeli ya mahali patakatifu, vikiwa vimejazwa unga laini uliochanganywa na mafuta kama sadaka ya nafaka;
+7	74	sinia moja la dhahabu lenye uzito wa shekeli kumi, likiwa limejazwa uvumba;
+7	75	fahali mmoja mchanga, kondoo dume mmoja na mwana-kondoo dume mmoja wa mwaka mmoja, kwa ajili ya sadaka ya kuteketezwa;
+7	76	mbuzi dume mmoja kwa ajili ya sadaka ya dhambi;
+7	77	maksai wawili, kondoo dume watano, mbuzi dume watano na wana-kondoo dume watano wa mwaka mmoja, ili vitolewe dhabihu kama sadaka ya amani. Hii ndiyo ilikuwa sadaka ya Pagieli mwana wa Okrani.
+7	78	Siku ya kumi na mbili Ahira mwana wa Enani, kiongozi wa watu wa Naftali, alileta sadaka yake.
+7	79	Sadaka aliyoleta ilikuwa sahani moja ya fedha yenye uzito wa shekeli 130, na bakuli moja la fedha la kunyunyizia lenye uzito wa shekeli sabini, vyote kulingana na shekeli ya mahali patakatifu, vikiwa vimejazwa unga laini uliochanganywa na mafuta kama sadaka ya nafaka;
+7	80	sinia moja la dhahabu lenye uzito wa shekeli kumi, likiwa limejazwa uvumba;
+7	81	fahali mmoja mchanga, kondoo dume mmoja na mwana-kondoo dume mmoja wa mwaka mmoja, kwa ajili ya sadaka ya kuteketezwa;
+7	82	mbuzi dume mmoja kwa ajili ya sadaka ya dhambi;
+7	83	maksai wawili, kondoo dume watano, mbuzi dume watano na wana-kondoo dume watano wa mwaka mmoja, ili vitolewe dhabihu kama sadaka ya amani. Hii ndiyo ilikuwa sadaka ya Ahira mwana wa Enani.
+7	84	Hizi ndizo zilikuwa sadaka za viongozi wa Israeli madhabahu yalipowekwa wakfu, wakati yalitiwa mafuta: sahani kumi na mbili za fedha, bakuli kumi na mbili za fedha za kunyunyizia, na masinia kumi na mawili ya dhahabu.
+7	85	Kila sahani ya fedha ilikuwa na uzito wa shekeli 130, na kila bakuli la fedha la kunyunyizia lilikuwa na uzito wa shekeli sabini. Masinia yote kumi na mawili yalikuwa na uzito wa shekeli 2,400kulingana na shekeli ya mahali patakatifu.
+7	86	Sahani kumi na mbili za dhahabu zilizojazwa uvumba zilikuwa na uzito wa shekeli kumi kila moja, kulingana na shekeli ya mahali patakatifu. Kwa jumla, sahani za dhahabu zilikuwa na uzito wa shekeli 120.
+7	87	Jumla ya wanyama waliotolewa kwa ajili ya sadaka ya kuteketezwa walikuwa fahali kumi na wawili wachanga, kondoo dume kumi na wawili na wana-kondoo dume kumi na wawili wa mwaka mmoja, pamoja na sadaka zao za nafaka. Mbuzi waume kumi na wawili walitolewa kwa ajili ya sadaka za dhambi.
+7	88	Jumla ya wanyama kwa ajili ya dhabihu ya sadaka ya amani walikuwa maksai ishirini na wanne, kondoo dume sitini, mbuzi dume wa mwaka mmoja sitini na wana-kondoo dume wa mwaka mmoja sitini. Hizi ndizo zilikuwa sadaka zilizoletwa kwa ajili ya kuwekwa wakfu kwa madhabahu baada ya kutiwa mafuta.
+7	89	Mose alipoingia kwenye Hema la Kukutania kuzungumza na Bwana, alisikia sauti ikisema naye kutoka kati ya wale makerubi wawili waliokuwa juu ya kile kiti cha rehema, juu ya Sanduku la Ushuhuda. Mose akazungumza naye.
+8	1	Bwana akamwambia Mose,
+8	2	“Sema na Aroni umwambie, ‘Wakati utakapoziweka zile taa saba, zinatakiwa kuangaza eneo lililo mbele ya kinara cha taa.’ ”
+8	3	Aroni akafanya hivyo; akaziweka zile taa ili zielekee mbele kwenye kinara cha taa, kama vile Bwana alivyomwamuru Mose.
+8	4	Hivi ndivyo kinara cha taa kilivyotengenezwa: Kilitengenezwa kwa dhahabu iliyofuliwa, kuanzia kwenye kitako chake hadi kwenye maua yake. Kinara cha taa kilitengenezwa sawasawa kabisa na kielelezo ambacho Bwana alikuwa amemwonyesha Mose.
+8	5	Bwana akamwambia Mose:
+8	6	“Watwae Walawi kutoka miongoni mwa Waisraeli wengine na uwatakase kwa kawaida ya ibada.
+8	7	Ili kuwatakasa fanya hivi: Nyunyizia maji ya utakaso juu yao; kisha uwaambie wanyoe nywele kwenye mwili mzima, wafue nguo zao na hivyo wajitakase wenyewe.
+8	8	Waambie wamchukue fahali mchanga pamoja na sadaka yake ya nafaka ya unga laini uliochanganywa na mafuta; kisha utamchukua fahali mchanga wa pili kwa ajili ya sadaka ya dhambi.
+8	9	Walete Walawi mbele ya Hema la Kukutania na ukusanye jumuiya yote ya Waisraeli.
+8	10	Utawaleta Walawi mbele za Bwana, na Waisraeli wataweka mikono yao juu ya Walawi.
+8	11	Aroni atawaweka Walawi mbele za Bwana kama sadaka ya kuinua kutoka kwa Waisraeli, ili kwamba wawe tayari kuifanya kazi ya Bwana.
+8	12	“Baada ya Walawi kuweka mikono yao juu ya vichwa vya hao mafahali wawili, tumia mmoja kwa ajili ya sadaka ya dhambi kwa Bwana, na mwingine kuwa sadaka ya kuteketezwa, ili kufanya upatanisho kwa ajili ya Walawi.
+8	13	Waambie hao Walawi wasimame mbele ya Aroni na wanawe, kisha wawatoe kama sadaka ya kuinuliwa kwa Bwana.
+8	14	Kwa njia hii utakuwa umewatenga Walawi kutoka kwa Waisraeli wengine, nao Walawi watakuwa wangu.
+8	15	“Utakapokuwa umekwisha kuwatakasa Walawi na kuwatoa kama sadaka ya kuinuliwa, watakuja kufanya kazi yao katika Hema la Kukutania.
+8	16	Wao ndio Waisraeli ambao watatolewa kabisa kwangu. Nimewatwaa kama mali yangu mwenyewe badala ya mzaliwa wa kwanza, mzaliwa wa kwanza wa kiume kutoka kwa kila mwanamke wa Kiisraeli.
+8	17	Kila mzaliwa wa kwanza wa kiume katika Israeli, awe wa mwanadamu au mnyama, ni wangu. Wakati nilipowaua wazaliwa wote wa kwanza huko Misri, niliwatenga kwa ajili yangu mwenyewe.
+8	18	Nami nimewatwaa Walawi badala ya wazaliwa wote wa kwanza wa kiume katika Israeli.
+8	19	Kati ya Waisraeli wote, nimempa Aroni na wanawe Walawi kama zawadi ili wafanye kazi katika Hema la Kukutania kwa niaba ya Waisraeli, na kufanya upatanisho kwa ajili yao ili pasiwepo na pigo lolote litakalowapata Waisraeli wakati watakapokaribia mahali patakatifu.”
+8	20	Mose, Aroni na jumuiya yote ya Waisraeli wakawafanyia Walawi kama Bwana alivyomwamuru Mose.
+8	21	Walawi wakajitakasa wenyewe na wakafua nguo zao. Kisha Aroni akawasogeza mbele za Bwana kuwa sadaka ya kuinuliwa, na kufanya upatanisho kwa ajili yao ili kuwatakasa.
+8	22	Baada ya hayo, Walawi walikuja kufanya kazi yao katika Hema la Kukutania chini ya usimamizi wa Aroni na wanawe. Waliwafanyia Walawi kama vile Bwana alivyomwamuru Mose.
+8	23	Bwana akamwambia Mose,
+8	24	“Hili linawahusu Walawi: Wanaume wenye umri wa miaka ishirini na mitano au zaidi watakuja kushiriki katika kazi kwenye Hema la Kukutania,
+8	25	lakini watakapofika umri wa miaka hamsini, ni lazima waache kazi zao za kawaida wala wasiendelee.
+8	26	Wanaweza kuwasaidia ndugu zao kufanya wajibu wao katika Hema la Kukutania, lakini wao wenyewe kamwe hawatafanya hiyo kazi. Basi, hivi ndivyo utakavyogawa wajibu kwa Walawi.”
+9	1	Bwana akasema na Mose katika Jangwa la Sinai katika mwezi wa kwanza wa mwaka wa pili baada ya Waisraeli kutoka Misri. Akasema,
+9	2	“Waamuru Waisraeli waadhimishe Pasaka katika wakati ulioamriwa.
+9	3	Adhimisheni wakati ulioamriwa, yaani wakati wa kuzama jua siku ya kumi na nne ya mwezi huu, kufuatana na desturi zake zote na masharti yake.”
+9	4	Hivyo Mose akawaambia Waisraeli waiadhimishe Pasaka,
+9	5	nao wakafanya hivyo kwenye Jangwa la Sinai wakati wa kuzama jua siku ya kumi na nne ya mwezi wa kwanza. Waisraeli wakafanya kila kitu kama vile Bwana alivyomwamuru Mose.
+9	6	Lakini baadhi yao hawakuweza kuadhimisha Pasaka siku ile kwa sababu walikuwa najisi kwa taratibu za kiibada kwa ajili ya kugusa maiti. Kwa hiyo wakamwendea Mose na Aroni siku ile ile,
+9	7	wakamwambia Mose, “Tumekuwa najisi kwa sababu tumegusa maiti, lakini kwa nini tuzuiliwe kumtolea Bwana sadaka yake pamoja na Waisraeli wengine katika wakati ulioamriwa?”
+9	8	Mose akawajibu, “Ngojeni mpaka nitafute kile Bwana anachoagiza kuwahusu ninyi.”
+9	9	Ndipo Bwana akamwambia Mose,
+9	10	“Waambie Waisraeli: ‘Wakati mmoja wenu au wazao wenu wanapokuwa najisi kwa sababu ya maiti au wakiwa safarini, hata hivyo wanaweza kuadhimisha Pasaka ya Bwana.
+9	11	Wataiadhimisha wakati wa kuzama jua siku ya kumi na nne ya mwezi wa pili. Watamla mwana-kondoo, pamoja na mkate usiotiwa chachu, na mboga chungu.
+9	12	Wasibakize chochote hadi asubuhi wala wasivunje mifupa ya mwana-kondoo. Wakati wanapoadhimisha Pasaka, hawana budi kufuata masharti yote.
+9	13	Lakini kama mtu ni safi kwa taratibu za kiibada naye hayuko safarini, asipoadhimisha Pasaka, mtu huyo hana budi kukatiliwa mbali na watu wake kwa sababu hakutoa sadaka ya Bwana kwa wakati ulioamriwa. Mtu huyo atawajibika kubeba matokeo ya dhambi yake.
+9	14	“ ‘Mgeni anayeishi miongoni mwenu ambaye anataka kuadhimisha Pasaka ya Bwana, lazima afanye hivyo kwa kufuata desturi na masharti. Lazima masharti yawe sawasawa kwa mgeni na mzawa.’ ”
+9	15	Katika siku hiyo ambayo Maskani, Hema la Ushuhuda, iliposimamishwa, wingu liliifunika. Kuanzia jioni mpaka asubuhi wingu lililokuwa juu ya Maskani lilionekana kama moto.
+9	16	Hivyo ndivyo lilivyoendelea kuwa; wingu liliifunika wakati wa mchana, na usiku lilionekana kama moto.
+9	17	Wakati wowote wingu lilipoinuka kutoka juu ya Hema, nao Waisraeli waliondoka; mahali popote wingu liliposimama, Waisraeli walipiga kambi.
+9	18	Kwa amri ya Bwana Waisraeli waliondoka, na kwa amri yake walipiga kambi. Kwa muda wote wingu liliposimama juu ya Maskani, Waisraeli walibaki wamepiga kambi.
+9	19	Wakati wingu lilipobaki juu ya Maskani kwa muda mrefu, Waisraeli walitii amri ya Bwana nao hawakuondoka.
+9	20	Wakati mwingine wingu lilikuwa juu ya Maskani kwa siku chache tu; kwa amri ya Bwana wangelipiga kambi na kisha kwa amri yake wangeliondoka.
+9	21	Wakati mwingine wingu lilikuwepo kuanzia jioni mpaka asubuhi tu, na lilipoinuka asubuhi, nao waliondoka. Ikiwa ni mchana au usiku, wakati wowote wingu lilipoinuka, waliondoka.
+9	22	Ikiwa wingu lilikaa juu ya Maskani kwa siku mbili au mwezi au mwaka, Waisraeli wangebaki wamepiga kambi na hawakuondoka; lakini lilipoinuka, wangeondoka.
+9	23	Kwa amri ya Bwana walipiga kambi, na kwa amri ya Bwana waliondoka. Walitii amri ya Bwana, kufuatana na agizo lake kupitia Mose.
+10	1	Bwana akamwambia Mose:
+10	2	“Tengeneza tarumbeta mbili za fedha ya kufua, uzitumie kwa kuita jumuiya pamoja na wakati wa kuvunja makambi ili kuondoka.
+10	3	Tarumbeta zote mbili zikipigwa, jumuiya yote itakusanyika mbele yako katika ingilio la Hema la Kukutania.
+10	4	Kama tarumbeta moja tu ikipigwa, viongozi, yaani wakuu wa koo za Israeli, ndio watakaokusanyika mbele yako.
+10	5	Wakati mlio wa kujulisha hatari ukipigwa, makabila yaliyo na makambi upande wa mashariki yataondoka.
+10	6	Ukisikika mlio wa pili wa jinsi hiyo, walioko kwenye makambi ya kusini wataondoka. Mlio huo wa kujulisha hatari utakuwa ishara ya kuondoka.
+10	7	Ili kukusanya kusanyiko, piga tarumbeta zote, lakini siyo kwa mlio wa kujulisha hatari.
+10	8	“Wana wa Aroni, makuhani, ndio watakaopiga hizo tarumbeta. Hili litakuwa agizo la kudumu kwa ajili yenu na kwa vizazi vijavyo.
+10	9	Wakati mtakapopigana vita katika nchi yenu wenyewe dhidi ya adui anayewaonea, piga tarumbeta kwa mlio wa kujulisha hatari. Ndipo utakumbukwa na Bwana Mungu wenu na kuokolewa kutoka kwa adui zenu.
+10	10	Pia nyakati za furaha yenu, yaani sikukuu zenu zilizoamriwa na sikukuu za Mwezi Mwandamo, mtapiga tarumbeta juu ya sadaka zenu za kuteketezwa na sadaka zenu za amani, nazo zitakuwa ukumbusho kwa ajili yenu mbele za Mungu wenu. Mimi ndimi Bwana, Mungu wenu.”
+10	11	Katika siku ya ishirini ya mwezi wa pili wa mwaka wa pili, wingu liliinuka kutoka juu ya maskani ya Ushuhuda.
+10	12	Ndipo Waisraeli wakaondoka kutoka Jangwa la Sinai wakasafiri kutoka sehemu moja hadi nyingine mpaka wingu lilipotua katika Jangwa la Parani.
+10	13	Waliondoka kwa mara ya kwanza kwa agizo la Bwana kupitia kwa Mose.
+10	14	Vikosi vya kambi ya Yuda vilitangulia kwanza chini ya alama yao. Nashoni mwana wa Aminadabu alikuwa kiongozi wao.
+10	15	Nethaneli mwana wa Suari alikuwa kiongozi wa kabila la Isakari,
+10	16	naye Eliabu mwana wa Heloni alikuwa kiongozi wa kabila la Zabuloni.
+10	17	Ndipo Maskani iliposhushwa, nao wana wa Gershoni na wana wa Merari ambao waliibeba wakaondoka.
+10	18	Vikosi vya kambi ya Reubeni vilifuata, chini ya alama yao. Elisuri mwana wa Shedeuri alikuwa kiongozi wao.
+10	19	Shelumieli mwana wa Surishadai aliongoza kikosi cha kabila la Simeoni,
+10	20	naye Eliasafu mwana wa Deueli aliongoza kikosi cha kabila la Gadi.
+10	21	Kisha Wakohathi wakaondoka, wakichukua vitu vitakatifu. Maskani ilikuwa isimamishwe kabla wao hawajafika.
+10	22	Vikosi vya kambi ya Efraimu vilifuata, chini ya alama yao. Elishama mwana wa Amihudi alikuwa kiongozi wao.
+10	23	Gamalieli mwana wa Pedasuri aliongoza kikosi cha kabila la Manase,
+10	24	naye Abidani mwana wa Gideoni alikuwa kiongozi wa kikosi cha kabila la Benyamini.
+10	25	Mwishowe, kama kikosi cha nyuma cha ulinzi wa vikosi vyote, vikosi vya kambi ya Dani viliondoka chini ya alama yao. Ahiezeri mwana wa Amishadai alikuwa kiongozi wao.
+10	26	Pagieli mwana wa Okrani aliongoza kikosi cha kabila la Asheri,
+10	27	naye Ahira mwana wa Enani aliongoza kikosi cha kabila la Naftali.
+10	28	Huu ndio ulikuwa utaratibu wa kuondoka wa vikosi vya Waisraeli walipokuwa wanaondoka.
+10	29	Basi Mose akamwambia Hobabu mwana wa Reueli, Mmidiani, mkwewe Mose, “Tunaondoka kwenda mahali ambapo Bwana amesema ‘Nitawapa ninyi mahali hapo.’ Twende pamoja nasi tutakutendea mema, kwa maana Bwana ameahidi mambo mema kwa Israeli.”
+10	30	Akajibu, “Hapana, sitakwenda; nitarudi kwenye nchi yangu mwenyewe na watu wangu mwenyewe.”
+10	31	Lakini Mose akasema, “Tafadhali usituache. Wewe unajua mahali ambapo yatupasa kupiga kambi jangwani, nawe unaweza kuwa macho yetu.
+10	32	Ikiwa utafuatana nasi, tutashirikiana nawe mema yoyote tutakayopewa na Bwana.”
+10	33	Hivyo waliondoka kutoka mlima wa Bwana, nao wakasafiri kwa siku tatu. Sanduku la Agano la Bwana liliwatangulia kwa zile siku tatu ili kuwatafutia mahali pa kupumzika.
+10	34	Wingu la Bwana lilikuwa juu yao wakati wa mchana walipoondoka kambini.
+10	35	Wakati wowote Sanduku lilipoondoka, Mose alisema, “Ee Bwana, inuka! Watesi wako na watawanyike; adui zako na wakimbie mbele zako.”
+10	36	Wakati wowote Sanduku liliposimama, alisema, “Ee Bwana, rudi, kwa maelfu ya Waisraeli wasiohesabika.”
+11	1	Basi watu wakalalamika kwa habari ya taabu zao masikioni mwa Bwana, naye alipowasikia, hasira yake ikawaka. Ndipo moto kutoka kwa Bwana ukawaka miongoni mwao na kuteketeza baadhi ya viunga vya kambi.
+11	2	Watu walipomlilia Mose, akamwomba Bwana, nao moto ukazimika.
+11	3	Hivyo mahali pale pakaitwa Tabera, kwa sababu moto kutoka kwa Bwana uliwaka miongoni mwao.
+11	4	Umati wa watu wenye zogo waliokuwa miongoni mwao walitamani sana chakula kingine, Waisraeli wakaanza kulia tena na kusema, “Laiti tungekuwa na nyama tule!
+11	5	Tunakumbuka wale samaki tuliokula huko Misri bila gharama, pia yale matango, matikitimaji, mboga, vitunguu, na vitunguu saumu.
+11	6	Lakini sasa tumepoteza hamu ya chakula; hatuoni kitu kingine chochote isipokuwa hii mana!”
+11	7	Mana ilifanana kama mbegu za giligilani, nayo ilikuwa na rangi ya manjano iliyopauka.
+11	8	Hao watu walikwenda kukusanya, kisha waliisaga kwa mawe ya kusagia ya mkono au kuitwanga kwenye vinu. Waliipika vyunguni au kutengeneza maandazi. Ladha yake ilikuwa kama kitu kilichotengenezwa kwa mafuta ya zeituni.
+11	9	Umande ulipoanguka kambini wakati wa usiku, pia mana ilianguka pamoja nao.
+11	10	Mose akasikia watu wa kila jamaa wakilia, kila mmoja kwenye mlango wa hema lake. Bwana akakasirika mno, naye Mose akafadhaika.
+11	11	Akamuuliza Bwana, “Kwa nini umeleta taabu hii juu ya mtumishi wako? Nimekufanyia nini cha kukuchukiza hata ukaweka mzigo huu wa watu hawa wote juu yangu?
+11	12	Je, watu hawa wote mimi ndiye niliyewatungisha mimba? Je, ni mimi niliyewazaa? Kwa nini unaniambia niwachukue mikononi mwangu, kama vile mlezi abebavyo mtoto mchanga, hadi kwenye nchi uliyowaahidi baba zao?
+11	13	Nitapata wapi nyama kwa ajili ya watu wote hawa? Wanaendelea kunililia wakisema, ‘Tupe nyama tule!’
+11	14	Mimi siwezi kuwabeba watu hawa wote peke yangu, mzigo ni mzito sana kwangu.
+11	15	Kama hivi ndivyo unavyonitendea, uniue sasa hivi, yaani kama nimepata kibali machoni pako, wala usiniache nione maangamizi yangu mwenyewe.”
+11	16	Bwana akamwambia Mose: “Niletee wazee sabini wa Israeli, unaowafahamu kama viongozi na maafisa miongoni mwa watu. Walete katika Hema la Kukutania, ili waweze kusimama huko pamoja nawe.
+11	17	Nami nitashuka na kusema nawe huko. Nami nitachukua sehemu ya Roho iliyo juu yako na kuiweka juu yao. Watakusaidia kubeba mzigo wa watu hao ili usije ukaubeba peke yako.
+11	18	“Waambie hao watu: ‘Jiwekeni wakfu wenyewe kwa ajili ya kesho, wakati mtakapokula nyama. Bwana aliwasikia mlipolia, mkisema, “Laiti tungekuwa na nyama tule! Tulikuwa na hali nzuri zaidi katika nchi ya Misri!” Sasa Bwana atawapa nyama, nanyi mtaila.
+11	19	Hamtaila kwa siku moja tu, au siku mbili, au tano, kumi au siku ishirini,
+11	20	bali kwa mwezi mzima mpaka iwatokee puani, nanyi mtaichukia kabisa, kwa kuwa mmemkataa Bwana, ambaye yupo miongoni mwenu, nanyi mmelia mbele zake, mkisema, “Hivi kwa nini tulitoka Misri?” ’ ”
+11	21	Lakini Mose alisema, “Mimi niko hapa miongoni mwa watu 600,000 wanaotembea kwa miguu, nawe umesema, ‘Nitawapa nyama ya kula kwa mwezi mzima!’
+11	22	Je, wangeweza kupata nyama ya kuwatosha hata kama makundi ya kondoo na ya ngʼombe yangechinjwa kwa ajili yao? Je, wangetosheka hata kama samaki wote wa baharini wangevuliwa kwa ajili yao?”
+11	23	Bwana akamjibu Mose, “Je, mkono wa Bwana ni mfupi sana? Sasa utaona kama jambo nililolisema litatimizwa kwa ajili yako au la.”
+11	24	Kwa hiyo Mose akatoka na kuwaambia watu lile ambalo Bwana alikuwa amesema. Akawakusanya wazee wao sabini, akawasimamisha kuzunguka Hema.
+11	25	Kisha Bwana akashuka katika wingu na kunena na Mose, naye akachukua sehemu ya Roho iliyokuwa juu ya Mose na kuiweka juu ya wale wazee sabini. Roho aliposhuka juu yao, wakatoa unabii, lakini hawakufanya hivyo tena.
+11	26	Lakini, watu wawili, ambao majina yao ni Eldadi na Medadi, walibaki kambini. Walikuwa wameorodheshwa miongoni mwa wale wazee sabini, lakini hawakutoka kwenda kwenye Hema. Lakini Roho pia alishuka juu yao, nao wakatabiri huko kambini.
+11	27	Mwanaume mmoja kijana alikimbia na kumwambia Mose, “Eldadi na Medadi wanatoa unabii kambini.”
+11	28	Yoshua mwana wa Nuni, ambaye alikuwa msaidizi wa Mose tangu ujana wake, akajibu akasema, “Mose bwana wangu, wanyamazishe!”
+11	29	Lakini Mose akajibu, “Je, unaona wivu kwa ajili yangu? Ningetamani watu wote wa Bwana wangekuwa manabii na kwamba Bwana angeweka Roho yake juu yao!”
+11	30	Ndipo Mose na wale wazee wa Israeli wakarudi kambini.
+11	31	Kisha ukatokea upepo kutoka kwa Bwana, nao ukawaletea kware kutoka baharini. Ukawaangusha kwenye eneo lote linalozunguka kambi na kujaa ardhini kimo cha mita moja hivi kutoka ardhini kwenye eneo la umbali wa mwendo wa siku moja kila upande.
+11	32	Mchana kutwa na usiku kucha pamoja na siku nzima iliyofuata watu walitoka kwenda kuokota kware. Hakuna mtu yeyote aliyekusanya chini ya homeri kumi. Kisha wakazianika kuzunguka kambi yote.
+11	33	Lakini walipokuwa wakila nyama, ilipokuwa ingali kati ya meno yao na kabla hawajamaliza kula, hasira ya Bwana ikawaka dhidi ya watu, naye akawapiga kwa tauni.
+11	34	Kwa hiyo mahali hapo pakaitwa Kibroth-Hataava, kwa sababu huko ndiko walipowazika watu ambao walitamani sana chakula kingine.
+11	35	Kutoka Kibroth-Hataava watu wakasafiri mpaka Haserothi na kukaa huko.
+12	1	Miriamu na Aroni walianza kuzungumza dhidi ya Mose kwa sababu ya mke wake Mkushi, kwa kuwa alikuwa ameoa Mkushi.
+12	2	Waliuliza, “Je, Bwana amesema kupitia Mose peke yake? Je, hajasema kutupitia sisi pia?” Naye Bwana akasikia hili.
+12	3	(Basi Mose alikuwa mtu mnyenyekevu sana, mnyenyekevu kuliko mtu mwingine yeyote katika uso wa dunia.)
+12	4	Ghafula Bwana akawaambia Mose, Aroni na Miriamu, “Njooni katika Hema la Kukutania, ninyi nyote watatu.” Kwa hiyo wote watatu wakaenda.
+12	5	Kisha Bwana akashuka katika nguzo ya wingu, akasimama kwenye ingilio la Hema, akawaita Aroni na Miriamu. Wakati wote wawili waliposogea mbele,
+12	6	Bwana akasema, “Sikilizeni maneno yangu: “Akiwapo nabii wa Bwana miongoni mwenu, nitajifunua kwake kwa maono, nitanena naye katika ndoto.
+12	7	Lakini sivyo kwa mtumishi wangu Mose; yeye ni mwaminifu katika nyumba yangu yote.
+12	8	Kwake nitanena naye uso kwa uso, waziwazi wala si kwa mafumbo; yeye ataona umbo la Bwana. Kwa nini basi ninyi hamkuogopa kuzungumza kinyume cha mtumishi wangu Mose?”
+12	9	Hasira ya Bwana ikawaka dhidi yao, akawaacha.
+12	10	Wakati hilo wingu liliinuka kutoka juu ya Hema, Miriamu akawa tayari ana ukoma, mweupe kama theluji. Aroni akamgeukia, akaona ana ukoma.
+12	11	Kisha Aroni akamwambia Mose, “Tafadhali, bwana wangu, usituhesabie dhambi hii ambayo tumeifanya kwa upumbavu.
+12	12	Usimwache awe kama mtoto mchanga aliyezaliwa akiwa mfu, ambaye nusu ya mwili wake imeharibika hapo atokapo katika tumbo la mama yake.”
+12	13	Hivyo Mose akamlilia Bwana akisema, “Ee Mungu, nakuomba umponye!”
+12	14	Bwana akamjibu Mose, “Je, kama baba yake angemtemea usoni, asingeona aibu kwa siku saba? Mfungie nje ya kambi kwa siku saba; baada ya hapo anaweza kurudishwa kambini.”
+12	15	Kwa hiyo Miriamu akafungiwa nje ya kambi kwa siku saba, nao watu hawakuendelea na safari mpaka aliporudishwa kambini.
+12	16	Baada ya hayo, watu waliondoka Haserothi, wakapiga kambi katika Jangwa la Parani.
+13	1	Bwana akamwambia Mose,
+13	2	“Watume baadhi ya watu wakaipeleleze nchi ya Kanaani, ambayo ninawapa Waisraeli. Kutoka kwa kila kabila la baba zao, tuma mmoja wa viongozi wao.”
+13	3	Hivyo kwa agizo la Bwana Mose akawatuma kutoka Jangwa la Parani. Wote walikuwa viongozi wa Waisraeli.
+13	4	Haya ndiyo majina yao: kutoka kabila la Reubeni, Shamua mwana wa Zakuri;
+13	5	kutoka kabila la Simeoni, Shafati mwana wa Hori;
+13	6	kutoka kabila la Yuda, Kalebu mwana wa Yefune;
+13	7	kutoka kabila la Isakari, Igali mwana wa Yosefu;
+13	8	kutoka kabila la Efraimu, Hoshea mwana wa Nuni;
+13	9	kutoka kabila la Benyamini, Palti mwana wa Rafu;
+13	10	kutoka kabila la Zabuloni, Gadieli mwana wa Sodi,
+13	11	kutoka kabila la Manase (kabila la Yosefu), Gadi mwana wa Susi;
+13	12	kutoka kabila la Dani, Amieli mwana wa Gemali;
+13	13	kutoka kabila la Asheri, Sethuri mwana wa Mikaeli;
+13	14	kutoka kabila la Naftali, Nabi mwana wa Wofsi;
+13	15	kutoka kabila la Gadi, Geueli mwana wa Maki.
+13	16	Haya ndiyo majina ya watu ambao Mose aliwatuma kuipeleleza nchi. (Mose akampa Hoshea mwana wa Nuni jina Yoshua.)
+13	17	Mose alipowatuma wakaipeleleze Kanaani, alisema, “Pandeni kupitia Negebu, mwende mpaka nchi ya vilima.
+13	18	Mwone nchi ni ya namna gani, na kama watu waishio humo wana nguvu au ni wadhaifu, iwapo ni wachache au wengi.
+13	19	Wanaishi katika nchi ya namna gani? Je, ni nzuri au mbaya? Wanaishi katika miji ya namna gani? Je, haina kuta au ngome?
+13	20	Ardhi iko aje? Ina rutuba au la? Je, kuna miti ndani yake au la? Jitahidini kadiri mwezavyo kuleta baadhi ya matunda ya nchi.” (Ulikuwa msimu wa kuiva zabibu za kwanza.)
+13	21	Hivyo wakapanda na kuipeleleza nchi kutoka Jangwa la Sini hadi Rehobu, kuelekea Lebo-Hamathi.
+13	22	Wakapanda kupitia Negebu hadi wakafika Hebroni, mahali ambapo Ahimani, Sheshai na Talmai, wazao wa Anaki, waliishi. (Hebroni ulikuwa umejengwa miaka saba kabla ya mji wa Soani ulioko Misri.)
+13	23	Walipofika katika Bonde la Eshkoli, walivunja tawi lililokuwa na kishada kimoja cha zabibu. Wawili wao wakalichukua lile tawi kwenye mti, pamoja na komamanga na tini.
+13	24	Eneo lile likaitwa Bonde la Eshkoli kwa sababu ya kile kishada cha zabibu ambacho Waisraeli walikikata huko.
+13	25	Mwishoni mwa siku arobaini wakarudi kutoka kuipeleleza nchi.
+13	26	Wakarudi kwa Mose, Aroni na jumuiya yote ya Waisraeli huko Kadeshi kwenye Jangwa la Parani. Hapo ndipo walipotoa habari kwao na kwa kusanyiko lote na kuwaonyesha matunda ya hiyo nchi.
+13	27	Wakampa Mose taarifa hii: “Tuliingia katika nchi uliyotutuma, nayo inatiririka maziwa na asali! Hili hapa tunda lake.
+13	28	Lakini watu wanaoishi huko ni wenye nguvu, na miji yao ina ngome na ni mikubwa sana. Huko tuliona hata wazao wa Anaki.
+13	29	Waamaleki wanaishi Negebu; Wahiti, Wayebusi na Waamori wanaishi katika nchi ya vilima; nao Wakanaani wanaishi karibu na bahari na kando ya Yordani.”
+13	30	Kisha Kalebu akawanyamazisha watu mbele ya Mose na kusema, “Imetupasa kupanda na kuimiliki nchi, kwa maana hakika tunaweza kufanya hivyo.”
+13	31	Lakini watu waliokuwa wamepanda pamoja naye wakasema, “Hatuwezi kuwashambulia wale watu; wana nguvu kutuliko sisi.”
+13	32	Wakaeneza taarifa mbaya miongoni mwa Waisraeli kuhusu nchi waliyoipeleleza. Wakasema, “Nchi tuliyoipeleleza hula watu waishio ndani yake. Watu wote tuliowaona huko ni majitu.
+13	33	Tuliwaona Wanefili huko (wazao wa Anaki wanatokana na Wanefili.) Tulijiona kama panzi machoni petu wenyewe, nao ndivyo walivyotuona.”
+14	1	Usiku ule watu wote wa jumuiya walipaza sauti zao na kulia kwa sauti kuu.
+14	2	Waisraeli wote wakanungʼunika dhidi ya Mose na Aroni, nalo kusanyiko lote wakawaambia, “Laiti tungekuwa tumefia humo nchi ya Misri! Au humu kwenye hili jangwa!
+14	3	Kwa nini Bwana anatuleta katika nchi hii ili tufe kwa upanga? Wake zetu na watoto wetu watachukuliwa kama nyara. Je, isingekuwa bora kwetu kurudi Misri?”
+14	4	Wakasemezana wao kwa wao, “Inatupasa kumchagua kiongozi na kurudi Misri.”
+14	5	Ndipo Mose na Aroni wakaanguka kifudifudi mbele ya kusanyiko lote la Kiisraeli lililokusanyika hapo.
+14	6	Yoshua mwana wa Nuni na Kalebu mwana wa Yefune, waliokuwa miongoni mwa watu wale waliokwenda kuipeleleza nchi, wakararua nguo zao,
+14	7	wakasema na kusanyiko lote la Kiisraeli, wakawaambia, “Nchi tuliyopita katikati yake na kuipeleleza ni nzuri sana sana.
+14	8	Ikiwa Bwana anapendezwa nasi, atatuongoza kuingia katika nchi ile, nchi itiririkayo maziwa na asali, naye atatupa nchi hiyo.
+14	9	Ila tu msimwasi Bwana. Wala msiwaogope watu wa nchi hiyo, kwa sababu tutawameza. Ulinzi wao umeondoka, lakini Bwana yupo pamoja nasi. Msiwaogope.”
+14	10	Lakini kusanyiko lote likazungumza juu ya kuwapiga kwa mawe. Ndipo utukufu wa Bwana ukaonekana katika Hema la Kukutania kwa Waisraeli wote.
+14	11	Bwana akamwambia Mose, “Watu hawa watanidharau mpaka lini? Wataendelea kukataa kuniamini mimi mpaka lini, ingawa nimetenda ishara za miujiza miongoni mwao?
+14	12	Nitawapiga kwa tauni na kuwaangamiza, lakini nitakufanya wewe kuwa taifa kubwa lenye nguvu kuliko wao.”
+14	13	Mose akamwambia Bwana, “Ndipo Wamisri watasikia juu ya jambo hili! Kwa uweza wako uliwapandisha watu hawa kutoka miongoni mwao.
+14	14	Nao watawaambia wenyeji wa nchi hii jambo hili. Wao tayari wameshasikia kwamba wewe, Ee Bwana, upo pamoja na watu hawa, na kuwa wewe, Ee Bwana, umeonekana uso kwa uso, nalo wingu lako hukaa juu yao. Tena wewe unawatangulia kwa nguzo ya wingu mchana na kwa nguzo ya moto usiku.
+14	15	Ikiwa utawaua watu hawa wote mara moja, mataifa ambayo yamesikia taarifa hii kukuhusu wewe watasema,
+14	16	‘Bwana alishindwa kuwaingiza watu hawa katika nchi aliyowaahidi kwa kiapo; hivyo akawaua jangwani.’
+14	17	“Basi sasa nguvu za Bwana na zionekane, sawasawa na vile ulivyosema:
+14	18	‘Bwana si mwepesi wa hasira, ni mwingi wa upendo na mwenye kusamehe dhambi na uasi. Lakini haachi kumwadhibu mwenye hatia, huadhibu watoto kwa ajili ya dhambi ya baba zao hata kizazi cha tatu na cha nne.’
+14	19	Kwa kadiri ya upendo wako mkuu, usamehe dhambi ya watu hawa, kama vile ulivyowasamehe tangu wakati walitoka Misri mpaka sasa.”
+14	20	Bwana akajibu, “Nimewasamehe kama ulivyoomba.
+14	21	Hata hivyo, kwa hakika kama niishivyo, na kwa hakika kama utukufu wa Bwana uijazavyo dunia yote,
+14	22	hakuna hata mmoja wa watu hawa ambao waliuona utukufu wangu na ishara za miujiza niliyotenda huko Misri na huko jangwani, lakini ambaye hakunitii na akanijaribu mara hizi kumi,
+14	23	hakuna hata mmoja wao atakayeona nchi niliyowaahidi baba zao kwa kiapo. Hakuna hata mmoja ambaye amenidharau atakayeiona.
+14	24	Lakini kwa sababu mtumishi wangu Kalebu ana roho ya tofauti na ananifuata kwa moyo wote, nitamwingiza katika nchi aliyoiendea, nao wazao wake watairithi.
+14	25	Kwa kuwa Waamaleki na Wakanaani wanaishi katika mabonde, kesho geukeni mwelekee jangwani kwa kufuata njia iendayo Bahari ya Shamu.”
+14	26	Bwana akamwambia Mose na Aroni:
+14	27	“Jumuiya hii ovu itanungʼunika dhidi yangu hadi lini? Nimesikia malalamiko ya hawa Waisraeli wanaonungʼunika.
+14	28	Hivyo waambie, ‘Hakika kama niishivyo, asema Bwana, nitawafanyia vitu vilevile nilivyosikia mkisema:
+14	29	Kila mmoja wenu mwenye umri wa miaka ishirini au zaidi ambaye alihesabiwa na amenungʼunika dhidi yangu, miili yenu itaanguka katika jangwa hili.
+14	30	Hakuna hata mmoja wenu atakayeingia katika nchi niliyoapa kwa mkono ulioinuliwa kuwa makao yenu, isipokuwa Kalebu mwana wa Yefune, na Yoshua mwana wa Nuni.
+14	31	Lakini watoto wenu ambao mlisema watachukuliwa kama mateka, nitawaingiza humo ili waifurahie nchi ambayo ninyi mmeikataa.
+14	32	Lakini ninyi, miili yenu itaanguka katika jangwa hili.
+14	33	Watoto wenu watakuwa wachungaji wa mifugo hapa kwa miaka arobaini, wakiteseka kwa ajili ya kukosa uaminifu kwenu, hadi mwili wa mtu wenu wa mwisho ulale katika jangwa hili.
+14	34	Kwa miaka arobaini, mwaka mmoja kwa kila siku katika zile siku arobaini mlizoipeleleza nchi, mtateseka kwa ajili ya dhambi zenu, na kujua jinsi ilivyo vibaya kunifanya mimi kuwa adui yenu.’
+14	35	Mimi Bwana nimesema, na hakika nitafanya mambo haya kwa jumuiya hii yote ovu, ambayo imefungamana pamoja dhidi yangu. Watakutana na mwisho wao katika jangwa hili; hapa ndipo watafia.”
+14	36	Hivyo watu wale ambao Mose alikuwa amewatuma kuipeleleza nchi, waliorudi na kuifanya jumuiya nzima kunungʼunika dhidi ya Mose kwa kueneza taarifa mbaya kuhusu hiyo nchi:
+14	37	watu hawa waliohusika kueneza taarifa mbaya kuhusu hiyo nchi walipigwa na kuanguka kwa tauni mbele za Bwana.
+14	38	Miongoni mwa watu waliokwenda kuipeleleza hiyo nchi, ni Yoshua mwana wa Nuni, na Kalebu mwana wa Yefune peke yao waliosalia.
+14	39	Mose alipotoa taarifa hii kwa Waisraeli wote, waliomboleza kwa uchungu.
+14	40	Mapema asubuhi siku iliyofuata walipanda juu kuelekea kwenye nchi ya vilima virefu, wakasema, “Tumetenda dhambi. Tutakwea mpaka mahali Bwana alipotuahidi.”
+14	41	Lakini Mose akasema, “Kwa nini hamtii amri ya Bwana? Jambo hili halitafanikiwa!
+14	42	Msipande juu, kwa kuwa Bwana hayupo pamoja nanyi. Mtashindwa na adui zenu,
+14	43	kwa kuwa Waamaleki na Wakanaani watapambana nanyi huko. Kwa sababu mmemwacha Bwana, hatakuwa pamoja nanyi, ninyi mtaanguka kwa upanga.”
+14	44	Hata hivyo, kwa kiburi chao walipanda juu kuelekea nchi ya vilima virefu, ijapokuwa Mose hakutoka kambini wala Sanduku la Agano la Bwana.
+14	45	Ndipo Waamaleki na Wakanaani walioishi katika hiyo nchi ya vilima wakateremka na kuwashambulia, wakawapiga njia yote hadi Horma.
+15	1	Bwana akamwambia Mose,
+15	2	“Sema na Waisraeli uwaambie: ‘Baada ya ninyi kuingia katika nchi ninayowapa kama nyumbani,
+15	3	nanyi mkitoa sadaka za kuteketezwa kwa moto, kutoka makundi ya ngʼombe au kondoo, kama harufu nzuri inayompendeza Bwana, ikiwa ni sadaka za kuteketezwa au dhabihu, kwa ajili ya nadhiri maalum ama sadaka ya hiari au sadaka ya sikukuu zenu,
+15	4	ndipo yeye aletaye sadaka yake ataiweka mbele za Bwana sadaka ya nafaka, sehemu ya kumi ya efa ya unga laini uliochanganywa na robo ya hini ya mafuta.
+15	5	Pamoja na kila mwana-kondoo kwa ajili ya sadaka ya kuteketezwa au dhabihu, andaa robo ya hini ya divai kwa sadaka ya kinywaji.
+15	6	“ ‘Pamoja na kondoo dume andaa sadaka ya nafaka ya sehemu mbili za kumi za efa za unga laini uliochanganywa na theluthi moja ya hini ya mafuta,
+15	7	na theluthi moja ya hini ya divai kama sadaka ya kinywaji. Vitoe kama harufu nzuri inayompendeza Bwana.
+15	8	“ ‘Unapoandaa fahali mchanga kama sadaka ya kuteketezwa au dhabihu, kwa ajili ya nadhiri maalum au sadaka ya amani kwa Bwana,
+15	9	leta pamoja na huyo fahali sadaka ya nafaka ya unga laini sehemu tatu za kumi za efa uliochanganywa na nusu ya hini ya mafuta.
+15	10	Pia utaleta nusu ya hini ya divai kama sadaka ya kinywaji. Itakuwa sadaka iliyoteketezwa kwa moto, harufu nzuri inayompendeza Bwana.
+15	11	Kila fahali au kondoo dume, kila mwana-kondoo au mbuzi mchanga, atatayarishwa kwa njia hii.
+15	12	Fanyeni hivi kwa ajili ya kila mmoja, kwa kadiri ya wingi wa mtakavyoandaa.
+15	13	“ ‘Kila mmoja ambaye ni mzawa ni lazima afanye vitu hivi kwa njia hii hapo aletapo sadaka ya kuteketezwa kwa moto kama harufu nzuri inayompendeza Bwana.
+15	14	Kwa vizazi vijavyo, wakati wowote mgeni au mtu mwingine yeyote anayeishi miongoni mwenu aletapo sadaka ya kuteketezwa kuwa harufu nzuri ya kumpendeza Bwana, ni lazima afanye sawasawa kabisa na jinsi mnavyofanya ninyi.
+15	15	Jumuiya itakuwa na sheria hizo hizo kwenu na kwa mgeni aishiye miongoni mwenu; hii ni amri ya kudumu kwa vizazi vijavyo. Ninyi na mgeni mtakuwa sawa mbele za Bwana:
+15	16	Sheria hizo hizo na masharti hayo hayo hayo, yatawahusu ninyi na mgeni aishiye miongoni mwenu.’ ”
+15	17	Bwana akamwambia Mose,
+15	18	“Sema na Waisraeli na uwaambie: ‘Mtakapoingia katika nchi ninayowapeleka
+15	19	nanyi mkala chakula cha nchi hiyo, toeni sehemu ya chakula hicho kama sadaka kwa Bwana.
+15	20	Toeni andazi kutoka kwa malimbuko ya chakula chenu kitokacho katika ardhi, na mkitoe kama sadaka kutoka sakafu ya kupuria nafaka.
+15	21	Kwa vizazi vyote vijavyo hamna budi kutoa sadaka hii kwa Bwana kutoka kwa malimbuko ya unga wenu.
+15	22	“ ‘Basi kama pasipo kukusudia umeshindwa kushika mojawapo katika amri hizi ambazo Bwana alimpa Mose,
+15	23	amri yoyote ya Bwana kwenu kupitia Mose, tangu siku ile Bwana alipowapa na inaendelea hadi vizazi vyote vijavyo;
+15	24	ikiwa hili limefanyika pasipo kukusudia bila jumuiya kuwa na habari nalo, basi jumuiya yote itatoa fahali mchanga kuwa sadaka ya kuteketezwa ikiwa harufu nzuri inayompendeza Bwana, pamoja na sadaka ya nafaka na ya kinywaji zilizoamriwa kwayo, na mbuzi dume kwa ajili ya sadaka ya dhambi.
+15	25	Kuhani atafanya upatanisho kwa ajili ya jumuiya yote ya Kiisraeli, nao watasamehewa, kwa kuwa haikuwa makusudi nao wamemletea Bwana sadaka iliyoteketezwa kwa moto na sadaka ya dhambi kwa ajili ya kosa lao.
+15	26	Jumuiya yote ya Kiisraeli pamoja na wageni waishio miongoni mwao watasamehewa, kwa sababu watu wote walihusika katika kosa lile lisilokusudiwa.
+15	27	“ ‘Lakini kama mtu mmoja peke yake akitenda dhambi pasipo kukusudia, ni lazima alete mbuzi mke wa mwaka mmoja kwa ajili ya sadaka ya dhambi.
+15	28	Kuhani atafanya upatanisho mbele za Bwana kwa ajili ya yule aliyekosa kwa kufanya dhambi pasipo kukusudia, upatanisho utakapofanywa kwa ajili yake, atasamehewa.
+15	29	Sheria hiyo moja itamhusu kila mmoja ambaye ametenda dhambi pasipo kukusudia, awe Mwisraeli mzawa ama mgeni.
+15	30	“ ‘Lakini yeyote ambaye amefanya dhambi kwa dharau awe mzawa au mgeni, anamkufuru Bwana, naye mtu huyo ni lazima akatiliwe mbali na watu wake.
+15	31	Kwa sababu amelidharau neno la Bwana na kuvunja amri zake, mtu huyo ni lazima akatiliwe mbali; hatia yake inabaki juu yake.’ ”
+15	32	Waisraeli walipokuwa jangwani, mtu mmoja alikutwa akikusanya kuni siku ya Sabato.
+15	33	Wale waliomkuta akikusanya kuni wakamleta kwa Mose, Aroni na kusanyiko lote,
+15	34	nao wakamweka kifungoni, kwa sababu haikufahamika kwa wazi kwamba afanyiwe nini.
+15	35	Ndipo Bwana akamwambia Mose, “Huyo mtu ni lazima afe. Kusanyiko lote lazima limpige mawe nje ya kambi.”
+15	36	Hivyo kusanyiko likamtoa nje ya kambi na kumpiga mawe hadi akafa, kama Bwana alivyomwamuru Mose.
+15	37	Bwana akamwambia Mose,
+15	38	“Sema na Waisraeli uwaambie: ‘Kwa vizazi vyote vijavyo jifanyieni vifundo katika pindo za mavazi yenu vikiwa na uzi wa buluu kwenye kila kifundo.
+15	39	Mtakuwa mkivitazama vifundo hivyo ili mpate kukumbuka amri zote za Bwana, ili mpate kuzitii msije mkajitia uzinzi wenyewe kwa kuzifuata tamaa za mioyo yenu na za macho yenu.
+15	40	Ndipo mtakumbuka kuzitii amri zangu zote nanyi mtawekwa wakfu kwa Mungu wenu.
+15	41	Mimi Ndimi Bwana Mungu wenu, niliyewatoa Misri niwe Mungu wenu. Mimi Ndimi Bwana Mungu wenu.’ ”
+16	1	Kora mwana wa Ishari, mwana wa Kohathi, mwana wa Lawi, pamoja na baadhi ya Wareubeni, yaani Dathani na Abiramu, wana wa Eliabu, na Oni mwana wa Pelethi, wakachukua baadhi ya watu,
+16	2	wakainuka dhidi ya Mose. Pamoja nao walikuwepo wanaume wa Kiisraeli 250, watu waliojulikana, viongozi wa jumuiya waliokuwa wameteuliwa kuwa wakuu wa kusanyiko.
+16	3	Wakaja kama kikundi kuwapinga Mose na Aroni, wakawaambia, “Ninyi mmejitukuza sana! Kusanyiko hili lote ni takatifu, kila mmoja wao, naye Bwana yu pamoja nao. Kwa nini basi mmejitukuza wenyewe juu ya kusanyiko la Bwana?”
+16	4	Mose aliposikia jambo hili, akaanguka kifudifudi.
+16	5	Kisha akamwambia Kora na wafuasi wake wote: “Asubuhi Bwana ataonyesha ni nani aliye wake na ni nani aliye mtakatifu, tena atamtaka mtu huyo aje kwake. Mtu yule ambaye atamchagua atamfanya kuja karibu naye.
+16	6	Wewe Kora na wafuasi wako wote mtafanya hivi: Chukueni vyetezo,
+16	7	kesho wekeni moto na uvumba kwenye hivyo vyetezo mbele za Bwana. Mtu ambaye Bwana atamchagua atakuwa ndiye mtakatifu. Ninyi Walawi mmejitukuza sana!”
+16	8	Pia Mose akamwambia Kora, “Enyi Walawi! Sasa nisikilizeni.
+16	9	Haiwatoshi ninyi kwamba Mungu wa Israeli amewateua ninyi kutoka kusanyiko lote la Kiisraeli, na kuwaleta karibu naye mpate kufanya kazi kwenye Maskani ya Bwana, na kusimama mbele ya kusanyiko ili kuwahudumia?
+16	10	Amekuleta wewe na ndugu zako Walawi mwe karibu naye, lakini sasa unajaribu kupata na ukuhani pia.
+16	11	Wewe na wafuasi wako wote mmekusanyika pamoja kinyume cha Bwana. Aroni ni nani kwamba ninyi mnungʼunike dhidi yake?”
+16	12	Kisha Mose akawaita Dathani na Abiramu, wana wa Eliabu. Lakini wao wakasema, “Sisi hatuji!
+16	13	Haitoshi tu kwamba wewe umetuleta kutoka nchi itiririkayo maziwa na asali ili kutuua sisi jangwani? Nawe sasa pia unataka kuwa mkuu juu yetu?
+16	14	Zaidi ya hayo, hujatuingiza katika nchi inayotiririka maziwa na asali, wala hujatupa urithi wa mashamba na mashamba ya mizabibu. Je, utayangʼoa macho ya watu hawa? Hapana, sisi hatuji!”
+16	15	Ndipo Mose akakasirika sana na kumwambia Bwana, “Usiikubali sadaka yao. Mimi sikuchukua chochote, hata punda kutoka kwao, wala sijamkosea hata mmoja wao.”
+16	16	Mose akamwambia Kora, “Wewe na wafuasi wako wote kesho mtatokea mbele za Bwana: yaani wewe na hao wenzako, pamoja na Aroni.
+16	17	Kila mtu atachukua chetezo chake na kuweka uvumba ndani yake, vyetezo 250 kwa jumla, na kukileta mbele za Bwana. Wewe na Aroni mtaleta vyetezo vyenu pia.”
+16	18	Kwa hiyo kila mtu akachukua chetezo chake, akaweka moto na uvumba ndani yake, na kusimama pamoja na Mose na Aroni kwenye mlango wa Hema la Kukutania.
+16	19	Kora alipokuwa amekusanya wafuasi wake wote kuwapinga Mose na Aroni kwenye mlango wa Hema la Kukutania, utukufu wa Bwana ukatokea kwa kusanyiko lote.
+16	20	Bwana akamwambia Mose na Aroni,
+16	21	“Jitengeni kutoka kwenye kusanyiko hili ili nipate kuwaangamiza mara moja.”
+16	22	Lakini Mose na Aroni wakaanguka kufudifudi na kulia kwa sauti, wakasema, “Ee Mungu, Mungu wa roho za wanadamu wote, utakuwa na hasira na kusanyiko lote wakati ni mtu mmoja tu ametenda dhambi?”
+16	23	Ndipo Bwana akamwambia Mose,
+16	24	“Liambie kusanyiko, ‘Ondokeni hapo karibu na mahema ya Kora, Dathani na Abiramu.’ ”
+16	25	Mose akainuka na kuwaendea Dathani na Abiramu, nao wazee wa Israeli wakafuatana naye.
+16	26	Mose akalionya kusanyiko, “Sogeeni nyuma mbali na mahema ya hawa watu waovu! Msiguse kitu chochote kilicho mali yao, la sivyo mtafagiliwa mbali kwa sababu ya dhambi zao zote.”
+16	27	Hivyo wakaondoka karibu na mahema ya Kora, Dathani na Abiramu. Dathani na Abiramu walikuwa wametoka nje, nao walikuwa wamesimama pamoja na wake zao, watoto wao na wale wanyonyao kwenye mlango wa mahema yao.
+16	28	Ndipo Mose akasema, “Hivi ndivyo mtakavyojua kuwa Bwana amenituma kufanya mambo haya, na kwamba halikuwa wazo langu.
+16	29	Ikiwa watu hawa watakufa kifo cha kawaida na kupatwa na yale ya kawaida yanayowapata wanadamu, basi Bwana hakunituma mimi.
+16	30	Lakini ikiwa Bwana ataleta jambo jipya kabisa, ardhi ikifunua kinywa chake na kuwameza wao, pamoja na kila kitu kilicho mali yao, nao washuke chini kaburini wakiwa hai, ndipo mtafahamu kuwa watu hawa wamemdharau Bwana.”
+16	31	Mara Mose alipomaliza kusema haya yote, ardhi iliyokuwa chini yao ikapasuka,
+16	32	nchi ikafunua kinywa chake na kuwameza wao, pamoja na jamaa zao, na watu wote wa Kora na mali zao zote.
+16	33	Wakashuka chini kaburini wakiwa hai, pamoja na kila kitu walichokuwa nacho; nchi ikajifunika juu yao, nao wakaangamia wakatoweka kutoka kusanyiko.
+16	34	Kutoka kilio chao, Waisraeli wote waliowazunguka walikimbia, wakipaza sauti, “Nchi inatumeza na sisi pia!”
+16	35	Moto ukaja kutoka kwa Bwana, ukawateketeza wale watu 250 waliokuwa wakifukiza uvumba.
+16	36	Bwana akamwambia Mose,
+16	37	“Mwambie Eleazari mwana wa kuhani Aroni, atoe vyetezo kwenye mabaki ya moto na kutawanya makaa mbali kiasi, kwa maana vyetezo ni vitakatifu:
+16	38	vyetezo vya watu waliofanya dhambi iliyowagharimu maisha yao. Fua vyetezo hivyo kuwa bamba ili kufunika madhabahu, kwa maana vimeletwa mbele za Bwana na vimekuwa vitakatifu. Navyo viwe ishara kwa Waisraeli.”
+16	39	Hivyo kuhani Eleazari akavikusanya vile vyetezo vya shaba vilivyoletwa na wale waliokuwa wameteketezwa kwa moto, naye akavifua kufunika madhabahu,
+16	40	kama vile Bwana alivyomwelekeza kupitia Mose. Hili lilikuwa kuwakumbusha Waisraeli kwamba hakuna mtu hata mmoja, isipokuwa mzao wa Aroni, awezaye kuja kufukiza uvumba mbele za Bwana, la sivyo, angekuwa kama Kora na wafuasi wake.
+16	41	Siku iliyofuata jumuiya yote ya Kiisraeli wakanungʼunika dhidi ya Mose na Aroni, wakisema, “Mmewaua watu wa Bwana.”
+16	42	Lakini wakati kusanyiko lilipokusanyika kupingana na Mose na Aroni, nalo likageuka kuelekea Hema la Kukutania, ghafula wingu likafunika Hema, nao utukufu wa Bwana ukatokea.
+16	43	Ndipo Mose na Aroni wakaenda mbele ya Hema la Kukutania,
+16	44	naye Bwana akamwambia Mose,
+16	45	“Jitenge mbali na kusanyiko hili ili niweze kuwaangamiza mara moja.” Wakaanguka chini kifudifudi.
+16	46	Kisha Mose akamwambia Aroni, “Chukua chetezo chako na uweke uvumba ndani yake, pamoja na moto kutoka madhabahuni, nawe uende haraka kwenye kusanyiko ili kufanya upatanisho kwa ajili yao. Ghadhabu imekuja kutoka kwa Bwana, na tauni imeanza.”
+16	47	Hivyo Aroni akafanya kama Mose alivyosema, akakimbilia katikati ya kusanyiko. Tauni ilikuwa tayari imeanza miongoni mwa watu, lakini Aroni akafukiza uvumba na kufanya upatanisho kwa ajili yao.
+16	48	Aroni akasimama kati ya waliokuwa hai na waliokufa, nayo tauni ikakoma.
+16	49	Lakini walikufa watu 14,700 kutokana na tauni hiyo, licha ya wale waliokuwa wamekufa kwa sababu ya Kora.
+16	50	Ndipo Aroni akamrudia Mose kwenye mlango wa Hema la Kukutania, kwa maana tauni ilikuwa imekoma.
+17	1	Bwana akamwambia Mose,
+17	2	“Sema na Waisraeli, na ujipatie fimbo kumi na mbili kutoka kwao, moja kutoka kwa kila mmoja wa viongozi wa kabila za baba zao. Andika jina la kila mtu kwenye fimbo yake.
+17	3	Kwenye fimbo ya Lawi andika jina la Aroni, kwa maana ni lazima iwepo fimbo moja kwa kila kiongozi kwa ajili ya kila kabila la baba zao.
+17	4	Ziweke hizo fimbo ndani ya Hema la Kukutania mbele ya Sanduku la Ushuhuda, mahali nikutanapo nawe.
+17	5	Fimbo ya mtu nitakayemchagua itachipuka, nami mwenyewe nitayakomesha haya manungʼuniko ya mara kwa mara ya Waisraeli dhidi yako.”
+17	6	Hivyo Mose akasema na Waisraeli, nao viongozi wao wakampa fimbo kumi na mbili, fimbo moja kwa ajili ya kila kabila la baba zao, nayo fimbo ya Aroni ikiwa miongoni mwa hizo.
+17	7	Mose akaziweka hizo fimbo mbele za Bwana ndani ya Hema la Ushuhuda.
+17	8	Siku iliyofuata Mose aliingia kwenye Hema la Ushuhuda akaona ile fimbo ya Aroni ambayo iliwakilisha jamaa ya Lawi haikuwa tu imechipuka, bali pia ilikuwa imetoa machipukizi, kuchanua maua na kuzaa malozi.
+17	9	Ndipo Mose akaleta zile fimbo zote kwa Waisraeli wote kutoka mbele za Bwana. Wakaziangalia, na kila mtu akaichukua fimbo yake mwenyewe.
+17	10	Bwana akamwambia Mose, “Rudisha fimbo ya Aroni mbele ya Sanduku la Ushuhuda, ili ihifadhiwe kama alama kwa waasi. Hili litakomesha manungʼuniko yao dhidi yangu, ili kwamba wasife.”
+17	11	Mose akafanya kama Bwana alivyomwamuru.
+17	12	Waisraeli wakamwambia Mose, “Tutakufa! Tumepotea, sote tumepotea!
+17	13	Yeyote akaribiaye Maskani ya Bwana atakufa. Je, sisi sote tutakufa?”
+18	1	Bwana akamwambia Aroni, “Wewe, wanao na jamaa ya baba yako mtawajibika kwa makosa dhidi ya mahali patakatifu, na wewe na wanao peke yenu ndio mtakaowajibika kwa makosa dhidi ya ukuhani.
+18	2	Walete Walawi wenzako kutoka kabila la baba zako ili waungane nanyi na kuwasaidia wakati wewe na wanao mnapohudumu mbele ya Hema la Ushuhuda.
+18	3	Watawajibika kwenu na watafanya kazi zote za Hema, lakini kamwe wasisogelee vifaa vya patakatifu au madhabahu, la sivyo wao na ninyi mtakufa.
+18	4	Watajiunga nanyi na watawajibika kwa utunzaji wa Hema la Kukutania, yaani kazi zote kwenye Hema, wala hakuna mtu mwingine yeyote atakayeweza kusogea karibu hapo mlipo.
+18	5	“Mtawajibika katika utunzaji wa mahali patakatifu na madhabahu, ili kwamba ghadhabu isiwaangukie Waisraeli tena.
+18	6	Mimi mwenyewe nimewachagua Walawi wenzenu kutoka miongoni mwa Waisraeli kama zawadi kwenu, waliowekwa wakfu kwa Bwana ili kufanya kazi katika Hema la Kukutania.
+18	7	Lakini ni wewe tu na wanao mtakaoweza kutumika kama makuhani kuhusiana na kila kitu kwenye madhabahu na ndani ya pazia. Ninawapa utumishi wa ukuhani kama zawadi. Mtu mwingine yeyote atakayekaribia mahali patakatifu ni lazima auawe.”
+18	8	Kisha Bwana akamwambia Aroni, “Mimi mwenyewe nimekuweka kuwa mwangalizi wa sadaka zote zitakazotolewa kwangu; matoleo yote matakatifu Waisraeli wanayonipa ninakupa wewe na wanao kama sehemu yenu na fungu lenu la kawaida.
+18	9	Mtachukua sehemu ya yale matoleo matakatifu sana ambayo hayateketezwi kwa moto. Kutoka kwa matoleo yote wanayoniletea kama sadaka takatifu sana, ziwe za nafaka, au za dhambi, au za makosa, sehemu ile itakuwa yako na wanao.
+18	10	Mtaila kama kitu kilicho kitakatifu sana; kila mwanaume ataila. Ni lazima mtaiheshimu kama takatifu.
+18	11	“Hiki pia ni chako: chochote kilichotengwa kutoka kwenye matoleo yote ya sadaka za kuinuliwa za Waisraeli. Ninakupa wewe haya, wana na binti zako kama sehemu yenu ya kawaida. Kila mmoja wa nyumba yako ambaye ni safi kwa taratibu za ibada anaweza kuyala.
+18	12	“Ninawapa mafuta ya zeituni yaliyo bora kuliko yote, na divai mpya iliyo bora kuliko zote na nafaka wanazompa Bwana kama malimbuko katika mavuno yao.
+18	13	Malimbuko yote ya nchi ambayo wanamletea Bwana yatakuwa yenu. Kila mmoja nyumbani kwako ambaye ni safi kwa taratibu za Ibada anaweza kula.
+18	14	“Kila kitu katika Israeli ambacho kimetolewa kwa Bwana ni chenu.
+18	15	Kila mzaliwa wa kwanza wa mwanadamu na wa mnyama, ambaye ametolewa kwa Bwana ni wenu. Lakini ni lazima mtamkomboa kila mwana mzaliwa wa kwanza na kila mzaliwa wa kwanza wa kiume wa wanyama wasio safi.
+18	16	Watakapokuwa na umri wa mwezi mmoja, ni lazima mtawakomboa kwa bei ya ukombozi iliyowekwa, kwa shekeli tano za fedha, kulingana na shekeli ya mahali patakatifu, yenye uzito wa gera ishirini.
+18	17	“Lakini kamwe usimkomboe mzaliwa wa kwanza wa maksai, kondoo au mbuzi; hawa ni watakatifu. Nyunyizia damu yao juu ya madhabahu na uchome mafuta yao kama sadaka itolewayo kwa moto, harufu nzuri inayompendeza Bwana.
+18	18	Nyama zao zitakuwa chakula chenu, kama ilivyokuwa kidari cha kuinuliwa na paja la mguu wa kulia.
+18	19	Chochote kitakachotengwa kutoka sadaka takatifu ambazo Waisraeli wanamtolea Bwana, ninakupa wewe, wanao na binti zako kama fungu lenu la kawaida. Ni Agano la milele la chumvi mbele za Bwana kwako na watoto wako.”
+18	20	Bwana akamwambia Aroni, “Hutakuwa na urithi wowote katika nchi yao, wala hutakuwa na sehemu miongoni mwao; Mimi ni fungu lako na urithi wako miongoni mwa Waisraeli.
+18	21	“Ninawapa Walawi zaka yote katika Israeli kama urithi wao kuwa kama malipo kwa kazi wanayoifanya wakati wanapohudumu katika Hema la Kukutania.
+18	22	Kuanzia sasa, kamwe Waisraeli wasisogelee karibu na Hema la Kukutania, la sivyo watabeba matokeo ya dhambi zao, nao watakufa.
+18	23	Ni Walawi watakaofanya kazi katika Hema la Kukutania na kubeba wajibu wa makosa dhidi yake. Hili ni agizo la kudumu kwa vizazi vijavyo. Hawatapokea urithi wowote miongoni mwa Waisraeli.
+18	24	Badala yake, ninawapa Walawi zaka zote zinazotolewa na Waisraeli kama sadaka kwa Bwana kuwa urithi wao. Hiyo ndiyo sababu nimesema hivi kuhusu wao: ‘Hawatakuwa na urithi miongoni mwa Waisraeli.’ ”
+18	25	Bwana akamwambia Mose,
+18	26	“Sema na Walawi na uwaambie: ‘Mtakapopokea zaka kutoka kwa Waisraeli ambayo ninawapa kama urithi wenu kutoka kwao, ni lazima mtoe sehemu ya kumi ya hiyo zaka kama sadaka kwa Bwana, iwe zaka ya hiyo zaka.
+18	27	Sadaka yenu itahesabiwa kwenu kama nafaka kutoka sakafu ya kupuria, au divai kutoka kwenye shinikizo la kukamulia zabibu.
+18	28	Kwa njia hii, ninyi pia mtatoa sadaka kwa Bwana kutoka zaka zote mtakazopokea kutoka kwa Waisraeli. Kutoka kwenye zaka hizi, ni lazima mtoe sehemu ya Bwana kwa Aroni, kuhani.
+18	29	Ni lazima mtoe kama sehemu ya Bwana iliyo nzuri sana tena ile sehemu iliyo takatifu sana kuliko zote ya kile kitu mlichopewa.’
+18	30	“Waambie Walawi: ‘Mtakapotoa sehemu zilizo bora sana, itahesabiwa kwenu kama mazao ya sakafu ya kupuria nafaka, au ya shinikizo la kukamulia zabibu.
+18	31	Ninyi na watu wa nyumbani mwenu mnaweza kula sehemu iliyobaki mahali popote, kwani ndio ujira wenu kwa ajili ya kazi yenu katika Hema la Kukutania.
+18	32	Kwa kutoa sehemu zake zilizo bora sana, hamtakuwa na hatia katika jambo hili; ndipo hamtatia unajisi sadaka takatifu za Waisraeli, nanyi hamtakufa.’ ”
+19	1	Bwana akamwambia Mose na Aroni:
+19	2	“Hivi ndivyo sheria ambayo Bwana ameagiza itakavyo: Waambie Waisraeli wakuletee mtamba mwekundu asiye na dosari wala waa, na ambaye hajapata kufungwa nira.
+19	3	Mpeni kuhani Eleazari huyo mtamba; naye atatolewa nje ya kambi na kuchinjwa mbele yake huyo kuhani.
+19	4	Kisha kuhani Eleazari atachukua baadhi ya damu yake kwenye kidole chake na kuinyunyiza mara saba kuelekea upande wa mbele ya Hema la Kukutania.
+19	5	Wakati angali akitazama, mtamba huyo atateketezwa: ngozi yake, nyama yake, damu na sehemu zake za ndani.
+19	6	Kuhani atachukua kuni za mti wa mwerezi, hisopo na sufu nyekundu, na kuvitupa kwenye huyo mtamba anayeungua.
+19	7	Baada ya hayo, kuhani lazima afue nguo zake, na aoge mwili wake kwa maji. Kisha anaweza kurudi kambini, lakini atakuwa najisi kwa kawaida ya ibada mpaka jioni.
+19	8	Mtu amchomaye huyo mtamba lazima naye pia afue nguo zake na kuoga kwa maji, naye pia atakuwa najisi mpaka jioni.
+19	9	“Mtu ambaye ni safi atakusanya majivu ya mtamba huyo na kuyaweka mahali ambapo ni safi nje ya kambi kwa taratibu za kiibada. Yatahifadhiwa na jumuiya ya Kiisraeli kwa matumizi katika maji ya utakaso; ni kwa ajili ya kutakasa kutoka dhambini.
+19	10	Mtu akusanyaye majivu ya huyo mtamba ni lazima pia afue nguo zake, kadhalika naye pia atakuwa najisi hadi jioni. Hili litakuwa agizo la kudumu kwa Waisraeli na kwa wageni wanaoishi miongoni mwao.
+19	11	“Mtu yeyote agusaye maiti ya mtu yeyote atakuwa najisi kwa siku saba.
+19	12	Ni lazima ajitakase mwenyewe kwa maji katika siku ya tatu na siku ya saba, ndipo atakuwa safi. Lakini kama hatajitakasa mwenyewe katika siku ya tatu na ya saba, hatakuwa safi.
+19	13	Mtu yeyote agusaye maiti ya mtu yeyote na kushindwa kujitakasa mwenyewe hunajisi Maskani ya Bwana. Mtu huyo ni lazima akatiliwe mbali na Israeli. Kwa sababu hajanyunyiziwa maji ya utakaso, yeye ni najisi; unajisi wake unabaki juu yake.
+19	14	“Hii ndiyo sheria itumikayo wakati mtu amekufa ndani ya hema: Yeyote aingiaye ndani ya hema hilo na yeyote aliye ndani yake watakuwa najisi kwa muda wa siku saba,
+19	15	nacho kila chombo kisicho na kifuniko juu yake kitakuwa najisi.
+19	16	“Mtu yeyote aliyeko nje mahali pa wazi agusaye mtu aliyeuawa kwa upanga au mtu aliyekufa kwa kifo cha kawaida, au mtu yeyote agusaye mfupa wa mtu aliyekufa au kaburi, atakuwa najisi kwa siku saba.
+19	17	“Kwa mtu aliye najisi, weka majivu ya sadaka ya utakaso wa dhambi ndani ya chombo, umimine maji safi juu yao.
+19	18	Kisha mtu aliye safi kwa kawaida za kiibada atachukua hisopo, achovye ndani ya maji, na kunyunyizia hema na vifaa vyote pamoja na watu ambao walikuwamo. Pia ni lazima amnyunyizie mtu yeyote ambaye amegusa mfupa wa mtu aliyekufa, au kaburi, au mtu ambaye ameuawa, au mtu ambaye amekufa kifo cha kawaida.
+19	19	Mtu ambaye ni safi ndiye atakayemnyunyizia yeyote ambaye ni najisi siku ya tatu na siku ya saba, na katika siku ya saba atamtakasa mtu huyo. Mtu ambaye ametakaswa lazima afue nguo zake na kuoga kwa maji, na jioni ile atakuwa safi.
+19	20	Lakini ikiwa mtu ambaye ni najisi hakujitakasa mwenyewe, ni lazima akatiliwe mbali na jumuiya, kwa sababu ameinajisi Maskani ya Bwana. Maji ya utakaso hayajanyunyizwa juu yake, naye ni najisi.
+19	21	Hii ni sheria ya kudumu kwao. “Mtu yeyote ambaye ananyunyiza yale maji ya utakaso lazima pia afue nguo zake, na yeyote ambaye hugusa maji ya utakaso atakuwa najisi mpaka jioni.
+19	22	Kitu chochote anachogusa mtu aliye najisi kitakuwa najisi, na yeyote akigusaye huwa najisi mpaka jioni.”
+20	1	Katika mwezi wa kwanza jumuiya yote ya Kiisraeli ilifika kwenye Jangwa la Sini, nao wakakaa Kadeshi. Miriamu akafa huko na kuzikwa.
+20	2	Mahali hapo hapakuwa na maji kwa ajili ya jumuiya hiyo, nao wakakusanyika ili kumpinga Mose na Aroni.
+20	3	Watu wakagombana na Mose, na kusema, “Laiti tungelikufa wakati ndugu zetu walipoanguka na kufa mbele za Bwana!
+20	4	Kwa nini mmeileta jumuiya ya Bwana kwenye jangwa hili, ili tufe humu, sisi na mifugo yetu?
+20	5	Kwa nini mmetupandisha kutoka Misri mpaka mahali hapa pa kutisha? Hapa hakuna nafaka wala tini, zabibu au makomamanga. Wala hapa hakuna maji ya kunywa!”
+20	6	Mose na Aroni wakaondoka pale kwenye kusanyiko mpaka kwenye mlango wa Hema la Kukutania na kuanguka kifudifudi, nao utukufu wa Bwana ukawatokea.
+20	7	Bwana akamwambia Mose,
+20	8	“Chukua ile fimbo, na wewe na ndugu yako Aroni mkusanye kusanyiko pamoja. Nena na ule mwamba mbele ya macho yao, nao utatoa maji yake. Utatoa maji kutoka huo mwamba kwa ajili ya jumuiya ili wao na mifugo yao waweze kunywa.”
+20	9	Kwa hiyo Mose akaichukua hiyo fimbo kutoka pale ilipokuwa mbele za Bwana kama alivyomwagiza.
+20	10	Mose na Aroni wakakusanya kusanyiko pamoja mbele ya huo mwamba, naye Mose akawaambia, “Sikilizeni, enyi waasi. Je, ni lazima tuwatoleeni maji kutoka mwamba huu?”
+20	11	Ndipo Mose akainua mkono wake na kuupiga mwamba mara mbili kwa fimbo yake. Maji yakabubujika, nayo jumuiya na mifugo yao wakanywa.
+20	12	Lakini Bwana akamwambia Mose na Aroni, “Kwa sababu hamkuniamini mimi kiasi cha kuniheshimu kama mtakatifu machoni pa Waisraeli, hamtaiingiza jumuiya hii katika nchi ninayowapa.”
+20	13	Haya yalikuwa maji ya Meriba, mahali pale ambapo Waisraeli waligombana na Bwana, naye akajionyesha mwenyewe huko kuwa mtakatifu katikati yao.
+20	14	Mose akawatuma wajumbe kutoka Kadeshi kwenda kwa mfalme wa Edomu, akisema: “Hili ndilo ndugu yako Israeli asemalo: Wewe unafahamu juu ya taabu zote ambazo zimetupata.
+20	15	Baba zetu walishuka Misri, nasi tumeishi huko miaka mingi. Wamisri walitutesa sisi na baba zetu,
+20	16	lakini tulipomlilia Bwana, alisikia kilio chetu na akamtuma malaika akatutoa Misri. “Sasa tupo hapa Kadeshi, mji ulio mpakani mwa nchi yako.
+20	17	Tafadhali turuhusu tupite katika nchi yako. Hatutapita katika shamba lolote, wala shamba la mizabibu, au kunywa maji kutoka kwenye kisima chochote. Tutasafiri kufuata njia kuu ya mfalme, na hatutageuka kulia wala kushoto mpaka tuwe tumeshapita nchi yako.”
+20	18	Lakini mfalme wa Edomu akajibu: “Hamtapita hapa; kama mkijaribu kupita, tutatoka na kuwashambulia kwa upanga.”
+20	19	Waisraeli wakajibu: “Sisi tutafuata njia kuu; tena ikiwa sisi au mifugo yetu tutakunywa tone la maji yenu, tutalilipia. Sisi tunataka tu kupita kwa miguu, wala si kitu kingine chochote.”
+20	20	Watu wa Edomu wakajibu tena: “Hamwezi kupita hapa.” Ndipo watu wa Edomu wakatoka dhidi ya Waisraeli, jeshi kubwa lenye nguvu.
+20	21	Kwa kuwa Waedomu waliwakatalia Waisraeli kupita katika nchi yao, Israeli wakageuka, wakawaacha.
+20	22	Jumuiya yote ya Kiisraeli ikaondoka kutoka Kadeshi, wakafika kwenye Mlima Hori.
+20	23	Kwenye Mlima Hori, karibu na mpaka wa Edomu, Bwana akamwambia Mose na Aroni,
+20	24	“Aroni atakusanywa pamoja na watu wake. Hataingia katika nchi ninayowapa Waisraeli, kwa sababu ninyi wawili mliasi dhidi ya agizo langu kwenye maji ya Meriba.
+20	25	Watwae Aroni na Eleazari mwanawe, na uwapandishe juu katika Mlima wa Hori.
+20	26	Mvue Aroni mavazi yake, na umvike Eleazari mwanawe, kwa maana Aroni atakusanywa pamoja na watu wake; atakufa huko.”
+20	27	Mose akafanya kama Bwana alivyomwagiza: Wakapanda Mlima Hori mbele ya macho ya jumuiya yote ya Kiisraeli.
+20	28	Mose akamvua Aroni mavazi yake na kumvika mwanawe Eleazari mavazi hayo. Naye Aroni akafia pale juu ya mlima. Kisha Mose na Eleazari wakateremka kutoka mlimani.
+20	29	Jumuiya yote ilipofahamu kwamba Aroni amekufa, jamaa yote ya Kiisraeli wakamwomboleza kwa siku thelathini.
+21	1	Mfalme wa Kikanaani wa Aradi aliyeishi huko Negebu aliposikia kwamba Waisraeli walikuwa wanakuja kwa njia ya Atharimu, aliwashambulia Waisraeli na kuwateka baadhi yao.
+21	2	Ndipo Israeli akaweka nadhiri hii kwa Bwana: “Ikiwa utawatia watu hawa mikononi mwetu, tutaiangamiza kabisa miji yao.”
+21	3	Bwana akasikiliza ombi la Waisraeli, naye akawapa ushindi juu ya Wakanaani. Wakawaangamiza kabisa na miji yao; hivyo mahali pale pakaitwa Horma.
+21	4	Waisraeli wakasafiri kutoka mlima Hori kupitia njia inayoelekea Bahari ya Shamu, kuizunguka Edomu. Lakini watu wakakosa uvumilivu njiani,
+21	5	wakamnungʼunikia Mungu na Mose, wakisema, “Kwa nini umetupandisha kutoka Misri ili tufe jangwani? Hakuna mkate! Hakuna maji! Nasi tunachukia sana chakula hiki duni!”
+21	6	Ndipo Bwana akapeleka nyoka wenye sumu katikati yao; wakawauma watu, nao Waisraeli wengi wakafa.
+21	7	Watu wakamjia Mose na kusema, “Tumetenda dhambi wakati tuliponena dhidi ya Bwana na dhidi yako. Mwombe Bwana ili atuondolee hawa nyoka.” Hivyo Mose akawaombea hao watu.
+21	8	Bwana akamwambia Mose, “Tengeneza nyoka wa shaba na umweke juu ya mti; yeyote aliyeumwa na nyoka anaweza kumtazama na akaishi tena.”
+21	9	Kwa hiyo Mose akatengeneza nyoka wa shaba na kumweka juu ya mti. Kisha wakati mtu yeyote aliumwa na nyoka, naye akamtazama yule nyoka wa shaba, aliishi.
+21	10	Waisraeli waliendelea na safari yao na wakapiga kambi huko Obothi.
+21	11	Kisha wakaondoka Obothi na kupiga kambi huko Iye-Abarimu, katika jangwa linalotazamana na Moabu kuelekea mawio ya jua.
+21	12	Kutoka hapo waliendelea mbele wakapiga kambi kwenye Bonde la Zeredi.
+21	13	Wakasafiri kutoka hapo na kupiga kambi kando ya Mto Arnoni, ambao uko katika jangwa lililoenea hadi nchi ya Waamori. Arnoni ni mpaka wa Moabu, kati ya Moabu na Waamori.
+21	14	Ndiyo sababu Kitabu cha Vita vya Bwana kinasema: “…Mji wa Wahebu nchini Seifa na mabonde ya Arnoni,
+21	15	na miteremko ya mabonde inayofika hadi mji wa Ari na huelekea mpakani mwa Moabu.”
+21	16	Kutoka hapo waliendelea mbele hadi kisima cha Beeri; kwenye kisima ambacho Bwana alimwambia Mose, “Wakusanye watu pamoja, nami nitawapa maji.”
+21	17	Kisha Israeli akaimba wimbo huu: “Bubujika, ee kisima! Imba kuhusu maji,
+21	18	kuhusu kisima ambacho kilichimbwa na wakuu, ambacho watu mashuhuri walikifukua, watu mashuhuri wakiwa na fimbo za utawala na bakora.” Kisha wakatoka jangwani kwenda Matana,
+21	19	kutoka Matana wakafika Nahalieli, kutoka Nahalieli wakafika Bamothi,
+21	20	na kutoka Bamothi wakafika kwenye bonde lililoko Moabu, mahali ambapo kilele cha Pisga kinatazamana na nyika.
+21	21	Israeli akawatuma wajumbe kumwambia Sihoni mfalme wa Waamori:
+21	22	“Uturuhusu tupite katika nchi yako. Hatutageuka kando kwenda katika mashamba au mashamba ya mizabibu, ama kunywa maji kutoka kisima chochote. Tutasafiri kwenye njia kuu ya mfalme hata tutakapokuwa tumekwisha kupita katika nchi yako.”
+21	23	Lakini Sihoni hakumruhusu Israeli apite katika nchi yake. Alilikutanisha jeshi lake lote, wakaondoka kwenda jangwani ili kupigana na Israeli. Alipofika huko Yahazi, akapigana na Israeli.
+21	24	Hata hivyo, Israeli alimshinda kwa upanga na kuiteka ardhi yake kutoka Arnoni mpaka Yaboki, lakini ni hadi kufikia nchi ya Waamoni tu, kwa sababu mipaka yake ilikuwa imezungushwa ukuta.
+21	25	Israeli akaiteka miji yote ya Waamori na kuikalia, pamoja na Heshboni na makazi yote yanayoizunguka.
+21	26	Heshboni ulikuwa mji wa Sihoni mfalme wa Waamori, ambaye alikuwa amepigana dhidi ya mfalme wa Moabu aliyetangulia na akawa amechukua ardhi yake yote mpaka Arnoni.
+21	27	Ndiyo sababu watunga mashairi husema: “Njoo Heshboni na ujengwe tena; mji wa Sihoni na ufanywe upya.
+21	28	“Moto uliwaka kutoka Heshboni, mwali wa moto kutoka mji wa Sihoni. Uliteketeza Ari ya Moabu, raiya wa mahali pa Arnoni palipoinuka.
+21	29	Ole wako, ee Moabu! Umeharibiwa, enyi watu wa Kemoshi! Amewatoa wanawe kuwa wakimbizi, na binti zake kama mateka kwa Mfalme Sihoni wa Waamori.
+21	30	“Lakini tumewashinda; Heshboni umeharibiwa hadi Diboni. Tumebomoa hadi kufikia Nofa, ulioenea hadi Medeba.”
+21	31	Kwa hiyo Israeli akaishi katika nchi ya Waamori.
+21	32	Baada ya Mose kutuma wapelelezi kwenda mji wa Yazeri, Waisraeli waliteka viunga vya mji huo na kuwafukuza Waamori waliokuwa wanaishi huko.
+21	33	Kisha wakageuka na kwenda katika njia inayoelekea Bashani, naye Ogu mfalme wa Bashani pamoja na jeshi lake lote wakatoka kupigana nao huko Edrei.
+21	34	Bwana akamwambia Mose, “Usimwogope Ogu, kwa sababu nimeshamkabidhi mikononi mwako, pamoja na jeshi lake lote na nchi yake. Mtendee kama ulivyomtendea Sihoni mfalme wa Waamori, ambaye alitawala huko Heshboni.”
+21	35	Kwa hiyo wakamuua, pamoja na wanawe na jeshi lake lote, bila ya kumwacha hata mtu mmoja hai. Nao wakaimiliki nchi yake.
+22	1	Kisha Waisraeli wakasafiri katika tambarare za Moabu na kupiga kambi kando ya Mto Yordani, ngʼambo ya Yeriko.
+22	2	Basi Balaki mwana wa Sipori, aliona mambo yale yote ambayo Israeli aliwatendea Waamori,
+22	3	Moabu aliogopa, kwa kuwa walikuwepo watu wengi sana. Hakika, Moabu alijawa na hofu kubwa kwa sababu ya Waisraeli.
+22	4	Wamoabu wakawaambia wazee wa Midiani, “Umati huu wa watu unakwenda kuramba kila kitu kinachotuzunguka, kama maksai arambavyo majani ya shambani.” Kwa hiyo Balaki mwana wa Sipori, ambaye alikuwa mfalme wa Moabu wakati huo,
+22	5	akatuma wajumbe kwenda kumwita Balaamu mwana wa Beori, ambaye alikuwa huko Pethori, karibu na Mto Frati, katika nchi yake ya kuzaliwa. Balaki akasema: “Taifa limekuja kutoka Misri, nao wamefunika uso wa nchi, nao wametua karibu nami.
+22	6	Sasa uje kuwalaani watu hawa, kwa kuwa wana nguvu sana kuniliko. Kisha huenda nikaweza kuwashinda na kuwatoa nje ya nchi. Kwa kuwa ninajua kwamba, wale unaowabariki wanabarikiwa na wale unaowalaani wanalaaniwa.”
+22	7	Wazee wa Moabu na wa Midiani wakaondoka, wakiwa wamechukua ada ya uaguzi. Walipokwenda kwa Balaamu, wakamweleza kile Balaki alikuwa amesema.
+22	8	Balaamu akawaambia, “Mlale hapa usiku huu, nami nitawaletea jibu lile Bwana atakalonipa.” Kwa hiyo wakuu wa Moabu wakakaa naye.
+22	9	Mungu akamjia Balaamu na kumuuliza, “Watu gani hawa walio pamoja nawe?”
+22	10	Balaamu akamwambia Mungu, “Balaki mwana wa Sipori, mfalme wa Moabu, alinipelekea ujumbe huu:
+22	11	‘Taifa ambalo limekuja kutoka Misri limefunika uso wa nchi. Sasa uje unilaanie hao watu. Kisha huenda nitaweza kupigana nao na kuwafukuza.’ ”
+22	12	Lakini Bwana akamwambia Balaamu, “Usiende pamoja nao. Hupaswi kulaani watu hao, kwa kuwa wamebarikiwa.”
+22	13	Asubuhi iliyofuata Balaamu akaamka, akawaambia wakuu wa Balaki, “Rudini katika nchi yenu, kwa kuwa Bwana amenikataza nisiende pamoja nanyi.”
+22	14	Kwa hiyo wakuu wa Moabu wakarudi kwa Balaki na kumwambia, “Balaamu amekataa kuja pamoja nasi.”
+22	15	Kisha Balaki akatuma wakuu wengine, wengi zaidi na wanaoheshimiwa zaidi kuliko wale wa kwanza.
+22	16	Wakafika kwa Balaamu na kumwambia: “Balaki mwana wa Sipori amesema hivi: Usiruhusu kitu chochote kikuzuie kuja kwangu,
+22	17	kwa sababu nitakulipa vizuri sana na kufanya lolote usemalo. Njoo unilaanie watu hawa.”
+22	18	Lakini Balaamu akawajibu, “Hata kama Balaki angenipa jumba lake la kifalme likiwa limejazwa fedha na dhahabu, singeweza kufanya kitu chochote kikubwa au kidogo ili kutenda kitu nje ya agizo la Bwana Mungu wangu.
+22	19	Mlale hapa usiku huu kama wale wengine walivyofanya, nami nitatafuta ni nini kingine Bwana atakachoniambia.”
+22	20	Usiku ule Bwana akamjia Balaamu na kumwambia, “Kwa kuwa watu hawa wamekuja kukuita wewe, nenda nao, lakini ufanye tu lile nitakalokuambia.”
+22	21	Balaamu akaamka asubuhi, akatandika punda wake akaenda pamoja na wakuu wa Moabu.
+22	22	Lakini Mungu alikasirika sana alipokwenda, naye malaika wa Bwana akasimama barabarani kumpinga. Balaamu alikuwa amepanda punda wake, na watumishi wake wawili walikuwa pamoja naye.
+22	23	Wakati punda alipomwona malaika wa Bwana akiwa amesimama barabarani akiwa na upanga uliofutwa mkononi mwake, punda akageukia upande kuelekea shambani. Balaamu akampiga ili amrudishe barabarani.
+22	24	Ndipo malaika wa Bwana akasimama katika njia nyembamba iliyo kati ya mashamba mawili ya mizabibu, yakiwa na kuta pande zote mbili.
+22	25	Punda alipomwona malaika wa Bwana, alijisukumiza karibu na ukuta, na kugandamiza mguu wa Balaamu ukutani. Ndipo Balaamu akampiga tena punda.
+22	26	Kisha malaika wa Bwana akaendelea mbele na kusimama mahali pembamba ambapo hapakuwepo nafasi ya kugeuka, upande wa kulia wala wa kushoto.
+22	27	Punda alipomwona malaika wa Bwana, alilala chini Balaamu angali amempanda, naye Balaamu akakasirika na kumpiga kwa fimbo yake.
+22	28	Kisha Bwana akakifungua kinywa cha punda, akamwambia Balaamu, “Nimekutendea nini kinachokufanya unipige mara hizi tatu?”
+22	29	Balaamu akamjibu punda, “Umenifanya mjinga! Kama ningelikuwa na upanga mkononi mwangu, ningelikuua sasa hivi.”
+22	30	Punda akamwambia Balaamu, “Je, mimi si punda wako mwenyewe, ambaye umenipanda siku zote, hadi leo? Je, nimekuwa na tabia ya kufanya hivi kwako?” Akajibu, “Hapana.”
+22	31	Kisha Bwana akafungua macho ya Balaamu, naye akamwona malaika wa Bwana amesimama barabarani akiwa ameufuta upanga wake. Balaamu akainama, akaanguka kifudifudi.
+22	32	Malaika wa Bwana akamuuliza Balaamu, “Kwa nini umempiga punda wako mara tatu hizi? Nimekuja kukuzuia kwa sababu njia yako imepotoka mbele yangu.
+22	33	Punda aliniona na kunikwepa mara hizi tatu. Kama punda hangenikwepa, hakika ningekuwa nimeshakuua sasa, lakini ningemwacha punda hai.”
+22	34	Balaamu akamwambia malaika wa Bwana, “Nimetenda dhambi. Sikutambua kuwa umesimama barabarani kunizuia. Basi kama haikupendezi, nitarudi.”
+22	35	Malaika wa Bwana akamwambia Balaamu, “Uende na watu hao, lakini useme tu lile nikuambialo.” Kwa hiyo Balaamu akaenda na wale wakuu wa Balaki.
+22	36	Balaki aliposikia kuwa Balaamu anakuja, akatoka kumlaki katika mji wa Moabu, katika mpaka wa Arnoni, ukingoni mwa nchi yake.
+22	37	Balaki akamwambia Balaamu, “Je, sikukupelekea jumbe za haraka? Kwa nini hukuja kwangu? Hivi kweli mimi siwezi kukulipa?”
+22	38	Balaamu akajibu, “Vema, sasa nimekuja kwako. Lakini kwani nina uwezo wa kusema tu chochote? Ni lazima niseme tu kile ambacho Mungu ataweka kinywani mwangu.”
+22	39	Kisha Balaamu alikwenda na Balaki mpaka Kiriath-Husothi.
+22	40	Balaki akatoa dhabihu ya ngʼombe na kondoo; baadhi yake akampa Balaamu na wakuu waliokuwa pamoja naye.
+22	41	Asubuhi iliyofuata Balaki akamchukua Balaamu mpaka Bamoth-Baali, na kutoka huko Balaamu akawaona baadhi ya watu.
+23	1	Balaamu akasema, “Nijengee hapa madhabahu saba, mnitayarishie mafahali saba na kondoo dume saba.”
+23	2	Balaki akafanya kama Balaamu alivyosema; hao wawili kila mmoja wao akatoa fahali mmoja na kondoo dume mmoja juu ya kila madhabahu.
+23	3	Kisha Balaamu akamwambia Balaki, “Kaa hapa kando ya sadaka yako wakati mimi ninakwenda kando. Huenda Bwana atakuja kukutana nami. Lolote atakalonifunulia, nitakuambia.” Basi akaenda hata mahali peupe palipoinuka.
+23	4	Mungu akakutana naye, kisha Balaamu akasema, “Nimekwisha kutengeneza madhabahu saba, na juu ya kila madhabahu nimetoa sadaka ya fahali mmoja na kondoo dume mmoja.”
+23	5	Bwana akaweka ujumbe katika kinywa cha Balaamu na kusema, “Rudi kwa Balaki umpe ujumbe huu.”
+23	6	Basi Balaamu akarudi kwa Balaki, akamkuta amesimama kando ya sadaka yake akiwa na wakuu wote wa Moabu.
+23	7	Ndipo Balaamu akasema ujumbe wake: “Balaki amenileta kutoka Aramu, mfalme wa Moabu kutoka milima ya mashariki. Akasema, ‘Njoo, unilaanie Yakobo; njoo unishutumie Israeli.’
+23	8	Nitawezaje kuwalaani, hao ambao Mungu hajawalaani? Nitawezaje kuwashutumu hao ambao Bwana hakuwashutumu?
+23	9	Kutoka vilele vya miamba ninawaona, kutoka mahali palipoinuka ninawatazama. Ninaliona taifa ambalo wanaishi peke yao, nao hawahesabiwi kama mojawapo ya mataifa.
+23	10	Ni nani awezaye kuhesabu mavumbi ya Yakobo, au kuhesabu robo ya Israeli? Mimi na nife kifo cha mtu mwenye haki, na mwisho wangu na uwe kama wao!”
+23	11	Balaki akamwambia Balaamu, “Ni nini ulichonitendea? Nimekuleta ulaani adui zangu, lakini wewe badala yake umewabariki!”
+23	12	Balaamu akajibu, “Je, hainipasi kusema kile Bwana anachoweka katika kinywa changu?”
+23	13	Ndipo Balaki akamwambia, “Twende pamoja mahali pengine ambapo unaweza kuwaona; utawaona baadhi tu wala si wote. Nawe kutoka huko, unilaanie hao.”
+23	14	Basi akampeleka kwenye shamba la Sofimu, juu ya kilele cha Mlima Pisga. Pale akajenga madhabahu saba na kutoa sadaka ya fahali na kondoo dume mmoja juu ya kila madhabahu.
+23	15	Balaamu akamwambia Balaki, “Kaa hapa kando ya sadaka yako wakati ninapokwenda kuonana na Mungu kule.”
+23	16	Bwana akakutana na Balaamu, akaweka ujumbe katika kinywa chake akasema, “Rudi kwa Balaki umpe ujumbe huu.”
+23	17	Basi Balaamu akarudi kwa Balaki, akamkuta amesimama kando ya sadaka yake, akiwa na wakuu wa Moabu. Balaki akamuuliza, “Je, Bwana amesema nini?”
+23	18	Ndipo Balaamu akasema ujumbe wake: “Balaki, inuka na usikilize, nisikie mimi, wewe mwana wa Sipori.
+23	19	Mungu si mtu, hata aseme uongo, wala yeye si mwanadamu, hata ajute. Je, anasema, kisha asitende? Je, anaahidi, asitimize?
+23	20	Nimepokea agizo kubariki; amebariki, nami siwezi kubadilisha.
+23	21	“Haijaonekana bahati mbaya katika Yakobo, wala taabu katika Israeli. Bwana, Mungu wao yu pamoja nao, nayo sauti kuu ya Mfalme imo katikati yao.
+23	22	Mungu aliwatoa kutoka Misri; wao wana nguvu za nyati.
+23	23	Hakuna uchawi dhidi ya Yakobo, wala hakuna uaguzi dhidi ya Israeli. Sasa itasemwa kuhusu Yakobo na Israeli, ‘Tazama yale Mungu aliyotenda!’
+23	24	Taifa lainuka kama simba jike; linajiinua kama simba ambaye hatulii mpaka amalize kurarua mawindo yake na kunywa damu ya mawindo yake.”
+23	25	Kisha Balaki akamwambia Balaamu, “Usiwalaani kabisa, wala usiwabariki kabisa!”
+23	26	Balaamu akajibu, “Je, sikukuambia ni lazima nifanye lolote analosema Bwana?”
+23	27	Basi Balaki akamwambia Balaamu, “Njoo, nikupeleke mahali pengine. Huenda itampendeza Mungu kukuruhusu unilaanie hao watu kutoka mahali hapo.”
+23	28	Balaki akamchukua Balaamu juu ya Mlima Peori, unaotazamana na nyika.
+23	29	Balaamu akasema, “Nijengee hapa madhabahu saba, uandae mafahali saba na kondoo dume saba kwa ajili yangu.”
+23	30	Balaki akafanya kama Balaamu alivyosema, kisha akatoa sadaka ya fahali mmoja na kondoo dume mmoja juu ya kila madhabahu.
+24	1	Basi Balaamu alipoona imempendeza Bwana kubariki Israeli, hakuendelea tena kutafuta uchawi kama nyakati nyingine, bali aligeuza uso wake kuelekea nyikani.
+24	2	Balaamu alipotazama nje na kuona Israeli amepiga kambi kabila kwa kabila, Roho wa Mungu akawa juu yake,
+24	3	naye akatoa ujumbe wake: “Ujumbe wa Balaamu mwana wa Beori, ujumbe wake yeye ambaye jicho lake linaona vizuri;
+24	4	ujumbe wake yeye ambaye husikia maneno ya Mungu, ambaye huona maono kutoka kwa Mwenyezi, ambaye huanguka kifudifudi, na ambaye macho yake yamefunguka:
+24	5	“Tazama jinsi yalivyo mazuri mahema yako, ee Yakobo, maskani yako, ee Israeli!
+24	6	“Kama mabonde, yanaenea, kama bustani kando ya mto, kama miti ya udi iliyopandwa na Bwana, kama mierezi kando ya maji.
+24	7	Maji yatatiririka kutoka ndoo zake; mbegu yake itakuwa na maji tele. “Mfalme wake atakuwa mkuu kuliko Mfalme Agagi; ufalme wake utatukuka.
+24	8	“Mungu alimleta kutoka Misri; yeye ana nguvu kama nyati. Anayararua mataifa yaliyo adui zake, na kuvunja mifupa yao vipande vipande; huwachoma kwa mishale yake.
+24	9	Hujikunyata na kuvizia kama simba, kama simba jike; nani anayethubutu kumwamsha? “Abarikiwe kila akubarikiye, na alaaniwe kila akulaaniye!”
+24	10	Ndipo hasira ya Balaki ikawaka dhidi ya Balaamu. Akapiga mikono yake pamoja, akamwambia Balaamu, “Nilikuita uje kuwalaani adui zangu, lakini umewabariki mara hizi tatu.
+24	11	Sasa ondoka upesi uende nyumbani! Mimi nilisema nitakuzawadia vizuri sana, lakini Bwana amekuzuia usizawadiwe.”
+24	12	Balaamu akamwambia Balaki, “Je, hukumbuki jinsi nilivyowaambia wajumbe uliowatuma kwangu? Niliwaambia hivi,
+24	13	‘Hata ikiwa Balaki angenipa jumba lake la kifalme likiwa limejazwa fedha na dhahabu, nisingeweza kufanya kitu chochote kwa matakwa yangu, kikiwa kizuri au kibaya, kwenda kinyume na agizo la Bwana, nami imenipasa kusema tu kile Bwana atakachosema’?
+24	14	Sasa ninarudi kwa watu wangu. Lakini njoo, nikuonye kuhusu kile watu hawa watakachowatenda watu wako siku zijazo.”
+24	15	Kisha Balaamu akatoa ujumbe wake: “Ujumbe wa Balaamu mwana wa Beori, ujumbe wake yeye ambaye jicho lake linaona vizuri;
+24	16	ujumbe wake yeye ambaye husikia maneno ya Mungu, ambaye ana maarifa kutoka kwa Aliye Juu Sana, huona maono kutoka Mwenyezi, ambaye huanguka kifudifudi na ambaye macho yake yamefunguka:
+24	17	“Namwona yeye, lakini si sasa; namtazama yeye, lakini si karibu. Nyota itatoka kwa Yakobo, fimbo ya ufalme itainuka kutoka kwa Israeli. Atawaponda Wamoabu vipaji vya nyuso na mafuvu yote ya wana wa Shethi.
+24	18	Edomu itamilikiwa, Seiri, adui wake, itamilikiwa, lakini Israeli atakuwa na nguvu.
+24	19	Mtawala atakuja kutoka kwa Yakobo na kuangamiza walionusurika katika mji.”
+24	20	Kisha Balaamu akawaona watu wa Amaleki, na kutoa ujumbe wake: “Amaleki ilikuwa ya kwanza miongoni mwa mataifa, lakini mwisho wake itaangamizwa milele.”
+24	21	Kisha akawaona Wakeni, akatoa ujumbe wake: “Makao yenu ni salama, kiota chenu kiko kwenye mwamba.
+24	22	Hata hivyo ninyi Wakeni mtaangamizwa Ashuru atakapowachukua mateka.”
+24	23	Ndipo akatoa ujumbe wake: “Lo, ni nani atakayeweza kuishi wakati Mungu atakapofanya hili?
+24	24	Meli zitakuja kutoka pwani za Kitimu, zitaitiisha Ashuru na Eberi, lakini nao pia wataangamizwa.”
+24	25	Kisha Balaamu akainuka na kurudi nyumbani kwake, naye Balaki akashika njia yake.
+25	1	Israeli alipokuwa akikaa Shitimu, wanaume wa Israeli walianza kuzini na wanawake wa Kimoabu,
+25	2	ambao waliwaalika kushiriki katika kutoa kafara kwa miungu yao. Watu wakala na kusujudu mbele ya miungu hii.
+25	3	Kwa hiyo Israeli akaungana katika kumwabudu Baali wa Peori. Hasira ya Bwana ikawaka dhidi yao.
+25	4	Bwana akamwambia Mose, “Uwachukue viongozi wote wa watu hawa, uwaue na uwaweke hadharani mchana peupe mbele za Bwana, ili hasira kali ya Bwana iweze kuondoka kwa Israeli.”
+25	5	Kwa hiyo Mose akawaambia waamuzi wa Israeli, “Kila mmoja wenu lazima awaue wale wanaume wenu, walioshiriki katika kumwabudu Baali wa Peori.”
+25	6	Ndipo mwanaume wa Kiisraeli akamleta mwanamke wa Kimidiani katika jamaa yake palepale mbele ya Mose na mkutano wote wa Israeli walipokuwa wakilia kwenye lango la Hema la Kukutania.
+25	7	Finehasi mwana wa Eleazari, mwana wa kuhani Aroni, alipoona jambo hili, akaondoka kwenye kusanyiko, akachukua mkuki mkononi mwake,
+25	8	akamfuata yule Mwisraeli ndani ya hema. Akawachoma mkuki wote wawili kwa pamoja, ukapenya kwenye mwili wa yule Mwisraeli na mwili wa yule mwanamke. Ndipo tauni iliyokuwepo dhidi ya Waisraeli ikakoma.
+25	9	Lakini wale waliokufa kwa hiyo tauni walikuwa watu 24,000.
+25	10	Bwana akamwambia Mose,
+25	11	“Finehasi mwana wa Eleazari, mwana wa kuhani Aroni, amegeuza hasira yangu mbali na Waisraeli, kwa sababu alikuwa na wivu kama nilio nao kwa heshima yangu miongoni mwao, hata kwamba kwa wivu wangu sikuwaangamiza.
+25	12	Kwa hiyo mwambie Finehasi ninafanya Agano langu la amani naye.
+25	13	Yeye pamoja na wazao wake watakuwa na Agano la ukuhani milele, kwa sababu alikuwa na wivu kwa ajili ya heshima ya Mungu wake, na akafanya upatanisho kwa Waisraeli.”
+25	14	Jina la Mwisraeli ambaye aliuawa pamoja na mwanamke wa Kimidiani ni Zimri mwana wa Salu, kiongozi wa jamaa ya Simeoni.
+25	15	Jina la mwanamke wa Kimidiani aliyeuawa ni Kozbi binti wa Suri, aliyekuwa mkuu wa kabila la jamaa ya Wamidiani.
+25	16	Bwana akamwambia Mose,
+25	17	“Watendeeni Wamidiani kama adui na mwaue,
+25	18	kwa sababu wao waliwatendea kama adui wakati waliwadanganya katika tukio la Peori na dada yao Kozbi, binti wa kiongozi wa Kimidiani, mwanamke ambaye aliuawa wakati tauni ilikuja kama matokeo ya tukio la Peori.”
+26	1	Baada ya hiyo tauni, Bwana akamwambia Mose na Eleazari mwana wa kuhani Aroni,
+26	2	“Hesabu jumuiya yote ya Kiisraeli kwa jamaa zao, wale wote wenye umri wa miaka ishirini na zaidi, ambao wanaweza kutumika katika jeshi la Israeli.”
+26	3	Hivyo Mose na kuhani Eleazari wakazungumza na watu kwenye nchi tambarare ya Moabu, ngʼambo ya Yordani kutokea Yeriko, wakasema,
+26	4	“Hesabuni wanaume wenye umri wa miaka ishirini na zaidi, kama Bwana alivyomwagiza Mose.” Hawa ndio Waisraeli waliotoka Misri:
+26	5	Wazao wa Reubeni, mwana mzaliwa wa kwanza wa Israeli, walikuwa: kutoka kwa Hanoki, ukoo wa Wahanoki; kutoka kwa Palu, ukoo wa Wapalu;
+26	6	kutoka kwa Hesroni, ukoo wa Wahesroni; kutoka kwa Karmi, ukoo wa Wakarmi.
+26	7	Hizi zilikuwa ndizo koo za Reubeni; wale waliohesabiwa walikuwa 43,730.
+26	8	Mwana wa Palu alikuwa Eliabu,
+26	9	nao wana wa Eliabu walikuwa Nemueli, Dathani na Abiramu. Hawa wawili Dathani na Abiramu ndio walikuwa maafisa wa jumuiya ambao walimwasi Mose na Aroni, na walikuwa miongoni mwa wafuasi wa Kora wakati walimwasi Bwana.
+26	10	Ardhi ilifunua kinywa chake na kuwameza pamoja na Kora, ambaye wafuasi wake walikufa wakati moto ulipowateketeza wanaume 250. Nao walikuwa kama alama ya onyo.
+26	11	Pamoja na hayo, hao ukoo wa Kora hawakufa.
+26	12	Wazao wa Simeoni kwa koo zao walikuwa: kutoka kwa Nemueli, ukoo wa Wanemueli; kutoka kwa Yamini, ukoo wa Wayamini; kutoka wa Yakini, ukoo wa Wayakini;
+26	13	kutoka kwa Zera, ukoo wa Wazera; kutoka kwa Shauli, ukoo wa Washauli.
+26	14	Hizi ndizo koo za Simeoni; walikuwa 22,200.
+26	15	Wazao wa Gadi kwa koo zao walikuwa: kutoka kwa Sifoni, ukoo wa Wasifoni; kutoka kwa Hagi, ukoo wa Wahagi; kutoka kwa Shuni, ukoo wa Washuni;
+26	16	kutoka kwa Ozni, ukoo wa Waozni; kutoka kwa Eri, ukoo wa Waeri;
+26	17	kutoka kwa Arodi, ukoo wa Waarodi; kutoka kwa Areli, ukoo wa Waareli.
+26	18	Hizi ndizo zilizokuwa koo za Gadi; wale waliohesabiwa walikuwa 40,500.
+26	19	Eri na Onani walikuwa wana wa Yuda, lakini walifia huko Kanaani.
+26	20	Wazao wa Yuda kwa koo zao walikuwa: kutoka kwa Shela, ukoo wa Washela; kutoka kwa Peresi, ukoo wa Waperesi; kutoka kwa Zera, ukoo wa Wazera.
+26	21	Wazao wa Peresi walikuwa: kutoka kwa Hesroni, ukoo wa Wahesroni; kutoka kwa Hamuli, ukoo wa Wahamuli.
+26	22	Hizi ndizo zilizokuwa koo za Yuda; wale waliohesabiwa walikuwa 76,500.
+26	23	Wazao wa Isakari kwa koo zao walikuwa: kutoka kwa Tola, ukoo wa Watola; kutoka kwa Puva, ukoo wa Wapuva;
+26	24	kutoka kwa Yashubu, ukoo wa Wayashubu; kutoka kwa Shimroni, ukoo wa Washimroni.
+26	25	Hizi ndizo zilizokuwa koo za Isakari; wale waliohesabiwa walikuwa 64,300.
+26	26	Wazao wa Zabuloni kwa koo zao walikuwa: kutoka kwa Seredi, ukoo wa Waseredi; kutoka kwa Eloni, ukoo wa Waeloni; kutoka kwa Yaleeli, ukoo wa Wayaleeli.
+26	27	Hizi ndizo zilizokuwa koo za Zabuloni, wale waliohesabiwa walikuwa 60,500.
+26	28	Wazao wa Yosefu kwa koo zao kutoka kwa Manase na kwa Efraimu walikuwa:
+26	29	Wazao wa Manase: kutoka kwa Makiri, ukoo wa Wamakiri (Makiri alikuwa baba wa Gileadi); kutoka kwa Gileadi, ukoo wa Wagileadi.
+26	30	Hawa ndio waliokuwa wazao wa Gileadi: kutoka kwa Iezeri, ukoo wa Waiezeri; kutoka kwa Heleki, ukoo wa Waheleki;
+26	31	kutoka kwa Asirieli, ukoo wa Waasirieli; kutoka kwa Shekemu, ukoo wa Washekemu;
+26	32	kutoka kwa Shemida, ukoo wa Washemida; kutoka kwa Heferi, ukoo wa Waheferi.
+26	33	(Selofehadi mwana wa Heferi hakuzaa wana, bali alikuwa na watoto wa kike tu, ambao majina yao yalikuwa Mahla, Noa, Hogla, Milka na Tirsa.)
+26	34	Hizi ndizo zilizokuwa koo za Manase; wale waliohesabiwa walikuwa 52,700.
+26	35	Hawa walikuwa wazao wa Efraimu kwa koo zao: kutoka kwa Shuthela, ukoo wa Washuthela; kutoka kwa Bekeri, ukoo wa Wabekeri; kutoka kwa Tahani, ukoo wa Watahani;
+26	36	Hawa ndio walikuwa wazao wa Shuthela: kutoka kwa Erani, ukoo wa Waerani.
+26	37	Hizi ndizo zilizokuwa koo za Efraimu; wale waliohesabiwa walikuwa 32,500. Hawa ndio waliokuwa wazao wa Yosefu kwa koo zao.
+26	38	Wazao wa Benyamini kwa koo zao walikuwa: kutoka kwa Bela, ukoo wa Wabela; kutoka kwa Ashbeli, ukoo wa Waashbeli; kutoka kwa Ahiramu, ukoo wa Waahiramu;
+26	39	kutoka kwa Shufamu, ukoo wa Washufamu; kutoka kwa Hufamu, ukoo wa Wahufamu.
+26	40	Wazao wa Bela kutoka kwa Ardi na Naamani walikuwa: kutoka kwa Ardi, ukoo wa Waardi; kutoka kwa Naamani, ukoo wa Wanaamani.
+26	41	Hizi ndizo zilizokuwa koo za Benyamini; wale waliohesabiwa walikuwa 45,600.
+26	42	Hawa ndio waliokuwa wazao wa Dani kwa koo zao: kutoka kwa Shuhamu, ukoo wa Washuhamu. Hizi ndizo zilizokuwa koo za Dani:
+26	43	Wote walikuwa koo za Washuhamu; wale waliohesabiwa walikuwa 64,400.
+26	44	Wazao wa Asheri kwa koo zao walikuwa: kutoka kwa Imna, ukoo wa Waimna; kutoka kwa Ishvi, ukoo wa Waishvi; kutoka kwa Beria, ukoo wa Waberia;
+26	45	kutoka kwa wazao wa Beria: kutoka kwa Heberi, ukoo wa Waheberi; kutoka kwa Malkieli, ukoo wa Wamalkieli.
+26	46	(Asheri alikuwa na binti aliyeitwa Sera.)
+26	47	Hizi ndizo zilizokuwa koo za Asheri; wale waliohesabiwa walikuwa 53,400.
+26	48	Wazao wa Naftali kwa koo zao walikuwa: kutoka kwa Yaseeli, ukoo wa Wayaseeli; kutoka kwa Guni, ukoo wa Waguni;
+26	49	kutoka kwa Yeseri, ukoo wa Wayeseri; kutoka kwa Shilemu, ukoo wa Washilemu.
+26	50	Hizi ndizo zilizokuwa koo za Naftali; wale waliohesabiwa walikuwa 45,400.
+26	51	Jumla ya hesabu ya wanaume wa Israeli ilikuwa 601,730.
+26	52	Bwana akamwambia Mose,
+26	53	“Watagawiwa nchi kama urithi kwa kulingana na hesabu ya majina.
+26	54	Kundi kubwa zaidi lipe urithi mkubwa zaidi, na kundi dogo zaidi lipewe urithi mdogo zaidi; kila kundi litapokea urithi wake kulingana na hesabu ya wale walioorodheshwa.
+26	55	Hakikisha kuwa nchi inagawanywa kwa kura. Kile kitakachorithiwa na kila kikundi kitakuwa kwa kulingana na majina ya kabila la babu yao.
+26	56	Kila urithi utagawanywa kwa kura miongoni mwa makundi makubwa na madogo.”
+26	57	Hawa walikuwa Walawi ambao walihesabiwa kwa koo zao: kutoka kwa Gershoni, ukoo wa Wagershoni; kutoka kwa Kohathi, ukoo wa Wakohathi; kutoka kwa Merari, ukoo wa Wamerari.
+26	58	Hizi pia zilikuwa koo za Walawi: ukoo wa Walibni; ukoo wa Wahebroni; ukoo wa Wamahli; ukoo wa Wamushi; ukoo wa wana wa Kora. (Kohathi alikuwa baba aliyemzaa Amramu;
+26	59	jina la mke wa Amramu ni Yokebedi, naye pia alikuwa mzao wa Lawi, ambaye alizaliwa kwa Walawi nchini Misri. Alimzalia Amramu: Aroni, Mose na dada yao Miriamu.
+26	60	Aroni alikuwa baba yake Nadabu na Abihu, Eleazari na Ithamari.
+26	61	Lakini Nadabu na Abihu walikufa wakati walitoa sadaka mbele za Bwana kwa moto usioruhusiwa.)
+26	62	Wanaume wote wa Walawi wa umri wa mwezi mmoja na zaidi walikuwa 23,000. Wao hawakuhesabiwa pamoja na Waisraeli wengine kwa sababu hawakupokea urithi miongoni mwao.
+26	63	Hawa ndio walioorodheshwa na Mose na kuhani Eleazari wakati waliwahesabu Waisraeli kwenye nchi tambarare ya Moabu, kando ya Yordani ngʼambo ya Yeriko.
+26	64	Hakuna hata mmoja wao aliyekuwa miongoni mwa wale waliohesabiwa na Mose na kuhani Aroni wakati waliwahesabu Waisraeli katika Jangwa la Sinai.
+26	65	Kwa maana Bwana alikuwa amewaambia hao Waisraeli hakika wangekufa huko jangwani, wala hakuna mmoja wao aliyeachwa, isipokuwa Kalebu mwana wa Yefune na Yoshua mwana wa Nuni.
+27	1	Binti za Selofehadi mwana wa Heferi, mwana wa Gileadi, mwana wa Makiri, mwana wa Manase, walikuwa wa koo za Manase mwana wa Yosefu. Majina ya hao binti yalikuwa Mahla, Noa, Hogla, Milka na Tirsa. Walikaribia
+27	2	ingilio la Hema la Kukutania na kusimama mbele ya Mose, kuhani Eleazari, viongozi na kusanyiko lote, wakasema,
+27	3	“Baba yetu alikufa jangwani. Hakuwa miongoni mwa wafuasi wa Kora, ambao walifungamana pamoja dhidi ya Bwana, lakini alikufa kwa ajili ya dhambi yake mwenyewe na hakuacha wana.
+27	4	Kwa nini jina la baba yetu lifutike kutoka ukoo wake kwa sababu hakuwa na mwana? Tupatie milki miongoni mwa ndugu za baba yetu.”
+27	5	Kwa hiyo Mose akalileta shauri lao mbele za Bwana,
+27	6	naye Bwana akamwambia Mose,
+27	7	“Wanachosema binti za Selofehadi ni sawa. Ni lazima kwa hakika uwape milki kama urithi miongoni mwa ndugu za baba yao, na kubadili urithi wa baba yao uwe wao.
+27	8	“Waambie Waisraeli, ‘Ikiwa mtu atakufa naye hakuacha mwana, utampa binti yake urithi wake.
+27	9	Ikiwa hana binti, wape ndugu zake wa kiume urithi wake.
+27	10	Ikiwa hana ndugu wa kiume toa urithi wake kwa ndugu za baba yake.
+27	11	Ikiwa baba yake hakuwa na ndugu wa kiume, toa urithi wake kwa ndugu wa karibu katika ukoo wake, ili aumiliki. Hili litakuwa dai la sheria kwa Waisraeli, kama Bwana alivyomwamuru Mose.’ ”
+27	12	Kisha Bwana akamwambia Mose, “Panda juu ya mlima huu katika kilele cha Abarimu uione nchi ambayo nimewapa Waisraeli.
+27	13	Baada ya kuiona, wewe pia utakusanywa pamoja na watu wako kama ndugu yako Aroni alivyokusanywa,
+27	14	kwa kuwa jumuiya ilipoasi amri yangu kwenye maji katika Jangwa la Sini, wakati jumuiya ilipogombana nami, nyote wawili mliacha kuitii amri yangu ya kuniheshimu kama mtakatifu mbele ya macho yao.” (Haya yalikuwa maji ya Meriba huko Kadeshi, katika Jangwa la Sini.)
+27	15	Mose akamwambia Bwana,
+27	16	“Bwana, Mungu wa roho zote za wanadamu, na amteue mtu juu ya jumuiya hii
+27	17	ili atoke na kuingia mbele yao, atakayewaongoza katika kutoka kwao na kuingia kwao, ili watu wa Bwana wasiwe kama kondoo wasio na mchungaji.”
+27	18	Kwa hiyo Bwana akamwambia Mose, “Mchukue Yoshua mwana wa Nuni, mtu ambaye Roho yuko ndani yake, uweke mkono juu yake.
+27	19	Msimamishe mbele ya kuhani Eleazari pamoja na kusanyiko lote, umpe maagizo mbele yao.
+27	20	Mpe sehemu ya mamlaka yako ili jumuiya yote ya Waisraeli ipate kumtii.
+27	21	Atasimama mbele ya kuhani Eleazari, ambaye atapokea maamuzi kwa ajili yake, kwa kuuliza mbele za Bwana kwa ile Urimu. Kwa amri yake, yeye na jumuiya yote ya Waisraeli watatoka, na kwa amri yake, wataingia.”
+27	22	Mose akafanya kama Bwana alivyomwagiza. Akamtwaa Yoshua na kumsimamisha mbele ya kuhani Eleazari na kusanyiko lote.
+27	23	Kisha akaweka mikono yake juu ya kichwa cha Yoshua na kumpa maagizo, kama vile Bwana alivyoelekeza kupitia kwa Mose.
+28	1	Bwana akamwambia Mose,
+28	2	“Wape Waisraeli agizo hili na uwaambie: ‘Hakikisheni kwamba mnaniletea mimi kwa wakati uliowekwa chakula kwa ajili ya sadaka za kuteketezwa kwa moto, kama harufu nzuri ya kupendeza.’
+28	3	Waambie: ‘Hii ni sadaka ya kuteketezwa kwa moto mnayomtolea Bwana: wana-kondoo wawili wa mwaka mmoja wasio na dosari, kama sadaka ya kawaida ya kuteketezwa kila siku.
+28	4	Andaa mwana-kondoo mmoja asubuhi na mwingine jioni,
+28	5	kila mmoja atolewe pamoja na sadaka ya nafaka sehemu ya kumi ya efa ya unga laini uliochanganywa pamoja na robo ya hini ya mafuta ya zeituni.
+28	6	Hii ni sadaka ya kawaida ya kuteketezwa iliyoanzishwa katika Mlima Sinai kama harufu nzuri ya kupendeza, sadaka iliyotolewa kwa Bwana kwa moto.
+28	7	Sadaka ya kinywaji itakayotolewa pamoja na kila mwana-kondoo ni robo ya hini ya kinywaji kilichochachuka. Mimina sadaka ya kinywaji kwa Bwana mahali patakatifu.
+28	8	Andaa yule mwana-kondoo wa pili jioni, pamoja na sadaka ya nafaka na sadaka ya kinywaji kama ulivyofanya kwa ile sadaka nyingine ya asubuhi. Hii ni sadaka iliyotolewa kwa kuteketezwa kwa moto, harufu nzuri ya kumpendeza Bwana.
+28	9	“ ‘Siku ya Sabato, utatoa sadaka ya wana-kondoo wawili wa mwaka mmoja wasiokuwa na dosari pamoja na sadaka yake ya kinywaji na sadaka ya nafaka yenye uzito wa sehemu mbili za kumi za efa za unga laini uliochanganywa na mafuta.
+28	10	Hii ni sadaka ya kuteketezwa itakayotolewa kwa ajili ya kila Sabato, pamoja na sadaka ya kawaida ya kuteketezwa na sadaka yake ya kinywaji.
+28	11	“ ‘Siku ya kwanza ya kila mwezi, mtamletea Bwana sadaka ya kuteketezwa ya fahali wawili wachanga, kondoo dume mmoja na wana-kondoo saba wa mwaka mmoja, wote wasiokuwa na dosari.
+28	12	Pamoja na kila fahali, kutakuwa na sadaka ya nafaka ya unga laini sehemu tatu za kumi za efa, uliochanganywa na mafuta, pamoja na kondoo dume mmoja, sadaka ya nafaka ya unga laini uliochanganywa na mafuta;
+28	13	pamoja na kila mwana-kondoo, sadaka ya nafaka yenye uzito wa sehemu ya kumi ya efa ya unga laini uliochanganywa na mafuta. Hii ni kwa ajili ya sadaka ya kuteketezwa, harufu nzuri, sadaka ya kuteketezwa iliyotolewa kwa moto kwa Bwana.
+28	14	Pamoja na kila fahali kutakuwa na sadaka ya kinywaji nusu ya hini ya divai; pamoja na kila kondoo dume, theluthi moja ya hini, na pamoja na kila mwana-kondoo robo hini. Hii ni sadaka ya kuteketezwa ya kila mwezi itakayotolewa kila mwandamo wa mwezi kwa mwaka.
+28	15	Zaidi ya sadaka ya kawaida ya kuteketezwa pamoja na sadaka yake ya kinywaji, mbuzi mmoja dume atatolewa kwa Bwana kama sadaka ya dhambi.
+28	16	“ ‘Katika siku ya kumi na nne ya mwezi wa kwanza, itafanyika Pasaka ya Bwana.
+28	17	Katika siku ya kumi na tano ya mwezi huo itakuwa sikukuu; kwa siku saba mtakula mikate isiyotiwa chachu.
+28	18	Katika siku ya kwanza mtakuwa na kusanyiko takatifu, msifanye kazi za kawaida.
+28	19	Leteni mbele za Bwana sadaka ya kuteketezwa, sadaka ya kuteketezwa ya mafahali wawili wachanga, kondoo dume mmoja na wana-kondoo dume saba wenye umri wa mwaka mmoja, wote wasio na dosari.
+28	20	Pamoja na kila fahali, andaa sadaka ya nafaka sehemu tatu za kumi za efa za unga laini uliochanganywa na mafuta; pamoja na kondoo dume, andaa sehemu mbili za kumi za efa;
+28	21	pia pamoja na kila mmoja wa wale wana-kondoo saba, andaa sehemu ya kumi ya efa.
+28	22	Pia mtoe beberu mmoja kama sadaka ya dhambi ambaye atafanya upatanisho kwa ajili yenu.
+28	23	Andaa hizi licha ya zile sadaka za kawaida za kuteketezwa za kila asubuhi.
+28	24	Kwa njia hii andaa chakula cha sadaka ya kuteketezwa kila siku, kwa siku saba kama harufu nzuri impendezayo Bwana. Hii itaandaliwa licha ya ile sadaka ya kawaida ya kuteketezwa ya kila siku pamoja na sadaka yake ya kinywaji.
+28	25	Siku ya saba mwe na kusanyiko takatifu na msifanye kazi zenu za kawaida.
+28	26	“ ‘Siku ya malimbuko, mnapomletea Bwana sadaka ya nafaka mpya wakati wa Sikukuu ya Majuma, mwe na kusanyiko takatifu na msifanye kazi zenu za kawaida.
+28	27	Mlete sadaka ya kuteketezwa ya mafahali wawili wachanga, kondoo dume mmoja, na pia wana-kondoo saba wenye umri wa mwaka mmoja, kama harufu nzuri ya kumpendeza Bwana.
+28	28	Pamoja na kila fahali itatolewa sadaka ya nafaka ya unga laini sehemu tatu za kumi za efa uliochanganywa na mafuta; pamoja na kondoo dume, andaa sehemu mbili za kumi za efa za unga laini;
+28	29	na sehemu ya kumi ya efa ya unga laini kwa kila mmoja wa wana-kondoo saba.
+28	30	Ongeza beberu mmoja kwa kufanya upatanisho kwa ajili yenu.
+28	31	Andaa hizi sadaka pamoja na sadaka zake za vinywaji, kuwa nyongeza ya sadaka za kawaida za kuteketezwa, pamoja na sadaka yake ya nafaka. Hakikisha kuwa wanyama hao hawana dosari.
+29	1	“ ‘Katika siku ya kwanza ya mwezi wa saba mtakuwa na kusanyiko takatifu na msifanye kazi ya kawaida. Ni siku kwa ajili yenu ya kupiga tarumbeta.
+29	2	Mtatayarisha sadaka ya kuteketezwa kama harufu nzuri impendezayo Bwana ya fahali mmoja mchanga, kondoo dume mmoja, na wana-kondoo saba wa mwaka mmoja, wote wasio na dosari.
+29	3	Pamoja na fahali, andaeni sadaka ya nafaka sehemu ya kumi tatu za efa za unga laini uliochanganywa na mafuta; kwa kondoo dume, andaa unga sehemu ya kumi mbili za efa;
+29	4	na pamoja na wana-kondoo saba kila mmoja aandaliwe na sehemu ya kumi ya efa ya unga.
+29	5	Ongeza beberu mmoja kama sadaka ya dhambi kufanya upatanisho kwa ajili yenu.
+29	6	Hivi ni nyongeza ya sadaka za kuteketezwa kila mwezi na kila siku pamoja na sadaka zake za nafaka na sadaka za vinywaji kama ilivyoainishwa. Ni sadaka zinazotolewa kwa Bwana kwa moto, harufu inayopendeza.
+29	7	“ ‘Kwenye siku ya kumi ya mwezi huu wa saba mtakuwa na kusanyiko takatifu. Mtajikana wenyewe na msifanye kazi.
+29	8	Toeni sadaka ya kuteketezwa ya fahali mmoja mchanga, kondoo dume mmoja, na wana-kondoo saba wa mwaka mmoja, wote wasio na dosari, kama harufu nzuri inayompendeza Bwana.
+29	9	Pamoja na fahali, andaeni sadaka ya nafaka sehemu ya kumi tatu za efa za unga laini uliochanganywa na mafuta; pamoja na kondoo dume, sehemu ya kumi mbili za efa za unga laini;
+29	10	na kwa kila mmoja wa wana-kondoo saba andaa sehemu ya kumi ya unga laini kwa kila mmoja.
+29	11	Ongeza beberu mmoja kama sadaka ya dhambi, katika nyongeza ya sadaka ya dhambi kwa ajili ya upatanisho, na sadaka ya kawaida ya kuteketezwa pamoja na sadaka yake ya nafaka, na sadaka zake za vinywaji.
+29	12	“ ‘Katika siku ya kumi na tano ya mwezi wa saba, mtakuwa na kusanyiko takatifu, na hamtafanya kazi za kawaida. Adhimisheni sikukuu kwa Bwana kwa siku saba.
+29	13	Toeni sadaka ya kuteketezwa mafahali wachanga kumi na watatu, kondoo dume wawili, na wana-kondoo kumi na wanne wa mwaka mmoja, wote wasio na dosari, kama harufu nzuri inayompendeza Bwana.
+29	14	Pamoja na hao mafahali kumi na watatu, kila mmoja aandaliwe na sadaka ya nafaka sehemu ya kumi tatu za efa za unga laini uliochanganywa na mafuta; kwa kondoo dume wawili, kila mmoja aandaliwe sehemu ya kumi mbili za efa za unga laini;
+29	15	na kwa wana-kondoo kumi na wanne, kila mmoja aandaliwe sehemu ya kumi ya efa ya unga laini.
+29	16	Ongeza beberu mmoja kama sadaka ya dhambi, kwa nyongeza ya sadaka ya kawaida ya kuteketezwa, na sadaka yake ya nafaka, pamoja na sadaka ya vinywaji.
+29	17	“ ‘Katika siku ya pili andaeni mafahali wachanga kumi na wawili, kondoo dume wawili, na wana-kondoo kumi na wanne wa mwaka mmoja, wote wasio na dosari.
+29	18	Pamoja na mafahali, kondoo dume, na wana-kondoo, andaeni sadaka zao za nafaka na sadaka za vinywaji, kulingana na idadi iliyoainishwa.
+29	19	Weka beberu mmoja kama sadaka ya dhambi, kwa nyongeza ya kawaida ya sadaka ya kuteketezwa, na sadaka yake ya nafaka, pamoja na sadaka zao za vinywaji.
+29	20	“ ‘Katika siku ya tatu andaeni mafahali wachanga kumi na wawili, kondoo dume wawili, na wana-kondoo kumi na wanne wa mwaka mmoja, wote wasio na dosari.
+29	21	Pamoja na mafahali, kondoo dume, na wana-kondoo, andaeni sadaka zao za nafaka na sadaka za vinywaji, kulingana na idadi iliyoainishwa.
+29	22	Weka beberu mmoja kama sadaka ya dhambi, kwa nyongeza ya kawaida ya sadaka ya kuteketezwa, na sadaka yake ya nafaka, pamoja na sadaka zao za vinywaji.
+29	23	“ ‘Katika siku ya nne andaeni mafahali wachanga kumi na wawili, kondoo dume wawili, na wana-kondoo kumi na wanne wa mwaka mmoja, wote wasio na dosari.
+29	24	Pamoja na mafahali, kondoo dume, na wana-kondoo, andaeni sadaka zao za nafaka na sadaka za vinywaji, kulingana na idadi iliyoainishwa.
+29	25	Weka beberu mmoja kama sadaka ya dhambi, kwa nyongeza ya kawaida ya sadaka ya kuteketezwa, na sadaka yake ya nafaka, pamoja na sadaka zao za vinywaji.
+29	26	“ ‘Katika siku ya tano andaeni mafahali tisa, kondoo dume wawili na wana-kondoo kumi na wanne wa mwaka mmoja, wote wasio na dosari.
+29	27	Pamoja na mafahali, kondoo dume na wana-kondoo, andaeni sadaka zao za nafaka na sadaka za kinywaji kulingana na idadi iliyoainishwa.
+29	28	Ongeza beberu mmoja kama sadaka ya dhambi katika nyongeza ya sadaka ya kawaida ya kuteketezwa na sadaka yake ya nafaka pamoja na sadaka ya kinywaji.
+29	29	“ ‘Katika siku ya sita andaeni mafahali wachanga kumi na wawili, kondoo dume wawili, na wana-kondoo kumi na wanne wa mwaka mmoja, wote wasio na dosari.
+29	30	Pamoja na mafahali, kondoo dume, na wana-kondoo, andaeni sadaka zao za nafaka na sadaka za vinywaji, kulingana na idadi iliyoainishwa.
+29	31	Weka beberu mmoja kama sadaka ya dhambi, kwa nyongeza ya kawaida ya sadaka ya kuteketezwa, na sadaka yake ya nafaka, pamoja na sadaka zao za vinywaji.
+29	32	“ ‘Katika siku ya saba andaeni mafahali wachanga kumi na wawili, kondoo dume wawili, na wana-kondoo kumi na wanne wa mwaka mmoja, wote wasio na dosari.
+29	33	Pamoja na mafahali, kondoo dume, na wana-kondoo, andaeni sadaka zao za nafaka na sadaka za vinywaji, kulingana na idadi iliyoainishwa.
+29	34	Weka beberu mmoja kama sadaka ya dhambi, kwa nyongeza ya kawaida ya sadaka ya kuteketezwa, na sadaka yake ya nafaka, pamoja na sadaka zao za vinywaji.
+29	35	“ ‘Katika siku ya nane mtakuwa na kusanyiko, na msifanye kazi ya kawaida.
+29	36	Toeni sadaka ya kuteketezwa kama harufu nzuri inayompendeza Bwana, sadaka ya kuteketezwa ya fahali mmoja, kondoo dume mmoja, na wana-kondoo dume saba wa mwaka mmoja, wote wasio na dosari.
+29	37	Pamoja na fahali, kondoo dume na wana-kondoo, andaeni sadaka zao za nafaka, na sadaka za vinywaji, kulingana na idadi iliyoainishwa.
+29	38	Ongeza beberu mmoja kama sadaka ya dhambi, katika nyongeza ya sadaka ya kawaida ya kuteketezwa, na sadaka yake ya nafaka pamoja na sadaka ya kinywaji.
+29	39	“ ‘Zaidi ya kile unachoweka nadhiri na sadaka zenu za hiari, andaeni hizi kwa ajili ya Bwana kwenye sikukuu zenu zilizoamriwa: sadaka zenu za kuteketezwa, sadaka za nafaka, sadaka za vinywaji, pamoja na sadaka zenu za amani.’ ”
+29	40	Mose akawaambia Waisraeli yale yote Bwana alimwagiza.
+30	1	Mose akawaambia viongozi wa makabila ya Israeli: “Hili ndilo Bwana analoagiza:
+30	2	Mwanaume awekapo nadhiri kwa Bwana, au anapoapa kujifunga kwa ahadi, kamwe asitangue neno lake, bali ni lazima afanye kila kitu alichosema.
+30	3	“Wakati mwanamwali anayeishi bado nyumbani kwa baba yake atakapoweka nadhiri kwa Bwana, ama amejifunga mwenyewe kwa ahadi,
+30	4	na baba yake akasikia kuhusu nadhiri au ahadi yake lakini asimwambie lolote, ndipo nadhiri zake zote na kila ahadi aliyoiweka na kujifunga kwayo itathibitika.
+30	5	Lakini kama baba yake akimkataza wakati anapoisikia, hakuna nadhiri wala ahadi yake yoyote aliyojifunga kwayo itakayosimama; Bwana atamweka huru huyo mwanamwali kwa sababu baba yake amemkataza.
+30	6	“Ikiwa ataolewa baada ya kuweka nadhiri au baada ya midomo yake kutamka ahadi fulani bila kufikiri akawa amejifunga hivyo,
+30	7	na mume wake akasikia habari hiyo asimwambie neno lolote, ndipo nadhiri zake ama ahadi zake ambazo alikuwa amejifunga nazo zitathibitika.
+30	8	Lakini ikiwa mume wake atamkataza atakaposikia kuhusu hilo, atakuwa ametangua nadhiri ambazo zilikuwa zimemfunga mkewe, ama ahadi aliyotamka pasipo kufikiri ambayo amejifunga kwayo, naye Bwana atamweka huru yule mwanamke.
+30	9	“Nadhiri yoyote ama patano ambalo limefanywa na mjane ama mwanamke aliyeachwa vitakuwa vimemfunga.
+30	10	“Ikiwa mwanamke anayeishi na mumewe ataweka nadhiri ama kujifunga mwenyewe kwa ahadi chini ya kiapo,
+30	11	na mumewe akasikia kuhusu jambo hili lakini asimwambie lolote wala hakumkataza, ndipo viapo vyake vyote au ahadi zinazomfunga zitakapothibitika.
+30	12	Lakini ikiwa mumewe atabatilisha nadhiri hizo baada ya kuzisikia, basi hakuna nadhiri au ahadi zozote alizoziweka kwa midomo yake zitakazothibitika. Mumewe atakuwa amezibatilisha, na Bwana atamweka huru yule mwanamke.
+30	13	Mumewe anaweza kuthibitisha au kutangua nadhiri yoyote anayoweka, au ahadi yoyote aliyoweka kwa kuapa ili kujikana mwenyewe.
+30	14	Lakini ikiwa mumewe hasemi lolote kwake kuhusu jambo hilo siku baada ya siku, basi mumewe atakuwa amethibitisha nadhiri zote, na ahadi zote zinazomfunga mkewe. Anavithibitisha kwa kutokusema lolote kwa mkewe anapoyasikia hayo.
+30	15	Hata hivyo, ikiwa mumewe atavibatilisha baada ya kusikia hayo, basi atawajibika kwa hatia ya mkewe.”
+30	16	Haya ndiyo masharti ambayo Bwana alimpa Mose kuhusu mahusiano kati ya mtu na mkewe, na kati ya baba na binti yake ambaye bado anaishi nyumbani kwa baba yake.
+31	1	Bwana akamwambia Mose,
+31	2	“Uwalipize kisasi Wamidiani kwa ajili ya Waisraeli. Halafu baada ya hayo, utakufa.”
+31	3	Kwa hiyo Mose akawaambia watu, “Waandaeni baadhi ya wanaume wenu waende vitani kupigana na Wamidiani ili wawalipize kisasi cha Bwana.
+31	4	Peleka wanaume 1,000 vitani kutoka kila kabila la Israeli.”
+31	5	Kwa hiyo waliandaliwa wanaume 12,000 kwa vita, wanaume 1,000 kutoka kila kabila, walitolewa kutoka koo za Israeli.
+31	6	Mose aliwatuma vitani, watu 1,000 kutoka kila kabila, pamoja na Finehasi mwana wa kuhani Eleazari, ambaye alichukua vyombo vya mahali patakatifu na tarumbeta za kuashiria.
+31	7	Walipigana dhidi ya Wamidiani, kama Bwana alivyomwagiza Mose, nao waliua kila mwanaume.
+31	8	Miongoni mwa watu waliouawa walikuwepo wafalme watano wa Midiani, nao ni Evi, Rekemu, Suri, Huri na Reba. Vilevile walimuua Balaamu mwana wa Beori kwa upanga.
+31	9	Waisraeli waliwateka wanawake wa Kimidiani pamoja na watoto wao na walichukua makundi ya ngʼombe, kondoo na mali zao kama nyara.
+31	10	Walichoma moto miji yote ambayo Wamidiani walikuwa wanaishi, pamoja na kambi zao zote.
+31	11	Walichukua nyara zote na mateka, pamoja na watu na wanyama,
+31	12	nao waliwaleta wafungwa mateka na nyara kwa Mose na kwa kuhani Eleazari, nao Waisraeli walikusanyika kwenye kambi zao katika tambarare za nchi ya Moabu, kando ya Yordani ngʼambo ya Yeriko.
+31	13	Mose, kuhani Eleazari na viongozi wote wa jumuiya wakatoka kuwalaki nje ya kambi.
+31	14	Mose aliwakasirikia maafisa wa jeshi, yaani hao wakuu wa jeshi wa maelfu na wakuu wa jeshi wa mamia, ambao walirudi kutoka vitani.
+31	15	Mose akawauliza, “Je, mmewaacha wanawake wote hai?”
+31	16	“Wanawake hao ndio waliofuata ushauri wa Balaamu, nao ndio waliowasababisha Waisraeli wamwasi Bwana kwa kile kilichotokea kule Peori, na kwa hiyo pigo liliwapata watu wa Bwana.
+31	17	Sasa waue wavulana wote. Pia muue kila mwanamke ambaye alikwisha fanya tendo la ndoa,
+31	18	lakini mwacheni hai kwa ajili yenu kila msichana ambaye kamwe hajawahi kuzini na mwanaume.
+31	19	“Ninyi nyote ambao mmeua mtu yeyote au kumgusa mtu yeyote ambaye ameuawa, lazima mkae nje ya kambi kwa muda wa siku saba. Katika siku ya tatu na ya saba lazima mjitakase wenyewe pamoja na wafungwa wenu.
+31	20	Takaseni kila vazi pamoja na kila kitu kilichotengenezwa kwa ngozi, kwa singa za mbuzi au kwa mti.”
+31	21	Kisha kuhani Eleazari aliwaambia askari waliokuwa wamekwenda vitani, “Haya ndiyo matakwa ya sheria ambayo Bwana alimpa Mose:
+31	22	Dhahabu, fedha, shaba, chuma, bati, risasi,
+31	23	na kitu kingine chochote ambacho kinaweza kuhimili moto lazima mkipitishe kwenye moto, kisha kitakuwa safi. Lakini ni lazima pia kitakaswe kwa maji ya utakaso. Kitu chochote kisichoweza kuhimili moto lazima kipitishwe kwenye yale maji ya utakaso.
+31	24	Katika siku ya saba fueni nguo zenu, nanyi mtakuwa safi. Kisha mtaweza kuingia kambini.”
+31	25	Bwana akamwambia Mose,
+31	26	“Wewe na kuhani Eleazari pamoja na viongozi wa jamaa ya jumuiya mtahesabu watu wote na wanyama ambao walitekwa.
+31	27	Gawanyeni hizo nyara kati ya askari ambao walishiriki katika vita na kwa jumuiya.
+31	28	Kutoka fungu la wale waliokwenda kupigana vitani, tenga kama ushuru kwa ajili ya Bwana kitu kimoja kati ya kila mia tano, ikiwa ni wanadamu, ngʼombe, punda, kondoo au mbuzi.
+31	29	Chukua ushuru huu kutoka fungu lao, umpe kuhani Eleazari kama sehemu ya Bwana.
+31	30	Kutoka fungu la Waisraeli, chukua kitu kimoja kati ya kila hamsini, ikiwa ni wanadamu, ngʼombe, punda, kondoo, mbuzi au wanyama wengine. Hivyo uwape Walawi, ambao wanawajibika kutunza Maskani ya Bwana.”
+31	31	Kwa hiyo Mose na kuhani Eleazari wakafanya kama Bwana alivyomwagiza Mose.
+31	32	Nyara zilizobaki kutoka mateka ambayo askari walichukua ni kondoo 675,000,
+31	33	ngʼombe 72,000,
+31	34	punda 61,000,
+31	35	na wanawake 32,000 ambao hawakumjua mume kwa kufanya tendo la ndoa.
+31	36	Nusu ya fungu la wale waliokwenda kupigana vitani lilikuwa: Kondoo 337,500
+31	37	ambayo ushuru kwa ajili ya Bwana ilikuwa kondoo 675;
+31	38	ngʼombe 36,000 ambao ushuru kwa ajili ya Bwana ulikuwa ngʼombe 72;
+31	39	punda 30,500 ambao ushuru kwa ajili ya Bwana ulikuwa punda 61;
+31	40	Watu 16,000 ambao ushuru kwa ajili ya Bwana ulikuwa watu 32.
+31	41	Mose alimpa kuhani Eleazari ushuru kama sehemu ya Bwana, kama Bwana alivyomwagiza Mose.
+31	42	Ile nusu iliyokuwa ya Waisraeli, ambayo Mose aliitenga kutoka kwa ile ya watu waliokwenda vitani,
+31	43	nusu iliyokuwa ya jumuiya, ilikuwa kondoo 337,500,
+31	44	ngʼombe 36,000,
+31	45	punda 30,500,
+31	46	na wanadamu 16,000.
+31	47	Kutoka hiyo nusu iliyokuwa ya Waisraeli, Mose alichagua moja kati ya kila hamsini ya wanadamu na wanyama, kama Bwana alivyomwagiza, naye aliwapa Walawi, ambao waliwajibika kutunza Maskani ya Bwana.
+31	48	Kisha maafisa waliokuwa juu ya vikosi vya jeshi, wakuu wa jeshi wa maelfu na wakuu wa jeshi wa mamia, walimwendea Mose
+31	49	na kumwambia, “Watumishi wako wamehesabu askari walio chini ya amri yetu na hakuna hata mmoja aliyekosekana.
+31	50	Kwa hiyo tumeleta kama sadaka kwa Bwana vyombo vya dhahabu kila mmoja wetu alivyopata, yaani vikuku, bangili, pete za muhuri, vipuli na mikufu, ili kufanya upatanisho kwa ajili yetu mbele za Bwana.”
+31	51	Mose na kuhani Eleazari wakapokea kutoka kwao dhahabu, yaani vyombo vyote vilivyonakshiwa.
+31	52	Dhahabu yote kutoka kwa wakuu wa jeshi wa maelfu na wakuu wa jeshi wa mamia ambavyo Mose na kuhani Eleazari walimletea Bwana kama zawadi ilikuwa shekeli 16,750
+31	53	Kila askari alikuwa amejichukulia nyara zake binafsi.
+31	54	Mose na kuhani Eleazari walipokea dhahabu kutoka kwa wakuu wa jeshi wa maelfu na wakuu wa jeshi wa mamia, wakazileta katika Hema la Kukutania kama ukumbusho kwa Waisraeli mbele za Bwana.
+32	1	Kabila la Wareubeni na Wagadi, waliokuwa na makundi makubwa ya ngʼombe, kondoo na mbuzi, waliona kuwa nchi ya Yazeri na nchi ya Gileadi ni nzuri kwa mifugo.
+32	2	Hivyo walimjia Mose, na kuhani Eleazari na viongozi wa jumuiya, na kuwaambia,
+32	3	“Atarothi, Diboni, Yazeri, Nimra, Heshboni, Eleale, Sebamu, Nebo na Beoni,
+32	4	nchi ambayo Bwana ameishinda mbele ya wana wa Israeli, inafaa kwa mifugo, nao watumishi wako wana mifugo.
+32	5	Kama tumepata kibali mbele ya macho yako, nchi hii na ipewe watumishi wako kama milki yetu. Usitufanye tuvuke Yordani.”
+32	6	Mose akawaambia Wagadi na Wareubeni, “Je, watu wa nchi yenu watakwenda vitani wakati ninyi mmeketi hapa?
+32	7	Kwa nini mmewakatisha Waisraeli tamaa wasivuke katika nchi ambayo Bwana amewapa?
+32	8	Hivi ndivyo baba zenu walivyofanya wakati nilipowatuma kutoka Kadesh-Barnea kuipeleleza nchi.
+32	9	Baada ya kufika kwenye Bonde la Eshkoli na kuitazama nchi, waliwakatisha tamaa Waisraeli wasiingie katika nchi ambayo Bwana alikuwa amewapa.
+32	10	Siku ile hasira ya Bwana iliwaka naye akaapa kiapo hiki:
+32	11	‘Kwa kuwa hawakunifuata kwa moyo wote, hakuna mtu yeyote mwenye miaka ishirini au zaidi ambaye alikuja kutoka Misri atakayeona nchi niliyoahidi kwa kiapo kwa Abrahamu, Isaki na Yakobo;
+32	12	hakuna hata mmoja isipokuwa Kalebu mwana wa Yefune, Mkenizi, na Yoshua mwana wa Nuni, kwa sababu walimfuata Bwana kwa moyo wote.’
+32	13	Hasira ya Bwana iliwaka dhidi ya Waisraeli na akawafanya watangetange katika jangwa kwa miaka arobaini, mpaka kizazi chote cha wale waliofanya maovu mbele yake kimeangamia.
+32	14	“Nanyi mko hapa, uzao wa wenye dhambi, mkisimamia mahali pa baba zenu na mkimfanya Bwana kuwakasirikia Waisraeli hata zaidi.
+32	15	Kama mkigeuka na mkiacha kumfuata, atawaacha tena watu hawa wote jangwani, na mtakuwa sababu ya maangamizi yao.”
+32	16	Ndipo wakamjia Mose na kumwambia, “Tungalitaka kujenga mazizi hapa kwa ajili ya mifugo yetu na miji kwa ajili ya wanawake wetu na watoto.
+32	17	Lakini sisi tuko tayari kuchukua silaha zetu na kutangulia mbele ya Waisraeli mpaka tutakapowaleta mahali pao. Wakati huo wanawake wetu na watoto wataishi katika miji yenye ngome, kwa ajili ya ulinzi dhidi ya wenyeji wa nchi.
+32	18	Hatutarudi nyumbani mwetu mpaka kila Mwisraeli apokee urithi wake.
+32	19	Hatutapokea urithi wowote pamoja nao ngʼambo ya Yordani, kwa sababu urithi wetu umekuja kwetu upande wa mashariki ya Yordani.”
+32	20	Kisha Mose akawaambia, “Kama mtafanya jambo hili, kama mtajivika silaha mbele za Bwana kwa ajili ya vita,
+32	21	na kama ninyi nyote mtakwenda mmejivika silaha ngʼambo ya Yordani mbele za Bwana mpaka awe amewafukuza adui zake mbele zake,
+32	22	hadi wakati nchi itakapokuwa imeshindwa mbele za Bwana, ndipo mtaweza kurudi na kuwa huru kutoka masharti yenu kwa Bwana na Israeli. Nayo nchi hii itakuwa milki yenu mbele za Bwana.
+32	23	“Lakini mkishindwa kufanya hili, mtakuwa mnatenda dhambi dhidi ya Bwana; nanyi kuweni na hakika kuwa dhambi yenu itawapata.
+32	24	Jengeni miji kwa ajili ya wanawake na watoto wenu, na mazizi kwa ajili ya mbuzi na kondoo zenu, lakini fanyeni yale mliyoahidi.”
+32	25	Wagadi na Wareubeni wakamwambia Mose, “Sisi watumishi wako tutafanya kama bwana wetu anavyotuagiza.
+32	26	Watoto na wake zetu, makundi ya mbuzi na kondoo, na makundi ya ngʼombe zetu, watabaki hapa katika miji ya Gileadi.
+32	27	Lakini watumishi wenu, kila mwanaume aliyevaa silaha za vita, watavuka ngʼambo kupigana mbele za Bwana, sawa kama bwana wetu anavyosema.”
+32	28	Kisha Mose akatoa amri kuhusu wao kwa kuhani Eleazari, na Yoshua mwana wa Nuni na viongozi wa jamaa za makabila ya Waisraeli.
+32	29	Mose akawaambia, “Ikiwa Wagadi na Wareubeni, kila mwanaume aliyevaa silaha za vita, atavuka Yordani pamoja nanyi mbele za Bwana, basi wakati mtakapoishinda nchi iliyoko mbele yenu, wapeni nchi ya Gileadi kama milki yao.
+32	30	Lakini kama hawatavuka pamoja nanyi wakiwa wamevaa silaha za vita, lazima wakubali kupokea milki yao pamoja nanyi katika nchi ya Kanaani.”
+32	31	Wagadi na Wareubeni wakajibu, “Watumishi wako watafanya lile Bwana alilosema.
+32	32	Tutavuka mbele za Bwana kuingia Kanaani tukiwa tumevaa silaha za vita, lakini mali tutakayoirithi itakuwa ngʼambo hii ya Yordani.”
+32	33	Kisha Mose akawapa Wagadi, Wareubeni, na nusu ya kabila la Manase mwana wa Yosefu ufalme wa Sihoni mfalme wa Waamori, na ufalme wa Ogu mfalme wa Bashani, nchi yote pamoja na miji yake, na nchi inayowazunguka.
+32	34	Wagadi wakajenga Diboni, Atarothi, Aroeri,
+32	35	Atroth-Shofani, Yazeri, Yogbeha,
+32	36	Beth-Nimra na Beth-Harani kama miji iliyozungushiwa ngome, tena wakajenga mazizi kwa ajili ya makundi yao ya mbuzi na kondoo.
+32	37	Nao Wareubeni wakajenga upya miji ya Heshboni, Eleale na Kiriathaimu,
+32	38	pia Nebo na Baal-Meoni (majina ya hiyo miji yalibadilishwa) na Sibma. Miji waliyoijenga upya waliipa majina.
+32	39	Wazao wa Makiri mwana wa Manase walikwenda Gileadi, wakaiteka nchi na kuwafukuza Waamori waliokuwa huko.
+32	40	Kwa hiyo Mose akawapa Wamakiri, wazao wa Manase, nchi ya Gileadi, nao wakakaa huko.
+32	41	Yairi, mzao wa Manase, akateka makao yao, akayaita Hawoth-Yairi.
+32	42	Naye Noba akateka Kenathi na makao yaliyoizunguka, akayaita Noba kwa jina lake.
+33	1	Hivi ndivyo vituo katika safari ya Waisraeli walipotoka Misri kwa vikosi chini ya uongozi wa Mose na Aroni.
+33	2	Kwa agizo la Bwana, Mose aliweka kumbukumbu ya vituo katika safari yao. Hivi ndivyo vituo katika safari yao:
+33	3	Waisraeli walisafiri kutoka Ramesesi katika siku ya kumi na tano ya mwezi wa kwanza, siku iliyofuata Pasaka. Walitembea kwa ujasiri wazi mbele ya Wamisri wote,
+33	4	waliokuwa wakizika wazaliwa wao wa kwanza wote, ambao Bwana alikuwa amewaua katikati yao, kwa kuwa Bwana alikuwa ameleta hukumu juu ya miungu yao.
+33	5	Waisraeli waliondoka Ramesesi na kupiga kambi huko Sukothi.
+33	6	Wakaondoka Sukothi na kupiga kambi huko Ethamu, pembeni mwa jangwa.
+33	7	Wakaondoka Ethamu, wakageuka wakarudi Pi-Hahirothi, hadi mashariki ya Baal-Sefoni, wakapiga kambi yao karibu na Migdoli.
+33	8	Wakaondoka Pi-Hahirothi wakapita katikati ya bahari mpaka jangwani, na baada ya kusafiri kwa siku tatu katika Jangwa la Ethamu, walipiga kambi huko Mara.
+33	9	Wakaondoka Mara wakaenda Elimu, mahali ambapo palikuwa na chemchemi kumi na mbili na mitende sabini, huko wakapiga kambi.
+33	10	Wakaondoka Elimu na kupiga kambi kando ya Bahari ya Shamu.
+33	11	Wakaondoka kando ya Bahari ya Shamu na kupiga kambi katika Jangwa la Sini.
+33	12	Wakaondoka katika Jangwa la Sini, wakapiga kambi huko Dofka.
+33	13	Wakaondoka Dofka, wakapiga kambi huko Alushi.
+33	14	Wakaondoka Alushi, wakapiga kambi Refidimu, mahali ambapo hapakuwa na maji kwa ajili ya watu kunywa.
+33	15	Wakaondoka Refidimu na kupiga kambi katika Jangwa la Sinai.
+33	16	Wakaondoka katika Jangwa la Sinai na kupiga kambi huko Kibroth-Hataava.
+33	17	Wakaondoka Kibroth-Hataava na kupiga kambi huko Haserothi.
+33	18	Wakaondoka Haserothi na kupiga kambi huko Rithma.
+33	19	Wakaondoka Rithma na kupiga kambi huko Rimon-Peresi.
+33	20	Wakaondoka Rimon-Peresi na kupiga kambi huko Libna.
+33	21	Wakaondoka Libna na kupiga kambi huko Risa.
+33	22	Wakaondoka Risa na kupiga kambi huko Kehelatha.
+33	23	Wakaondoka Kehelatha na kupiga kambi kwenye mlima Sheferi.
+33	24	Wakaondoka kwenye mlima Sheferi na kupiga kambi huko Harada.
+33	25	Wakaondoka Harada na kupiga kambi huko Makelothi.
+33	26	Wakaondoka Makelothi na kupiga kambi huko Tahathi.
+33	27	Wakaondoka Tahathi na kupiga kambi huko Tera.
+33	28	Wakaondoka Tera na kupiga kambi huko Mithka.
+33	29	Wakaondoka Mithka na kupiga kambi huko Hashmona.
+33	30	Wakaondoka Hashmona na kupiga kambi Moserothi.
+33	31	Wakaondoka Moserothi na kupiga kambi huko Bene-Yakani.
+33	32	Wakaondoka Bene-Yakani na kupiga kambi huko Hor-Hagidgadi.
+33	33	Wakaondoka Hor-Hagidgadi na kupiga kambi huko Yotbatha.
+33	34	Wakaondoka Yotbatha na kupiga kambi huko Abrona.
+33	35	Wakaondoka Abrona na kupiga kambi huko Esion-Geberi.
+33	36	Wakaondoka Esion-Geberi na kupiga kambi huko Kadeshi katika Jangwa la Sini.
+33	37	Wakaondoka Kadeshi na kupiga kambi kwenye Mlima Hori, mpakani mwa Edomu.
+33	38	Kwa amri ya Bwana, kuhani Aroni alipanda Mlima Hori, mahali alipofia katika siku ya kwanza ya mwezi wa tano, mwaka wa arobaini baada ya Waisraeli kutoka Misri.
+33	39	Aroni alikufa juu ya Mlima Hori akiwa na umri wa miaka 123.
+33	40	Mfalme Mkanaani wa Aradi, ambaye aliishi huko Negebu ya Kanaani, akasikia kwamba Waisraeli wanakuja.
+33	41	Wakaondoka kwenye mlima Hori na kupiga kambi huko Salmona.
+33	42	Wakaondoka Salmona, wakapiga kambi huko Punoni.
+33	43	Wakaondoka Punoni, wakapiga kambi huko Obothi.
+33	44	Wakaondoka Obothi, wakapiga kambi huko Iye-Abarimu, mipakani mwa Moabu.
+33	45	Wakaondoka Iye-Abarimu, wakapiga kambi huko Dibon-Gadi.
+33	46	Wakaondoka Dibon-Gadi na kupiga kambi huko Almon-Diblathaimu.
+33	47	Wakaondoka Almon-Diblathaimu na kupiga kambi katika milima ya Abarimu, karibu na Nebo.
+33	48	Wakaondoka kwenye milima ya Abarimu na kupiga kambi kwenye tambarare ya Moabu, kando ya Yordani ngʼambo ya Yeriko.
+33	49	Huko kwenye tambarare za Moabu walipiga kambi kandokando ya Mto Yordani, kuanzia Beth-Yeshimothi mpaka Abel-Shitimu.
+33	50	Katika tambarare za Moabu kando ya Yordani kuvukia Yeriko, Bwana akamwambia Mose,
+33	51	“Sema na Waisraeli uwaambie: ‘Mtakapovuka Mto Yordani kuingia Kanaani,
+33	52	wafukuzeni wakazi wote wa nchi iliyo mbele yenu. Haribuni sanamu zao zote za kuchongwa, na sanamu zilizotengenezwa kwa kuyeyusha chuma, na kupabomoa mahali pao pa ibada.
+33	53	Mtaimiliki nchi hiyo na kukaa huko, kwa kuwa nimewapeni ninyi kuimiliki.
+33	54	Mtaigawanya nchi hiyo kwa kupiga kura, kufuatana na koo zenu. Kwa kundi kubwa zaidi toa urithi mkubwa zaidi, na kwa kundi dogo zaidi urithi mdogo zaidi. Chochote kinachowaangukia kwa kura kitakuwa chao. Mtaigawanya nchi kufuatana na makabila ya babu zenu.
+33	55	“ ‘Lakini kama hamkuwafukuza wenyeji wakaao katika nchi hiyo, wale mtakaowaruhusu wabaki watakuwa kama sindano kwenye macho yenu na miiba kwenu kila upande. Watawasumbua katika nchi mtakayoishi.
+33	56	Kisha nitawatenda ninyi kile ambacho nimepanga kuwatenda wao.’ ”
+34	1	Bwana akamwambia Mose,
+34	2	“Waamuru Waisraeli na uwaambie: ‘Mtakapoingia nchi ya Kanaani, nchi ambayo itagawanywa kwenu kama urithi itakuwa na mipaka ifuatayo:
+34	3	“ ‘Upande wenu wa kusini utajumuisha sehemu ya Jangwa la Sini kufuata mpaka wa Edomu. Upande wa mashariki mpaka wenu wa kusini utaanzia mwisho wa Bahari ya Chumvi,
+34	4	katiza kusini mwa Pito la Akrabimu, endelea mpaka Sini na kwenda kusini ya Kadesh-Barnea. Kisha mpaka huo utaenda hadi Hasar-Adari hadi Azmoni,
+34	5	mahali ambapo utapinda, na kuunganika na Kijito cha Misri na kumalizikia kwenye Bahari ya Kati.
+34	6	“ ‘Mpaka wenu wa magharibi utakuwa Bahari ya Kati. Huu utakuwa mpaka wenu upande wa magharibi.
+34	7	“ ‘Kwa mpaka wenu wa kaskazini, wekeni alama kuanzia Bahari ya Kati hadi mlima Hori,
+34	8	na kutoka mlima Hori hadi Pito la Hamathi. Kisha mpaka utaenda hadi Sedadi,
+34	9	kuendelea hadi Zifroni, na kuishia Hasar-Enani. Huu utakuwa mpaka wenu upande wa kaskazini.
+34	10	“ ‘Kwa mpaka wenu wa mashariki, wekeni alama kuanzia Hasar-Enani hadi Shefamu.
+34	11	Mpaka utaelekea kusini kuanzia Shefamu hadi Ribla upande wa mashariki wa Aini, na kuendelea kwenye miteremko mashariki mwa Bahari ya Kinerethi.
+34	12	Kisha mpaka utashuka kuelekea Mto Yordani na kuishia katika Bahari ya Chumvi. “ ‘Hii itakuwa nchi yenu, ikiwa na mipaka yake kila upande.’ ”
+34	13	Mose akawaamuru Waisraeli: “Gawanyeni nchi hii kwa kura kama urithi. Bwana ameagiza kwamba itolewe kwa yale makabila tisa na nusu,
+34	14	kwa sababu jamaa ya kabila la Reubeni, kabila la Gadi, na nusu ya kabila la Manase wamekwishapokea urithi wao.
+34	15	Haya makabila mawili na nusu wamekwishapokea urithi wao upande wa mashariki wa Yordani ngʼambo ya Yeriko, kuelekea mawio ya jua.”
+34	16	Bwana akamwambia Mose,
+34	17	“Haya ndiyo majina ya watu ambao watakusaidia kugawanya nchi kama urithi: Eleazari kuhani na Yoshua mwana wa Nuni.
+34	18	Tena uteue kiongozi mmoja kutoka kila kabila kusaidia kuigawanya nchi.
+34	19	Haya ndiyo majina yao: “Kalebu mwana wa Yefune, kutoka kabila la Yuda;
+34	20	Shemueli mwana wa Amihudi, kutoka kabila la Simeoni;
+34	21	Elidadi mwana wa Kisloni, kutoka kabila la Benyamini;
+34	22	Buki mwana wa Yogli, kiongozi kutoka kabila la Dani;
+34	23	Hanieli mwana wa Efodi, kiongozi kutoka kabila la Manase mwana wa Yosefu;
+34	24	Kemueli mwana wa Shiftani, kiongozi kutoka kabila la Efraimu mwana wa Yosefu;
+34	25	Elisafani mwana wa Parnaki, kiongozi kutoka kabila la Zabuloni;
+34	26	Paltieli mwana wa Azani, kiongozi kutoka kabila la Isakari;
+34	27	Ahihudi mwana wa Shelomi, kiongozi kutoka kabila la Asheri;
+34	28	Pedaheli mwana wa Amihudi, kiongozi kutoka kabila la Naftali.”
+34	29	Hawa ndio watu ambao Bwana aliamuru wagawanye urithi kwa Waisraeli katika nchi ya Kanaani.
+35	1	Bwana akamwambia Mose katika nchi tambarare ya Moabu, kando ya Mto Yordani kuvukia Yeriko,
+35	2	“Waagize Waisraeli kuwapa Walawi miji ya kuishi kutoka urithi ambao Waisraeli wataumiliki. Wape maeneo ya malisho kuzunguka hiyo miji.
+35	3	Kisha watakuwa na miji ya kuishi na maeneo ya malisho kwa ajili ya ngʼombe zao, mbuzi, kondoo na mifugo yao mingine yote.
+35	4	“Maeneo ya malisho kuzunguka miji hiyo ambayo mtawapa Walawi yataenea mita 450 kutoka kwenye ukuta wa miji.
+35	5	Nje ya mji, pima mita 900 upande wa mashariki, upande wa kusini mita 900, upande wa magharibi mita 900, na upande wa kaskazini mita 900, na mji utakuwa katikati. Eneo hili litakuwa lao kwa ajili ya malisho.
+35	6	“Miji sita mtakayowapa Walawi itakuwa ya makimbilio, ambayo mtu anayemuua mwenzake aweza kukimbilia humo. Zaidi ya hiyo, wapeni miji mingine arobaini na miwili.
+35	7	Kwa jumla inawapasa kuwapa Walawi miji arobaini na minane, pamoja na maeneo ya malisho yao.
+35	8	Miji ambayo mtawapa Walawi kutoka nchi ambayo Waisraeli wanamiliki itatolewa kwa uwiano wa urithi wa kila kabila. Chukua miji mingi kutoka lile kabila lenye miji mingi, lakini uchukue miji michache kutoka kwa kabila lile lenye miji michache.”
+35	9	Kisha Bwana akamwambia Mose:
+35	10	“Sema na Waisraeli, uwaambie: ‘Mtakapovuka Yordani kuingia Kanaani,
+35	11	chagueni baadhi ya miji iwe miji yenu ya makimbilio, ambayo mtu ambaye ameua mwenzake bila kukusudia aweza kukimbilia humo.
+35	12	Itakuwa mahali pa kukimbilia kutoka mlipiza kisasi, ili kwamba mtu aliyeshtakiwa kwa mauaji asife kabla ya kujitetea mbele ya mkutano.
+35	13	Miji hii sita mtakayoitoa itakuwa miji yenu ya makimbilio.
+35	14	Mtatoa miji mitatu ngʼambo hii ya Yordani na miji mingine mitatu upande wa Kanaani kama miji ya makimbilio.
+35	15	Miji hii sita itakuwa mahali pa makimbilio kwa ajili ya Waisraeli, wageni na watu wengine wanaoishi katikati yenu, ili kwamba mtu yeyote ambaye ameua mtu mwingine pasipo kukusudia aweze kukimbilia humo.
+35	16	“ ‘Kama mtu akimpiga mwenzake kwa chuma naye mtu huyo akafa, mtu huyo ni muuaji; muuaji sharti atauawa.
+35	17	Au kama mtu analo jiwe mkononi mwake ambalo laweza kuua, naye akampiga mwenzake akafa, yeye ni muuaji; muuaji huyo sharti atauawa.
+35	18	Au kama mtu ana chombo cha mti mkononi mwake ambacho chaweza kuua, naye akampiga mwenzake akafa, yeye ni muuaji; muuaji huyo sharti atauawa.
+35	19	Mlipiza kisasi cha damu atamuua muuaji; wakati akikutana naye, atamuua.
+35	20	Ikiwa mtu ana chuki ya siku nyingi na mwenzake akamsukuma au akamtupia kitu kwa kukusudia naye akafa,
+35	21	au ikiwa katika uadui akampiga ngumi naye akafa, mtu yule sharti atauawa; yeye ni muuaji. Mlipiza kisasi cha damu atamuua muuaji atakapokutana naye.
+35	22	“ ‘Lakini kama mtu akimsukuma mwenziwe ghafula pasipo chuki, au kumtupia kitu pasipo kukusudia,
+35	23	au, pasipo kumwona, akimwangushia jiwe ambalo laweza kumuua naye akafa, basi kwa kuwa hakuwa adui yake naye hakukusudia kumuumiza,
+35	24	kusanyiko lazima liamue kati yake na mlipiza kisasi wa damu kufuatana na sheria hizi.
+35	25	Kusanyiko ni lazima limlinde yule anayeshtakiwa kuua kutoka kwa mlipiza kisasi wa damu, na kumrudisha katika mji wa makimbilio alikokuwa amekimbilia. Lazima akae humo mpaka atakapokufa kuhani mkuu ambaye alikuwa amepakwa mafuta matakatifu.
+35	26	“ ‘Lakini kama mshtakiwa atatoka nje ya mipaka ya mji wa makimbilio ambao amekimbilia,
+35	27	na mlipiza kisasi wa damu akamkuta nje ya mji, mlipiza kisasi wa damu anaweza kumuua mshtakiwa huyo bila kuwa na hatia ya kuua.
+35	28	Mshtakiwa lazima akae katika mji wake wa makimbilio mpaka atakapokufa kuhani mkuu; atarudi tu kwenye mali yake baada ya kifo cha kuhani mkuu.
+35	29	“ ‘Hizi ndizo kanuni za sheria zitakazohitajiwa kwenu na katika vizazi vyenu vijavyo, popote mtakapoishi.
+35	30	“ ‘Yeyote anayeua mtu atauawa kama muuaji ikiwa tu kuna ushuhuda wa mashahidi. Lakini hakuna mtu atakayeuawa kwa ushuhuda wa shahidi mmoja tu.
+35	31	“ ‘Usikubali fidia yoyote ya kuokoa uhai wa muuaji ambaye anastahili kufa. Mtu huyo hakika lazima auawe.
+35	32	“ ‘Usikubali fidia ya mtu yeyote ambaye amekimbilia katika mji wa makimbilio na kumruhusu kurudi kuishi katika nchi yake kabla ya kifo cha kuhani mkuu.
+35	33	“ ‘Msiinajisi nchi mnayoishi. Umwagaji damu hunajisi nchi, na upatanisho hauwezekani kufanyika katika nchi ambayo damu imemwagwa, isipokuwa tu kwa damu ya yule aliyeimwaga damu.
+35	34	Msiinajisi nchi mnayoishi, ambayo nami ninakaa, kwa kuwa Mimi, Bwana, ninakaa katikati ya Waisraeli.’ ”
+36	1	Viongozi wa jamaa ya ukoo wa Gileadi mwana wa Makiri, mwana wa Manase, waliokuwa wametoka katika koo za wazao wa Yosefu, walikuja na kuzungumza mbele ya Mose na viongozi, wakuu wa jamaa ya Waisraeli.
+36	2	Wakasema, “Bwana alipomwamuru bwana wangu kuwapa Waisraeli nchi kama urithi kwa kura, alikuamuru kutoa urithi wa ndugu yetu Selofehadi kwa binti zake.
+36	3	Sasa ikiwa wataolewa na watu wa makabila mengine ya Kiisraeli, itakuwa kwamba urithi wao utaondolewa kutoka urithi wa mababu zetu na kuongezwa katika urithi wa kabila ambalo dada hao wameolewa. Kwa hiyo sehemu ya urithi tuliyogawiwa itachukuliwa kutoka kwetu.
+36	4	Wakati mwaka wa Yubile kwa Waisraeli utafika, urithi wao utaongezwa kwa lile kabila ambalo wameolewa, na mali yao itaondolewa kutoka urithi wa kabila la mababu zetu.”
+36	5	Ndipo kwa agizo la Bwana Mose akatoa amri ifuatayo kwa Waisraeli: “Kile wazao wa kabila la Yosefu wanachosema ni kweli.
+36	6	Hivi ndivyo Bwana anavyoamuru kwa binti za Selofehadi: Wanaweza kuolewa na mtu yeyote wampendaye, mradi tu waolewe miongoni mwa koo za kabila za baba yao.
+36	7	Hakuna urithi katika Israeli utakaohamishwa kutoka kabila moja kwenda kabila jingine, kwa kuwa kila Mwisraeli atatunza ardhi ya kabila lake aliyoirithi kutoka kwa baba zake.
+36	8	Kila binti atakayerithi ardhi katika kabila lolote la Israeli ni lazima aolewe na mtu kutoka kabila na ukoo wa baba yake, ili kila Mwisraeli amiliki urithi wa baba zake.
+36	9	Hakuna urithi uwezao kuhamishwa kutoka kabila moja kwenda kabila jingine, kwa kuwa kila kabila la Israeli litatunza nchi linayorithi.”
+36	10	Kwa hiyo binti za Selofehadi wakafanya kama Bwana alivyomwamuru Mose.
+36	11	Binti za Selofehadi, ambao ni Mahla, Tirsa, Hogla, Milka na Noa, wakaolewa na waume, wana wa ndugu za baba yao.
+36	12	Waliolewa ndani ya koo za wazao wa Manase mwana wa Yosefu, na urithi wao ukabaki katika ukoo na kabila la baba yao.
+36	13	Haya ndiyo maagizo na masharti ambayo Bwana aliwapa Waisraeli kupitia Mose katika tambarare za Moabu, karibu na Yordani ngʼambo ya Yeriko.

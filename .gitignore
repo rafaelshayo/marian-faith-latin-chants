@@ -12,6 +12,7 @@ plugins
 res
 icon.png
 douay-rheims/src
+swahili/src
 MR1962
 key.properties
 .npmignore
