@@ -300,6 +300,74 @@ $(function(){
     offertorium: 'of',
     communio: 'co'
   };
+  // The Swahili Bible uses Hebrew (Masoretic) psalm numbering; the propers reference psalms by
+  // Vulgate (Septuagint) number.  Convert so a Swahili psalm lookup lands on the right psalm.
+  function vulgateToHebrewPsalm(ch) {
+    ch = +ch;
+    if(ch >= 10 && ch <= 112) return ch + 1;
+    if(ch >= 116 && ch <= 145) return ch + 1;
+    if(ch == 113) return 114;
+    if(ch == 114 || ch == 115) return 116; // verse ranges of these two overlap Hebrew 116
+    if(ch == 146 || ch == 147) return 147;
+    return ch; // 1-9 and 148-150 share the same number
+  }
+  // Widen each cited verse/range by one on each side (Vulgate and Hebrew psalm verse boundaries can
+  // drift by a verse where titles are counted differently), then merge overlaps, so the right text
+  // is included without pulling in the whole psalm when verses are far apart.
+  function widenPsalmVerses(spec) {
+    var ranges = spec.split(',').map(function(part) {
+      var m = part.match(/(\d+)(?:\s*-\s*(\d+))?/);
+      if(!m) return null;
+      var a = +m[1], b = m[2] ? +m[2] : a;
+      return [Math.max(1, a - 1), b + 1];
+    }).filter(Boolean).sort(function(x, y) { return x[0] - y[0]; });
+    var merged = [];
+    ranges.forEach(function(r) {
+      var last = merged[merged.length - 1];
+      if(last && r[0] <= last[1] + 1) last[1] = Math.max(last[1], r[1]);
+      else merged.push(r);
+    });
+    return merged.map(function(r) { return r[0] === r[1] ? '' + r[0] : r[0] + '-' + r[1]; }).join(', ');
+  }
+  function refForSwahili(ref) {
+    if(!/^\s*Ps\b/i.test(ref)) return ref; // only psalm numbers differ between the two systems
+    var simple = /^\s*Ps\w*\.?\s+(\d+)\s*:\s*([\d,\s-]+)$/.exec(ref);
+    if(simple) return 'Ps ' + vulgateToHebrewPsalm(simple[1]) + ': ' + widenPsalmVerses(simple[2]);
+    // Anything more complex (whole psalm, multiple psalms): just convert the number(s).
+    return ref.replace(/(\bPs\w*\.?\s+|;\s*)(\d+)/gi, function(m, pre, ch) {
+      return pre + vulgateToHebrewPsalm(ch);
+    });
+  }
+  // Show the Swahili of each sung chant's scripture reference beneath the chant.
+  function updateChantTranslations() {
+    var show = localStorage.showSwahiliChants !== 'false';
+    Object.keys(partKey).forEach(function(part) {
+      var $part = $('div[part="' + part + '"]');
+      if(!$part.length) return;
+      var $gloss = $part.children('.chant-swahili');
+      // The chant's scripture reference isn't in the runtime data, but its ID is; chant-refs.js
+      // maps the ID to a reference.  Fall back to the ad-libitum psalm verses if there's no match.
+      var id = selPropers && (selPropers[partKey[part] + 'ID'] || selPropers[part + 'ID']);
+      if(Array.isArray(id)) id = id[0];
+      var ref = (typeof chantRefs !== 'undefined' && id && chantRefs[id]) ||
+                (selPropers && (selPropers[partKey[part] + 'Verses'] || selPropers[part + 'Verses']));
+      if(!show || !ref) { $gloss.hide(); return; }
+      if(!$gloss.length) {
+        $gloss = $('<div class="chant-swahili"><span class="chant-swahili-label">Kiswahili</span> <span class="chant-swahili-ref"></span><div class="chant-swahili-text"></div></div>');
+        $part.append($gloss);
+      }
+      $gloss.find('.chant-swahili-ref').text(ref);
+      var $text = $gloss.find('.chant-swahili-text').empty();
+      // Stay hidden until real text arrives.  getReading never rejects on a missing book (the fetch
+      // just never resolves), so hiding up front is what keeps a deuterocanonical or unmapped
+      // reference from leaving an empty box behind.
+      $gloss.hide();
+      getReading({ ref: refForSwahili(ref), edition: 'swahili', language: 'sw' }, true).then(function(txt) {
+        txt = (txt || '').replace(/(^|\n)\s*Verse\s+\d+:\s*\d+\s+was not found\.?/g, '').trim();
+        if(txt) { $text.text(txt); $gloss.show(); }
+      });
+    });
+  }
   var defaultTermination={
     '1':'f',
     '3':'a',
@@ -852,6 +920,7 @@ $(function(){
         $lectiones.hide();
       }
       updateAllParts();
+      updateChantTranslations();
     }
   }
   function updateReadings(readings, $lectiones) {
@@ -3941,6 +4010,9 @@ console.info(JSON.stringify(selPropers));
     $lectio.find('.lectio-text > *').hide();
     if(selector) $lectio.find(selector).show();
     $lectio.toggleClass('hidden-print',!val);
+  }).on('change', '#cbSwahiliChants', function(e){
+    localStorage.showSwahiliChants = this.checked;
+    updateChantTranslations();
   }).on('click', '[data-toggle="dropdown"]', function(e) {
     $(this).parent('.btn-group').toggleClass('open');
     e.stopPropagation();
@@ -3997,5 +4069,6 @@ console.info(JSON.stringify(selPropers));
   });
   selTempus = getSeasonForMoment(new moment());
   updateTempus();
+  $('#cbSwahiliChants').prop('checked', localStorage.showSwahiliChants !== 'false');
   hashChanged(true);
 });

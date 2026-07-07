@@ -19,6 +19,13 @@ Notes:
 - This translation uses the Protestant canon: the deuterocanonical books
   (Sapientia, Ecclesiasticus, Tobiæ, Judith, Baruch, Machabæorum 1-2)
   are not included, so readings from those books will not display in
-  Swahili.
+  Swahili. In the Propers tool, about 57 of 876 sung chants reference
+  these books and so show no Swahili translation.
 - Psalmi.txt uses the Hebrew (Masoretic) psalm numbering, not the
-  Vulgate numbering used elsewhere on this site.
+  Vulgate numbering used elsewhere on this site. The Propers tool
+  converts Vulgate psalm references to Hebrew for the Swahili lookup
+  (propers.js: vulgateToHebrewPsalm) and fetches a slightly widened
+  verse range, because Vulgate and Hebrew psalms can also differ in
+  where individual verses fall; the Swahili shown under a chant is
+  therefore the meaning of the referenced passage, not a word-for-word
+  alignment with the sung Latin.

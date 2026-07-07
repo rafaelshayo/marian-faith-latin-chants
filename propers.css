@@ -1,6 +1,36 @@
 html {
   overflow-x: hidden;
 }
+.chant-swahili {
+  margin: 2px 0 10px;
+  padding: 5px 10px;
+  border-left: 3px solid #c9b8d6;
+  background: #faf7fc;
+  max-width: 40em;
+}
+.chant-swahili-label {
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #7a5a99;
+}
+.chant-swahili-ref {
+  font-size: 11px;
+  color: #999;
+}
+.chant-swahili-text {
+  font-style: italic;
+  color: #333;
+  white-space: pre-line;
+}
+@media print {
+  .chant-swahili {
+    background: none;
+    border-left: 2px solid #ccc;
+    page-break-inside: avoid;
+  }
+}
 svg.bg-blur {
   height: 0;
   width: 0;
