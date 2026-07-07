@@ -351,6 +351,7 @@ $(function(){
       if(Array.isArray(id)) id = id[0];
       var ref = (typeof chantRefs !== 'undefined' && id && chantRefs[id]) ||
                 (selPropers && (selPropers[partKey[part] + 'Verses'] || selPropers[part + 'Verses']));
+      if(Array.isArray(ref)) ref = ref.filter(function(r) { return r; })[0]; // alternate-verse lists
       if(!show || !ref) { $gloss.hide(); return; }
       if(!$gloss.length) {
         $gloss = $('<div class="chant-swahili"><span class="chant-swahili-label">Kiswahili</span> <span class="chant-swahili-ref"></span><div class="chant-swahili-text"></div></div>');
@@ -358,6 +359,13 @@ $(function(){
       }
       $gloss.find('.chant-swahili-ref').text(ref);
       var $text = $gloss.find('.chant-swahili-text').empty();
+      // Deuterocanonical chants have no verse in the open Swahili Bible; use the reviewed
+      // translation of the sung text from swahili-chants.js when one exists.
+      if(typeof swahiliChants !== 'undefined' && id && swahiliChants[id]) {
+        $text.text(swahiliChants[id]);
+        $gloss.show();
+        return;
+      }
       // Stay hidden until real text arrives.  getReading never rejects on a missing book (the fetch
       // just never resolves), so hiding up front is what keeps a deuterocanonical or unmapped
       // reference from leaving an empty box behind.

@@ -18,6 +18,8 @@ var count = 0;
     var d = days[k];
     parts.forEach(function(p) {
       var id = d[p + "ID"], ref = d[p + "Ref"];
+      // Some chants list alternate verses as an array; keep the first non-empty reference.
+      if(Array.isArray(ref)) ref = ref.filter(function(r) { return r; })[0];
       if(id && ref) {
         var ids = Array.isArray(id) ? id : [id];
         ids.forEach(function(one) { if(!idx[one]) { idx[one] = ref; count++; } });
