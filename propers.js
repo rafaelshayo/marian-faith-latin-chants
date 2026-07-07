@@ -376,6 +376,43 @@ $(function(){
       });
     });
   }
+  // Fold accents and Latin ligatures so a plain QWERTY keyboard matches names like
+  // "Præsentatio" or "St Cæcilia" -- "praesentatio" / "caecilia" both find them.
+  function normalizeFeast(s) {
+    return (s || '').toLowerCase().replace(/æ/g, 'ae').replace(/œ/g, 'oe')
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  }
+  // Type-ahead search over the day dropdowns so the user need not scroll the long lists.
+  function setupFeastSearch() {
+    var $search = $('#feastSearch');
+    if(!$search.length || typeof $search.autocomplete !== 'function') return;
+    $search.autocomplete({
+      minLength: 1,
+      delay: 0,
+      source: function(request, response) {
+        var terms = normalizeFeast(request.term).split(/\s+/).filter(Boolean);
+        var results = [];
+        // read the currently-shown day selects, so the results follow the chosen calendar
+        $('#selSunday, #selSaint, #selMass, #selSundayNovus').filter(':visible').each(function() {
+          var selId = this.id;
+          $(this).find('option').each(function() {
+            if(this.disabled || !this.value) return;
+            var label = $(this).text().replace(/^\s+/, '');
+            var norm = normalizeFeast(label);
+            if(terms.every(function(t) { return norm.indexOf(t) >= 0; })) {
+              results.push({ label: label, sel: selId, key: this.value });
+            }
+          });
+        });
+        response(results.slice(0, 80));
+      },
+      select: function(event, ui) {
+        $('#' + ui.item.sel).val(ui.item.key).change();
+        $(this).val('').blur();
+        return false;
+      }
+    });
+  }
   var defaultTermination={
     '1':'f',
     '3':'a',
@@ -2990,6 +3027,7 @@ $(function(){
   populate(otherKeys,$selMass);
   populate(tempusKeys,$selTempus);
   populate(yearArray,$selYearNovus);
+  setupFeastSearch();
   populate(psalmCanticleArray,$(".sel-psalms"));
 
   var ordinaryKeys = massOrdinary.map(function(e,i){
