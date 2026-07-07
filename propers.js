@@ -413,6 +413,49 @@ $(function(){
       }
     });
   }
+  // Turn a long <select> into a type-to-filter combobox (accent-insensitive), keeping the native
+  // select as the value store so all existing change handlers and resets keep working.
+  function makeSelectSearchable(select) {
+    var $select = $(select);
+    if($select.data('searchable') || typeof $select.autocomplete !== 'function') return;
+    $select.data('searchable', true);
+    var w = Math.min(320, Math.max(200, $select.outerWidth() || 0));
+    var $input = $('<input type="text" class="form-control input-sm" autocomplete="off">')
+      .attr('placeholder', $select.find('option').first().text())
+      .css({ display: 'inline-block', width: w + 'px', maxWidth: '100%', verticalAlign: 'middle' });
+    $select.hide().after($input);
+    function sync() {
+      var opt = select.options[select.selectedIndex];
+      $input.val(opt && opt.value ? opt.text : '');
+    }
+    sync();
+    $select.on('change', sync);
+    $input.autocomplete({
+      minLength: 0,
+      delay: 0,
+      source: function(request, response) {
+        var terms = normalizeFeast(request.term).split(/\s+/).filter(Boolean);
+        var results = [];
+        $select.find('option').each(function() {
+          if(!this.value) return;
+          var norm = normalizeFeast(this.text);
+          if(terms.every(function(t) { return norm.indexOf(t) >= 0; })) results.push({ label: this.text, value: this.value });
+        });
+        response(results.slice(0, 120));
+      },
+      focus: function() { return false; },
+      select: function(event, ui) {
+        $select.val(ui.item.value).change();
+        $input.val(ui.item.label);
+        return false;
+      }
+    }).on('focus', function() {
+      this.select();
+      $(this).autocomplete('search', '');
+    }).on('blur', function() {
+      setTimeout(sync, 200); // revert text typed but never chosen
+    });
+  }
   var defaultTermination={
     '1':'f',
     '3':'a',
@@ -3082,6 +3125,7 @@ $(function(){
     $custom.find('[id^=custom],[id*=Custom]').attr('id',appendI);
     $custom.find('[for*=Custom]').attr('for',appendI);
   });
+  $('[id^=selCustom]').each(function(){ makeSelectSearchable(this); });
   //Determine which year...Check when Advent begins this year, and if it is before today, use last year as the year number
   //When the year number is found, Take year = yearArray[year%3];
   var date = new Date(),
