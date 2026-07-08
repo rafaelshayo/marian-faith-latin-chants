@@ -3111,7 +3111,7 @@ $(function(){
   ordinaryKeys.unshift({
     key: '',
     title: 'Ordinaria Missæ in cantu gregoriano',
-    en: 'Chant Mass Ordinaries...'
+    en: 'Sehemu za Kudumu za Misa / Chant Mass Ordinaries...'
   })
   populate(ordinaryKeys,$selOrdinary);
   var mapNameToTitle = function(e) {
