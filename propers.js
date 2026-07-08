@@ -3398,6 +3398,10 @@ $(function(){
     $('#pdff_height').val(size.height || '11');
     $('#pdff_fontsize').val(size.fontSize);
     $("#pdfFormDirect").submit();
+    // the PDF is rendered on an external server (can take a few seconds); show it's working
+    var $btn = $(this), orig = $btn.html();
+    $btn.html("<span class='glyphicon glyphicon-hourglass'></span> Inaandaa PDF…");
+    setTimeout(function(){ $btn.html(orig); }, 4000);
   });
   $('[id$=-preview]').on('relayout',function(){
       var part = this.id.match(/^([a-z]+)-preview$/)[1];
