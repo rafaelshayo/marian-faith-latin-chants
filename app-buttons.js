@@ -60,7 +60,7 @@
           navigator.share(data).catch(function() {});
         } else if(navigator.clipboard && navigator.clipboard.writeText) {
           navigator.clipboard.writeText(url).then(
-            function() { flash(shareBtn, "<span class='glyphicon glyphicon-ok'></span> Kiungo kimenakiliwa / Link copied"); },
+            function() { flash(shareBtn, "<span class='glyphicon glyphicon-ok'></span> Link copied"); },
             function() { window.prompt("Copy this link:", url); }
           );
         } else {
