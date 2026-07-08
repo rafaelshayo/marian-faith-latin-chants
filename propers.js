@@ -36,14 +36,26 @@ pageBreaks=(localStorage.pageBreaks || "").split(','),
 $(function(){
   $("#shareUrl").click(function (e) {
       e.preventDefault();
-      var onSuccess = function(result) {
-        console.log("Share completed? " + result.completed); // On Android apps mostly return false even while it's true
-        console.log("Shared to app: " + result.app); // On Android result.app is currently empty. On iOS it's empty when sharing is cancelled (result.completed=false)
+      // Share a link to THIS site, with the current selections encoded in the hash.
+      var url = location.origin + location.pathname + location.hash;
+      var $btn = $(this);
+      var flash = function(html) {
+        var orig = $btn.html();
+        $btn.html(html);
+        setTimeout(function(){ $btn.html(orig); }, 1800);
+      };
+      if(navigator.share) {
+        // mobile / supported browsers: native share sheet
+        navigator.share({ url: url, title: document.title }).catch(function(){});
+      } else if(navigator.clipboard && navigator.clipboard.writeText) {
+        // desktop fallback: copy the link and confirm
+        navigator.clipboard.writeText(url).then(
+          function(){ flash("<span class='glyphicon glyphicon-ok'></span> Link copied"); },
+          function(){ window.prompt("Copy this link:", url); }
+        );
+      } else {
+        window.prompt("Copy this link:", url);
       }
-      var onError = function(msg) {
-        console.log("Sharing failed with message: " + msg);
-      }
-      navigator.share({ url: 'http://bbloomf.github.io/jgabc/propers.html' + location.hash }).then(onSuccess).catch(onError);
   });
 
   var reFullBarsWithNoPunctuation = /([^;:,.!?\s])\s*\*/g;
