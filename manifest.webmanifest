@@ -1,0 +1,19 @@
+{
+  "name": "Marian Faith Chant Tools",
+  "short_name": "Kwaya Cecilia",
+  "description": "Ratiba za Misa na nyimbo za Kigregori pamoja na tafsiri za Kiswahili, kwa Kwaya ya Mtakatifu Cecilia. Mass propers and Gregorian chant tools with Swahili translations.",
+  "start_url": "propers.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#337ab7",
+  "lang": "sw",
+  "dir": "ltr",
+  "categories": ["education", "music", "lifestyle"],
+  "icons": [
+    { "src": "icon/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
