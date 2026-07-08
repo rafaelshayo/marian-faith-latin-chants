@@ -3083,6 +3083,23 @@ $(function(){
   populate(tempusKeys,$selTempus);
   populate(yearArray,$selYearNovus);
   setupFeastSearch();
+  // Hide advanced controls (Mass Ordinary, style, PDF detail options) behind a toggle so the choir
+  // sees only the everyday controls; remember the choice per device.
+  (function(){
+    var cog = "<span class='glyphicon glyphicon-cog'></span> ";
+    var on = localStorage.showAdvancedProper === 'true';
+    var apply = function(){
+      $('.advanced-option').toggle(on);
+      $('#toggleAdvanced').html(cog + (on ? "Ficha / Fewer options" : "Zaidi / More options"));
+    };
+    apply();
+    $('#toggleAdvanced').click(function(e){
+      e.preventDefault();
+      on = !on;
+      localStorage.showAdvancedProper = on;
+      apply();
+    });
+  })();
   populate(psalmCanticleArray,$(".sel-psalms"));
 
   var ordinaryKeys = massOrdinary.map(function(e,i){
